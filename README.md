@@ -1,3 +1,3 @@
-# next-book website
+# deti.ochrance website
 
-https://www.next-book.info
+https://deti.ochrance.cz

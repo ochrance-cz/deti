@@ -243,8 +243,8 @@ save("./static/admin/config.yml", {
   locale: "cs",
   media_folder: "content/media",
   public_folder: "/media",
-  site_domain: "https://www.next-book.info/",
-  display_url: "https://www.next-book.info/",
+  site_domain: "https://deti.ochrance.cz/",
+  display_url: "https://deti.ochrance.cz/",
   slug: {
     encoding: "ascii",
     clean_accents: true,

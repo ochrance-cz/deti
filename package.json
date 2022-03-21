@@ -1,5 +1,5 @@
 {
-  "name": "next-book-info",
+  "name": "deti.ochrance",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/next-book/website.git"
+    "url": "git+https://github.com/ochrance/deti.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/next-book/website/issues"
+    "url": "https://github.com/ochrance/deti/issues"
   },
-  "homepage": "https://github.com/next-book/website#readme",
+  "homepage": "https://github.com/ochrance/deti#readme",
   "dependencies": {
     "js-yaml": "^4.1.0"
   }
