@@ -72,7 +72,7 @@ collections:
             widget: markdown
       - label: O ombudsmanovi
         name: kdo
-        file: content/kdo/_index.md
+        file: content/kdo/_index.markdown
         fields:
           - label: Titulek
             name: title
@@ -163,6 +163,7 @@ collections:
             name: body
             required: false
             widget: markdown
+        media_folder: ''
       - label: Profil zástupce
         name: zastupce
         file: content/kdo/zastupce/index.md
@@ -194,6 +195,7 @@ collections:
             name: body
             required: false
             widget: markdown
+        media_folder: ''
       - label: Jak kontaktovat
         name: kontakt
         file: content/kdo/jak/index.md
@@ -331,6 +333,7 @@ collections:
             name: linky
             required: false
             widget: markdown
+        media_folder: ''
       - label: Nevíš si rady?
         name: pomoc
         file: content/pomoc/_index.md

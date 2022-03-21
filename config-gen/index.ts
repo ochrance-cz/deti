@@ -86,7 +86,7 @@ const pages = files("Stránky", "pages", [
     ]),
     markdown("Úvodní text", "body"),
   ]),
-  fileCollection("O ombudsmanovi", "kdo", "content/kdo/_index.md", [
+  fileCollection("O ombudsmanovi", "kdo", "content/kdo/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
     markdown("Fakta", "facts"),
@@ -106,7 +106,10 @@ const pages = files("Stránky", "pages", [
       string("Název role", "role"),
       image("Portrét", "pic"),
       markdown("Text", "body"),
-    ]
+    ],
+    {
+      media_folder: "",
+    }
   ),
   fileCollection(
     "Profil zástupce",
@@ -117,7 +120,10 @@ const pages = files("Stránky", "pages", [
       string("Název role", "role"),
       image("Portrét", "pic"),
       markdown("Text", "body"),
-    ]
+    ],
+    {
+      media_folder: "",
+    }
   ),
   fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.md", [
     title("Titulek"),
@@ -140,7 +146,10 @@ const pages = files("Stránky", "pages", [
       list("Co nemůže", "položka", "we-cannot", [string("Nemůže", "text")]),
       markdown("Text", "body"),
       markdown("Linkdy důvěry", "linky"),
-    ]
+    ],
+    {
+      media_folder: "",
+    }
   ),
   fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.md", [
     title("Titulek"),
