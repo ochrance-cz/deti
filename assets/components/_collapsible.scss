@@ -1,0 +1,87 @@
+._collapsible {
+  clear: left;
+
+  .box {
+    border: solid $border-gray;
+    border-width: 1px 0;
+
+    .content {
+      display: none;
+      padding: 0 0 1rem;
+    }
+  }
+
+  & + ._collapsible .box {
+    border-width: 0 0 1px;
+  }
+
+  .title {
+    margin: 0;
+
+    label {
+      outline: none;
+      display: block;
+      padding: 1.5rem 0;
+      cursor: pointer;
+
+      text-decoration: none;
+      color: $primary;
+    }
+
+    .icon-wrapper {
+      float: left;
+      display: block;
+      text-align: center;
+      margin-top: -0.5rem;
+      width: 4rem;
+      height: 4rem;
+      margin-right: 1rem;
+      overflow: hidden;
+    }
+    .icon {
+      object-fit: contain;
+
+      object-position: center center;
+      width: 4rem;
+      height: 3rem;
+    }
+
+    &:hover label {
+      text-decoration: underline;
+    }
+
+    .chevron::before {
+      display: block;
+      content: " ";
+      pointer-events: none;
+      float: right;
+      width: 1rem;
+      height: 3rem;
+      background-image: url(/images/arrow-collapsible.svg); //@include fa-icon($fa-var-chevron-down);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: contain;
+
+      transform-origin: 50% 50%;
+      transform: rotate(180deg);
+      transition: transform 0.3s;
+
+      font-size: 1rem;
+      padding: 1.8rem 0 0 1rem;
+    }
+  }
+
+  input[type="checkbox"] {
+    display: none;
+
+    &:checked {
+      & ~ .box .title .chevron::before {
+        transform: rotate(0deg);
+      }
+
+      & ~ .box .content {
+        display: block;
+      }
+    }
+  }
+}

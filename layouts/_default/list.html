@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main>
+  <article>
+  	<h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      {{ $paginator := .Paginate .Pages 20 }}
+
+      {{ range $paginator.Pages }}
+        {{ partial "news-preview.html" (dict "preview" . "h" "2") }}
+      {{ end }}
+
+      {{ partial "pagination.html" $paginator }}
+
+      {{ with .Params.perex }}
+        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+      {{ end }}
+
+      {{ with .Params.date }}
+        <p class="details">
+          {{ partial "date.html" (dict "date" . "months" $.Site.Data.mesice) }}
+        </p>
+      {{ end }}
+
+      {{ .Content }}
+    </div>
+  </article>
+
+
+</main>
+{{ end }}

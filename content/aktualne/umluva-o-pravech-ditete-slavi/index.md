@@ -1,0 +1,12 @@
+---
+title: Úmluva o právech dítěte slaví
+date: '2018-11-23'
+perex: >-
+  Tento týden si připomínáme výročí přijetí Úmluvy o právech dítěte. Proč je to
+  důležité a co se v ní píše?
+
+---
+
+
+<p>Úmluva o právech dítěte je mezinárodní dohodou, k jejímu dodržování se zavázalo 196 států na světě. Platí tak pro děti nejen v České republice, ale pro všechny Evropany, Asiaty, Australany a většinu Afričanů a Američanů (vyjma dětí ze Somálska a USA). </p><p>Všechny státy, které se k Úmluvě připojily, slíbily, že budou dohlížet na to, aby děti (tj. všichni do 18 let věku) například:</p><ul><li>mohly chodit do školy,</li></ul><ul><li>vyrůstaly se svými rodiči, případně se s nimi alespoň pravidelně vídaly, </li></ul><ul><li>měly jméno a státní příslušnost, </li></ul><ul><li>mohly si vyhledávat informace a svobodně se k nim vyjadřovat, neomezuje-li to práva druhých lidí,</li></ul><ul><li>měly v okolí někoho, kdo jim pomůže, pokud by je někdo bil, týral, vyhrožoval jim či je ponižoval,</li></ul><ul><li>měly k dispozici zdravotní péči na nejvyšší možné úrovni. <strong></strong><em></em><u></u><sub></sub><sup></sup><strike></strike></li></ul><p>Některá Úmluvou zaručená práva se nám v našem prostředí a v dnešní době mohou zdát samozřejmá. Ale ve světě je stále mnoho dětí, které doma (ani v širokém okolí) nemají přístup k internetu a nemohou tak všechno „vygooglit“. Mnoho dětí nemůže chodit do školy a zajistit si tak lepší budoucnost. Některé děti musí proti své vůli pracovat, nebo je rodiče prodají (třeba jako sluhu) či nutí k prostituci. Proto je potřeba si Úmluvu o právech dítěte připomínat a nutit státy, aby její dodržování kontrolovaly.&nbsp;</p><p>Celé znění Úmluvy i její zjednodušení v ilustraci nalezneš například <a title="Otevření do nového okna" href="http://www.pravonadetstvi.cz/deti/tvoje-prava/umluva-o-pravech-ditete-1/" target="_blank">zde</a>&nbsp;<img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</p><ul><li></li></ul>
+

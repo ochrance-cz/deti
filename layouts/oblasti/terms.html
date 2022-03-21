@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main>
+  <article>
+  	<h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      <ul class="_link-list">
+        {{ partial "pages-map.html" (dict "Page" . "pages" .Pages) }}
+
+        {{ range (.Page.Scratch.GetSortedMapValues "pages") }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </article>
+</main>
+{{ end }}

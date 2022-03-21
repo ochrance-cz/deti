@@ -1,0 +1,57 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      {{ with .Params.perex }}
+        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+      {{ end }}
+
+      {{ with .Params.date }}
+        <p class="details">
+          {{ partial "date.html" (dict "date" . "months" $.Site.Data.mesice) }}
+        </p>
+      {{ end }}
+
+      {{ $res := .Resources }}
+      {{ with .Params.pic }}
+        {{ $pic := $res.GetMatch . }}
+        {{ with $pic }}
+          <div class="portrait">
+            <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
+          </div>
+        {{ end }}
+      {{ end }}
+
+      {{ with (index .Params "we-can") }}
+        <p>Ochránce <strong>může</strong> pomoci např., když:</p>
+
+        <ul class="_we-can">
+          {{ range .  }}
+            <li>{{ .text }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+      {{ with (index .Params "we-cannot") }}
+        <p><strong>Nemůže</strong> například:</p>
+
+        <ul class="_we-cannot">
+          {{ range .  }}
+            <li>{{ .text }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+    	{{ .Content }}
+
+      {{ with .Params.linky }}
+        <div class="perex">
+          {{ partial "md-block.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </article>
+</main>
+{{ end }}

@@ -1,0 +1,21 @@
+baseURL = "https://www.next-book.info"
+defaultContentLanguage = "cs"
+title = "Ombudsman dětem a náctiletým"
+
+[outputs]
+home = ["HTML", "RSS", "htaccess"]
+
+[taxonomies]
+  oblast = 'oblasti'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputFormats.htaccess]
+baseName = ""
+isPlainText = true
+mediaType = "text/htaccess"
+
+[mediaTypes]
+[mediaTypes."text/htaccess"]
+suffixes = ["htaccess"]

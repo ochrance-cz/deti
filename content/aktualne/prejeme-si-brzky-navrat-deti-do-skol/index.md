@@ -1,0 +1,14 @@
+---
+title: Přejeme si brzký návrat dětí do škol
+date: '2021-03-05'
+perex: >-
+  Školy jsou kvůli epidemii stále zavřené a většina dětí se tak musí už několik
+  měsíců učit doma. Svoje spolužáky a učitele vídají jen přes obrazovky. Pro
+  děti je to náročné období. Zvlášť když některé z nich nemají doma dost místa
+  nebo vhodné technické vybavení.
+
+---
+
+
+<p class="MsoNormal">Ombudsmanovi už kvůli této situaci psala řada dětí i jejich rodičů. Stěžují si hlavně na to, že výuka z domu není tak dobrá, jako když chodí do školy. Dětem také chybí kontakt se spolužáky, se kterými se nemůžou vídat ani na kroužcích nebo jiných akcích mimo školu. Děti se kvůli tomu často necítí dobře, je jim smutno nebo se bojí, jestli se zvládnou z domu všechno naučit. Některým dětem nebo jejich rodičům také vadilo, když část dětí do školy chodit mohla a část ne.&nbsp;</p><h4 class="MsoNormal">Přáli bychom si, aby se všechny děti do škol mohly vrátit co nejdříve</h4><p class="MsoNormal"><strong>Ombudsman nemůže zařídit, aby se školy už otevřely.</strong> <strong>Nemůže ani rozhodnout, že se otevřou pro všechny děti. Záleží na odbornících a vládě (premiérovi a ministrech). Ti musí zhodnotit aktuální rizika pro všechny strany.</strong> <strong>Ombudsman tyto odborné věci hodnotit nemůže.</strong></p><p class="MsoNormal">Ombudsman si ale uvědomuje, že omezení školní docházky není pro děti dobré. Vyučování z domu nemůže přítomnost ve škole úplně nahradit. Děti potřebují být v kolektivu vrstevníků a mít možnost sportovních nebo volnočasových aktivit. Ještě horší dopad mohou mít zavřené školy na děti, které mají nějaké postižení. Doma totiž nemůžou využívat speciální podporu, na kterou mají při výuce ve škole nárok. Třeba pomoc asistenta pedagoga. </p><h4 class="MsoNormal">Napsali jsme premiérovi a ministrům<img src="uploads/RTEmagicC_IMG_20210306_104915__1__01.jpg.jpg" class="obrazek_vpravo" height="400" width="300" alt="" /></h4><p class="MsoNormal">Protože už omezení ve školách trvají velmi dlouho, rozhodl se ombudsman napsat premiérovi, ministrovi zdravotnictví a ministrovi školství. Ti mají totiž na starosti vytvoření podmínek, za jakých se děti během epidemie vzdělávají. Ombudsman jim popsal, s čím se na něj obrací děti a jejich rodiče. Vysvětlil jim, jaké potíže může výuka z domu dětem přinášet. A požádal je, aby tyto informace vzali do úvahy, až budou rozhodovat o dalších opatřeních a jejich rozvolňování.&nbsp;</p><h4 class="MsoNormal">Máš problém s distanční výukou?</h4><p class="MsoListParagraphCxSpMiddle">Nelíbí se ti, jak vás učitelé učí, například že vám dávají moc úkolů nebo že vám věci dobře nevysvětlí? Nejlepší je se obrátit na ředitele školy. Víc o tom, jak můžeš řešit problémy se školou, se dozvíš <a href="https://deti.ochrance.cz/mam-problem-se-skolou-muze-mi-pomoct-ombudsman/" target="_blank">zde</a>.</p><p class="MsoListParagraphCxSpMiddle"></p><p class="MsoListParagraphCxSpMiddle">&nbsp;&nbsp; </p>
+

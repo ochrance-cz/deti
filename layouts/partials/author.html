@@ -1,0 +1,3 @@
+{{- range where .Site.Pages "Title" .author -}}
+	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{- end -}}

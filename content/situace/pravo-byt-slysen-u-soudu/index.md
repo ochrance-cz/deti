@@ -1,0 +1,6 @@
+---
+title: Mám právo v souvislosti s rozvodem rodičů vypovídat před soudem?
+oblasti: "Rodina"
+---
+
+<p>Ochránci napsala čtrnáctiletá Anička se žádostí o radu, zda může vypovídat před soudem (např. při rozhodování o výchově, výživě apod.), které předchází rozvodovému řízení jejích rodičů. </p><p>Ochránce nemůže zasáhnout přímo vůči soudu, proto Aničce doporučil, aby se obrátila na sociálního pracovníka, protože právě ten u soudu vystupuje jako její zástupce (tzv. kolizní opatrovník). Jeho úkolem je chránit zájmy dětí u soudu a také podávat soudu konkrétní návrhy (např. na to, jak často by se měla stýkat s rodičem, se kterým nebydlí). Anička tedy dál řešila případ se svým sociálním pracovníkem. </p><p>Sociální pracovník Aničce řekl, že vyjádřit se u soudu je jejím právem, nikoliv povinností. Názor nezletilého dítěte se zjišťuje buď přímo u soudu, nebo někdy postačí právě situaci probrat se sociálním pracovníkem a ten potom sám informuje soud. Pohovor by se měl provádět bez přítomnosti dalších osob (tedy i rodičů). K takto zjištěným názorům soud přihlíží, ale neznamená to, že vždy rozhodne přesně podle Tvého přání.</p><p>Na závěr je dobré říci, že pokud bys nebyl/a spokojená s postupem sociálního pracovníka, je možné napsat ochránci a ten jeho postup prošetří. </p></div>

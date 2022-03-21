@@ -1,0 +1,23 @@
+{
+  "name": "next-book-info",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "deno run --no-check --allow-write ./config-gen/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-book/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/next-book/website/issues"
+  },
+  "homepage": "https://github.com/next-book/website#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

@@ -1,0 +1,346 @@
+@import "svg";
+
+// Open Sans
+$OpenSansPath: "/fonts/open-sans-fontface/fonts";
+
+@import "open-sans/variables";
+@import "open-sans/mixins";
+@import "open-sans/Regular";
+@import "open-sans/Italic";
+@import "open-sans/Bold";
+
+// FontAwesome
+@import "./../static/fonts/fontawesome-free-5.15.1-web/scss/variables";
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FontAwesome-Brands";
+  src: url("/fonts/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@mixin fa-icon($icon, $color: $primary) {
+  font-family: "FontAwesome";
+  content: fa-content($icon);
+  display: inline-block;
+  color: $color;
+  font-size: 120%;
+  position: relative;
+  top: 0.1em;
+}
+
+@mixin font-size($small, $large: false) {
+  font-size: $small;
+
+  @if $large {
+    @include medium {
+      font-size: $large;
+      font-size: clamp(#{$large * 0.7}, relFontSize($large), $large);
+    }
+  }
+}
+
+@function relFontSize($pxSize) {
+  @return $pxSize / 1200px * 100vw;
+}
+
+@mixin font-size-s {
+  @include font-size(12px, 14px);
+}
+
+@mixin font-size-m {
+  @include font-size(14px, 16px);
+}
+
+@mixin font-size-l {
+  @include font-size(18px, 20px);
+}
+
+@mixin font-size-xl {
+  @include font-size(22px, 26px);
+}
+
+@mixin font-size-xxl {
+  @include font-size(24px, 30px);
+}
+
+@mixin font-size-xxxl {
+  @include font-size(28px, 36px);
+}
+
+@mixin font-family-headline {
+  font-family: "Open Sans", sans-serif;
+}
+
+@mixin font-family-bread {
+  font-family: "Open Sans", sans-serif;
+}
+
+:root {
+  color: $black;
+  @include font-family-bread;
+  @include font-size-m;
+}
+
+h1,
+h2 {
+  @include font-family-headline;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-left: -0.05em;
+  @include font-size-xxxl;
+}
+
+h2 {
+  @include font-size-xxl;
+  margin: 3rem 0 1rem;
+
+  @include medium {
+    margin: 4rem 0 1rem;
+  }
+}
+
+h3 {
+  @include font-size-l;
+  letter-spacing: -0.02em;
+
+  &.large {
+    @include font-size-xl;
+  }
+}
+
+p {
+  line-height: 1.4;
+}
+
+.perex {
+  background: $gray;
+  margin: 0rem 0 2rem;
+  padding: 1rem 2rem;
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: $secondary;
+  text-decoration: underline;
+
+  &:hover {
+    color: $primary;
+  }
+}
+
+main a {
+  &[href$=".pdf"]::after,
+  &[href$=".doc"]::after,
+  &[href$=".docx"]::after,
+  &[href$=".odt"]::after {
+    content: "PDF";
+
+    color: $white;
+    font-weight: normal;
+    display: inline-block;
+    white-space: nowrap;
+    background: $primary-bright;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 0.8rem;
+    border-radius: 1rem;
+    margin: 0 0.25em;
+    vertical-align: top;
+    text-indent: 0;
+  }
+
+  &[href$=".doc"]::after {
+    content: "DOC";
+  }
+
+  &[href$=".docx"]::after {
+    content: "DOCX";
+  }
+
+  &[href$=".odt"]::after {
+    content: "ODT";
+  }
+}
+
+h3 a {
+  color: $secondary;
+
+  &:hover {
+    color: black;
+  }
+}
+
+ol,
+ul {
+  margin-bottom: 2rem;
+  padding-left: 1.3rem;
+
+  li {
+    margin-bottom: 1rem;
+
+    ul {
+      margin-top: 1rem;
+    }
+  }
+}
+
+hr {
+  border: solid $border-gray;
+  border-width: 1px 0 0;
+  margin: 4rem 0;
+}
+
+blockquote {
+  margin: 0 0 2.5rem;
+
+  background: $primary-bright;
+  border-radius: 4px;
+  padding: 1rem;
+
+  footer {
+    font-style: normal;
+    display: block;
+    height: 0;
+    margin-top: -1rem;
+    line-height: 2;
+
+    position: relative;
+    top: 1rem;
+    left: -1rem;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &.quotes {
+    p:first-child {
+      text-indent: -0.4rem;
+
+      &::before {
+        content: "„";
+      }
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+      &::after {
+        content: "“";
+      }
+    }
+  }
+}
+
+._typo--small {
+  @include font-size-s;
+}
+
+._big-link {
+  font-weight: bold;
+  color: $primary;
+  @include font-size-l;
+
+  .arrow::before {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.2em;
+    vertical-align: bottom;
+    content: " ";
+
+    @include svg-bg($arrow, $primary, 0% 50%);
+  }
+
+  &:hover {
+    color: $black;
+
+    .arrow::before {
+      @include svg-bg($arrow, $black, 0% 50%);
+    }
+  }
+}
+
+._icon-info::before {
+  @include fa-icon($fa-var-info-circle, $primary);
+  padding-right: 0.5em;
+}
+
+._ck4 {
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 1rem 0;
+    box-sizing: border-box;
+    padding: 0;
+  }
+
+  @include medium {
+    img[style*="float:left"],
+    img[style*="float: left"] {
+      margin: 0 1rem 1rem 0;
+      max-width: 45%;
+    }
+
+    img[style*="float:right"],
+    img[style*="float: right"] {
+      margin: 0 0 1rem 1rem;
+      max-width: 45%;
+    }
+  }
+}
+
+ul {
+  &._we-can {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      p {
+        display: inline;
+      }
+
+      &:before {
+        @include fa-icon($fa-var-check, $primary);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+
+  &._we-cannot {
+    padding-left: 2rem;
+
+    li {
+      list-style-type: none;
+
+      &:before {
+        @include fa-icon($fa-var-times, $secondary);
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+}

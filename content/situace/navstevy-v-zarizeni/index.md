@@ -1,0 +1,6 @@
+---
+title: Můžu být v dětském domově návštěvy kamarádů a příbuzných?
+oblasti: "Ústavní a ochranná výchova"
+---
+
+<p class="MsoNoSpacing">Patnáctiletý Petr poslal e-mail ochránci, ve kterém píše, že mu ředitel dětského domova zakázal návštěvy příbuzných a kamarádů v&nbsp;domově. </p><p>Protože ochránce kontroluje zařízení (jako jsou právě dětské domovy) a zjišťuje, jak se tam dětem vede, jeli se pracovníci ochránce podívat i do dětského domova, kde je Petr. &nbsp;Na místě bylo řešeno, jak to s&nbsp;návštěvami v&nbsp;domově chodí. </p><p>S&nbsp;ředitelem domova právníci probírali, že každé dítě má právo na kontakt s&nbsp;rodinou, a to jak formou osobních návštěv, tak telefonátů a dopisů. Návštěva rodinným příslušníkům v&nbsp;domově může být ředitelem <u>zakázána, přerušena nebo jinak omezena</u> pouze <u>jednotlivě</u> v&nbsp;případě, že by se chovali nevhodně a tím ohrožovali výchovu dítěte. Zakázat nebo omezit návštěvy spolužáků, kamarádů a přátel může ředitel domova pouze <u>v&nbsp;rámci tzv. opatření ve výchově dítěte</u> za porušení povinností, avšak na dobu nejdéle 30 ti dnů (v&nbsp;období 3 měsíců). </p><p>V&nbsp;případě Petra se tedy podařilo vysvětlit, jaká jsou pravidla pro návštěvy rodiny a kamarádů a jejich zákaz (či omezení) a ředitel přislíbil, že je bude dodržovat. </p></div>

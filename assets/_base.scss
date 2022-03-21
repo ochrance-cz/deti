@@ -1,0 +1,185 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: $white;
+}
+
+figure {
+  padding: 0;
+  margin: 3rem 0;
+
+  figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-style: italic;
+  }
+}
+
+.title-with-arrow {
+  display: inline-block;
+  position: relative;
+
+  color: $primary;
+  max-width: 42rem;
+  margin: 4rem auto 2rem;
+
+  &::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    right: -45px;
+    bottom: -35px;
+    width: 75px;
+    height: 50px;
+    background-image: url(/images/arrow-enter.svg);
+  }
+}
+
+.details {
+  @include font-size-s;
+  font-weight: bold;
+}
+
+main > article {
+  max-width: $max-content-width;
+  margin: 0 auto;
+  padding: 0 1rem;
+
+  h1 {
+    position: relative;
+    color: $primary;
+    max-width: 50rem;
+    margin: 3rem auto 2rem;
+
+    &::after {
+      content: " ";
+      display: block;
+      position: absolute;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: contain;
+
+      @include medium {
+        left: -60px;
+        bottom: -55px;
+        width: 100px;
+        height: 70px;
+        background-image: url(/images/arrow-title.svg);
+      }
+    }
+
+    @include small-only {
+      margin-top: 0;
+      padding-right: 50px;
+
+      &::after {
+        right: 0px;
+        bottom: -35px;
+        width: 100px;
+        height: 70px;
+        background-image: url(/images/arrow-enter.svg);
+      }
+    }
+  }
+
+  .text-content {
+    max-width: 38rem;
+    margin: 0 auto;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0 4rem;
+
+  th {
+    background: $primary;
+    color: $white;
+    text-align: left;
+  }
+
+  td,
+  th {
+    padding: 0.5rem;
+    border-bottom: 1px solid $border-gray;
+  }
+}
+
+main img {
+  max-width: 100%;
+}
+
+._gray-pic {
+  display: block;
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+.portrait {
+  max-width: 200px;
+  float: right;
+  margin: 0 0 1rem 1rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.more-link {
+  display: inline-block;
+
+  font-weight: bold;
+  text-decoration: none;
+
+  background-image: url(/images/arrow-more.svg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+
+  color: $white;
+  padding: 0 3rem 0 2rem;
+  height: 4rem;
+  line-height: 4rem;
+
+  &:hover {
+    color: $secondary;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@mixin button {
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 4px;
+
+  font-weight: bold;
+  text-decoration: none;
+
+  color: $primary;
+  border: 2px solid $primary;
+  padding: 0.7em 1.4em;
+  margin-bottom: 0.5em;
+  will-change: background-color;
+  transition: background-color 0.3s ease-in;
+
+  &:hover {
+    color: $black;
+    border-color: $black;
+  }
+}

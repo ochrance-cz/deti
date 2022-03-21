@@ -1,0 +1,40 @@
+._pagination {
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+
+  ul {
+    display: inline;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    height: 2rem;
+    min-width: 2rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+
+    a {
+      display: block;
+      line-height: 2rem;
+      text-align: center;
+      text-decoration: none;
+
+      color: $secondary;
+      text-decoration: none;
+    }
+
+    &.active {
+      border-color: $secondary;
+    }
+
+    &.previous a::before {
+      @include fa-icon($fa-var-chevron-left);
+    }
+
+    &.next a::before {
+      @include fa-icon($fa-var-chevron-right);
+    }
+  }
+}

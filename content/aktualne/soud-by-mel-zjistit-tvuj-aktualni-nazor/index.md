@@ -1,0 +1,33 @@
+---
+title: 'Soud by měl zjistit tvůj aktuální názor '
+date: '2015-12-21'
+perex: >-
+  Ústavní soud opět řešil, jak má být zohledněno přání dítěte při rozhodování o
+  rozšíření úpravy styku s rodičem. Dospěl k závěru, že je důležité zjistit
+  aktuální názor dítěte například výslechem u soudu.
+
+---
+
+
+<p>Na Ústavní soud se obrátil
+táta svého jedenáctiletého syna, kterému krajský soud zamítl možnost rozšíření styku
+s&nbsp;chlapcem, a to především na základě synova přání. Okresní soud nejprve rozšířil
+dříve stanovený styk táty a syna, který fungoval bez větších problémů. Jedenáctiletý
+chlapec trpí poruchou pozornosti a aktivity a špatně snáší změny prostředí, proto
+se jeho máma proti rozsudku odvolala ke krajskému soudu a uspěla.</p>
+<p class="MsoNormal">Krajský soud však postavil
+své rozhodnutí jen na znaleckých posudcích a na přání chlapce, který při
+rozhovoru se sociální pracovnicí o možné změně návštěv u táty řekl, že nic
+měnit nechce. Podle Ústavního soudu však krajský soud nezohlednil dostatečně
+jeho zdravotní stav a nevzal tak v úvahu, že se názory chlapce vzhledem
+k&nbsp;jeho poruše pozornosti a aktivity mohou často měnit. Měl proto zjistit
+chlapcův aktuální názor například výslechem u soudu. &nbsp;Navíc měl soud vzít v&nbsp;úvahu i to, že
+předchozí úprava styku s&nbsp;tátou fungovala bez problémů a měl přitom i
+možnost vídat se s&nbsp;babičkou a dědou z&nbsp;tátovy strany. Soud měl
+současně i zvážit právo táty prohlubovat a rozvíjet vztah se synem.</p>
+<p class="MsoNormal">Ústavní soud tedy rozsudek
+Krajského soudu zrušil, protože dospěl k&nbsp;názoru, že došlo k&nbsp;zasažení
+do práva táty na spravedlivý proces.</p><p>
+Celý text rozhodnutí sp.
+zn. II. ÚS 2943/14 ze dne 16. 6. 2015 si můžeš přečíst <a title="Otevření do nového okna" href="http://nalus.usoud.cz/Search/ResultDetail.aspx?id=88719&amp;pos=1&amp;cnt=1&amp;typ=result" target="_blank">tady</a>&nbsp;<img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</p><a name="_GoBack"></a>
+

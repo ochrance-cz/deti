@@ -1,0 +1,198 @@
+._home {
+  max-width: $max-content-width;
+  margin: 0 0 4rem;
+
+  @include medium {
+    padding: 0 1rem;
+    margin: 4rem auto;
+  }
+
+  h1 {
+    display: none;
+  }
+
+  .home-grid {
+    @include small-only {
+      .intro-text-wrapper {
+        position: relative;
+        padding-top: 0.1rem;
+
+        &::before {
+          content: " ";
+          display: block;
+
+          width: 40vw;
+          height: 75vw;
+          float: right;
+
+          background-image: url(/images/skejtak.png);
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: 0% 50%;
+        }
+
+        &::after {
+          content: " ";
+          display: block;
+          position: absolute;
+          top: 3vw;
+          left: 0;
+          right: 0;
+          width: 50vw;
+          height: 45vw;
+
+          background-image: url(/images/segra.png);
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: 100% 50%;
+        }
+
+        .intro-text {
+          margin-top: 50vw;
+          background: $primary;
+          padding: 1rem;
+          color: $white;
+        }
+      }
+    }
+
+    @include medium {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      margin-bottom: 3rem;
+
+      .intro-text-wrapper {
+        position: relative;
+        display: flex;
+        flex-flow: row;
+
+        &::before {
+          content: " ";
+          display: block;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: -6rem;
+          width: 300px;
+          transform: translateY(-30px);
+
+          background-image: url(/images/skejtak.png);
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: 0% 50%;
+        }
+
+        .intro-text {
+          margin-top: auto;
+          background: $primary;
+          color: $white;
+          padding: 1rem 3rem;
+
+          p {
+            display: inline;
+          }
+
+          &::after {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 0;
+            bottom: 50%;
+            left: 0;
+            right: 0;
+            width: 300px;
+
+            background-image: url(/images/segra.png);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: 100% 50%;
+          }
+
+          box-shadow: 30vw 0 0 $primary, 45vw 0 0 $primary, 60vw 0 0 $primary;
+        }
+      }
+    }
+
+    iframe {
+      display: block;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 250px;
+
+      @include medium {
+        height: 300px;
+      }
+    }
+
+    .video-carousel {
+      position: relative;
+
+      .videos {
+        height: 250px;
+        width: 100%;
+        overflow: hidden;
+
+        @include medium {
+          height: 300px;
+        }
+      }
+
+      #prev,
+      #next {
+        display: block;
+        position: absolute;
+        left: -3rem;
+        top: 40%;
+        background-image: url(/images/arrow-left.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: 50% 50%;
+        height: 2rem;
+        width: 2rem;
+        text-indent: 2.5rem;
+        overflow: hidden;
+      }
+
+      #next {
+        background-image: url(/images/arrow-right.svg);
+        left: auto;
+        right: -3rem;
+      }
+
+      @include small-only {
+        #prev,
+        #next {
+          z-index: 1;
+          left: 0.5rem;
+          top: auto;
+          bottom: -2.5rem;
+        }
+
+        #next {
+          left: auto;
+          right: 0.5rem;
+        }
+      }
+
+      .dots {
+        position: absolute;
+        bottom: -2rem;
+        left: 0;
+        right: 0;
+        text-align: center;
+
+        span {
+          display: inline-block;
+          padding: 0 1rem;
+          color: $gray;
+          cursor: pointer;
+
+          &.selected {
+            color: $secondary;
+          }
+        }
+      }
+    }
+  }
+}

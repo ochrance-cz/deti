@@ -1,0 +1,33 @@
+@include medium {
+  ._news {
+    max-width: 80vw;
+    @include grid(repeat(3, 1fr));
+
+    &.single-col {
+      max-width: 40rem;
+
+      ._news-preview {
+        .img-wrapper {
+          display: none;
+        }
+
+        padding-bottom: 1rem;
+        border-bottom: 1px solid $border-gray;
+
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+    }
+
+    &.two-col {
+      max-width: 40rem;
+      @include grid(repeat(2, 1fr));
+      margin: 3rem auto;
+
+      ._news-preview {
+        @include grid(1fr 1fr);
+      }
+    }
+  }
+}

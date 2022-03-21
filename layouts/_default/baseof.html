@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{ .Title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  {{ $style := resources.Get "style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+  <link rel="stylesheet" href="https://use.typekit.net/tly6rvv.css">
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+<body>
+  {{ partial "alert-strip.html" . }}
+
+  <nav class="_site-header">
+    <div class="_backdrop header">
+      <ul class="stripe">
+        <li class="root-link">
+          <a href="{{ .Site.BaseURL }}/">
+            <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Úvodní strana" aria-label="Úvodní strana">
+          </a>
+        </li>
+
+        {{ $langs := (.GetPage "/").Params.langs }}
+
+        {{ partial "menu-item.html" (dict "lang" "en" "link" $langs.en "permalink" .RelPermalink "text" "English") }}
+        {{ partial "menu-item.html" (dict "lang" "de" "link" $langs.de "permalink" .RelPermalink "text" "Deutsch") }}
+        {{ partial "menu-item.html" (dict "lang" "rom" "link" $langs.rom "permalink" .RelPermalink "text" "Romanes") }}
+        {{ partial "menu-item.html" (dict "lang" "ru" "link" $langs.ru "permalink" .RelPermalink "text" "По-рýсски") }}
+      </ul>
+    </div>
+
+    <ul class="buttons">
+      {{ partial "menu-item.html" (dict "link" "/kdo/" "permalink" .RelPermalink "text" "Kdo je to ombudsman?") }}
+      {{ partial "menu-item.html" (dict "link" "/kdo/cim-se-zabyva/" "permalink" .RelPermalink "text" "Čím se zabývá") }}
+      {{ partial "menu-item.html" (dict "link" "/pomoc/" "permalink" .RelPermalink "text" "Hledám pomoc") }}
+      {{ partial "menu-item.html" (dict "link" "/oblasti/" "permalink" .RelPermalink "text" "Jaké případy ombudsman řeší?") }}
+      {{ partial "menu-item.html" (dict "link" "/domov/" "permalink" .RelPermalink "text" "Jsem v dětském domově nebo výchovném ústavu") }}
+    </ul>
+  </nav>
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "site-footer.html" . }}
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+
+</html>
+

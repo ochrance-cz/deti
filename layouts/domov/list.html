@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      {{ with .Params.perex }}
+        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+      {{ end }}
+
+      {{ with .Params.date }}
+        <p class="details">
+          {{ partial "date.html" (dict "date" . "months" $.Site.Data.mesice) }}
+        </p>
+      {{ end }}
+
+      {{ range .Params.questions }}
+         {{ partial "collapsible-open.html" (dict "icon" .icon "id" .title "title" .title "open" false)}}
+             {{ partial "md-block.html" .desc }}
+          {{ partial "collapsible-close.html" }}
+      {{ end }}
+
+      {{ .Content }}
+    </div>
+  </article>
+</main>
+{{ end }}
