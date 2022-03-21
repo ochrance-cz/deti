@@ -39,7 +39,6 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 Redirect 301 /decak/ /domov/
 Redirect 301 /verejny-ochrance-prav/ /kdo/
-Redirect 301 /kdo/zastupce/
 Redirect 301 /cim-se-zabyva/ /kdo/cim-se-zabyva/
 Redirect 301 /co-se-bude-dit-s-mym-pripadem/ /kdo/co/
 Redirect 301 /desatero-komunikace/ /kdo/desatero/

@@ -45,7 +45,7 @@ jobs:
           user: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Unpack tar into place
+      - name: Unpack tar into place and link fileadmin
         uses: garygrossgarten/github-action-ssh@release
         with:
           command: |
@@ -55,6 +55,7 @@ jobs:
             mv deti deti-old
             mv deti-new deti
             rm -rf deti-old
+            ln -s uploads-deti deti/fileadmin
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
