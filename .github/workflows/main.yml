@@ -55,7 +55,6 @@ jobs:
             mv deti deti-old
             mv deti-new deti
             rm -rf deti-old
-            ln -s uploads-deti deti/fileadmin
           host: ${{ secrets.SSH_HOSTNAME }}
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
