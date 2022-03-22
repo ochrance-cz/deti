@@ -2,8 +2,8 @@
 title: Omdbudsman dětem a náctiletým
 videos:
   - video: https://youtu.be/iiw2OM4jDbA
-  - video: https://youtu.be/iiw2OM4jDbA
-  - video: https://youtu.be/iiw2OM4jDbA
+  - video: https://youtu.be/Ny6AdOPpcfo
+  - video: https://youtu.be/IrrFMT1evB4
 langs:
   en: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__anglictina_.pdf
   de: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf
