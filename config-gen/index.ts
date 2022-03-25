@@ -145,7 +145,6 @@ const pages = files("Stránky", "pages", [
       list("Co může", "položka", "we-can", [string("Může", "text")]),
       list("Co nemůže", "položka", "we-cannot", [string("Nemůže", "text")]),
       markdown("Text", "body"),
-      markdown("Linkdy důvěry", "linky"),
     ],
     {
       media_folder: "",
@@ -155,6 +154,7 @@ const pages = files("Stránky", "pages", [
     title("Titulek"),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
+    markdown("Linky důvěry", "linky"),
   ]),
   fileCollection("Jsem v zařízení", "domov", "content/domov/_index.md", [
     title("Titulek"),

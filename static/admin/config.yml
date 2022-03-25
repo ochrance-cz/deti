@@ -317,22 +317,6 @@ collections:
             name: body
             required: false
             widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Linkdy důvěry
-            name: linky
-            required: false
-            widget: markdown
         media_folder: ''
       - label: Nevíš si rady?
         name: pomoc
@@ -371,6 +355,22 @@ collections:
               - numbered-list
             label: Text
             name: body
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Linky důvěry
+            name: linky
             required: false
             widget: markdown
       - label: Jsem v zařízení
