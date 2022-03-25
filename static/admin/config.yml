@@ -373,7 +373,7 @@ collections:
             name: body
             required: false
             widget: markdown
-      - label: Jsem v dětském domově…
+      - label: Jsem v zařízení
         name: domov
         file: content/domov/_index.md
         fields:
@@ -396,57 +396,6 @@ collections:
             name: perex
             required: false
             widget: markdown
-          - label: Otázky
-            name: questions
-            required: false
-            label_singular: otázka
-            widget: list
-            fields:
-              - label: Otázka
-                name: title
-                widget: string
-              - label: Ikona
-                name: icon
-                required: false
-                widget: select
-                options:
-                  - proc.svg
-                  - jak-dlouho.svg
-                  - vzali-me.svg
-                  - prisnejsi.svg
-                  - vikend.svg
-                  - navstevy.svg
-                  - sam-ven.svg
-                  - alkohol.svg
-                  - mobil.svg
-                  - wifi.svg
-                  - kontrolovat.svg
-                  - zamykat.svg
-                  - soukromi.svg
-                  - ss.svg
-                  - kapesne.svg
-                  - vyzdobit.svg
-                  - pujcovani.svg
-                  - vzhled.svg
-                  - 18.svg
-                  - nelibi.svg
-                  - napsat.svg
-              - editor_components:
-                  - image
-                buttons:
-                  - bold
-                  - italic
-                  - link
-                  - heading-two
-                  - heading-three
-                  - heading-four
-                  - quote
-                  - bulleted-list
-                  - numbered-list
-                label: Odpověď
-                name: desc
-                required: false
-                widget: markdown
   - name: aktualne
     label: Aktuálně
     label_singular: aktualita
@@ -500,6 +449,92 @@ collections:
         name: body
         required: false
         widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: jsem
+    label: Jsem v zařízení
+    label_singular: zařízení
+    folder: content/jsem
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - label: Otázky
+        name: questions
+        required: false
+        label_singular: otázka
+        widget: list
+        fields:
+          - label: Otázka
+            name: title
+            widget: string
+          - label: Ikona
+            name: icon
+            required: false
+            widget: select
+            options:
+              - proc.svg
+              - jak-dlouho.svg
+              - vzali-me.svg
+              - prisnejsi.svg
+              - vikend.svg
+              - navstevy.svg
+              - sam-ven.svg
+              - alkohol.svg
+              - mobil.svg
+              - wifi.svg
+              - kontrolovat.svg
+              - zamykat.svg
+              - soukromi.svg
+              - ss.svg
+              - kapesne.svg
+              - vyzdobit.svg
+              - pujcovani.svg
+              - vzhled.svg
+              - 18.svg
+              - nelibi.svg
+              - napsat.svg
+              - soud.png
+              - lecba.png
+              - nemocnice.png
+              - nesouhlas.png
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Odpověď
+            name: desc
+            required: false
+            widget: markdown
     create: true
     path: '{{slug}}/index'
     media_folder: ''

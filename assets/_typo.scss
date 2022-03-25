@@ -120,10 +120,17 @@ h3 {
   }
 }
 
+h4 {
+  @include font-size-m;
+  color: $primary;
+  margin-bottom: 0.5rem;
+}
+
 p {
   line-height: 1.4;
 }
 
+blockquote,
 .perex {
   background: $gray;
   margin: 0rem 0 2rem;
@@ -311,36 +318,122 @@ blockquote {
   }
 }
 
-ul {
+main ul {
+  list-style: none;
+  padding-left: 3rem;
+
+  li {
+    margin: 0 0 0.5rem 0;
+    min-height: 2.5rem;
+    position: relative;
+
+    &::before {
+      --size: 2rem;
+
+      width: var(--size);
+      height: var(--size);
+
+      background-image: url(/images/arrow-right.svg);
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: 50% 50%;
+
+      content: " ";
+      color: $primary;
+      font-size: 1.5rem;
+      font-weight: bold;
+      transform: rotate(-5deg);
+
+      position: absolute;
+      left: calc(-1 * var(--size) - 10px);
+      top: 0;
+    }
+  }
+
   &._we-can {
-    padding-left: 2rem;
-
     li {
-      list-style-type: none;
-
-      p {
-        display: inline;
-      }
-
-      &:before {
+      &::before {
         @include fa-icon($fa-var-check, $primary);
-        margin-left: -2rem;
-        width: 2rem;
+        position: absolute;
+        transform: none;
+        background: none;
+
+        --size: 2rem;
+
+        width: var(--size);
+        height: var(--size);
+        font-size: var(--size);
+        margin-top: -0.5rem;
+        margin-left: 0.05rem;
       }
     }
   }
 
   &._we-cannot {
-    padding-left: 2rem;
-
     li {
-      list-style-type: none;
-
-      &:before {
+      &::before {
         @include fa-icon($fa-var-times, $secondary);
-        margin-left: -2rem;
-        width: 2rem;
+        position: absolute;
+        transform: none;
+        background: none;
+
+        --size: 2.2rem;
+
+        width: var(--size);
+        height: var(--size);
+        font-size: var(--size);
+        margin-top: -0.5rem;
+        margin-left: 0.25rem;
       }
+    }
+  }
+}
+
+ol {
+  counter-reset: my-awesome-counter;
+  list-style: none;
+  padding-left: 3rem;
+
+  li {
+    margin: 0 0 0.5rem 0;
+    counter-increment: my-awesome-counter;
+    position: relative;
+    min-height: 2.5rem;
+
+    &::before {
+      --size: 2rem;
+      content: counter(my-awesome-counter);
+      color: $white;
+      font-size: 1.5rem;
+      font-weight: bold;
+      position: absolute;
+      left: calc(-1 * var(--size) - 0.75rem);
+      line-height: var(--size);
+      width: var(--size);
+      height: var(--size);
+      top: -0.25rem;
+      transform: rotate(-5deg);
+      background: $secondary;
+      border-radius: 50%;
+      text-align: center;
+    }
+
+    &:nth-child(odd)::before {
+      --size: 2rem;
+      content: counter(my-awesome-counter);
+      color: $white;
+      font-size: 1.5rem;
+      font-weight: bold;
+      position: absolute;
+      left: calc(-1 * var(--size) - 0.75rem);
+      line-height: var(--size);
+      width: var(--size);
+      height: var(--size);
+      top: -0.25rem;
+      transform: rotate(-5deg);
+      background: $primary;
+      border-radius: 50%;
+      text-align: center;
     }
   }
 }

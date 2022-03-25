@@ -28,7 +28,11 @@
     margin: 0 -2rem;
 
     ul {
-      margin: 0;
+      margin: 2rem 0 0;
+
+      li::before {
+        background-image: url(/images/arrow-right-white.svg);
+      }
     }
 
     h2,

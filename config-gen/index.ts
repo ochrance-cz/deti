@@ -156,7 +156,25 @@ const pages = files("Stránky", "pages", [
     markdown("Perex", "perex"),
     markdown("Text", "body"),
   ]),
-  fileCollection("Jsem v dětském domově…", "domov", "content/domov/_index.md", [
+  fileCollection("Jsem v zařízení", "domov", "content/domov/_index.md", [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+  ]),
+]);
+
+const jsem = folderCollection(
+  "Jsem v zařízení",
+  "zařízení",
+  "jsem",
+  {
+    folder: "content/jsem",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [
     title("Titulek"),
     markdown("Perex", "perex"),
     list("Otázky", "otázka", "questions", [
@@ -183,11 +201,15 @@ const pages = files("Stránky", "pages", [
         "18.svg",
         "nelibi.svg",
         "napsat.svg",
+        "soud.png",
+        "lecba.png",
+        "nemocnice.png",
+        "nesouhlas.png",
       ]),
       markdown("Odpověď", "desc"),
     ]),
-  ]),
-]);
+  ]
+);
 
 const aktualne = folderCollection(
   "Aktuálně",
@@ -259,5 +281,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [pages, aktualne, situace],
+  collections: [pages, aktualne, jsem, situace],
 });
