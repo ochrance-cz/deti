@@ -539,70 +539,62 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-  - name: situace
+  - name: pripady
     label: Případy
-    label_singular: případ
-    folder: content/situace
+    label_singular: oblast
+    folder: content/pripady
     extension: md
     editor:
       preview: false
     fields:
-      - label: Titulek
+      - label: Oblast
         name: title
         widget: string
       - label: Uložit jako draft
         name: draft
         required: false
         widget: boolean
-      - label: Oblast
-        name: oblasti
+      - label: Případy
+        name: cases
         required: false
-        widget: select
-        options:
-          - Dávky
-          - Děti se zdravotním postižením
-          - Diskriminace
-          - Dluhy
-          - Ostatní
-          - Pobyt cizinců
-          - 'Práce, brigády...'
-          - Rodičovství - mateřství
-          - Rodina
-          - Škola
-          - Ústavní a ochranná výchova
-          - Zdravotnictví
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
-        name: perex
-        required: false
-        widget: markdown
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Text
-        name: body
-        required: false
-        widget: markdown
+        label_singular: případ
+        widget: list
+        fields:
+          - label: Situace
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text
+            name: body
+            required: false
+            widget: markdown
     create: true
     path: '{{slug}}/index'
     media_folder: ''

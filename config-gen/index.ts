@@ -232,12 +232,12 @@ const aktualne = folderCollection(
   ]
 );
 
-const situace = folderCollection(
+const pripady = folderCollection(
   "Případy",
-  "případ",
-  "situace",
+  "oblast",
+  "pripady",
   {
-    folder: "content/situace",
+    folder: "content/pripady",
     path: "{{slug}}/index",
     extension: "md",
     create: true,
@@ -245,24 +245,13 @@ const situace = folderCollection(
     public_folder: "",
   },
   [
-    title("Titulek"),
+    title("Oblast"),
     boolean("Uložit jako draft", "draft"),
-    select("Oblast", "oblasti", [
-      "Dávky",
-      "Děti se zdravotním postižením",
-      "Diskriminace",
-      "Dluhy",
-      "Ostatní",
-      "Pobyt cizinců",
-      "Práce, brigády...",
-      "Rodičovství - mateřství",
-      "Rodina",
-      "Škola",
-      "Ústavní a ochranná výchova",
-      "Zdravotnictví",
+    list("Případy", "případ", "cases", [
+      title("Situace"),
+      markdown("Perex", "perex"),
+      markdown("Text", "body"),
     ]),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
   ]
 );
 
@@ -281,5 +270,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [pages, aktualne, jsem, situace],
+  collections: [pages, aktualne, jsem, pripady],
 });
