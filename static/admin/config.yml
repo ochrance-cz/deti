@@ -219,8 +219,8 @@ collections:
             name: perex
             required: false
             widget: markdown
-          - label: Co může
-            name: we-can
+          - label: Možnosti kontaktu
+            name: contact
             required: false
             label_singular: položka
             widget: list

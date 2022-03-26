@@ -156,7 +156,7 @@ const pages = files("Stránky", "pages", [
   fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.md", [
     title("Titulek"),
     markdown("Perex", "perex"),
-    list("Co může", "položka", "we-can", [
+    list("Možnosti kontaktu", "položka", "contact", [
       title("Název"),
       icons,
       markdown("Popis", "desc"),
