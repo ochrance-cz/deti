@@ -24,6 +24,34 @@ import {
   AnyWidget,
 } from "./buildconf.ts";
 
+const icons = select("Ikona", "icon", [
+  "proc.svg",
+  "jak-dlouho.svg",
+  "vzali-me.svg",
+  "prisnejsi.svg",
+  "vikend.svg",
+  "navstevy.svg",
+  "sam-ven.svg",
+  "alkohol.svg",
+  "mobil.svg",
+  "wifi.svg",
+  "kontrolovat.svg",
+  "zamykat.svg",
+  "soukromi.svg",
+  "ss.svg",
+  "kapesne.svg",
+  "vyzdobit.svg",
+  "pujcovani.svg",
+  "vzhled.svg",
+  "18.svg",
+  "nelibi.svg",
+  "napsat.svg",
+  "soud.png",
+  "lecba.png",
+  "nemocnice.png",
+  "nesouhlas.png",
+]);
+
 const pic = (title: string, name: string) =>
   object(title, name, [
     image("Obrázek", "pic"),
@@ -127,6 +155,12 @@ const pages = files("Stránky", "pages", [
   ),
   fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.md", [
     title("Titulek"),
+    markdown("Perex", "perex"),
+    list("Co může", "položka", "we-can", [
+      title("Název"),
+      icons,
+      markdown("Popis", "desc"),
+    ]),
     markdown("Text", "body"),
   ]),
   fileCollection(
@@ -156,7 +190,17 @@ const pages = files("Stránky", "pages", [
     markdown("Text", "body"),
     markdown("Linky důvěry", "linky"),
   ]),
-  fileCollection("Jsem v zařízení", "domov", "content/domov/_index.md", [
+  fileCollection("Linky důvěry", "linky", "content/pomoc/linky.md", [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+  ]),
+  fileCollection("Další odkazy", "odkazy", "content/pomoc/odkazy.md", [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+  ]),
+  fileCollection("Jsem v zařízení…", "jsem", "content/jsem/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
   ]),
@@ -179,33 +223,7 @@ const jsem = folderCollection(
     markdown("Perex", "perex"),
     list("Otázky", "otázka", "questions", [
       title("Otázka"),
-      select("Ikona", "icon", [
-        "proc.svg",
-        "jak-dlouho.svg",
-        "vzali-me.svg",
-        "prisnejsi.svg",
-        "vikend.svg",
-        "navstevy.svg",
-        "sam-ven.svg",
-        "alkohol.svg",
-        "mobil.svg",
-        "wifi.svg",
-        "kontrolovat.svg",
-        "zamykat.svg",
-        "soukromi.svg",
-        "ss.svg",
-        "kapesne.svg",
-        "vyzdobit.svg",
-        "pujcovani.svg",
-        "vzhled.svg",
-        "18.svg",
-        "nelibi.svg",
-        "napsat.svg",
-        "soud.png",
-        "lecba.png",
-        "nemocnice.png",
-        "nesouhlas.png",
-      ]),
+      icons,
       markdown("Odpověď", "desc"),
     ]),
   ]

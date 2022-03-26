@@ -1,0 +1,29 @@
+---
+title: Dostupné piktogramy
+icons:
+  - vikend.svg
+  - proc.svg
+  - jak-dlouho.svg
+  - vzali-me.svg
+  - prisnejsi.svg
+  - navstevy.svg
+  - sam-ven.svg
+  - alkohol.svg
+  - mobil.svg
+  - wifi.svg
+  - kontrolovat.svg
+  - zamykat.svg
+  - soukromi.svg
+  - ss.svg
+  - kapesne.svg
+  - vyzdobit.svg
+  - pujcovani.svg
+  - vzhled.svg
+  - 18.svg
+  - nelibi.svg
+  - napsat.svg
+  - lecba.png
+  - nemocnice.png
+  - nesouhlas.png
+  - soud.png
+---

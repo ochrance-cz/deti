@@ -44,6 +44,18 @@
         </ul>
       {{ end }}
 
+      {{ with .Params.contact }}
+        <ul class="_contact">
+          {{ range . }}
+            <li>
+              <img class="contact-icon" src="/images/domov/{{ .icon }}">
+              <p><strong>{{ .title }}</strong></p>
+              {{ partial "md-block.html" .desc }}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
     	{{ .Content }}
     </div>
   </article>
