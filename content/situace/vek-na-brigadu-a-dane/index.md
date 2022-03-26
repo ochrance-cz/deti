@@ -1,9 +1,0 @@
----
-title: Od kolika let můžu chodit na brigády a jaké odvody budu platit?
-perex: >-
-  Na ochránce se obrátila čtrnáctiletá Zuzana se stížností na postup firmy, u
-  níž měla zájem o letní brigádu a která ji z důvodu nízkého věku nepřijala.
-oblasti: "Práce, brigády..."
----
-
-<p>Ochránce nemohl přímo zkontrolovat firmu, zda postupuje správně, ale informoval Zuzanu, že pracovní smlouvu (či některou z dohod v rámci brigády) by mohla uzavřít až po dosažení patnácti let věku (nastoupit do práce může však nejdříve po ukončení povinné školní docházky). Patnáctiletý student si tedy může sjednat brigádu nebo i pracovní smlouvu bez souhlasu rodiče (např. ale tzv. dohodu o hmotné odpovědnosti lze uzavřít nejdříve v den, kdy dosáhne osmnácti let věku). Firma tedy postupovala správně, když Zuzanu do práce nepřijala. </p><p>Pokud jde o samotnou brigádu, tato je vykonávána na základě dohody o provedení práce nebo dohody o pracovní činnosti. Jaké jsou v tom rozdíly?</p><ul><li><strong>D</strong><strong>ohoda o provedení práce</strong> se sjednává na práci o max. rozsahu 300&nbsp;hodin v kalendářním roce a do výdělku nižšího než 10 000,-&nbsp;Kč měsíčně zaměstnavatel není povinen platit ani zdravotní pojištění, ani sociální pojištění. Výplata podléhá „jen“ srážkové dani ve výši 15 %. Tento typ dohody je pro studentské brigády nejčastější.&nbsp;</li><li>U <strong>dohody o pracovní činnosti</strong> může být překročen rozsah 300 hodin v kalendářním roce, avšak maximálně přípustný počet odpracovaných hodin je nejvýše polovina běžné týdenní pracovní doby (tedy 20 hodin za týden). Zdravotní, sociální a nemocenské pojištění platí zaměstnanec i zaměstnavatel z odměny od 2 500,- Kč za měsíc.</li></ul><p>V obou případech je důležité, že dohody musí být uzavřeny písemně a podepisuje jí vždy ten, kdo ji uzavírá. U brigád mladistvých tak není nutný podpis či schválení&nbsp;jejich rodičů.</p></div>

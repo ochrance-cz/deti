@@ -1,6 +1,0 @@
----
-title: Mohou mi pracovníci zařízení kontrolovat e-maily?
-oblasti: "Ústavní a ochranná výchova"
----
-
-<p>Ombudsman řeší nejen konkrétní stížnosti nebo dotazy, ale také provádí preventivní&nbsp;návštěvy v&nbsp;zařízeních pro děti (dětské domovy, výchovné ústavy…) a zjišťuje, v&nbsp;jakých podmínkách žijí, jak je o ně pečováno, jestli jsou respektována jejich práva.</p><p>Při té příležitosti narazil na dotazy, jestli pracovníci zařízení mohou dětem kontrolovat e-maily. V&nbsp;jednom dětském domově se to stávalo a děti si musely každý e-mail, který chtěly odeslat, nejprve nechat zkontrolovat. Vedení domova to zdůvodňovalo tím, že chtějí děti vést k&nbsp;tomu, aby nepoužívaly sprostá slova, případně aby zabránili domlouvání útěku. Děti si ombudsmanovi stěžovaly, že je to porušování soukromí, když si pracovníci čtou jejich (někdy i intimní) e-maily přátelům, partnerům, rodině.</p><p>Ombudsman vedení domova upozornil, že je nelegální kontrolovat e-mailovou poštu, a vyzval vedení domova, aby s&nbsp;takovou praxí přestalo. Úmluva o právech dítěte říká, že nesmí být svévolně zasahováno do soukromého života, rodiny, domova a korespondence dítěte. Korespondencí se přitom dnes nemyslí jen klasická pošta, ale i e-maily, sms zprávy, vzkazy na Facebooku apod.</p></div>

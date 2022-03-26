@@ -44,7 +44,7 @@ Redirect 301 /co-se-bude-dit-s-mym-pripadem/ /kdo/co/
 Redirect 301 /desatero-komunikace/ /kdo/desatero/
 Redirect 301 /jak-se-na-ochrance-obratit/ /kdo/jak/
 Redirect 301 /hledas-pomoc/ /pomoc/
-Redirect 301 /jakymi-pripady-jsme-se-uz-zabyvali/ /oblasti/
+Redirect 301 /jakymi-pripady-jsme-se-uz-zabyvali/ /pripady/
 
 Redirect 301 /aktuality/25-let-umluvy-o-pravech-ditete/ /aktualne/25-let-umluvy-o-pravech-ditete/
 Redirect 301 /aktuality/40-deti-loni-zadalo-ombudsmanku-o-radu-a-pomoc/ /aktualne/40-deti-loni-zadalo-ombudsmanku-o-radu-a-pomoc/
@@ -282,15 +282,15 @@ Redirect 301 /zamestnavatel-chce-abych-si-zaplatil-lekarskou-prohlidku-ktera-je-
 Redirect 301 /zaopatrovaci-prispevek-nova-davka-pro-mlade-dospele-odchazejici-z-nahradni-rodinne-pece-ci-ustavni-vychovy/ /situace/zaopatrovaci-prispevek-nova-davka-pro-mlade-dospele-odchazejici-z-nahradni-rodinne-pece-ci-ustavni-vychovy/
 Redirect 301 /zmena-prijmeni/ /situace/zmena-prijmeni/
 
-Redirect 301 /rodina/ /oblasti/rodina/
-Redirect 301 /ustavni-a-ochranna-vychova/ /oblasti/ústavní-a-ochranná-výchova/
-Redirect 301 /rodicovstvi-materstvi/ /oblasti/rodičovství-mateřství/
-Redirect 301 /skola/ /oblasti/škola/
-Redirect 301 /zdravotnictvi/ /oblasti/zdravotnictví/
-Redirect 301 /prace-brigady/ /oblasti/práce-brigády.../
-Redirect 301 /davky/ /oblasti/dávky/
-Redirect 301 /diskriminace/ /oblasti/diskriminace/
-Redirect 301 /pobyt-cizincu/ /oblasti/pobyt-cizinců/
-Redirect 301 /dluhy/ /oblasti/dluhy/
-Redirect 301 /deti-se-zdravotnim-postizenim/ /oblasti/děti-se-zdravotním-postižením/
-Redirect 301 /ostatni/ /oblasti/ostatní/
+Redirect 301 /davky/ /pripady/davky/
+Redirect 301 /deti-se-zdravotnim-postizenim/ /pripady/deti-se-zdravotnim-postizenim/
+Redirect 301 /diskriminace/ /pripady/diskriminace/
+Redirect 301 /dluhy/ /pripady/dluhy/
+Redirect 301 /ostatni/ /pripady/ostatni/
+Redirect 301 /pobyt-cizincu/ /pripady/pobyt-cizincu/
+Redirect 301 /prace-brigady/ /pripady/prace-brigady/
+Redirect 301 /rodicovstvi-materstvi/ /pripady/rodicovstvi-materstvi/
+Redirect 301 /rodina/ /pripady/rodina/
+Redirect 301 /skola/ /pripady/skola/
+Redirect 301 /ustavni-a-ochranna-vychova/ /pripady/ustavni-a-ochranna-vychova/
+Redirect 301 /zdravotnictvi/ /pripady/zdravotnictvi/

@@ -5,9 +5,6 @@ title = "Ombudsman dětem a náctiletým"
 [outputs]
 home = ["HTML", "RSS", "htaccess"]
 
-[taxonomies]
-  oblast = 'oblasti'
-
 [markup.goldmark.renderer]
   unsafe = true
 
