@@ -1,9 +1,47 @@
 {{ define "main" }}
 <main>
   <article>
-    <h1>{{ .Title }}</h1>
+    <h1>Manuál</h1>
 
     <div class="text-content">
+      <h2>Speciální seznamy</h2>
+
+      <h3>Fajfky</h3>
+
+      <ul class="_we-can">
+        <li>položka</li>
+        <li>položka</li>
+      </ul>
+
+<pre>{{"{{"}}< muze >{{"}}"}}
+
+- položka
+- položka
+
+{{"{{"}}< /muze >{{"}}"}}</pre>
+
+<p>(<u class="copy-we-can">kopírovat kód do schránky</u>)</p>
+
+      <h3>Křížky</h3>
+
+      <ul class="_we-cannot">
+        <li>položka</li>
+        <li>položka</li>
+      </ul>
+
+<pre>{{"{{"}}< nemuze >{{"}}"}}
+
+- položka
+- položka
+
+{{"{{"}}< /nemuze >{{"}}"}}</pre>
+
+<p>(<u class="copy-we-cannot">kopírovat kód do schránky</u>)</p>
+
+
+    <h2>Dostupné piktogramy</h2>
+
+
       {{ range .Params.icons }}
         <div class="icon-wrapper">
           <img class="icon" src="/images/domov/{{ . }}">
@@ -57,6 +95,26 @@
         copyTextToClipboard("{{"{{"}}< icon " + el.querySelector('code').innerHTML + " >{{"}}"}}");
         alert('Kód pro vložení piktogramu zkopírován do schránky.');
       })
+    });
+
+    document.querySelector('.copy-we-can').addEventListener('click', function() {
+      copyTextToClipboard(`\{\{< muze >\}\}
+
+- položka
+- položka
+
+\{\{< /muze >\}\}`);
+      alert('Kód pro vložení seznamu zkopírován do schránky.');
+    });
+
+    document.querySelector('.copy-we-cannot').addEventListener('click', function() {
+      copyTextToClipboard(`\{\{< nemuze >\}\}
+
+- položka
+- položka
+
+\{\{< /nemuze >\}\}`);
+      alert('Kód pro vložení seznamu zkopírován do schránky.');
     });
   </script>
 </main>
