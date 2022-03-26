@@ -1,14 +1,11 @@
 ---
 title: Dávky pěstounské péče po 18. narozeninách
-date: '2015-10-27'
+date: "2015-10-27"
 perex: >-
   Blíží se ti 18. narozeniny a žiješ v pěstounské rodině? Potom je možné, že ti
   po dosažení zletilosti zanikne nárok na dávku pěstounské péče - příspěvek na
   úhradu potřeb dítěte, protože třeba nebudeš dál studovat nebo se odstěhuješ od
   pěstounů.
-
 ---
 
-
-<p class="MsoNormal">V&nbsp;takovém případě ti vznikne nárok na <strong>příspěvek při ukončení pěstounské péče</strong> <strong>ve výši 25.000,- Kč</strong>. Tento příspěvek se poskytuje jenom jednou a slouží ke snadnějšímu startu do samostatného života. Požádat o něj můžeš na krajské pobočce Úřadu práce. A dej pozor na to, že nárok na tento příspěvek zaniká, jestliže o něj nepožádáš do 1 roku ode dne, kdy ti zanikl nárok na příspěvek na úhradu potřeb dítěte. Ti, jimž zůstane nárok na příspěvek na úhradu potřeb zachovaný i v&nbsp;dospělosti, například po dobu jejich studia, mohou o příspěvek při ukončení pěstounské péče požádat až později, když přestanou mít nárok na příspěvek na úhradu potřeb dítěte.</p><p class="Default"></p>
-
+<p class="MsoNormal">V takovém případě ti vznikne nárok na <strong>příspěvek při ukončení pěstounské péče</strong> <strong>ve výši 25.000,- Kč</strong>. Tento příspěvek se poskytuje jenom jednou a slouží ke snadnějšímu startu do samostatného života. Požádat o něj můžeš na krajské pobočce Úřadu práce. A dej pozor na to, že nárok na tento příspěvek zaniká, jestliže o něj nepožádáš do 1 roku ode dne, kdy ti zanikl nárok na příspěvek na úhradu potřeb dítěte. Ti, jimž zůstane nárok na příspěvek na úhradu potřeb zachovaný i v dospělosti, například po dobu jejich studia, mohou o příspěvek při ukončení pěstounské péče požádat až později, když přestanou mít nárok na příspěvek na úhradu potřeb dítěte.</p><p class="Default"></p>
