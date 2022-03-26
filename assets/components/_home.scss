@@ -70,9 +70,9 @@
           content: " ";
           display: block;
           position: absolute;
-          top: 0;
-          bottom: 0;
-          left: -6rem;
+          top: -20px;
+          bottom: -80px;
+          left: -50px;
           width: 300px;
           transform: translateY(-30px);
 
@@ -86,7 +86,7 @@
           margin-top: auto;
           background: $primary;
           color: $white;
-          padding: 1rem 3rem;
+          padding: 1rem 1rem 1rem 140px;
 
           p {
             display: inline;
@@ -96,19 +96,39 @@
             content: " ";
             display: block;
             position: absolute;
-            top: 0;
-            bottom: 50%;
+            top: -30px;
+            bottom: 35%;
             left: 0;
             right: 0;
-            width: 300px;
+            width: 100%;
 
             background-image: url(/images/segra.png);
             background-repeat: no-repeat;
             background-size: contain;
-            background-position: 100% 50%;
+            background-position: 70% 50%;
           }
 
           box-shadow: 30vw 0 0 $primary, 45vw 0 0 $primary, 60vw 0 0 $primary;
+        }
+      }
+    }
+
+    @media only screen and (min-width: $max-content-width + 150px) {
+      .intro-text-wrapper {
+        &::before {
+          top: -20px;
+          bottom: -80px;
+          left: -100px;
+        }
+
+        .intro-text {
+          padding-left: 100px;
+
+          &::after {
+            top: -50px;
+            bottom: 45%;
+            background-position: 60% 50%;
+          }
         }
       }
     }

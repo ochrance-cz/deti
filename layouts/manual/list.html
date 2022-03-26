@@ -4,9 +4,11 @@
     <h1>Manuál</h1>
 
     <div class="text-content">
-      <h2>Speciální seznamy</h2>
+      {{ .Content }}
 
-      <h3>Fajfky</h3>
+      <h4>Speciální seznamy</h4>
+
+      <h5>Fajfky</h5>
 
       <ul class="_we-can">
         <li>položka</li>
@@ -22,7 +24,7 @@
 
 <p>(<u class="copy-we-can">kopírovat kód do schránky</u>)</p>
 
-      <h3>Křížky</h3>
+      <h5>Křížky</h5>
 
       <ul class="_we-cannot">
         <li>položka</li>
@@ -39,7 +41,7 @@
 <p>(<u class="copy-we-cannot">kopírovat kód do schránky</u>)</p>
 
 
-    <h2>Dostupné piktogramy</h2>
+    <h4>Dostupné piktogramy</h4>
 
 
       {{ range .Params.icons }}
