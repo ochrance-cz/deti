@@ -3,6 +3,14 @@ title: Jak se na ombudsmana obrátit?
 perex: Máš-li problém, o kterém si myslíš, že Ti s ním ombudsman může pomoci,
   obrať se na něj některým z těchto způsobů.
 contact:
+  - title: E-mail
+    icon: wifi.svg
+    desc: |
+      Prostřednictvím e-mailu zaslaného na adresu deti@ochrance.cz
+  - title: Osobně
+    icon: vikend.svg
+    desc: Osobně na adrese veřejného ochránce práv, kde s tebou tvůj problém probere
+      a sepíše právník nebo právnička z Kanceláře ombudsmana
   - title: Dopis
     icon: napsat.svg
     desc: >
@@ -20,14 +28,6 @@ contact:
     desc: >
       Prostřednictvím telefonu 542 542 888 (každý všední den mezi 8:00 a 16:00
       hod.)
-  - title: E-mail
-    icon: wifi.svg
-    desc: |
-      Prostřednictvím e-mailu zaslaného na adresu deti@ochrance.cz
-  - title: Osobně
-    icon: vikend.svg
-    desc: Osobně na adrese veřejného ochránce práv, kde s tebou tvůj problém probere
-      a sepíše právník nebo právnička z Kanceláře ombudsmana
   - title: E-portál
     icon: kontrolovat.svg
     desc: … eportálem …
