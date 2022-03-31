@@ -439,6 +439,27 @@ ol {
 
 .icon {
   display: inline-block;
-  max-width: 100px;
+  width: 100px;
+  height: 100px;
   margin: 0 1rem 1rem 0;
+  float: left;
+  clear: left;
+
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    object-position: 50% 50%;
+  }
+
+  & + h2,
+  & + h3 {
+    padding: 30px 0 0 120px;
+    min-height: 100px;
+    margin: 0;
+  }
+}
+
+hr {
+  clear: both;
 }
