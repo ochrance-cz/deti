@@ -16,9 +16,21 @@ perex: |-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiw2OM4jDbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{< youtube “https://www.youtube.com/watch?v=iiw2OM4jDbA” >}}
+
 ### nadpis 3
 
 #### nadpis 4
+
+{{< muze >}}
+
+* první věc
+* druhá věc
+* třetí věc
+
+{{< /muze >}}
+
+
 
 > uvozovky
 
