@@ -113,6 +113,7 @@ h2 {
 
 h3 {
   @include font-size-l;
+  color: $primary;
   letter-spacing: -0.02em;
 
   &.large {
@@ -121,9 +122,14 @@ h3 {
 }
 
 h4 {
-  @include font-size-m;
-  color: $primary;
+  @include font-size-l;
   margin-bottom: 0.5rem;
+  margin-top: 2rem;
+  color: #888;
+}
+
+h5 {
+  font-size: 1rem;
 }
 
 p {
