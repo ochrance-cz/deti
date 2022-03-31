@@ -62,13 +62,14 @@ main > article {
 
     &::after {
       content: " ";
-      display: block;
-      position: absolute;
       background-repeat: no-repeat;
       background-position: 50% 50%;
       background-size: contain;
 
       @include medium {
+        display: block;
+        position: absolute;
+
         left: -60px;
         bottom: -55px;
         width: 100px;
@@ -82,8 +83,9 @@ main > article {
       padding-right: 50px;
 
       &::after {
-        right: 0px;
-        bottom: -35px;
+        position: static;
+        display: inline-block;
+        vertical-align: top;
         width: 100px;
         height: 70px;
         background-image: url(/images/arrow-enter.svg);
