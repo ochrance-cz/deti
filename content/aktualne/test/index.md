@@ -1,13 +1,16 @@
 ---
 title: test
 date: 2022-03-28T07:43:41.275Z
-perex: dfhdg
+perex: |-
+  dfhdg
+
+  {{< icon vyzdobit.svg >}}
 ---
 **tučné**
 
 *kurzíva*
 
-
+{{< icon vyzdobit.svg >}}
 
 ## nadpis 2
 
@@ -16,8 +19,6 @@ perex: dfhdg
 #### nadpis 4
 
 > uvozovky
->
->
 
 * odrážka
 
