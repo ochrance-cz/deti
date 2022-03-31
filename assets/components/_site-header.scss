@@ -83,6 +83,18 @@
         display: none;
       }
 
+      a {
+        display: block;
+        height: 100%;
+        width: 100%;
+      }
+
+      img {
+        height: 100%;
+        object-position: 0% 0%;
+        object-fit: contain;
+      }
+
       @include small-only {
         img {
           display: block;
