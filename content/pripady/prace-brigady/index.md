@@ -21,7 +21,7 @@ cases:
       provedení práce nebo dohody o pracovní činnosti. Jaké jsou v tom rozdíly?
 
 
-      - **D****ohoda o provedení práce** se sjednává na práci o max. rozsahu 300
+      - **Dohoda o provedení práce** se sjednává na práci o max. rozsahu 300
       hodin v kalendářním roce a do výdělku nižšího než 10 000,- Kč měsíčně
       zaměstnavatel není povinen platit ani zdravotní pojištění, ani sociální
       pojištění. Výplata podléhá „jen“ srážkové dani ve výši 15 %. Tento typ
