@@ -70,6 +70,36 @@ collections:
             name: body
             required: false
             widget: markdown
+      - label: Varování
+        name: varovani
+        file: content/alert/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Je varování aktivní?
+            name: draft
+            required: false
+            widget: boolean
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Podrobný popis
+            name: body
+            required: false
+            hint: >-
+              Titulek se zobrazí na titulní straně, detailní popis na samostatné
+              stránce.
+            widget: markdown
       - label: O ombudsmanovi
         name: kdo
         file: content/kdo/_index.markdown

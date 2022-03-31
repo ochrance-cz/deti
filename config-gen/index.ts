@@ -114,6 +114,14 @@ const pages = files("Stránky", "pages", [
     ]),
     markdown("Úvodní text", "body"),
   ]),
+  fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
+    title("Titulek"),
+    boolean("Je varování aktivní?", "draft"),
+    markdown("Podrobný popis", "body", {
+      hint:
+        "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
+    }),
+  ]),
   fileCollection("O ombudsmanovi", "kdo", "content/kdo/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
