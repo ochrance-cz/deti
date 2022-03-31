@@ -12,8 +12,13 @@
     display: inline-block;
     height: 2rem;
     min-width: 2rem;
+    min-height: auto;
     border: 1px solid transparent;
     border-radius: 1rem;
+
+    &::before {
+      display: none;
+    }
 
     a {
       display: block;
