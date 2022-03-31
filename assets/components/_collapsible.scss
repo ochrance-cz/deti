@@ -55,6 +55,7 @@
       content: " ";
       pointer-events: none;
       float: right;
+      clear: right;
       width: 1rem;
       height: 3rem;
       background-image: url(/images/arrow-collapsible.svg); //@include fa-icon($fa-var-chevron-down);
