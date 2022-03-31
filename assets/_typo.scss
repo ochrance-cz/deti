@@ -469,3 +469,26 @@ ol {
 hr {
   clear: both;
 }
+
+pre {
+  background: #eee;
+  border-radius: 3px;
+  padding: 1rem;
+}
+
+.copy {
+  color: $secondary;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.copied {
+  position: relative;
+
+  &::before {
+    @include fa-icon($fa-var-check, $secondary);
+    position: absolute;
+    top: -1rem;
+    left: -1rem;
+  }
+}

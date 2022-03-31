@@ -6,6 +6,22 @@
     <div class="text-content">
       {{ .Content }}
 
+      <h4>Video z Youtube</h4>
+
+      <p>Odkazy na Youtube obsahují vždy identifikátor, který označuje konkrétní video. Mohou vypadat např. takto:</p>
+
+      <pre>https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=20
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/dQw4w9WgXcQ</pre>
+
+      <p>Pro vložení videa je potřeba jen tento identifikátor nebo adresa. Takto vložené video se zobrazí automaticky ve správné velikosti.</p>
+
+      <pre>&#123;&#123;< youtube "dQw4w9WgXcQ" >&#125;&#125;</pre>
+      <pre id="youtube">&#123;&#123;< youtube "https://youtu.be/dQw4w9WgXcQ" >&#125;&#125;</pre>
+
+      <p>(<u class="copy" data-clipboard-target="#youtube">kopírovat kód do schránky</u>)</p>
+
+
       <h4>Speciální seznamy</h4>
 
       <h5>Fajfky</h5>
@@ -15,14 +31,14 @@
         <li>položka</li>
       </ul>
 
-<pre>{{"{{"}}< muze >{{"}}"}}
+<pre id="we-can">{{"{{"}}< muze >{{"}}"}}
 
 - položka
 - položka
 
 {{"{{"}}< /muze >{{"}}"}}</pre>
 
-<p>(<u class="copy-we-can">kopírovat kód do schránky</u>)</p>
+<p>(<u class="copy" data-clipboard-target="#we-can">kopírovat kód do schránky</u>)</p>
 
       <h5>Křížky</h5>
 
@@ -31,94 +47,42 @@
         <li>položka</li>
       </ul>
 
-<pre>{{"{{"}}< nemuze >{{"}}"}}
+<pre id="we-cannot">{{"{{"}}< nemuze >{{"}}"}}
 
 - položka
 - položka
 
 {{"{{"}}< /nemuze >{{"}}"}}</pre>
 
-<p>(<u class="copy-we-cannot">kopírovat kód do schránky</u>)</p>
+<p>(<u class="copy" data-clipboard-target="#we-cannot">kopírovat kód do schránky</u>)</p>
 
 
     <h4>Dostupné piktogramy</h4>
-
-
       {{ range .Params.icons }}
+        {{ $id := replaceRE "." "-" . }}
         <div class="icon-wrapper">
           <img class="icon" src="/images/domov/{{ . }}">
 
-          <code>{{ . }}</code> (<u>kopírovat kód do schránky</u>)
+          <pre id="{{ $id }}">{{"{{"}} icon "{{ . }}" {{"}}"}}</pre> <p>(<u class="copy" data-clipboard-target="#{{ $id }}">kopírovat kód do schránky</u>)</p>
         </div>
         <hr>
       {{ end }}
     </div>
   </article>
 
+  <script src="https://unpkg.com/clipboard@2/dist/clipboard.min.js"></script>
   <script>
-    function fallbackCopyTextToClipboard(text) {
-      var textArea = document.createElement("textarea");
-      textArea.value = text;
+    var clipboard = new ClipboardJS('.copy');
 
-      // Avoid scrolling to bottom
-      textArea.style.top = "0";
-      textArea.style.left = "0";
-      textArea.style.position = "fixed";
+    clipboard.on('success', function(e) {
+      e.trigger.classList.add('copied');
+      setTimeout(() => {
+        e.trigger.classList.remove('copied');
+      }, 500);
 
-      document.body.appendChild(textArea);
-      textArea.focus();
-      textArea.select();
-
-      try {
-        var successful = document.execCommand('copy');
-        var msg = successful ? 'successful' : 'unsuccessful';
-        console.log('Fallback: Copying text command was ' + msg);
-      } catch (err) {
-        console.error('Fallback: Oops, unable to copy', err);
-      }
-
-      document.body.removeChild(textArea);
-    }
-
-    function copyTextToClipboard(text) {
-      if (!navigator.clipboard) {
-        fallbackCopyTextToClipboard(text);
-        return;
-      }
-      navigator.clipboard.writeText(text).then(function() {
-        console.log('Async: Copying to clipboard was successful!');
-      }, function(err) {
-        console.error('Async: Could not copy text: ', err);
-      });
-    }
-
-    [...document.querySelectorAll('.icon-wrapper')].forEach(function(el) {
-      el.addEventListener('click', function(e) {
-        e.preventDefault();
-        copyTextToClipboard("{{"{{"}}< icon " + el.querySelector('code').innerHTML + " >{{"}}"}}");
-        alert('Kód pro vložení piktogramu zkopírován do schránky.');
-      })
+      e.clearSelection();
     });
 
-    document.querySelector('.copy-we-can').addEventListener('click', function() {
-      copyTextToClipboard(`\{\{< muze >\}\}
-
-- položka
-- položka
-
-\{\{< /muze >\}\}`);
-      alert('Kód pro vložení seznamu zkopírován do schránky.');
-    });
-
-    document.querySelector('.copy-we-cannot').addEventListener('click', function() {
-      copyTextToClipboard(`\{\{< nemuze >\}\}
-
-- položka
-- položka
-
-\{\{< /nemuze >\}\}`);
-      alert('Kód pro vložení seznamu zkopírován do schránky.');
-    });
   </script>
 </main>
 {{ end }}
