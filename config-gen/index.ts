@@ -255,6 +255,7 @@ const aktualne = folderCollection(
     datetime("Datum publikování", "date", { time_format: false }),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
+    attached(),
   ]
 );
 
