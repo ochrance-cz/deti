@@ -11,6 +11,4 @@ Vystudovala Právnickou fakultu Univerzity Karlovy v Praze a patří k předním
 
 V roce 2011 byla jmenována zmocněnkyní vlády pro lidská práva. Tuto funkci vykonávala takřka tři roky a věnovala se zejména problematice sociálního vyloučení, ochraně dětí, zaměřila se také na oblast školství apod. Iniciovala českou verzi kampaně Rady Evropy Jedno z pěti – Stop sexuálnímu zneužívání dětí. Vedla několik delegací ČR při obhajobě zpráv o dodržování lidských práv např. před ženevským Výborem OSN pro dětská práva. V letech 2016-2018 působila jako poradkyně ministrů školství pro oblast společného vzdělávání a souvisejících témat.
 
-> Od 4. prosince 2019 vykonává funkci zástupkyně veřejného ochránce práv. 
-
 V současné době je například členkou Výboru pro práva dítěte při Radě vlády pro lidská práva, pracovní skupiny k porodnictví při Radě vlády pro rovnost žen a mužů. Podílí se také na zlepšení ochrany práv dětí v soudních řízeních.
