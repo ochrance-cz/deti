@@ -1,6 +1,6 @@
 ---
 title: Mgr. Monika Šimůnková
-role: Zástupkyně veřejného ochránce práv (zástupkyně ombudsmana)
+role: Zástupkyně veřejného ochránce práv (ombudsmana)
 pic: photo.jpg
 ---
 **Funkční období od 4. prosince 2019**
