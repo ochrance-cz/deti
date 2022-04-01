@@ -3,7 +3,7 @@ title: Kdo je to ombudsman?
 perex: Na ombudsmana (oficiálně veřejného ochránce práv) se může obrátit každý,
   tedy nejen dospělí, ale i děti a náctiletí.
 facts: >-
-  ## Fakta o ombudsmanovi/ ombudsmance
+  ## Fakta o ombudsmanovi
 
 
   * Kandidáty a kandidátky navrhuje [prezident](http://www.hrad.cz/) a [Senát](http://www.senat.cz/)
