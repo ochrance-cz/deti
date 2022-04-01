@@ -30,7 +30,7 @@ www.ditekrize.cz
 
 777 800 002 (pouze ve středu 14-18 hod., zpoplatněno dle Tvého aktuálního tarifu)\
 právní poradenství z oblasti rodinného práva a péče o dítě
-https://www.nasedite.cz/linka-pravni-pomoci/
+www.nasedite.cz/linka-pravni-pomoci/
 
   
 
