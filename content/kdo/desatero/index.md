@@ -1,6 +1,15 @@
 ---
 title: Desatero komunikace
-perex: Při komunikaci s dětmi a mladými lidmi dodržujeme následující desatero.
+perex: |-
+  <!--StartFragment-->
+
+  ```
+
+  ```
+
+  <!--EndFragment-->
+
+  Při komunikaci s dětmi a mladými lidmi dodržujeme následující desatero.
 ---
 1. Důvěra je pro nás prioritou.
 2. Odpovídáme co nejrychleji.
