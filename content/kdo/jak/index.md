@@ -22,7 +22,7 @@ contact:
     icon: mobil.svg
     desc: Zavolej nám na 542 542 888 (každý všední den mezi 8:00 a 16:00 hod.)
 ---
-Ombudsman a jeho spolupracovníci/e budou respektovat způsob komunikace, který si vybereš.
+Budeme respektovat způsob komunikace, který si vybereš.
 
 Tvou stížnost posoudí právník nebo právnička, kteří bude mít tvůj případ na starosti. Pokud bude potřeba, spojí se s Tebou a společně doplníte další informace.
 
