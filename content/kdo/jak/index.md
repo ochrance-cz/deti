@@ -16,11 +16,16 @@ contact:
       602 00 Brno
   - title: Osobně
     icon: vikend.svg
-    desc: Přijď nám to říct osobně do naší kanceláře na Údolní 39 v Brně - každý
-      všední den mezi 8:00 a 16:00 hod.
+    desc: |-
+      Přijď nám to říct osobně do naší kanceláře na Údolní 39 v Brně 
+
+      (každý všední den mezi 8:00 a 16:00 hod.)
   - title: Telefon
     icon: mobil.svg
-    desc: Zavolej nám na 542 542 888 (každý všední den mezi 8:00 a 16:00 hod.)
+    desc: |-
+      Zavolej nám na 542 542 888 
+
+      (každý všední den mezi 8:00 a 16:00 hod.)
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
