@@ -32,4 +32,6 @@ www.ditekrize.cz
 právní poradenství z oblasti rodinného práva a péče o dítě
 https://www.nasedite.cz/linka-pravni-pomoci/
 
-> Nevybral/a jsi tu správnou nebo ses nedovolal/a? Zkus [linky důvěry dalších organizací.](https://www.capld.cz/linky-duvery-cr2/?wpbdp_view=all_listings) Některé nabízí i online volání nebo chat.
+
+
+> **Nevybral/a jsi tu správnou nebo ses nedovolal/a? Zkus [linky důvěry dalších organizací.](https://www.capld.cz/linky-duvery-cr2/?wpbdp_view=all_listings) Některé nabízí i online volání nebo chat.**
