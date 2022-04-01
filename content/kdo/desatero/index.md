@@ -1,15 +1,14 @@
 ---
 title: Desatero komunikace
-perex: Při komunikaci s mladými stěžovateli dodržuje ochránce a jím pověření právníci následující desatero.
+perex: Při komunikaci s dětmi a mladými lidmi dodržujeme následující desatero.
 ---
-
-1. Důvěra mladého stěžovatele je pro nás prioritou.
-1. Odpovídáme co nejrychleji.
-1. S mladými stěžovateli jednáme vstřícně a zároveň otevřeně.
-1. Žádné téma pro nás není tabu.
-1. Aktivně nasloucháme obavám mladého stěžovatele a hledáme nejvhodnější řešení.
-1. Přání mladého stěžovatele zohledňujeme v nejvyšší možné míře.
-1. S mladým stěžovatelem komunikujeme neformálně (telefonicky, e-mailem, dopisem, možná je i osobní schůzka).
-1. Na položené otázky odpovídáme jasně a srozumitelně.
-1. Vítáme aktivitu a odpovědnost mladého stěžovatele.
-1. O vývoji šetření mladého stěžovatele průběžně informujeme.
+1. Důvěra je pro nás prioritou.
+2. Odpovídáme co nejrychleji.
+3. Jednáme vstřícně a zároveň otevřeně.
+4. Žádné téma pro nás není tabu.
+5. Aktivně nasloucháme všem Tvým obavám a hledáme nejvhodnější řešení.
+6. Tvé přání zohledňujeme v nejvyšší možné míře.
+7. Komunikujeme neformálně (telefonicky, e-mailem, dopisem, možná je i osobní schůzka).
+8. Na položené otázky odpovídáme jasně a srozumitelně.
+9. Vítáme aktivitu a odpovědnost.
+10. O vývoji šetření průběžně informujeme.
