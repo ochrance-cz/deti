@@ -35,13 +35,21 @@ draft: false
 
 Не бійся, незнання чеської мови не є причиною для іншого відношення до тебе. Якщо би виникли проблеми, поділися цим з кимось з твого оточення та не залишайся з проблемою сам на сам.
 
-
-
 Детальнішу інформацію також можна знайти за посиланням [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do nového okna") ![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/external.gif), [www.ochrance.cz/alert/](http://www.ochrance.cz/alert/ "Otevření do nového okna") ![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/external.gif).
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Листівки онлайн](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf "Otevření do nového okna") 
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Листівки ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf "Otevření do nového okna")
+
+
+
+## тобі менше 18 років, ти українець (українка) або проживав(-ла) в Україні і виїхав(-ла) через війну 24 лютого 2022 року або після цієї дати, ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки
+
+Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
+
+![]()
+
+![]()
 
 
 
@@ -65,7 +73,7 @@ Nemoci se nemusíš bát a tebe i další členy rodiny lékař ošetří. Pokud
 
 #### Máme s sebou kočku/psa. Je to v pohodě?
 
-Ano, domácího mazlíčka zde můžeš mít. U psa, kočky nebo fretky však musíš splnit některé důležité povinnosti. Podrobnosti najdeš brzy [zde](https://www.ochrance.cz/alert/).
+Ano, domácího mazlíčka zde můžeš mít. U psa, kočky nebo fretky však musíš splnit některé důležité povinnosti. Podrobnosti najdeš [zde](https://www.ochrance.cz/alert/).
 
 #### Rád/a sportuji/kreslím/zpívám. Můžu v tom pokračovat i v České republice?
 
@@ -90,3 +98,11 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Leták ke stažení - UA online](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf "Otevření do nového okna") 
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Leták ke stažení - UA tisk](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf "Otevření do nového okna")
+
+
+
+## Je ti méně než 18 let, jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině a kvůli válce jsi opustil/a zemi po 24. únoru 2022 a přicházíš sám, nebo s někým jiným než se svými rodiči
+
+podrobnosti najdeš zde: 
+
+[leták ke stažení - UA](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
