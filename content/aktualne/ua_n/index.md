@@ -19,6 +19,6 @@ attachments:
 
 Podrobnosti najdeš [zde](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
 
-
-
 ![Інформація для неповнолітніх без супроводу українською мовою](ukranian_children_cdt-nb1.jpg "Info")
+
+![Інформація для неповнолітніх без супроводу українською мовою 2](ukranian_children_cdt-nb2.jpg "Info 2")
