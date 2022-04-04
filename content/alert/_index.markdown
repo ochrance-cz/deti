@@ -43,7 +43,11 @@ draft: false
 
 
 
-## тобі менше 18 років, ти українець (українка) або проживав(-ла) в Україні і виїхав(-ла) через війну 24 лютого 2022 року або після цієї дати, ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки
+### неповнолітні без супроводу
+
+* тобі менше 18 років?
+* ти українець (українка) або проживав(-ла) в Україні і виїхав(-ла) через війну 24 лютого 2022 року або після цієї дати? 
+* ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки?
 
 Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
 
@@ -101,8 +105,12 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 
 
 
-## Je ti méně než 18 let, jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině a kvůli válce jsi opustil/a zemi po 24. únoru 2022 a přicházíš sám, nebo s někým jiným než se svými rodiči
+### Nezletilí bez doprovodu
 
-podrobnosti najdeš zde: 
+* Je ti méně než 18 let?
+* Jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině a kvůli válce jsi opustil/a zemi po 24. únoru 2022?
+* Přicházíš sám, nebo s někým jiným než se svými rodiči?
+
+Podrobnosti najdeš zde: 
 
 [leták ke stažení - UA](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
