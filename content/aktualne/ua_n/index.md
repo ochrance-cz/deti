@@ -10,9 +10,9 @@ perex: >-
 
   Tyto informace jsou pro Tebe, pokud je ti méně než 18 let; jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině, a kvůli válce jsi opustil/a zemi po 24. únoru 2022; přicházíš sám/ sama, nebo s někým jiným než se svými rodiči?
 attachments:
-  - file: ""
+  - file: children-leaflet_17-03-22-.pdf
     title: Leaflet in english
-  - file: ""
+  - file: ukranian_children_cdt-nb.pdf
     title: Листівка українською мовою
 ---
 Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
