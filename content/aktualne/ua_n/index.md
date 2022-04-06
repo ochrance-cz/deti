@@ -8,7 +8,7 @@ perex: >-
   твої батьки.
 
 
-  Tyto informace jsou pro Tebe, pokud je Ti méně než 18 let; jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině, a kvůli válce jsi opustil/a zemi po 24. únoru 2022; přicházíš sám/ sama, nebo s někým jiným než se svými rodiči?
+  Tyto informace jsou pro Tebe, pokud je Ti méně než 18 let; jsi Ukrajinec či Ukrajinka, nebo jsi žil na Ukrajině, a kvůli válce jsi opustil/a zemi po 24. únoru 2022; přicházíš sám/ sama, nebo s někým jiným než se svými rodiči.
 attachments:
   - file: children-leaflet_17-03-22-.pdf
     title: Leaflet in english
