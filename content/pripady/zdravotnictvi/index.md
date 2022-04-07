@@ -123,13 +123,10 @@ cases:
       #### Kde si můžu stěžovat?
 
 
-      Stěžovat si můžeš nejprve řediteli nemocnice nebo přímo lékaři (jde-li o praktického lékaře, zubaře nebo jiného odborného lékaře). A pokud se Ti nebude líbit odpověď ředitele nemocnice/lékaře, můžeš se obrátit na krajský úřad v kraji, ve kterém je nemocnice/ve kterém ordinuje lékař.
+      Stěžovat si můžeš nejprve řediteli nemocnice nebo přímo lékaři (jde-li o praktického lékaře, zubaře nebo jiného odborného lékaře). A pokud se Ti nebude líbit odpověď ředitele nemocnice/lékaře, můžeš se obrátit na krajský úřad v kraji, ve kterém je nemocnice/ve kterém ordinuje lékař. V některých případech se stížnostmi nezabývají krajské úřady. Tyto výjimky najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf).
 
 
-      V některých případech se stížnostmi nezabývají krajské úřady. Tyto výjimky najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf).
-
-
-      Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.
+      **Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.**
   - body: >-
       
       České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
