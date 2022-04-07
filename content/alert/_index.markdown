@@ -48,7 +48,9 @@ draft: false
 > * ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки?
 >
 > Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
->
+
+##   
+
 > ### Для студентів університету
 >
 > Деталі знайдете [тут]([https://](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1)[www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1))
