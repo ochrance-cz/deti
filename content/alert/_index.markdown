@@ -41,8 +41,6 @@ draft: false
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Листівки ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf "Otevření do nového okna")
 
-  
-
 > ### неповнолітні без супроводу
 >
 > * тобі менше 18 років?
@@ -50,8 +48,14 @@ draft: false
 > * ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки?
 >
 > Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
+>
+> ### Для студентів університету
+>
+> Деталі знайдете [тут]([https://](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1)[www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1))
 
-##    
+
+
+
 
 ## V češtině:
 
@@ -99,8 +103,6 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Leták ke stažení - UA tisk](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf "Otevření do nového okna")
 
-  
-
 > ### Nezletilí bez doprovodu
 >
 > * Je ti méně než 18 let?
@@ -110,3 +112,9 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 > Podrobnosti najdeš zde: 
 >
 > [Leták ke stažení - UA](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
+
+
+
+> ### Pro studenty vysokých škol
+>
+> Podrobnosti najdeš [zde](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1).
