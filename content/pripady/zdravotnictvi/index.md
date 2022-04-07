@@ -2,13 +2,16 @@
 title: Zdravotnictví
 cases:
   - title: Může mi doktor předepsat antikoncepci bez souhlasu rodičů?
-    perex: Na ochránce se obrátila šestnáctiletá Petra, které gynekoložka odmítla
-      bez souhlasu její matky předepsat antikoncepci.
+    perex: Obrátila se na nás šestnáctiletá Petra, které gynekoložka odmítla bez
+      souhlasu její matky předepsat antikoncepci.
     body: >-
-      Ochránce nemohl přímo prošetřit postup lékařky, ale Petře poradil.
+      Nemohli jsme sice přímo prošetřit postup lékařky, ale Petře jsme poradili.
 
 
-      Ochránce Petře doporučil využití možnosti, aby její rodič poskytl souhlas tzv. plošně. Předpokladem je, že je dítě starší 15 ti let a jedná se o běžné zdravotnické výkony ze strany stanovených lékařů (praktický lékař, gynekolog, zubař). Mezi běžné zdravotnické výkony pravděpodobně patří i předepsání antikoncepce. Bez vědomí svého rodiče může být tedy nezletilé dívce předepsána antikoncepce, pokud její rodič již dříve poskytl svůj plošný souhlas. Důležité také je upozornit, že rodič může využít možnosti, aby ho lékař informoval poté, co provede např. nějaké vyšetření či v tomto případě předepíše léky.
+      Petře jsme doporučili, aby jeden z jejích rodičů poskytl souhlas tzv. plošně. U toho se předpokládá, že je dítěti alespoň 15 let a že se jedná o běžné zdravotnické výkony ze strany stanovených lékařů (praktický lékař, gynekolog, zubař). 
+
+
+      Mezi běžné zdravotnické výkony pravděpodobně patří i předepsání antikoncepce. Bez vědomí svého rodiče může být tedy nezletilé dívce předepsána antikoncepce, pokud její rodič již dříve poskytl svůj plošný souhlas. Důležité také je upozornit, že rodič může využít možnosti, aby ho lékař informoval poté, co provede např. nějaké vyšetření či v tomto případě předepíše léky.
   - title: Jak najít lékaře či lékařku pro dítě se zdravotním postižením?
     perex: Aby dítě se zdravotním postižením mohlo jít domů z nemocnice, je třeba,
       aby na jeho zdravotní stav dohlížel lékař.
@@ -79,9 +82,9 @@ cases:
       S nejmenšími dětmi (do 6 let) může nemocnice přijmout i jejich doprovod (nejčastěji rodiče nebo jiného rodinného příslušníka) jako tzv. průvodce. Ten nemusí za pobyt v nemocnici platit, pokud:
 
 
-      (1) zdravotní stav dítěte vyžaduje, aby s ním byl rodič po celý den, nebo  
+      1. zdravotní stav dítěte vyžaduje, aby s ním byl rodič po celý den, nebo
 
-      (2) se dospělý musí zaškolit v tom, jak o dítě doma pečovat.
+      2. se dospělý musí zaškolit v tom, jak o dítě doma pečovat.
 
 
       Doprovod může být v nemocnici zadarmo i se starším dítětem, o tom však nejprve rozhoduje zdravotní pojišťovna dítěte.
