@@ -48,20 +48,14 @@ draft: false
 > * ти прибув(-ла): сам(-а)/ з кимось іншим, аніж твої батьки?
 >
 > Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
-
-  
-
+>
 > ### Для студентів університету
 >
-> Деталі знайдете [тут](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1)
-
-  
-
+> Деталі знайдете [тут](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1), [тут](https://www.studyin.cz/).
+>
 > ### Всеукраїнська школа онлайн
 >
 > Деталі знайдете [тут](https://lms.e-school.net.ua/)
-
- 
 
 ## V češtině:
 
@@ -118,15 +112,11 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 > Podrobnosti najdeš zde: 
 >
 > [Leták ke stažení - UA](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
-
-   
-
+>
 > ### Pro studenty vysokých škol
 >
-> Podrobnosti najdeš [zde](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1).
-
-  
-
+> Podrobnosti najdeš [zde](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1) a [zde](https://www.studyin.cz/).
+>
 > ### **Celoukrajinská škola online**
 >
 > Podrobnosti najdeš [zde](https://www.edu.cz/methodology/ukrajinske-zdroje-k-distancnimu-vzdelavani/).
