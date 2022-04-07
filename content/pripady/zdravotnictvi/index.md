@@ -98,45 +98,38 @@ cases:
 
       Pokud má rodič neobvyklé požadavky nebo si nemocnice myslí, že narušuje poskytování zdravotních služeb, je vždy nejlepší domluvit se na řešení, které bude vyhovovat všem. Jestliže se situaci nepovede vyřešit dohodou a rodič má za to, že nemocnice nepostupovala správně, může si stěžovat (k tomu podrobněji [zde](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Zdravotnictvi-stiznosti.pdf)).
   - title: I děti si mohou stěžovat na lékaře
-    perex: Od kolika let si můžu stěžovat?
+    perex: Od kolika let si můžu stěžovat, když nejsem spokojen/a s lékařskou péčí?
     body: >-
       Každý pacient, který není spokojený s poskytnutými zdravotními službami,
-      může podat stížnost.   
+      může podat stížnost. Ombudsman zastává názor, že podání stížnosti není
+      omezeno věkem stěžovatele. Ministerstvo zdravotnictví ale říkalo, že za
+      děti do 18 let podávají stížnosti jejich rodiče. Požadovali jsme proto,
+      aby Ministerstvo zdravotnictví uznalo, že stížnost může podat i dětský
+      pacient sám.
 
-      Ombudsman zastává názor, že podání stížnosti není omezeno věkem stěžovatele. Ministerstvo zdravotnictví ale říkalo, že za děti do 18 let podávají stížnosti jejich rodiče. Požadovali jsme proto, aby Ministerstvo zdravotnictví uznalo, že stížnost může podat i dětský pacient sám.
+
+      Nakonec nám ministerstvo dalo za pravdu a potvrdilo, že i dětský pacient může podat stížnost na lékaře nebo nemocnici podle zákona o zdravotních službách.
 
 
-      Nakonec nám dali za pravdu a potvrdili, že i dětský pacient může podat stížnost na lékaře nebo nemocnici podle zákona o zdravotních službách.
-
-
-      Podání stížnosti není omezeno tvým věkem, měl/a bys ale rozumět tomu, na co si stěžuješ a být schopný/á se vyjádřit, porozumět a zhodnotit důsledky svého rozhodnutí.
+      Podání stížnosti není omezeno Tvým věkem. Měl/a bys ale rozumět tomu, na co si stěžuješ, a být schopný/á se vyjádřit, porozumět a zhodnotit důsledky svého rozhodnutí.
 
 
       #### Na co si můžu stěžovat?
 
 
-      Stěžovat si nemusíš jen na samotnou péči, kterou ti doktor poskytnul, ale i na související věci, například pokud se k tobě choval hrubě nebo nevhodně, pokud ti nechtěl vysvětlit tvůj zdravotní stav nebo pokud tě odmítnul ošetřit, nepustil k tobě v nemocnici tvoji rodinu a podobně.
-
-
-      Za podání stížnosti nic neplatíš.
-
-
-      Pokud se rozhodneš stížnost podat, nemusíš se ničeho bát. Nesmí to ovlivnit tvoji další léčbu a nikdo (ani doktoři) ti nesmí zazlívat, že sis stěžoval/a.
+      Stěžovat si nemusíš jen na samotnou péči, kterou Ti doktor poskytnul, ale i na související věci. Například pokud se k Tobě choval hrubě nebo nevhodně, pokud Ti nechtěl vysvětlit tvůj zdravotní stav nebo pokud Tě odmítnul ošetřit, nepustil k Tobě v nemocnici Tvoji rodinu a podobně. **Za podání stížnosti nic neplatíš.** Pokud se rozhodneš stížnost podat, nemusíš se ničeho bát. Nesmí to ovlivnit Tvoji další léčbu a nikdo (ani doktoři) Ti nesmí zazlívat, že sis stěžoval/a.
 
 
       #### Kde si můžu stěžovat?
 
 
-      Stěžovat si můžeš nejprve řediteli nemocnice nebo přímo lékaři (jde-li o praktického lékaře, zubaře nebo jiného odborného lékaře).
-
-
-      A pokud se ti nebude líbit odpověď ředitele nemocnice/lékaře, můžeš se obrátit na krajský úřad v kraji, ve kterém je nemocnice/ve kterém ordinuje lékař.
+      Stěžovat si můžeš nejprve řediteli nemocnice nebo přímo lékaři (jde-li o praktického lékaře, zubaře nebo jiného odborného lékaře). A pokud se Ti nebude líbit odpověď ředitele nemocnice/lékaře, můžeš se obrátit na krajský úřad v kraji, ve kterém je nemocnice/ve kterém ordinuje lékař.
 
 
       V některých případech se stížnostmi nezabývají krajské úřady. Tyto výjimky najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf).
 
 
-      Více informací o tom, jak a na koho se obrátit, najdeš tady. Můžeš nám i zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme nebo nám napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz).
+      Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.
   - body: >-
       
       České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
