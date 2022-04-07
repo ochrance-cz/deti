@@ -116,7 +116,9 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 > Podrobnosti najdeš zde: 
 >
 > [Leták ke stažení - UA](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
->
+
+   
+
 > ### Pro studenty vysokých škol
 >
 > Podrobnosti najdeš [zde](https://www.msmt.cz/vzdelavani/vysoke-skolstvi/valka-na-ukrajine-informace-pro-oblast-vs-1).
