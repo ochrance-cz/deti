@@ -41,7 +41,7 @@ draft: false
 
 [![](https://deti.ochrance.cz/aktualne/dlja-ditei-z-ukrajini-vid-ombudsmana-ombudsman-detem-z-ukrajiny/typo3/ext/od_linkdesc/icons/pdf.gif) Листівки ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf "Otevření do nového okna")
 
-> ### неповнолітні без супроводу
+> ### Неповнолітні без супроводу
 >
 > * тобі менше 18 років?
 > * ти українець (українка) або проживав(-ла) в Україні і виїхав(-ла) через війну 24 лютого 2022 року або після цієї дати? 
