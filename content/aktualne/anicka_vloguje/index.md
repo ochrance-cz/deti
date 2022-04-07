@@ -8,8 +8,4 @@ perex: Líbí se Ti naše video [\#AničkaVloguje](https://youtu.be/iiw2OM4jDbA)
 
 První díl připravovaného seriálu #AničkaVloguje: 
 
-<!--StartFragment-->
-
-https://youtu.be/iiw2OM4jDbA
-
-<!--EndFragment-->
+{{< youtube "https://youtu.be/iiw2OM4jDbA" >}}
