@@ -49,7 +49,7 @@ draft: false
 >
 > Деталі знайдете [тут](https://euaa.europa.eu/sites/default/files/2022-03/Ukranian_Children_CdT-NB.pdf)
 
-##   
+  
 
 > ### Для студентів університету
 >
