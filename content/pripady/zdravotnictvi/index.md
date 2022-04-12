@@ -3,15 +3,22 @@ title: Zdravotnictví
 cases:
   - title: Může mi doktor předepsat antikoncepci bez souhlasu rodičů?
     perex: Obrátila se na nás šestnáctiletá Petra, které gynekoložka odmítla bez
-      souhlasu její matky předepsat antikoncepci.
+      souhlasu její matky předepsat antikoncepci. Nemohli jsme sice přímo
+      prošetřit postup lékařky, ale Petře jsme poradili.
     body: >-
-      Nemohli jsme sice přímo prošetřit postup lékařky, ale Petře jsme poradili.
+      U dívek ve věku 15 až 18 let může být předepsání antikoncepce
+      komplikované. Lékaři a lékařky musí sami posoudit, jestli je dívka
+      dostatečně duševně vyspělá na to, aby mohla sama požádat a rozhodnout o
+      předepsání antikoncepce.
 
 
-      Petře jsme doporučili, aby jeden z jejích rodičů poskytl souhlas tzv. plošně. U toho se předpokládá, že je dítěti alespoň 15 let a že se jedná o běžné zdravotnické výkony ze strany stanovených lékařů (praktický lékař, gynekolog, zubař). 
+      Přístup gynekologů a gynekoložek se tak může lišit. Většinou se má však za to, že pokud je dívka schopna sama navštívit ordinaci a požádat o předepsání antikoncepce, je dostatečně duševně vyspělá udělat takové rozhodnutí. 
 
 
-      Mezi běžné zdravotnické výkony pravděpodobně patří i předepsání antikoncepce. Bez vědomí svého rodiče může být tedy nezletilé dívce předepsána antikoncepce, pokud její rodič již dříve poskytl svůj plošný souhlas. Důležité také je upozornit, že rodič může využít možnosti, aby ho lékař informoval poté, co provede např. nějaké vyšetření či v tomto případě předepíše léky.
+      **Souhlas rodiče pro předepsání antikoncepce tedy není většinou nutný.**
+
+
+      Pokud bys nebyla s postupem lékaře nebo lékařky spokojena, lze to řešit buď jejich změnou nebo podáním [stížnosti](https://deti.ochrance.cz/aktualne/i-deti-si-mohou-stezovat-na-lekare/).
   - title: Jak najít lékaře či lékařku pro dítě se zdravotním postižením?
     perex: Aby dítě se zdravotním postižením mohlo jít domů z nemocnice, je třeba,
       aby na jeho zdravotní stav dohlížel lékař.
