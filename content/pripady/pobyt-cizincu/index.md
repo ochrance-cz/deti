@@ -35,4 +35,9 @@ cases:
       Rodině jsme poradili, aby žádost o povolení k pobytu poslala do Vietnamu poštou společně se žádostí o udělení výjimky z povinnosti osobního podání žádosti. Pokud by ambasáda výjimku udělila, mohla by celá rodina na výsledek řízení v klidu počkat v České republice. **Rodina naši radu následovala, výjimku dostala a malá dívka nakonec získala povolení k dlouhodobému pobytu bez toho, že by ona nebo její máma musely odcestovat až do Vietnamu.**
     title: Potřebuji povolení k pobytu, ale máma nemůže odjet do Vietnamu mi ho
       vyřídit
+  - title: "Válka na Ukrajině "
+    perex: Zodpověděli jsem nejčastější otázky, které mohou trápit děti prchající
+      před válkou z Ukrajiny. A aktuálně doplňujeme odkazy na všechny užitečné
+      informace pro děti.
+    body: Vše přehledně dostupné [zde](https://deti.ochrance.cz/alert/).
 ---
