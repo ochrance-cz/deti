@@ -21,10 +21,10 @@ cases:
 
       Rozhodnutí úřadů o vyhoštění cizince, který má na území České republiky dítě, může mít také vliv také na práva dítěte. Dítě tak musí být vždy účastníkem řízení o vyhoštění, nebo být v řízení řádně zastoupeno opatrovníkem.
   - perex: Zabývali jsme se případem malé vietnamské dívky žijící v České republice
-      pouze se svou mámou a sourozenci. Dívka měla původně povolení k pobytu,
-      které jí však kvůli chybě mámy nebylo prodlouženo. Aby ho mohla znovu
-      získat, musela by za ni máma podat novou žádost na české ambasádě ve
-      Vietnamu.
+      pouze se svou mámou a sourozenci. Dívka měla původně povolení k pobytu. To
+      jí však úřady neprodloužily (kvůli administrativní  chybě, kterou udělala
+      její máma). Aby ho mohla znovu získat, musela by za ni máma podat novou
+      žádost na české ambasádě ve Vietnamu.
     body: >-
       Dívčina máma ale nemohla do Vietnamu odjet, protože by to znamenalo nechat
       dívku a její sourozence v České republice samotné. Navíc se měl dívce brzy
