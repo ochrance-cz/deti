@@ -37,7 +37,7 @@ cases:
       vyřídit
   - title: "Válka na Ukrajině "
     perex: Zodpověděli jsem nejčastější otázky, které mohou trápit děti prchající
-      před válkou z Ukrajiny. A aktuálně doplňujeme odkazy na všechny užitečné
+      před válkou z Ukrajiny. Aktuálně doplňujeme odkazy na všechny užitečné
       informace pro děti.
     body: Vše přehledně dostupné [zde](https://deti.ochrance.cz/alert/).
 ---
