@@ -166,14 +166,12 @@ cases:
       přijala. 
 
 
-      > **Jak postupovat při hledání lékaře?**
+      #### **Jak postupovat při hledání lékaře?**
 
-      >
 
-      > **Pokud se Tvým rodičům nepodaří Ti najít lékaře, je dobré se obrátit na Tvou zdravotní pojišťovnu. Zdravotní pojišťovny totiž musí zajistit dostatečný počet lékařů ve Tvém okolí.**
+      Pokud se Tvým rodičům nepodaří Ti najít lékaře, je dobré se obrátit na Tvou zdravotní pojišťovnu. Zdravotní pojišťovny totiž musí zajistit dostatečný počet lékařů ve Tvém okolí.
 
-      >
 
-      > Můžete vyplnit i [formulář](https://nedostupnapece.mzcr.cz/) na webu Ministerstva zdravotnictví.
+      Můžete vyplnit i [formulář](https://nedostupnapece.mzcr.cz/) na webu Ministerstva zdravotnictví.
     title: Pomohli jsme s hledáním dětského lékaře pro novorozence
 ---
