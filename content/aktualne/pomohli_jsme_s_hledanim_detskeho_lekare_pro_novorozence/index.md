@@ -1,6 +1,6 @@
 ---
 title: Pomohli jsme s hledáním dětského lékaře pro novorozence
-draft: true
+draft: false
 date: 2022-04-20T14:01:25.990Z
 perex: Obrátila se na nás maminka, která marně hledala dětského lékaře či
   lékařku pro svou několika měsíční dceru. Všichni ji však odmítali z důvodu
