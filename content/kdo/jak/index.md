@@ -33,7 +33,7 @@ Tvou stížnost posoudí právník nebo právnička, kteří bude mít tvůj př
 
 **Pomoc veřejného ochránce práv (ombudsmana) je bezplatná.**
 
-## Co by měla obsahovat stížnost adresovaná ombudsmanovi ?
+## Co by měla obsahovat stížnost adresovaná ombudsmanovi?
 
 Ze stížnosti by mělo být jasné zejména:
 
