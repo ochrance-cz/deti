@@ -1,7 +1,7 @@
 ---
 title: Jak se na ombudsmana obrátit?
-perex: Máš-li problém, o kterém si myslíš, že Ti s ním ombudsman může pomoci,
-  obrať se na něj některým z těchto způsobů.
+perex: Máš-li problém, o kterém si myslíš, že bychom Ti s ním mohli pomoci,
+  obrať se na nás některým z těchto způsobů.
 contact:
   - title: E-mail
     icon: wifi.svg
@@ -29,7 +29,7 @@ contact:
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
-Tvou stížnost posoudí právník nebo právnička, kteří bude mít tvůj případ na starosti. Pokud bude potřeba, spojí se s Tebou a společně doplníte další informace.
+Tvou stížnost posoudí právník nebo právnička, kteří bude mít Tvůj případ na starosti. Pokud bude potřeba, spojí se s Tebou a společně doplníte další informace.
 
 **Pomoc veřejného ochránce práv (ombudsmana) je bezplatná.**
 
