@@ -65,7 +65,7 @@ cases:
       onemocnění by za zdravotní postižení mohlo být považováno.
 
 
-      Pokud by ředitel školy vstup asistenčního psa do domova mládeže zakázal, mohlo by jít o diskriminaci. Ale není to možné dopředu jednoznačně říci. Záleží totiž na konkrétní situaci. Kroky ředitele musí být přiměřené, zohledňovat konkrétní možnosti ubytované. Problém by mohli mít třeba spolužáci alergičtí na psí srst. Důležité je proto hledat možnosti řešení a případný zákaz podrobně zdůvodnit.
+      Pokud by ředitel školy vstup asistenčního psa do domova mládeže zakázal, mohlo by jít o diskriminaci. Ale není to možné dopředu jednoznačně říci. Záleží totiž na konkrétní situaci. Kroky ředitele musí být přiměřené, zohledňovat konkrétní možnosti internátu a také ostatní ubytované. Problém by mohli mít třeba spolužáci alergičtí na psí srst. Důležité je proto hledat možnosti řešení a případný zákaz podrobně zdůvodnit.
 
 
       Ema udělala dobře, že již možnosti řešení probrala s hlavní vychovatelkou internátu. Společně vymyslely, že by Ema mohla mít pokoj v přízemí blízko vchodu do domova, vlastní povlečení a že by internát ke vchodu umístil hadr na otírání psích tlapek.
