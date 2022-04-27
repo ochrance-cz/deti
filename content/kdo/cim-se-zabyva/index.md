@@ -1,5 +1,5 @@
 ---
-title: Čím se zabývá
+title: Čím se zabýváme
 perex: Ombudsman kontroluje činnost úřadů. To znamená, že prošetřuje, jestli
   úřady postupují správně a jednají včas.
 we-can:
