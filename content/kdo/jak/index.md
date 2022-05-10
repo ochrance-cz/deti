@@ -6,6 +6,10 @@ contact:
   - title: E-mail
     icon: wifi.svg
     desc: Napiš nám e-mail na adresu deti@ochrance.cz
+  - title: On-line interaktivní formulář
+    icon: kontrolovat.svg
+    desc: Vyplň jednoduchý on-line formulář
+      [zde](https://portal.ochrance.cz/Submissions/AddChild).
   - title: Dopis
     icon: napsat.svg
     desc: |-
@@ -26,10 +30,6 @@ contact:
       Zavolej nám na 542 542 888 
 
       (každý všední den mezi 8:00 a 16:00 hod.)
-  - title: On-line interaktivní formulář
-    icon: kontrolovat.svg
-    desc: Vyplň jednoduchý on-line formulář
-      [zde](https://portal.ochrance.cz/Submissions/AddChild).
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
