@@ -34,4 +34,4 @@ we-cannot:
 
 Informační leták o působnosti ombudsmana ke stažení [zde](/media/letak_-_ombudsman_detem_cestina_.pdf).
 
-![Informační leták o působnosti ombudsmana]( "Ombudsman dětem")
+![]()
