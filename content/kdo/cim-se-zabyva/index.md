@@ -31,3 +31,5 @@ we-cannot:
 > Přispívá i k ochraně osob před diskriminací. Znamená to, že může pomoci v případě, kdy někdo zachází s jiným člověkem hůř jen kvůli jeho věku, barvě pleti, národnosti, náboženství nebo pohlaví.
 >
 > Ombudsman také systematicky monitoruje práva osob se zdravotním postižením a nucené návraty lidí, kteří pobývali neoprávněně na území České republiky.
+
+![Informační leták o působnosti ombudsmana](ombudsman_detem_cesky_v_1_png.png "Ombudsman dětem")
