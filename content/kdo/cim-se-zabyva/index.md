@@ -32,4 +32,4 @@ we-cannot:
 >
 > Ombudsman také systematicky monitoruje práva osob se zdravotním postižením a nucené návraty lidí, kteří pobývali neoprávněně na území České republiky.
 
-![Informační leták o působnosti ombudsmana](ombudsman_detem_cesky_v_1_png.png "Ombudsman dětem")
+![Informační leták o působnosti ombudsmana](/media/letak_-_ombudsman_detem_cestina_.pdf "Ombudsman dětem")
