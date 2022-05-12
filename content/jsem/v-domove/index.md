@@ -6,7 +6,7 @@ perex: >-
   pomůže ombudsman a jak mu můžeš napsat.
 
 
-  Ve formě letáku dostupné také [zde](content/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.pdf).
+  Ve formě letáku dostupné také [zde](content/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.jpg).
 questions:
   - title: Proč jsem v domově nebo v ústavu?
     icon: proc.svg
