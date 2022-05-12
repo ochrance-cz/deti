@@ -1,8 +1,12 @@
 ---
 title: Jsem v dětském domově nebo výchovném ústavu
-perex: Odpovíme na nejčastější otázky dětí v zařízeních. Popíšeme, co můžeš
-  dělat, když se Ti nelíbí, jak s Tebou v zařízení zacházejí. Dozvíš se, s čím
-  Ti pomůže ombudsman a jak mu můžeš napsat.
+perex: >-
+  Odpovíme na nejčastější otázky dětí v zařízeních. Popíšeme, co můžeš dělat,
+  když se Ti nelíbí, jak s Tebou v zařízení zacházejí. Dozvíš se, s čím Ti
+  pomůže ombudsman a jak mu můžeš napsat.
+
+
+  Ve formě letáku dostupné také [zde](content/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.pdf).
 questions:
   - title: Proč jsem v domově nebo v ústavu?
     icon: proc.svg
