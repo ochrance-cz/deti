@@ -3,7 +3,7 @@ title: Konference pro děti se blíží
 draft: false
 date: 2022-05-13T06:52:29.678Z
 perex: Už od nás víš, že na 15. června 2022 chystáme něco velkého *–* **naši
-  první konferenci pro děti** **Jak ombudsman pomáhá dětem**! A zájem o ni je
+  první konferenci pro děti** **Jak ombudsman pomáhá dětem**! A zájem je o ni
   veliký.
 ---
 Do [soutěže](https://deti.ochrance.cz/aktualne/vyzva/), jejíž hlavní výhrou byla možnost účastnit se osobně konference pro děti, se přihlásilo téměř 400 dětí z 33 základních škol a víceletých gymnázií z celé České republiky. Hodnotili jsme téměř 80 soutěžních příspěvků *–* videa, písničky, povídky, plakáty, obrázky, básničky,... Bylo opravdu z čeho vybírat. 
