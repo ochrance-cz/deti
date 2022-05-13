@@ -6,7 +6,7 @@ perex: Už od nás víš, že na 15. června 2022 chystáme něco velkého *–*
   první konferenci pro děti** **Jak ombudsman pomáhá dětem**! A zájem je o ni
   veliký.
 ---
-Do [soutěže](https://deti.ochrance.cz/aktualne/vyzva/), jejíž hlavní výhrou byla možnost účastnit se osobně konference pro děti, se přihlásilo téměř 400 dětí z 33 základních škol a víceletých gymnázií z celé České republiky. Hodnotili jsme téměř 80 soutěžních příspěvků *–* videa, písničky, povídky, plakáty, obrázky, básničky,... Bylo opravdu z čeho vybírat. 
+Do [soutěže](https://deti.ochrance.cz/aktualne/vyzva/), jejíž hlavní výhrou byla možnost účastnit se osobně konference pro děti, se přihlásilo téměř **400 dětí z 33 základních škol a víceletých gymnázií** z celé České republiky. Hodnotili jsme téměř 80 soutěžních příspěvků *–* videa, písničky, povídky, plakáty, obrázky, básničky,... Bylo opravdu z čeho vybírat. 
 
 Ač bychom nejraději pozvali na konferenci pro děti všechny zúčastněné, museli jsme z kapacitních důvodů vybrat 90. **Tímto gratulujeme vybraným dětem z:** 
 
