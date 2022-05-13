@@ -22,7 +22,7 @@ Ač bychom nejraději pozvali na konferenci pro děti všechny zúčastněné, m
 * Základní školy Vítězné v Litovli, 
 * Základní školy Vrchní v Opavě, 
 * Základní školy Komenského v Starém Městě, 
-* ZŠ Stará Čtvrť v Údlicích.
+* Základní školy Stará Čtvrť v Údlicích.
 
 > **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes stream, který najdeš v den konference na hlavní stránce www.deti.ochrance.cz. Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na deti@ochrance.cz (předmět e-mailu "participace-otázka").**
 
