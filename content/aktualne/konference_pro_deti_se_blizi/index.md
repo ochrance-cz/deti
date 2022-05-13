@@ -26,4 +26,4 @@ Ač bychom nejraději pozvali na konferenci pro děti všechny zúčastněné, m
 
 > **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes stream, který najdeš v den konference na hlavní stránce www.deti.ochrance.cz. Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na deti@ochrance.cz (předmět e-mailu "participace-otázka").**
 
-U příležitosti konference sbíráme od dětí také zpětnou vazbu na naše webové stránky a další informační materiály určené dětem. S**vůj názor můžeš připojit i Ty vyplněním tohoto [on-line dotazníku](https://docs.google.com/forms/d/e/1FAIpQLSdm1ENH0oqFMacKqVcwCmm5E-16o8TBLN4SiVkNGKzql93qqg/viewform).**
+U příležitosti konference sbíráme od dětí také zpětnou vazbu na naše webové stránky a další informační materiály určené dětem. **Svůj názor můžeš připojit i Ty vyplněním tohoto [on-line dotazníku](https://docs.google.com/forms/d/e/1FAIpQLSdm1ENH0oqFMacKqVcwCmm5E-16o8TBLN4SiVkNGKzql93qqg/viewform).**
