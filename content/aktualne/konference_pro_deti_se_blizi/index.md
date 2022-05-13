@@ -24,6 +24,6 @@ Ač bychom nejraději pozvali na konferenci pro děti všechny zúčastněné, m
 * Základní školy Komenského v Starém Městě, 
 * Základní školy Stará Čtvrť v Údlicích.
 
-> **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes stream, který najdeš v den konference na hlavní stránce deti.ochrance.cz. Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na deti@ochrance.cz (předmět e-mailu "participace-otázka").**
+> **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes stream, který najdeš v den konference na [naší hlavní stránce](http://deti.ochrance.cz). Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na deti@ochrance.cz (předmět e-mailu "participace-otázka").**
 
 U příležitosti konference sbíráme od dětí také zpětnou vazbu na naše webové stránky a další informační materiály určené dětem. **Svůj názor můžeš připojit i Ty vyplněním [on-line dotazníku](https://docs.google.com/forms/d/e/1FAIpQLSdm1ENH0oqFMacKqVcwCmm5E-16o8TBLN4SiVkNGKzql93qqg/viewform).**
