@@ -48,6 +48,9 @@
 
   {{ partial "site-footer.html" . }}
 
+  {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
+  <script src="{{ $js.Permalink }}"></script>
+
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

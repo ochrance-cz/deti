@@ -2,3 +2,4 @@ public/*
 node_modules/*
 podklady/*
 dump/*
+.hugo_build.lock
