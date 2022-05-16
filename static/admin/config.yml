@@ -100,6 +100,163 @@ collections:
               Titulek se zobrazí na titulní straně, detailní popis na samostatné
               stránce.
             widget: markdown
+      - label: Nevíš si rady?
+        name: pomoc
+        file: content/pomoc/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Text
+            name: body
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Linky důvěry
+            name: linky
+            required: false
+            widget: markdown
+      - label: Jsem v zařízení…
+        name: jsem
+        file: content/jsem/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+  - name: aktualne
+    label: Aktuálně
+    label_singular: aktualita
+    folder: content/aktualne
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Datum publikování
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields:
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: kdo-custom
+    label: Kdo je ombudsman — unikátní“
+    editor:
+      preview: false
+    files:
       - label: O ombudsmanovi
         name: kdo
         file: content/kdo/_index.markdown
@@ -390,158 +547,6 @@ collections:
             required: false
             widget: markdown
         media_folder: ''
-      - label: Nevíš si rady?
-        name: pomoc
-        file: content/pomoc/_index.markdown
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Linky důvěry
-            name: linky
-            required: false
-            widget: markdown
-      - label: Jsem v zařízení…
-        name: jsem
-        file: content/jsem/_index.markdown
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-  - name: aktualne
-    label: Aktuálně
-    label_singular: aktualita
-    folder: content/aktualne
-    extension: md
-    editor:
-      preview: false
-    fields:
-      - label: Titulek
-        name: title
-        widget: string
-      - label: Uložit jako draft
-        name: draft
-        required: false
-        widget: boolean
-      - label: Datum publikování
-        name: date
-        required: false
-        widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Perex
-        name: perex
-        required: false
-        widget: markdown
-      - editor_components:
-          - image
-        buttons:
-          - bold
-          - italic
-          - link
-          - heading-two
-          - heading-three
-          - heading-four
-          - quote
-          - bulleted-list
-          - numbered-list
-        label: Text
-        name: body
-        required: false
-        widget: markdown
-      - label: Přílohy
-        name: attachments
-        required: false
-        label_singular: Příloha
-        widget: list
-        fields:
-          - label: Název přílohy
-            name: title
-            widget: string
-          - label: Soubor
-            name: file
-            required: false
-            widget: file
-          - label: Odkaz
-            name: link
-            required: false
-            widget: string
-    create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
   - name: o ombudsmanovi
     label: Kdo je to ombudsman
     label_singular: kdo

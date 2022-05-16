@@ -122,6 +122,19 @@ const pages = files("Stránky", "pages", [
         "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
     }),
   ]),
+  fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.markdown", [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+    markdown("Linky důvěry", "linky"),
+  ]),
+  fileCollection("Jsem v zařízení…", "jsem", "content/jsem/_index.markdown", [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+  ]),
+]);
+
+const kdoCustom = files("Kdo je ombudsman — unikátní“", "kdo-custom", [
   fileCollection("O ombudsmanovi", "kdo", "content/kdo/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
@@ -182,18 +195,7 @@ const pages = files("Stránky", "pages", [
       media_folder: "",
     }
   ),
-  fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.markdown", [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
-    markdown("Linky důvěry", "linky"),
-  ]),
-  fileCollection("Jsem v zařízení…", "jsem", "content/jsem/_index.markdown", [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-  ]),
 ]);
-
 
 const kdo = folderCollection(
   "Kdo je to ombudsman",
@@ -316,5 +318,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [pages, aktualne, kdo, pomoc, jsem, pripady],
+  collections: [pages, aktualne, kdoCustom, kdo, pomoc, jsem, pripady],
 });
