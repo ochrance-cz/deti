@@ -128,15 +128,9 @@ const pages = files("Stránky", "pages", [
     markdown("Fakta", "facts"),
   ]),
   fileCollection(
-    "Co se bude dít s mým případem?",
-    "co",
-    "content/kdo/co/index.md",
-    [title("Titulek"), markdown("Text", "body")]
-  ),
-  fileCollection(
     "Profil ombudsmana",
     "ombudsman",
-    "content/kdo/ombudsman/index.md",
+    "content/kdo/ombudsman/index.markdown",
     [
       title("Titulek"),
       string("Název role", "role"),
@@ -150,7 +144,7 @@ const pages = files("Stránky", "pages", [
   fileCollection(
     "Profil zástupce",
     "zastupce",
-    "content/kdo/zastupce/index.md",
+    "content/kdo/zastupce/index.markdown",
     [
       title("Titulek"),
       string("Název role", "role"),
@@ -161,7 +155,7 @@ const pages = files("Stránky", "pages", [
       media_folder: "",
     }
   ),
-  fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.md", [
+  fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
     list("Možnosti kontaktu", "položka", "contact", [
@@ -172,19 +166,15 @@ const pages = files("Stránky", "pages", [
     markdown("Text", "body"),
   ]),
   fileCollection(
-    "Desatero komunikace",
-    "desatero",
-    "content/kdo/desatero/index.md",
-    [title("Titulek"), markdown("Perex", "perex"), markdown("Text", "body")]
-  ),
-  fileCollection(
     "Čím se zabývá",
     "cim-se-zabyva",
-    "content/kdo/cim-se-zabyva/index.md",
+    "content/kdo/cim-se-zabyva/index.markdown",
     [
       title("Titulek"),
       markdown("Perex", "perex"),
+      markdown("Titulek - co může", "we-can-title"),
       list("Co může", "položka", "we-can", [string("Může", "text")]),
+      markdown("Titulek - co nemůže", "we-cannot-title"),
       list("Co nemůže", "položka", "we-cannot", [string("Nemůže", "text")]),
       markdown("Text", "body"),
     ],
@@ -192,27 +182,56 @@ const pages = files("Stránky", "pages", [
       media_folder: "",
     }
   ),
-  fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.md", [
+  fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
     markdown("Text", "body"),
     markdown("Linky důvěry", "linky"),
-  ]),
-  fileCollection("Linky důvěry", "linky", "content/pomoc/linky.md", [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
-  ]),
-  fileCollection("Další odkazy", "odkazy", "content/pomoc/odkazy.md", [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
   ]),
   fileCollection("Jsem v zařízení…", "jsem", "content/jsem/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
   ]),
 ]);
+
+
+const kdo = folderCollection(
+  "Kdo je to ombudsman",
+  "kdo",
+  "o ombudsmanovi",
+  {
+    folder: "content/kdo",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+  ]
+);
+
+const pomoc = folderCollection(
+  "Hledám pomoc",
+  "pomoc",
+  "pomoc",
+  {
+    folder: "content/pomoc",
+    path: "{{slug}}/index",
+    extension: "md",
+    create: true,
+    media_folder: "",
+    public_folder: "",
+  },
+  [
+    title("Titulek"),
+    markdown("Perex", "perex"),
+    markdown("Text", "body"),
+  ]
+);
 
 const jsem = folderCollection(
   "Jsem v zařízení",
@@ -297,5 +316,5 @@ save("./static/admin/config.yml", {
     clean_accents: true,
     sanitize_replacement: "_",
   },
-  collections: [pages, aktualne, jsem, pripady],
+  collections: [pages, aktualne, kdo, pomoc, jsem, pripady],
 });

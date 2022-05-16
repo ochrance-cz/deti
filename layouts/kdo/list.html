@@ -65,6 +65,12 @@
         {{ with .GetPage "/kdo/desatero" }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
+
+        {{ range .Pages }}
+          {{ if not (in (slice "/kdo/co/" "/kdo/cim-se-zabyva/" "/kdo/desatero/" "/kdo/jak/" "/kdo/ombudsman/" "/kdo/zastupce/") .RelPermalink) }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
       </ul>
     </div>
   </article>

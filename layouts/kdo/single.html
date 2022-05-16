@@ -25,7 +25,7 @@
       {{ end }}
 
       {{ with (index .Params "we-can") }}
-        <p>Ochránce <strong>může</strong> pomoci např., když:</p>
+        {{ partial "md-block.html" (index $.Params "we-can-title") }}
 
         <ul class="_we-can">
           {{ range .  }}
@@ -35,7 +35,7 @@
       {{ end }}
 
       {{ with (index .Params "we-cannot") }}
-        <p><strong>Nemůže</strong> například:</p>
+        {{ partial "md-block.html" (index $.Params "we-cannot-title") }}
 
         <ul class="_we-cannot">
           {{ range .  }}

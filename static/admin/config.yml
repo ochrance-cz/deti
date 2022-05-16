@@ -139,32 +139,9 @@ collections:
             name: facts
             required: false
             widget: markdown
-      - label: Co se bude dít s mým případem?
-        name: co
-        file: content/kdo/co/index.md
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
       - label: Profil ombudsmana
         name: ombudsman
-        file: content/kdo/ombudsman/index.md
+        file: content/kdo/ombudsman/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -196,7 +173,7 @@ collections:
         media_folder: ''
       - label: Profil zástupce
         name: zastupce
-        file: content/kdo/zastupce/index.md
+        file: content/kdo/zastupce/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -228,7 +205,7 @@ collections:
         media_folder: ''
       - label: Jak kontaktovat
         name: kontakt
-        file: content/kdo/jak/index.md
+        file: content/kdo/jak/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -321,48 +298,9 @@ collections:
             name: body
             required: false
             widget: markdown
-      - label: Desatero komunikace
-        name: desatero
-        file: content/kdo/desatero/index.md
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
       - label: Čím se zabývá
         name: cim-se-zabyva
-        file: content/kdo/cim-se-zabyva/index.md
+        file: content/kdo/cim-se-zabyva/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -381,6 +319,22 @@ collections:
               - numbered-list
             label: Perex
             name: perex
+            required: false
+            widget: markdown
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Titulek - co může
+            name: we-can-title
             required: false
             widget: markdown
           - label: Co může
@@ -393,6 +347,22 @@ collections:
                 name: text
                 required: false
                 widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Titulek - co nemůže
+            name: we-cannot-title
+            required: false
+            widget: markdown
           - label: Co nemůže
             name: we-cannot
             required: false
@@ -422,7 +392,7 @@ collections:
         media_folder: ''
       - label: Nevíš si rady?
         name: pomoc
-        file: content/pomoc/_index.md
+        file: content/pomoc/_index.markdown
         fields:
           - label: Titulek
             name: title
@@ -473,84 +443,6 @@ collections:
               - numbered-list
             label: Linky důvěry
             name: linky
-            required: false
-            widget: markdown
-      - label: Linky důvěry
-        name: linky
-        file: content/pomoc/linky.md
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
-      - label: Další odkazy
-        name: odkazy
-        file: content/pomoc/odkazy.md
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
             required: false
             widget: markdown
       - label: Jsem v zařízení…
@@ -646,6 +538,100 @@ collections:
             name: link
             required: false
             widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: o ombudsmanovi
+    label: Kdo je to ombudsman
+    label_singular: kdo
+    folder: content/kdo
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: pomoc
+    label: Hledám pomoc
+    label_singular: pomoc
+    folder: content/pomoc
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
     create: true
     path: '{{slug}}/index'
     media_folder: ''

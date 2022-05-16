@@ -2,6 +2,7 @@
 title: Čím se zabýváme
 perex: Ombudsman kontroluje činnost úřadů. To znamená, že prošetřuje, jestli
   úřady postupují správně a jednají včas.
+we-can-title: "Ochránce **může** pomoci např., když:"
 we-can:
   - text: sociální pracovník/ice nejedná správně
   - text: soudní řízení trvá dlouho
@@ -17,6 +18,7 @@ we-can:
       staví bez povolení
   - text: úřady neřeší skládku odpadu na místě, kde je to zakázáno
   - text: tvá reklamace na zboží, které nefungovalo, nebyla vyřízena
+we-cannot-title: "**Nemůže** například:"
 we-cannot:
   - text: Nemůže změnit rozhodnutí soudu (v tomto případě je třeba věc řešit jinak,
       např. podat odvolání)
