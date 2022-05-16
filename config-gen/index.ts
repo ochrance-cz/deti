@@ -134,7 +134,7 @@ const pages = files("Stránky", "pages", [
   ]),
 ]);
 
-const kdoCustom = files("Kdo je ombudsman — unikátní“", "kdo-custom", [
+const kdoCustom = files("Speciální „Kdo je…“", "kdo-custom", [
   fileCollection("O ombudsmanovi", "kdo", "content/kdo/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),

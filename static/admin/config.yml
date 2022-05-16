@@ -253,7 +253,7 @@ collections:
     media_folder: ''
     public_folder: ''
   - name: kdo-custom
-    label: Kdo je ombudsman — unikátní“
+    label: Speciální „Kdo je…“
     editor:
       preview: false
     files:
