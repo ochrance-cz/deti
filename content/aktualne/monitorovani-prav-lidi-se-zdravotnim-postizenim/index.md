@@ -6,4 +6,8 @@ perex: >-
   zdravotním  postižením.
 ---
 
-<p>V rámci působnosti jakožto monitorovacího orgánu se ombudsman systematický zabývá problematikou práv osob se zdravotním postižením a jejich naplňováním. Provádí výzkumy, vydává doporučení k otázkám souvisejícím s naplňováním práv osob se zdravotním postižením a dále také navrhuje opatření směřující k ochraně osob se zdravotním postižením.</p>
+
+
+V rámci působnosti jakožto monitorovacího orgánu se ombudsman systematický zabývá problematikou práv osob se zdravotním postižením a jejich naplňováním. Provádí výzkumy, vydává doporučení k otázkám souvisejícím s naplňováním práv osob se zdravotním postižením a dále také navrhuje opatření směřující k ochraně osob se zdravotním postižením.
+
+

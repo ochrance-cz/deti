@@ -8,4 +8,12 @@ perex: >-
   nezaopatřené osoby do 26 let (jedná se hlavně o studenty).
 ---
 
-<p>Listina základních práv a svobod dětem garantuje zvláštní ochranu. Také Úmluva o právech dítěte uznává právo na volný čas a odpočinek a také právo dítěte svobodně participovat na kulturním životě a umělecké činnosti. Zpoplatnění testů podle zástupkyně ombudsmana tato práva narušuje a jde proti nejlepším zájmům dětí.</p><p>V dopise pro ministrova zdravotnictví zástupkyně ombudsmana také upozornila, že případné zpoplatnění testů by bylo finanční zátěží pro rodiny a mohlo by dojít k znevýhodnění dětí ze sociálně slabších rodin.</p>
+
+
+Listina základních práv a svobod dětem garantuje zvláštní ochranu. Také Úmluva o právech dítěte uznává právo na volný čas a odpočinek a také právo dítěte svobodně participovat na kulturním životě a umělecké činnosti. Zpoplatnění testů podle zástupkyně ombudsmana tato práva narušuje a jde proti nejlepším zájmům dětí.
+
+
+
+V dopise pro ministrova zdravotnictví zástupkyně ombudsmana také upozornila, že případné zpoplatnění testů by bylo finanční zátěží pro rodiny a mohlo by dojít k znevýhodnění dětí ze sociálně slabších rodin.
+
+

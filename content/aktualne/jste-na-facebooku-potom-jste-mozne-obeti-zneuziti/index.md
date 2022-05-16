@@ -8,4 +8,40 @@ perex: >-
   aktivní na internetu, tak přitom právě vám hrozí nejrůznější formy zneužití.
 ---
 
-<p class="MsoNormal">Internet dnes nabízí velký prostor pro seznámení s neznámými lidmi. Prostřednictvím <strong>sociálních sítí</strong> (Facebook apod.), <strong>seznamek</strong> (lide.cz apod.) či nejrůznějších <strong>komunikačních stránek</strong> (ICQ, Skype) je možné na internetu komunikovat v podstatě s kýmkoli, kdo si zrovna na tom kterém serveru zřídí účet (což je většinou velmi snadné).</p><p>Existují lidé, kteří uvedené internetové stránky užívají z toho důvodu, aby <strong>sexuálně obtěžovali</strong>, <strong>zneužili</strong> nebo <strong>jinak zmanipulovali</strong> nezletilé, a to nejen dospívající, ale i mladší děti. V podstatě <strong>neexistuje žádná věková hranice</strong>, o které by se dalo říci, že právě dítě tohoto věku je ještě v bezpečí a nic mu nehrozí. Sexuální zneužití, obtěžování či jiná manipulace hrozí v podstatě <strong>všem, kdo se na internetu pohybují a komunikují</strong>.</p><p>Činnost lidí, kteří internet uvedeným způsobem zneužívají, se odborně jmenuje <strong>cyber grooming</strong> (nebo taky kybergrooming, child grooming) a takovým lidem se říká <strong>groomeři</strong>. Groomeři většinou vystupují pod falešným jménem, mají vymyšlenou identitu i profil. Jejich prvním cílem je vyvolat v dítěti (dospívajícím) <strong>falešnou důvěru</strong> a <strong>připravit ho na schůzku</strong> v reálném světě, jejímž cílem je dotyčného nějakým způsobem, především (ale nejen) sexuálním, zneužít. Groomeři jsou velmi často pedofilové, tedy lidé s erotickou náklonností vůči nedospělým. Může jít ale i o obchodníky, kteří si dětskou pornografií vydělávají peníze.</p><p>Právě za účelem předcházení útoků groomerů, ale i jako pomoc v situacích, ve kterých už k nějakému kontaktu a ohrožení dítěte (dospívajícího) došlo, vytvořila Policie České republiky poměrně účinný a hlavně <strong>rychlý systém oznámení</strong>. Na svých internetových stránkách umístila <a title="Otevření do nového okna" href="http://www.policie.cz" target="_blank">banner</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /> (neboli rychlý odkaz) s názvem <strong>HLÁŠENÍ KYBERKRIMINALITY</strong> (<a title="Otevření do nového okna" href="http://www.policie.cz/" target="_blank">http://www.policie.cz/</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />): </p><p><a href="typo3/#" onclick="window.close();"><img border="0" src="typo3temp/pics/1fe0bd6311.png" alt="" height="200" width="320" /></a></p><p>Odkliknutím banneru se otevře krátký <strong><a title="Otevření do nového okna" href="http://aplikace.policie.cz/hotline" target="_blank">formulář</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" /></strong>, který slouží k <strong>upozornění na závadový obsah či aktivity</strong> v síti internet (<a title="Otevření do nového okna" href="http://aplikace.policie.cz/hotline/" target="_blank">http://aplikace.policie.cz/hotline/</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />)</p><p><a href="typo3/#" onclick="window.close();"><img border="0" src="typo3temp/pics/9dac43fa99.png" alt="" height="200" width="320" /></a></p><p>Odesláním vyplněného formuláře se oznamovatel <strong>k ničemu nezavazuje</strong>, a <strong>nejde o trestní oznáme</strong><strong>ní</strong>. Vyplněný formulář vyhodnocují speciálně ustanovení policisté, kteří se specializují na tuto formu kriminality. Oznamovateli přijde odpověď, jak policisté s informacemi naložili.</p>
+
+
+Internet dnes nabízí velký prostor pro seznámení s neznámými lidmi. Prostřednictvím **sociálních sítí** (Facebook apod.), **seznamek** (lide.cz apod.) či nejrůznějších **komunikačních stránek** (ICQ, Skype) je možné na internetu komunikovat v podstatě s kýmkoli, kdo si zrovna na tom kterém serveru zřídí účet (což je většinou velmi snadné).
+
+
+
+Existují lidé, kteří uvedené internetové stránky užívají z toho důvodu, aby **sexuálně obtěžovali** , **zneužili** nebo **jinak zmanipulovali** nezletilé, a to nejen dospívající, ale i mladší děti. V podstatě **neexistuje žádná věková hranice** , o které by se dalo říci, že právě dítě tohoto věku je ještě v bezpečí a nic mu nehrozí. Sexuální zneužití, obtěžování či jiná manipulace hrozí v podstatě **všem, kdo se na internetu pohybují a komunikují**.
+
+
+
+Činnost lidí, kteří internet uvedeným způsobem zneužívají, se odborně jmenuje **cyber grooming** (nebo taky kybergrooming, child grooming) a takovým lidem se říká **groomeři**. Groomeři většinou vystupují pod falešným jménem, mají vymyšlenou identitu i profil. Jejich prvním cílem je vyvolat v dítěti (dospívajícím) **falešnou důvěru** a **připravit ho na schůzku** v reálném světě, jejímž cílem je dotyčného nějakým způsobem, především (ale nejen) sexuálním, zneužít. Groomeři jsou velmi často pedofilové, tedy lidé s erotickou náklonností vůči nedospělým. Může jít ale i o obchodníky, kteří si dětskou pornografií vydělávají peníze.
+
+
+
+Právě za účelem předcházení útoků groomerů, ale i jako pomoc v situacích, ve kterých už k nějakému kontaktu a ohrožení dítěte (dospívajícího) došlo, vytvořila Policie České republiky poměrně účinný a hlavně **rychlý systém oznámení**. Na svých internetových stránkách umístila [banner](http://www.policie.cz) (neboli rychlý odkaz) s názvem **HLÁŠENÍ KYBERKRIMINALITY** [(http://www.policie.cz/](http://www.policie.cz/)): 
+
+
+
+
+
+
+
+
+
+Odkliknutím banneru se otevře krátký **[formulář](http://aplikace.policie.cz/hotline)** , který slouží k **upozornění na závadový obsah či aktivity** v síti internet [(http://aplikace.policie.cz/hotline/](http://aplikace.policie.cz/hotline/))
+
+
+
+
+
+
+
+
+
+Odesláním vyplněného formuláře se oznamovatel **k ničemu nezavazuje** , a **nejde o trestní oznámení**. Vyplněný formulář vyhodnocují speciálně ustanovení policisté, kteří se specializují na tuto formu kriminality. Oznamovateli přijde odpověď, jak policisté s informacemi naložili.
+
+

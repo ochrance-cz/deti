@@ -6,4 +6,20 @@ perex: >-
   něm vědí jiné děti?
 ---
 
-<p>Odpovědi na tyto otázky právě hledá Anička spolu se svým kameramanem. Těš se na výsledek.</p><p><img width="300" height="225" src="/media/IMG_20200831_094512.jpg.jpg" alt="" /></p><p><img width="300" height="225" src="/media/IMG_20200831_095020.jpg.jpg" alt="" /></p><p><img width="300" height="225" src="/media/IMG_20200831_093911.jpg.jpg" alt="" /></p>
+
+
+Odpovědi na tyto otázky právě hledá Anička spolu se svým kameramanem. Těš se na výsledek.
+
+
+
+![](media/IMG_20200831_094512.jpg.jpg)
+
+
+
+![](media/IMG_20200831_095020.jpg.jpg)
+
+
+
+![](media/IMG_20200831_093911.jpg.jpg)
+
+

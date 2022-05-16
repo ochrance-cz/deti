@@ -9,4 +9,12 @@ perex: >-
   základních škol.
 ---
 
-<p>Platí, že dohodnou-li se na tom rodiče, může dítě svěřené do střídavé péče rodičů navštěvovat dvě školy. Rodiče by však vždy měli přihlížet k <strong>zájmům dítěte a individuálně posoudit, zda je to pro jejich dítě vhodné</strong>. </p> <p>Je tedy možné, aby se dítě vzdělávalo na dvou základních školách zároveň. Pravidla spolupráce si následně mezi sebou dohodnou ředitelé těchto škol. Vysvědčení ale vydává jen jedna škola – ta, do které začal chodit žák dříve (pokud se rodiče nedohodnou či soud nerozhodne jinak). Při hodnocení žáka, tedy při udělování známek na vysvědčení, pak musí škola zohlednit i výsledky žáka na druhé škole.</p>
+
+
+Platí, že dohodnou-li se na tom rodiče, může dítě svěřené do střídavé péče rodičů navštěvovat dvě školy. Rodiče by však vždy měli přihlížet k **zájmům dítěte a individuálně posoudit, zda je to pro jejich dítě vhodné**. 
+
+
+
+Je tedy možné, aby se dítě vzdělávalo na dvou základních školách zároveň. Pravidla spolupráce si následně mezi sebou dohodnou ředitelé těchto škol. Vysvědčení ale vydává jen jedna škola – ta, do které začal chodit žák dříve (pokud se rodiče nedohodnou či soud nerozhodne jinak). Při hodnocení žáka, tedy při udělování známek na vysvědčení, pak musí škola zohlednit i výsledky žáka na druhé škole.
+
+

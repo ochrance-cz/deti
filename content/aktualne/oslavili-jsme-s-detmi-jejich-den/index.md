@@ -7,4 +7,32 @@ perex: >-
   fantazii i tvořivé ruce.
 ---
 
-<p>Stačilo se zaregistrovat....</p><p><img src="/media/detsky-den-04w.jpg.jpg" height="200" width="300" alt="" /></p><p>.... a mohlo se začít</p><p><img src="/media/detsky-den-03w.jpg.jpg" height="400" width="300" alt="" /></p><p>... ani dospělí občas neodolali a vyzkoušeli svou šikovnost</p><p><img src="/media/detsky-den-05.jpg.jpg" height="450" width="300" alt="" /></p><p><img src="/media/detsky-den-01.jpg.jpg" height="200" width="300" alt="" /></p>
+
+
+Stačilo se zaregistrovat....
+
+
+
+![](/media/detsky-den-04w.jpg.jpg) 
+
+
+
+.... a mohlo se začít
+
+
+
+![](/media/detsky-den-03w.jpg.jpg) 
+
+
+
+... ani dospělí občas neodolali a vyzkoušeli svou šikovnost
+
+
+
+![](/media/detsky-den-05.jpg.jpg) 
+
+
+
+![](/media/detsky-den-01.jpg.jpg) 
+
+

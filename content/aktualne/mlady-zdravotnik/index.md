@@ -6,4 +6,16 @@ perex: >-
   dělat?
 ---
 
-<p>Pokud sis se vším rady nevěděl/a, doporučujeme kouknout na stránky Českého červeného kříže <a href="https://mladyzdravotnik.cz/" target="_blank">Mladý zdravotník</a>. </p><p>Pokud rád/a omalováváš, určitě si stáhni i tyto <a href="https://mladyzdravotnik.cz/assets/uploads/sites/680/2017/12/CCK_Omalovanky.pdf" target="_blank">omalovánky</a>. Poradí ti, jak ošetřit nejčastější zranění i co dělat, když chceš někomu pomoct. </p><p><img src="/media/mdloba.png.png" height="429" width="300" alt="" /></p>
+
+
+Pokud sis se vším rady nevěděl/a, doporučujeme kouknout na stránky Českého červeného kříže [Mladý zdravotník](https://mladyzdravotnik.cz/). 
+
+
+
+Pokud rád/a omalováváš, určitě si stáhni i tyto [omalovánky](https://mladyzdravotnik.cz/assets/uploads/sites/680/2017/12/CCK_Omalovanky.pdf). Poradí ti, jak ošetřit nejčastější zranění i co dělat, když chceš někomu pomoct. 
+
+
+
+![](/media/mdloba.png.png) 
+
+

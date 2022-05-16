@@ -4,4 +4,14 @@ date: "2020-07-13"
 perex: Mohou existovat jiná řešení...
 ---
 
-<ul><li>Rodiče mohou požádat o dávku pomoci v hmotné nouzi <strong>„mimořádná okamžitá pomoc“.</strong> Musí o ni požádat na formuláři u úřadu práce v místě jejich trvalého pobytu. Dávka může pokrýt i celé náklady na tábor. Jako celá rodina však může dostat <strong>nanejvýš 38 600 Kč za rok</strong>. Podrobnosti najdeš v našem letáku <a href="https://www.ochrance.cz/fileadmin/user_upload/Letaky/MOP-pro-deti.pdf" target="_blank">Mimořádná okamžitá pomoc pro nezaopatřené děti</a>. </li><li>Na tábory přispívají také některé <strong>zdravotní pojišťovny nebo obce (města),</strong> kde bydlíš. Než se rodiče obrátí na úřad práce, ověřte si i tyto možnosti.</li></ul><h5>Hodit by se ti mohly také informace z příručky <a href="https://www.ochrance.cz/fileadmin/user_upload/Letaky/Prazdniny-bezpecne.pdf" target="_blank">Prázdniny bezpečně s ombudsmanem</a>. </h5><p><img src="/media/10_penize_na_tabor_01.png.png" height="373" width="445" alt="" /></p>
+
+
+
+- Rodiče mohou požádat o dávku pomoci v hmotné nouzi **„mimořádná okamžitá pomoc“.** Musí o ni požádat na formuláři u úřadu práce v místě jejich trvalého pobytu. Dávka může pokrýt i celé náklady na tábor. Jako celá rodina však může dostat **nanejvýš 38 600 Kč za rok**. Podrobnosti najdeš v našem letáku [Mimořádná okamžitá pomoc pro nezaopatřené děti](https://www.ochrance.cz/fileadmin/user_upload/Letaky/MOP-pro-deti.pdf). 
+- Na tábory přispívají také některé **zdravotní pojišťovny nebo obce (města),** kde bydlíš. Než se rodiče obrátí na úřad práce, ověřte si i tyto možnosti.
+
+**Hodit by se ti mohly také informace z příručky [Prázdniny bezpečně s ombudsmanem](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Prazdniny-bezpecne.pdf).**
+
+![](/media/10_penize_na_tabor_01.png.png) 
+
+

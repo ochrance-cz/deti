@@ -9,4 +9,60 @@ perex: >-
   pěstounské péči, poručenské péči nebo ústavní výchově.
 ---
 
-<p>Poskytuje se jako</p><ul><li><strong>jednorázový</strong> ve výši <strong>25 000 Kč</strong>, který nahrazuje dosavadní příspěvek při ukončení pěstounské péče, a</li><li><strong>opakovaný</strong> ve výši <strong>15 000 Kč měsíčně</strong>, který do budoucna nahradí jednu z pěstounských dávek – prodloužený příspěvek na úhradu potřeb dítěte (pokud jsi byl v pěstounské nebo poručnické péči, můžeš si do konce roku 2027 vybrat, zda budeš i nadále pobírat příspěvek na úhradu potřeb dítěte, nebo požádáš o nový zaopatřovací příspěvek).</li></ul><p>Nárok na <strong>opakovaný</strong> zaopatřovací příspěvek Ti vznikne, pokud</p><ul><li>a) <em>náhradní rodinná péče nebo ústavní výchova trvala zákonem stanovenou dobu</em> (<strong>3 roky</strong>, pokud se o Tebe staral někdo z příbuzných nebo blízkých, anebo <strong>12 měsíců</strong> ve všech ostatních případech),<br />Pro specifické případy zákon stanoví <strong>výjimky</strong><br />Generální ředitelství Úřadu práce ČR také může na základě písemné odůvodněné žádosti <strong>prominout</strong> splnění této podmínky.</li><li>b) <em>jsi nezaopatřený</em>, tj. ve věku do 26 let a studuješ, nebo pro nemoc nemůžeš studovat nebo pracovat,</li><li>c) <em>nebyl jsi pravomocně odsouzen k nepodmíněnému trestu odnětí svobody, který dosud nebyl zahlazen</em> (úřad práce si vyžádá výpis z rejstříku trestů),</li><li>d) <em>máš vypracovaný individuální plán a poskytuješ součinnost při jeho vyhodnocování a aktualizaci</em> (vypracovává ho sociální pracovník obecního úřadu obce s rozšířenou působností).</li></ul><h4>POZOR! Nárok na zaopatřovací příspěvek Ti zanikne, jestliže třikrát bez vážného důvodu změníš obor studia.</h4><p> </p><p>Nárok na <strong>jednorázový</strong> zaopatřovací příspěvek Ti vznikne, pokud ke dni dosažení 18. roku věku nebo přiznání plné svéprávnosti (např. uzavřením manželství před nabytím zletilosti)</p><ul><li>a) <em>nejsi nezaopatřeným dítětem</em>  (tj. pracuješ a současně nestuduješ, nebo nestuduješ ani nepracuješ, byť můžeš), nebo</li><li>b) <em>přestaneš splňovat podmínky pro opakovaný zaopatřovací příspěvek</em> (například nebudeš-li spolupracovat se sociálním pracovníkem při vyhodnocování Tvého individuálního plánu).</li></ul><h4>POZOR! Jednorázový zaopatřovací příspěvek Ti nenáleží, pokud Ti zařízení při propuštění z ústavní výchovy poskytlo věcnou pomoc (např. vybavení do domácnosti) nebo jednorázový peněžitý příspěvek, a to i v případě, že byly v nižší výši než 25 000 Kč.</h4><p> </p><p><strong>Žádost</strong> o zaopatřovací příspěvek musíš podat na <strong>úřadu práce v místě svého trvalého pobytu</strong>. Formulář žádosti v elektronické podobě včetně výčtu povinných příloh najdeš na webu Ministerstva práce a sociálních věcí (<a href="https://www.mpsv.cz/web/cz/-/zadost-o-zaopatrovaci-prispevek-jednorazovy" target="_blank">jednorázový</a>, <a href="https://www.mpsv.cz/web/cz/-/zadost-o-zaopatrovaci-prispevek-opakujici-se" target="_blank">opakovaný</a>).</p><p>Zaopatřovací příspěvek Ti úřad práce vyplatí <strong>měsíčně pozadu</strong>, tedy například dávku za leden Ti vyplatí až v únoru.</p><p>Další informace k zaopatřovacímu příspěvku a ostatním změnám v dávkách pěstounské péče najdeš na webu <a href="https://www.uradprace.cz/web/cz/davky-pestounske-pece-a-zaopatrovaci-prispevky1" target="_blank">Úřadu práce ČR</a>.</p>
+
+
+Poskytuje se jako
+
+
+
+
+- **jednorázový** ve výši **25 000 Kč** , který nahrazuje dosavadní příspěvek při ukončení pěstounské péče, a
+- **opakovaný** ve výši **15 000 Kč měsíčně** , který do budoucna nahradí jednu z pěstounských dávek – prodloužený příspěvek na úhradu potřeb dítěte (pokud jsi byl v pěstounské nebo poručnické péči, můžeš si do konce roku 2027 vybrat, zda budeš i nadále pobírat příspěvek na úhradu potřeb dítěte, nebo požádáš o nový zaopatřovací příspěvek).
+
+
+
+Nárok na **opakovaný** zaopatřovací příspěvek Ti vznikne, pokud
+
+
+
+
+- a) *náhradní rodinná péče nebo ústavní výchova trvala zákonem stanovenou dobu* (**3 roky** , pokud se o Tebe staral někdo z příbuzných nebo blízkých, anebo **12 měsíců** ve všech ostatních případech),  
+Pro specifické případy zákon stanoví **výjimky**  
+Generální ředitelství Úřadu práce ČR také může na základě písemné odůvodněné žádosti **prominout** splnění této podmínky.
+- b) *jsi nezaopatřený*, tj. ve věku do 26 let a studuješ, nebo pro nemoc nemůžeš studovat nebo pracovat,
+- c) *nebyl jsi pravomocně odsouzen k nepodmíněnému trestu odnětí svobody, který dosud nebyl zahlazen* (úřad práce si vyžádá výpis z rejstříku trestů),
+- d) *máš vypracovaný individuální plán a poskytuješ součinnost při jeho vyhodnocování a aktualizaci* (vypracovává ho sociální pracovník obecního úřadu obce s rozšířenou působností).
+
+
+
+## POZOR! Nárok na zaopatřovací příspěvek Ti zanikne, jestliže třikrát bez vážného důvodu změníš obor studia.
+
+
+
+
+Nárok na **jednorázový** zaopatřovací příspěvek Ti vznikne, pokud ke dni dosažení 18. roku věku nebo přiznání plné svéprávnosti (např. uzavřením manželství před nabytím zletilosti)
+
+
+
+
+- a) *nejsi nezaopatřeným dítětem*  (tj. pracuješ a současně nestuduješ, nebo nestuduješ ani nepracuješ, byť můžeš), nebo
+- b) *přestaneš splňovat podmínky pro opakovaný zaopatřovací příspěvek* (například nebudeš-li spolupracovat se sociálním pracovníkem při vyhodnocování Tvého individuálního plánu).
+
+
+
+## POZOR! Jednorázový zaopatřovací příspěvek Ti nenáleží, pokud Ti zařízení při propuštění z ústavní výchovy poskytlo věcnou pomoc (např. vybavení do domácnosti) nebo jednorázový peněžitý příspěvek, a to i v případě, že byly v nižší výši než 25 000 Kč.
+
+
+
+
+**Žádost** o zaopatřovací příspěvek musíš podat na **úřadu práce v místě svého trvalého pobytu**. Formulář žádosti v elektronické podobě včetně výčtu povinných příloh najdeš na webu Ministerstva práce a sociálních věcí [(jednorázový](https://www.mpsv.cz/web/cz/-/zadost-o-zaopatrovaci-prispevek-jednorazovy), [opakovaný](https://www.mpsv.cz/web/cz/-/zadost-o-zaopatrovaci-prispevek-opakujici-se)).
+
+
+
+Zaopatřovací příspěvek Ti úřad práce vyplatí **měsíčně pozadu** , tedy například dávku za leden Ti vyplatí až v únoru.
+
+
+
+Další informace k zaopatřovacímu příspěvku a ostatním změnám v dávkách pěstounské péče najdeš na webu [Úřadu práce ČR](https://www.uradprace.cz/web/cz/davky-pestounske-pece-a-zaopatrovaci-prispevky1).
+
+

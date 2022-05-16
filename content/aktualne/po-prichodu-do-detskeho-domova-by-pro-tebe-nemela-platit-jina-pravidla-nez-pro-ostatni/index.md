@@ -13,4 +13,24 @@ perex: >-
   několik stovek metrů nemohla samostatně odejít mimo areál zařízení.
 ---
 
-<p>Ochránkyni se přístup zařízení nelíbil. Kontaktovala proto také sociální pracovnici OSPOD, která měla dívku na starosti. Ani ta však s věcí nic neudělala. Zařízení trvalo na tom, že tato omezení jsou během prvního měsíce pobytu dívky v domově nutná. Po rozsáhlé komunikaci dětský domov i OSPOD uznali svou chybu. Zařízení s příchodem nového ředitele změnilo vnitřní řád. OSPOD slíbil, že napříště bude postupovat podle doporučení ombudsmanky. </p><p>Kdybys chtěl/a vědět víc, podrobně jsme případ popsali ve <a title="Otevření do nového okna" href="http://eso.ochrance.cz/Nalezene/Edit/5694" target="_blank">zprávě ombudsmanky </a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />a jejím <a title="Otevření do nového okna" href="http://eso.ochrance.cz/Nalezene/Edit/6374" target="_blank">závěrečném stanovisku</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</p><h4><br />Co obecně platí?</h4><p>Zákon dětem umístěným z ústavních zařízeních (dětském domově, dětském domově se školou, výchovném či diagnostickém ústavu či středisku výchovné péče) garantuje práva, do kterých personál zařízení nemůže jen tak zasáhnout. A to ani s odůvodněním, že si dítě v zařízení musí zvyknout (například během prvního měsíce).</p><p>Ombudsmanka se však občas setkává s případy, kdy zařízení nově příchozím dětem automaticky zakazuje přijímat návštěvy blízkých, chodit na volné vycházky, telefonovat, mít u sebe vlastní mobil či používat internet.  To však nelze. Omezení těchto práv je možné jen z vážných důvodů a je-li to v zájmu dítěte. O některých dokonce musí rozhodnout soud. Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům či pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat <a href="jak-se-na-ochrance-obratit/">nás</a>. </p>
+
+
+Ochránkyni se přístup zařízení nelíbil. Kontaktovala proto také sociální pracovnici OSPOD, která měla dívku na starosti. Ani ta však s věcí nic neudělala. Zařízení trvalo na tom, že tato omezení jsou během prvního měsíce pobytu dívky v domově nutná. Po rozsáhlé komunikaci dětský domov i OSPOD uznali svou chybu. Zařízení s příchodem nového ředitele změnilo vnitřní řád. OSPOD slíbil, že napříště bude postupovat podle doporučení ombudsmanky. 
+
+
+
+Kdybys chtěl/a vědět víc, podrobně jsme případ popsali ve [zprávě ombudsmanky ](http://eso.ochrance.cz/Nalezene/Edit/5694)a jejím [závěrečném stanovisku](http://eso.ochrance.cz/Nalezene/Edit/6374).
+
+
+
+## Co obecně platí?
+
+
+
+Zákon dětem umístěným z ústavních zařízeních (dětském domově, dětském domově se školou, výchovném či diagnostickém ústavu či středisku výchovné péče) garantuje práva, do kterých personál zařízení nemůže jen tak zasáhnout. A to ani s odůvodněním, že si dítě v zařízení musí zvyknout (například během prvního měsíce).
+
+
+
+Ombudsmanka se však občas setkává s případy, kdy zařízení nově příchozím dětem automaticky zakazuje přijímat návštěvy blízkých, chodit na volné vycházky, telefonovat, mít u sebe vlastní mobil či používat internet.  To však nelze. Omezení těchto práv je možné jen z vážných důvodů a je-li to v zájmu dítěte. O některých dokonce musí rozhodnout soud. Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům či pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](jak-se-na-ochrance-obratit/). 
+
+

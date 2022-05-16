@@ -10,8 +10,12 @@ perex: >-
   výchovných ústavech, zařízeních sociálně-právní ochrany dětí apod.
 ---
 
-<p>Spolupráce bude 
+
+
+Spolupráce bude 
 probíhat formou konzultací a účasti na provádění návštěv daných 
 zařízení. Pokud máte ve svém okolí takové pracovníky, o
 kterých si myslíte, že by rádi s ochránkyní spolupracovali, můžete jim o
-této možnosti říci. Více informací mohou získat <a title="Otevření do nového okna" href="http://www.ochrance.cz/aktualne/tiskove-zpravy-2015/hledame-odborniky-z-rad-detskych-psychologu-psychoterapeutu-etopedu-a-socialnich-pracovn/" target="_blank">zde</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />. </p>
+této možnosti říci. Více informací mohou získat [zde](http://www.ochrance.cz/aktualne/tiskove-zpravy-2015/hledame-odborniky-z-rad-detskych-psychologu-psychoterapeutu-etopedu-a-socialnich-pracovn/). 
+
+

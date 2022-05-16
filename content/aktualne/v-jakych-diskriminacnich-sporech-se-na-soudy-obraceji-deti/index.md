@@ -10,4 +10,49 @@ perex: >-
   jaké případy se týkaly i dětí.
 ---
 
-<p>Všechny soudy v zemi jsme požádali, aby nám poslaly rozhodnutí, která v diskriminačních případech vydaly v letech 2015 až 2019. Teď víme, že se za tu dobu na soudy s žalobou obrátilo celkem 90 lidí, kteří se cítili být diskriminovaní z různých důvodů. Prostudovali jsme přes 200 rozhodnutí, která soudy vydaly. Teď víme:</p><ul><li>o čem soudy rozhodovaly,</li><li>že to nebylo vždy jednoduché rozhodování,</li><li>co některé problémy způsobilo a jak by se jim dalo do budoucna předejít. </li></ul><p>Často se lidé soudili, když měli v životě potíže kvůli svému <strong>zdravotnímu postižení nebo věku a pohlaví.</strong> Nejvíce lidí se pak soudilo kvůli potížím v práci. Vadilo jim například, že jsou v nevýhodě vůči mladším.</p><ul><li><em>Soudy například řešily případ ženy, která přišla o místo jen kvůli tomu, že byla těhotná.</em></li><li><em>Pomoc u soudů také hledala jiná žena kvůli tomu, že za stejnou práci měla dostávat menší výplatu než muži. </em></li></ul><p>Co do počtu na druhém místě byly <strong>žaloby žáků a studentů, kteří měli různé trable se školou</strong>. A nešlo přitom o známky. </p><ul><li><em>Například až soud se zastal chlapce, který měl kvůli svému zdravotnímu postižení problém najít školu, která by ho přijala. Nejdříve chodil do tzv. speciální školy. Protože byl hodně chytrý, v pedagogické poradně mu doporučili, aby přestoupil do běžné školy v místě, kde bydlí. Mohl by se tak učit společně se svými kamarády z okolí. Ředitelce školy se to nelíbilo. A tak ho nepřijala jen proto, že by s ním bylo kvůli jeho zdravotnímu postižení víc práce.</em> </li><li><em>Jiný soud se zabýval postupem školy, která chlapci se zdravotním postižením nedovolila navštěvovat školní družinu.</em> </li><li><em>Na soud se obrátila také muslimská dívka, které škola zakázala mít při výuce na hlavě šátek.</em></li></ul><p>Některé romské děti a jejich rodiče trápilo, že děti nemohly chodit do školy s neromskými dětmi.</p><ul><li><em>Na soud se obrátili například dva chlapci, které ředitel jedné základní školy nechtěl přijmout do první třídy kvůli tomu, že jsou Romové. Do novin ředitel školy řekl, že by takových dětí ve škole nemělo být moc. Soud se dětí zastal a škola se jim musela omluvit. Do školy nakonec nastoupit mohly.</em></li></ul><p><strong>Kompletní výzkumná zpráva je dostupná <a href="https://eso.ochrance.cz/Nalezene/Edit/8910" target="_blank">zde</a>.</strong></p>
+
+
+Všechny soudy v zemi jsme požádali, aby nám poslaly rozhodnutí, která v diskriminačních případech vydaly v letech 2015 až 2019. Teď víme, že se za tu dobu na soudy s žalobou obrátilo celkem 90 lidí, kteří se cítili být diskriminovaní z různých důvodů. Prostudovali jsme přes 200 rozhodnutí, která soudy vydaly. Teď víme:
+
+
+
+
+- o čem soudy rozhodovaly,
+- že to nebylo vždy jednoduché rozhodování,
+- co některé problémy způsobilo a jak by se jim dalo do budoucna předejít. 
+
+
+
+Často se lidé soudili, když měli v životě potíže kvůli svému **zdravotnímu postižení nebo věku a pohlaví.** Nejvíce lidí se pak soudilo kvůli potížím v práci. Vadilo jim například, že jsou v nevýhodě vůči mladším.
+
+
+
+
+- *Soudy například řešily případ ženy, která přišla o místo jen kvůli tomu, že byla těhotná.*
+- *Pomoc u soudů také hledala jiná žena kvůli tomu, že za stejnou práci měla dostávat menší výplatu než muži. *
+
+
+
+Co do počtu na druhém místě byly **žaloby žáků a studentů, kteří měli různé trable se školou**. A nešlo přitom o známky. 
+
+
+
+
+- *Například až soud se zastal chlapce, který měl kvůli svému zdravotnímu postižení problém najít školu, která by ho přijala. Nejdříve chodil do tzv. speciální školy. Protože byl hodně chytrý, v pedagogické poradně mu doporučili, aby přestoupil do běžné školy v místě, kde bydlí. Mohl by se tak učit společně se svými kamarády z okolí. Ředitelce školy se to nelíbilo. A tak ho nepřijala jen proto, že by s ním bylo kvůli jeho zdravotnímu postižení víc práce.* 
+- *Jiný soud se zabýval postupem školy, která chlapci se zdravotním postižením nedovolila navštěvovat školní družinu.* 
+- *Na soud se obrátila také muslimská dívka, které škola zakázala mít při výuce na hlavě šátek.*
+
+
+
+Některé romské děti a jejich rodiče trápilo, že děti nemohly chodit do školy s neromskými dětmi.
+
+
+
+
+- *Na soud se obrátili například dva chlapci, které ředitel jedné základní školy nechtěl přijmout do první třídy kvůli tomu, že jsou Romové. Do novin ředitel školy řekl, že by takových dětí ve škole nemělo být moc. Soud se dětí zastal a škola se jim musela omluvit. Do školy nakonec nastoupit mohly.*
+
+
+
+**Kompletní výzkumná zpráva je dostupná [zde](https://eso.ochrance.cz/Nalezene/Edit/8910).** 
+
+

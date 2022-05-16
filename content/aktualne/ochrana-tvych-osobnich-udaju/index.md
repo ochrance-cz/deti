@@ -7,7 +7,9 @@ perex: >-
   osobní údaje. Co to pro tebe znamená?
 ---
 
-<p class="MsoNormal">Pokud se na ombudsmanku obrátíš
+
+
+Pokud se na ombudsmanku obrátíš
 s podnětem, případně tě navštívíme v zařízení, ve kterém pobýváš (např.
 dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou
 pomoc), můžeme pro účely vyřízení tvého podnětu a šetření ochránkyně získat tvé
@@ -15,24 +17,67 @@ osobní údaje jako je jméno, příjmení, telefonní číslo, adresa, e-mail �
 narození. Ty uchováváme jak v papírové, tak elektronické podobě, a mohou
 s nimi nakládat pouze oprávnění zaměstnanci naší Kanceláře (např. aby ti
 napsali nebo zavolali). Mimo naši Kancelář pak můžeme tvé osobní údaje
-zpřístupnit pouze:</p><p class="MsoNormal"></p><ul><li>úřadům, institucím, zařízením a dalším osobám,
+zpřístupnit pouze:
+
+
+
+
+
+
+
+
+- úřadům, institucím, zařízením a dalším osobám,
 jejichž činností se ombudsmanka může zabývat, pokud je to nezbytné pro vyřízení
-Tvého podnětu;</li><li>v případech, ve kterých to ukládá zákon, a
-se souhlasem ombudsmanky orgánům veřejné moci (např. soudu či policii);</li><li>kontrolním orgánům, je-li to nezbytné v
-souvislosti s kontrolou činnosti naší Kanceláře.</li></ul><br /><p class="MsoNormal"><strong>Nejčastější otázky a odpovědi související s ochranou tvých
-osobních údajů:</strong></p><p class="MsoNormal"></p><p class="MsoNormal"><strong>Můžu zjistit, jaké informace o mě
-Kancelář veřejného ochránce práv má a jak dlouho je bude uchovávat? Bude mě to něco stát?</strong></p>
-<p class="MsoNormal">Kdykoliv nám můžeš napsat dotaz a
+Tvého podnětu;
+- v případech, ve kterých to ukládá zákon, a
+se souhlasem ombudsmanky orgánům veřejné moci (např. soudu či policii);
+- kontrolním orgánům, je-li to nezbytné v
+souvislosti s kontrolou činnosti naší Kanceláře.
+
+
+
+**Nejčastější otázky a odpovědi související s ochranou tvých
+osobních údajů:** 
+
+
+
+
+
+
+
+**Můžu zjistit, jaké informace o mě
+Kancelář veřejného ochránce práv má a jak dlouho je bude uchovávat? Bude mě to něco stát?** 
+
+
+
+
+Kdykoliv nám můžeš napsat dotaz a
 my ti bezplatně sdělíme, jaké informace o tobě shromažďujeme, proč a také jak
-dlouho je budeme uchovávat.</p>
-<p class="MsoNormal"><strong>Pokud změním telefon, e-mail či
-jiný osobní údaj, musím vám to sdělit?</strong></p>
-<p class="MsoNormal">Nemusíš, ale můžeš. Zejména
+dlouho je budeme uchovávat.
+
+
+
+
+**Pokud změním telefon, e-mail či
+jiný osobní údaj, musím vám to sdělit?** 
+
+
+
+
+Nemusíš, ale můžeš. Zejména
 v případě, kdy se stále zabýváme tvým podnětem, jsou pro nás tyto
-informace důležité.</p>
-<p class="MsoNormal"><strong>Můžu chtít, abyste některé
-z mých údajů vymazali?</strong></p>
-<p class="MsoNormal">Nechceš-li, abychom některé
+informace důležité.
+
+
+
+
+**Můžu chtít, abyste některé
+z mých údajů vymazali?** 
+
+
+
+
+Nechceš-li, abychom některé
 z tvých údajů uchovávali, můžeš nám to kdykoliv napsat. Zvážíme, zda je skutečně
 ještě potřebujeme (např. abychom tvůj podnět mohli vyřídit a informovat tě o
 tom) a dáme ti vědět. Stejně tak můžeš vznést tzv. námitku, tedy sdělit nám
@@ -40,21 +85,47 @@ konkrétní důvod, pro který bychom podle tebe neměli tvé informace zpracov�
 Do doby, než tvou námitku posoudíme, omezíme zpracovávání tvých osobních údajů.
 Posuzovat budeme, zda tvé zájmy a práva převažují nad našimi důvody
 zpracovávání osobních dat. S výsledkem tě seznámíme (stejným způsobem, jakým
-ses na nás obrátil).</p>
-<p class="MsoNormal"><strong>Jak vás mohu kontaktovat?</strong></p>
-<p class="MsoNormal">Postup je shodný jako při podání
-podnětu. Podrobný popis nalezneš <a href="jak-se-na-ochrance-obratit/">zde</a>.</p>
-<p class="MsoNormal"><strong>Za jak dlouho a jak mi odpovíte
-na mé žádosti související se zpracováváním mých osobních údajů?</strong></p>
-<p class="MsoNormal">Ve všech případech tě budeme
+ses na nás obrátil).
+
+
+
+
+**Jak vás mohu kontaktovat?** 
+
+
+
+
+Postup je shodný jako při podání
+podnětu. Podrobný popis nalezneš [zde](jak-se-na-ochrance-obratit/).
+
+
+
+
+**Za jak dlouho a jak mi odpovíte
+na mé žádosti související se zpracováváním mých osobních údajů?** 
+
+
+
+
+Ve všech případech tě budeme
 informovat do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto
 lhůtu ze závažných důvodů prodloužit, dáme ti vědět předem a vysvětlíme ti proč.
 Odpovíme ti stejnou formou, jakou ses na nás obrátil/a (elektronicky, poštou či
-telefonicky), pokud neurčíš jinak.</p>
-<p class="MsoNormal"><strong>Můžu se od někoho dozvědět podrobnější
-informace související s ochranou mých osobních údajů?</strong></p>
-<p class="MsoNormal">Můžeš se obrátit na naši
+telefonicky), pokud neurčíš jinak.
+
+
+
+
+**Můžu se od někoho dozvědět podrobnější
+informace související s ochranou mých osobních údajů?** 
+
+
+
+
+Můžeš se obrátit na naši
 pověřenkyni pro ochranu osobních údajů, kterou je JUDr. Veronika Gabrišová.
-Zavolat jí můžeš na 542 542 311 nebo jí napiš na <a href="mailto:poverenkyne@ochrance.cz">poverenkyne@ochrance.cz</a>.
+Zavolat jí můžeš na 542 542 311 nebo jí napiš na [poverenkyne@ochrance.cz](mailto:poverenkyne@ochrance.cz).
 Můžeš se obrátit i na Úřad pro ochranu osobních údajů. Bližší informace o
-činnosti tohoto Úřadu nalezneš na <a title="Otevření do nového okna" href="http://www.uoou.cz/" target="_blank">www.uoou.cz</a> <img alt="" src="typo3/ext/od_linkdesc/icons/external.gif" class="od_linkdesc_icon_external" />.</p><br />
+činnosti tohoto Úřadu nalezneš na [www.uoou.cz](http://www.uoou.cz/).
+
+

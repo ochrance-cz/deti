@@ -7,4 +7,52 @@ perex: >-
   zhoršila? Buď aktivní a zapoj svoji školu do projektu Nenech to být!
 ---
 
-<p class="MsoNormal">Pokud se škola zaregistruje do systému Nenech to být, může každý prostřednictvím formuláře na webu nntb.cz upozornit na to, že se některé dítě necítí ve škole dobře.  Anonymní podnět, který neobsahuje jméno agresora, putuje rovnou do emailové schránky učitele či psychologa příslušné školy. Ti pak mohou podniknout příslušné kroky.  </p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal">Nikdo nemá právo Tebe nebo Tvoje spolužáky a spolužačky šikanovat. Nenech to být. Ozvi se! Více informací najdeš na <a href="https://www.nntb.cz/" target="_blank">https://www.nntb.cz/</a>.</p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal">Pokud šikana probíhá na facebooku nebo jiné sociální síti nebo prostřednictvím smsek, můžeš kromě školy informovat policii.</p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p>
+
+
+Pokud se škola zaregistruje do systému Nenech to být, může každý prostřednictvím formuláře na webu nntb.cz upozornit na to, že se některé dítě necítí ve škole dobře.  Anonymní podnět, který neobsahuje jméno agresora, putuje rovnou do emailové schránky učitele či psychologa příslušné školy. Ti pak mohou podniknout příslušné kroky.  
+
+
+
+
+
+
+
+
+
+
+
+Nikdo nemá právo Tebe nebo Tvoje spolužáky a spolužačky šikanovat. Nenech to být. Ozvi se! Více informací najdeš na [https://www.nntb.cz/](https://www.nntb.cz/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pokud šikana probíhá na facebooku nebo jiné sociální síti nebo prostřednictvím smsek, můžeš kromě školy informovat policii.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

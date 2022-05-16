@@ -8,4 +8,8 @@ perex: >-
   léčbou?
 ---
 
-<p>Na tyto i další otázky odpovídáme v nově připraveném informačním letáku pro děti – <a title="Otevření do nového okna" href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/psychiatrie/Letak_-_Dite_na_psychiatrii.pdf" target="_blank"><img alt="" src="typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Děti v psychiatrické nemocnici (léčebně)</a> (476.5 kB, Adobe Acrobat dokument). </p>
+
+
+Na tyto i další otázky odpovídáme v nově připraveném informačním letáku pro děti – [Děti v psychiatrické nemocnici (léčebně)](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/psychiatrie/Letak_-_Dite_na_psychiatrii.pdf) (476.5 kB, Adobe Acrobat dokument). 
+
+

@@ -9,13 +9,23 @@ perex: >-
   Proto se obrátili na soud.
 ---
 
-<p class="MsoNormal">Chlapec
+
+
+Chlapec
 totiž střídáním takto odlišných jídel trpěl bolestmi břicha. Před soudem v italském
 městě Bergamo se nakonec podařilo dosáhnout kompromisu. Výsledkem je, že matka bude
 dávat dítěti maso alespoň jednou týdně, otec je naopak povinen zajistit během
-víkendu nanejvýš dvakrát maso. </p>
-<p class="MsoNormal"> </p>
-<p class="MsoNormal">Jakkoli
+víkendu nanejvýš dvakrát maso. 
+
+
+
+
+  
+
+
+
+
+Jakkoli
 se může zdát tento spor malicherný, praktické otázky spojené se střídavým
 pobytem dítěte u matky a otce se často objevují u každého páru, který se
 rozešel. Rodiče by ale neměli zapomínat na to, že poté, co přestanou být
@@ -24,4 +34,6 @@ věcech dohodnout tak, aby byl výsledek v zájmu dítěte. Právě společné d
 by mělo být tím nejpádnějším důvodem, proč hledat kompromis. A spor nemusí být
 mezi rodiči jen o jídlo. Může jít o otázky spojené se způsobem trávení volného
 času, náboženskými otázkami, ale i oblékání dítěte, jeho kontakt
-s kamarády apod. </p>
+s kamarády apod. 
+
+

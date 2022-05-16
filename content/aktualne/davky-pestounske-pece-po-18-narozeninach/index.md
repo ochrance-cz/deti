@@ -8,4 +8,10 @@ perex: >-
   pěstounů.
 ---
 
-<p class="MsoNormal">V takovém případě ti vznikne nárok na <strong>příspěvek při ukončení pěstounské péče</strong> <strong>ve výši 25.000,- Kč</strong>. Tento příspěvek se poskytuje jenom jednou a slouží ke snadnějšímu startu do samostatného života. Požádat o něj můžeš na krajské pobočce Úřadu práce. A dej pozor na to, že nárok na tento příspěvek zaniká, jestliže o něj nepožádáš do 1 roku ode dne, kdy ti zanikl nárok na příspěvek na úhradu potřeb dítěte. Ti, jimž zůstane nárok na příspěvek na úhradu potřeb zachovaný i v dospělosti, například po dobu jejich studia, mohou o příspěvek při ukončení pěstounské péče požádat až později, když přestanou mít nárok na příspěvek na úhradu potřeb dítěte.</p><p class="Default"></p>
+
+
+V takovém případě ti vznikne nárok na **příspěvek při ukončení pěstounské péče ve výši 25.000,- Kč**. Tento příspěvek se poskytuje jenom jednou a slouží ke snadnějšímu startu do samostatného života. Požádat o něj můžeš na krajské pobočce Úřadu práce. A dej pozor na to, že nárok na tento příspěvek zaniká, jestliže o něj nepožádáš do 1 roku ode dne, kdy ti zanikl nárok na příspěvek na úhradu potřeb dítěte. Ti, jimž zůstane nárok na příspěvek na úhradu potřeb zachovaný i v dospělosti, například po dobu jejich studia, mohou o příspěvek při ukončení pěstounské péče požádat až později, když přestanou mít nárok na příspěvek na úhradu potřeb dítěte.
+
+
+
+

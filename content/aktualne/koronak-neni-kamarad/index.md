@@ -6,4 +6,40 @@ perex: >-
   to, kde hledat informace a nenudit se u toho.
 ---
 
-<p><img src="/media/koronak.gif.gif" height="401" width="300" alt="" /></p><p>Aktuálně nemůžeme kvůli jakémusi koronaviru do školy, s kamarády na hřiště ani na návštěvu babičky a dědy. Ale co to vlastně ten koronavirus je? A máme se ho bát?</p><p>Chceš-li o koronaviru vědět víc, popros rodiče a společně koukněte na <a title="Otevření do nového okna" href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Koronak_neni_kamarad__2_.pdf" target="_blank"><img alt="" src="typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Koroňák není kamarád!</a> (1.3 MB, Adobe Acrobat dokument). Kdyby ti něco nebylo jasné, neboj se rodičů zeptat. Pokud ti nebudou umět sami odpovědět, můžou se podívat do tohoto <a title="Otevření do nového okna" href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/navod__1_.pdf" target="_blank"><img alt="" src="typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> materiálu</a> (74 kB, Adobe Acrobat dokument). Originál materiálu je dostupný také v<a href="https://www.mvcr.cz/clanek/psychologicka-pomoc-prace-s-detmi-covid-19.aspx" target="_blank"> dalších jazycích</a>. </p><p>Baví tě komiksy? Pak určitě koukni na <a title="Otevření do nového okna" href="https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/koronak_komiks_A4_print_3__2_.pdf" target="_blank"><img alt="" src="typo3/ext/od_linkdesc/icons/pdf.gif" class="od_linkdesc_icon" /> Co odláká Koroňáka</a> (5.1 MB, Adobe Acrobat dokument).</p><p>Nebaví tě čtení, rodiče na tebe teď nemají čas, ale přesto by ses rád/a dozvěděl/a víc? Zkus kouknout na <a href="https://decko.ceskatelevize.cz/koronavirus" target="_blank">videa ČT:D</a>.</p><p>Mrzí tě, že nemůžeš navštívit babičku a dědu? Vyzkoušej některý z těchto <a href="https://psych.fss.muni.cz/media/3221518/aktivity-rodin-se-seniory.pdf" target="_blank">nápadů</a>.</p><p><a href="https://omalovanky-kukando.cz/drak-koron/" target="_blank">Jak zvítězit nad drakem Koronem?</a> Zkus to s pastelkami. </p><p><img src="/media/kukando-omalovanka-rousky-vsem-tucnaci2.jpg.jpg" height="300" width="300" alt="" /></p><p>(zdroj: kukando.cz)</p>
+
+
+![](/media/koronak.gif.gif) 
+
+
+
+Aktuálně nemůžeme kvůli jakémusi koronaviru do školy, s kamarády na hřiště ani na návštěvu babičky a dědy. Ale co to vlastně ten koronavirus je? A máme se ho bát?
+
+
+
+Chceš-li o koronaviru vědět víc, popros rodiče a společně koukněte na [Koroňák není kamarád!](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Koronak_neni_kamarad__2_.pdf) (1.3 MB, Adobe Acrobat dokument). Kdyby ti něco nebylo jasné, neboj se rodičů zeptat. Pokud ti nebudou umět sami odpovědět, můžou se podívat do tohoto [materiálu](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/navod__1_.pdf) (74 kB, Adobe Acrobat dokument). Originál materiálu je dostupný také v[ dalších jazycích](https://www.mvcr.cz/clanek/psychologicka-pomoc-prace-s-detmi-covid-19.aspx). 
+
+
+
+Baví tě komiksy? Pak určitě koukni na [Co odláká Koroňáka](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/koronak_komiks_A4_print_3__2_.pdf) (5.1 MB, Adobe Acrobat dokument).
+
+
+
+Nebaví tě čtení, rodiče na tebe teď nemají čas, ale přesto by ses rád/a dozvěděl/a víc? Zkus kouknout na [videa ČT:D](https://decko.ceskatelevize.cz/koronavirus).
+
+
+
+Mrzí tě, že nemůžeš navštívit babičku a dědu? Vyzkoušej některý z těchto [nápadů](https://psych.fss.muni.cz/media/3221518/aktivity-rodin-se-seniory.pdf).
+
+
+
+[Jak zvítězit nad drakem Koronem?](https://omalovanky-kukando.cz/drak-koron/) Zkus to s pastelkami. 
+
+
+
+![](/media/kukando-omalovanka-rousky-vsem-tucnaci2.jpg.jpg) 
+
+
+
+(zdroj: kukando.cz)
+
+

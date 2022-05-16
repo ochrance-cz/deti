@@ -7,4 +7,12 @@ perex: >-
   úspěchy a vyhnou se vám nepříjemnosti.
 ---
 
-<p>animované přáni: <a href="https://www.ochrance.cz/pf2018/" target="_blank">https://www.ochrance.cz/pf2018/</a></p><p><img src="https://www.ochrance.cz/uploads-deti/user_upload/img/PF18_banner630x348.jpg" height="348" width="630" alt="" /></p>
+
+
+animované přáni: [https://www.ochrance.cz/pf2018/](https://www.ochrance.cz/pf2018/)
+
+
+
+![](https://www.ochrance.cz/uploads-deti/user_upload/img/PF18_banner630x348.jpg) 
+
+

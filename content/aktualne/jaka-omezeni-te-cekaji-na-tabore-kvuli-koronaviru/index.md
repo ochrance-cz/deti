@@ -6,4 +6,56 @@ perex: >-
   dopadlo. Oproti loňsku se však musíš nachystat na několik změn.
 ---
 
-<p>Než odjedeš na tábor, musí některý z tvých rodičů podepsat <strong>prohlášení</strong>, že nemáš příznaky nemoci. Doložit musíš také <strong>posudek od lékaře</strong> o zdravotní způsobilosti.</p><p>Na táboře si budeš muset <strong>mýt ruce</strong> v teplé vodě tekutým mýdlem a utřít se do jednorázových ručníků. Jinak musíš použít ještě dezinfekci.</p><p>Musíš se připravit také na to, že letos <strong>budete jen minimálně</strong> cestovat veřejnou dopravou, navštěvovat koupaliště nebo výletovat do okolních měst. Omezeny mohou být také návštěvy rodičů na táboře. Letos bys také <strong>neměl/a pomáhat s úklidem tábora a s vařením</strong>.</p><h4>A co roušky? </h4><p>Roušku na táboře ani ve volné přírodě <strong>nebudeš muset nosit</strong>. Dodržovat nebudete ani žádné předepsané rozestupy. Případné nošení roušek ale může určit pořadatel podle aktuální situace. </p><p>Ochranné pracovní prostředky (roušky, rukavice,…) ale budou nosit ti, kdo zajišťují jídlo, úklid nebo zdravotní dohled.</p><h4>Co když na táboře nebo po něm někdo onemocní?</h4><p>Při podezření na infekci se pořadatelé spojí s krajskou hygienickou stanicí, která rozhodne co dál.</p><p>Pokud bys onemocněl/a do 14 dnů po návratu z tábora, <strong>musejí tví rodiče sami kontaktovat</strong> krajskou hygienickou stanici v kraji, kde se tábor pořádal.</p><p><strong>Víc informací k pořádání dětských táborů </strong><a href="https://koronavirus.mzcr.cz/wp-content/uploads/2020/06/tabory_rekreace_1906.pdf" target="a" class="https://koronavirus.mzcr.cz/deset-nejcasteji-kladenych-dotazu-v-souvislosti-s-pravidly-k-taborum-a-letnim-rekreacim-2020/"><strong>zde</strong></a><strong>.</strong></p><p><strong></strong></p><h5>Hodit by se ti mohly také informace z příručky <a href="https://www.ochrance.cz/fileadmin/user_upload/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR3iz4VzHF1s1pBW2c4GEb4ojGUTKSH0VUc-yXgS1iiDfoQDNPz15hpCowU" target="_blank">Prázdniny bezpečně ombudsmanem</a>. </h5><p></p><p><img src="/media/17_letni_tabor.png.png" height="469" width="560" alt="" /></p>
+
+
+Než odjedeš na tábor, musí některý z tvých rodičů podepsat **prohlášení** , že nemáš příznaky nemoci. Doložit musíš také **posudek od lékaře** o zdravotní způsobilosti.
+
+
+
+Na táboře si budeš muset **mýt ruce** v teplé vodě tekutým mýdlem a utřít se do jednorázových ručníků. Jinak musíš použít ještě dezinfekci.
+
+
+
+Musíš se připravit také na to, že letos **budete jen minimálně** cestovat veřejnou dopravou, navštěvovat koupaliště nebo výletovat do okolních měst. Omezeny mohou být také návštěvy rodičů na táboře. Letos bys také **neměl/a pomáhat s úklidem tábora a s vařením**.
+
+
+
+## A co roušky? 
+
+
+
+Roušku na táboře ani ve volné přírodě **nebudeš muset nosit**. Dodržovat nebudete ani žádné předepsané rozestupy. Případné nošení roušek ale může určit pořadatel podle aktuální situace. 
+
+
+
+Ochranné pracovní prostředky (roušky, rukavice,…) ale budou nosit ti, kdo zajišťují jídlo, úklid nebo zdravotní dohled.
+
+
+
+## Co když na táboře nebo po něm někdo onemocní?
+
+
+
+Při podezření na infekci se pořadatelé spojí s krajskou hygienickou stanicí, která rozhodne co dál.
+
+
+
+Pokud bys onemocněl/a do 14 dnů po návratu z tábora, **musejí tví rodiče sami kontaktovat** krajskou hygienickou stanici v kraji, kde se tábor pořádal.
+
+
+
+**Víc informací k pořádání dětských táborů** [**zde**](https://koronavirus.mzcr.cz/wp-content/uploads/2020/06/tabory_rekreace_1906.pdf).
+
+
+
+
+
+**Hodit by se ti mohly také informace z příručky [Prázdniny bezpečně ombudsmanem](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Prazdniny-bezpecne.pdf?fbclid=IwAR3iz4VzHF1s1pBW2c4GEb4ojGUTKSH0VUc-yXgS1iiDfoQDNPz15hpCowU).**
+
+
+
+
+
+![](/media/17_letni_tabor.png.png) 
+
+

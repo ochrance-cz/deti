@@ -8,5 +8,9 @@ perex: >-
 ---
 
 
-<p>Ministerstvo zdravotnictví minulý týden uvádělo, že testy plně zpoplatní, následně že budou bezplatné pouze pro děti do 18 let. S oběma návrhy ministerstva nesouhlasila zástupkyně ombudsmana. Má proto radost, že Vláda včera rozhodla, že testy zůstanou dál bezplatné pro všechny. </p>
+
+
+Ministerstvo zdravotnictví minulý týden uvádělo, že testy plně zpoplatní, následně že budou bezplatné pouze pro děti do 18 let. S oběma návrhy ministerstva nesouhlasila zástupkyně ombudsmana. Má proto radost, že Vláda včera rozhodla, že testy zůstanou dál bezplatné pro všechny. 
+
+
 
