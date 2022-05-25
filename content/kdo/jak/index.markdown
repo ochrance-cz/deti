@@ -33,7 +33,7 @@ contact:
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
-Tvou stížnost posoudí právník nebo právnička, kteří bude mít Tvůj případ na starosti. Pokud bude potřeba, spojí se s Tebou a společně doplníte další informace.
+Tvou stížnost posoudí právník nebo právnička, který/á bude mít Tvůj případ na starosti. Pokud bude potřeba, spojí se s Tebou a společně doplníte další informace.
 
 **Pomoc veřejného ochránce práv (ombudsmana) je bezplatná.**
 
