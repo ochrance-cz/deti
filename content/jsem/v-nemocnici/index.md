@@ -66,7 +66,7 @@ questions:
       opravdu rychle (bezodkladně).
   - title: Co dělat, když nechci být na psychiatrii nebo nesouhlasím s léčbou?
     icon: soud.png
-    desc: >
+    desc: >-
       #### Soud
 
 
@@ -76,16 +76,13 @@ questions:
       **A za určitých okolností má lékař dokonce povinnost oznámit soudu Tvůj vážný nesouhlas s pobytem** (záleží na Tvém věku a vyspělosti).
 
 
-      Nemusíš souhlasit ani s léčbou, o které rozhodl někdo jiný. Pokud Ti už bylo 14 let a máš vážné výhrady, můžeš se obrátit na soud. Lékař nebo třeba sociální pracovník v nemocnici Ti v tom může pomoci.
+      Nemusíš souhlasit ani s léčbou, o které rozhodl někdo jiný. Pokud Ti už bylo 14 let a máš vážné výhrady, můžeš se obrátit na soud. Lékař nebo třeba sociální pracovník v nemocnici Ti v tom může pomoci. Jen v této situaci zákon stanoví přesnou věkovou hranici, tedy od 14 let. Ve všech ostatních situacích se souhlas nebo nesouhlas posuzuje podle rozumové a volní vyspělosti přiměřené věku.
 
 
       #### Stížnost
 
 
       Pokud máš v nemocnici nějaké problémy, můžeš podat stížnost. Napiš nebo řekni lékaři, primáři nebo řediteli nemocnice.
-
-
-      <sup>1</sup> Jen v této situaci zákon stanoví přesnou věkovou hranici, tedy od 14 let<sup>1</sup>. Ve všech ostatních situacích se souhlas nebo nesouhlas posuzuje podle rozumové a volní vyspělosti přiměřené věku.
 ---
 
 Leták je realizován prostřednictvím projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
