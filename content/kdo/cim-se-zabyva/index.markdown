@@ -25,7 +25,7 @@ we-cannot:
   - text: chceš, aby Policie ČR postupovala jinak při vyšetřování (jisté možnosti má
       v těchto záležitostech státní zástupce, který na činnost Policie ČR
       dohlíží),
-  - text: mezi sebou mají lidé spory - např. sousedé o pozemek, rodiče či jiní
+  - text: lidé mají mezi sebou spory - např. sousedé o pozemek, rodiče či jiní
       rodinní příslušníci mezi sebou apod. (tady je třeba se obrátit na soud).
 ---
 > Ombudsman také preventivně navštěvuje a kontroluje zařízení, jako jsou dětské domovy nebo výchovné ústavy, psychiatrické léčebny, vězení pro mladistvé, policejní oddělení s policejními celami, zařízení pro děti vyžadující okamžitou pomoc, apod.
