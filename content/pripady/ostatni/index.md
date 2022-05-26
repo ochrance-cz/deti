@@ -261,5 +261,8 @@ cases:
       (zákonné zástupce).**
 
 
-      **Pozor** by sis ale měl/a dát, **pokud vlastníš byt, rodinný dům nebo letní chatu** (či jinou rekreační nemovitost). V obci mohou mít zavedený poplatek za odkládání komunálního odpadu z nemovité věci, který musíš platit. V **takovém případě nepřechází poplatková povinnost na rodiče (zákonné zástupce)**. Pokud v Tvé nemovitosti někdo bydlí, funguješ jako takový prostředník – musíš vybrat poplatek od osob, které v nemovitosti ubytováváš a zaplatit ho místnímu obecnímu úřadu. Pokud bys to neudělal/a, bude obecní úřad požadovat zaplacení po Tobě.
+      **Pozor** by sis ale měl/a dát, **pokud vlastníš byt, rodinný dům nebo letní chatu** (či jinou rekreační nemovitost). V obci mohou mít zavedený poplatek za odkládání komunálního odpadu z nemovité věci, který musíš platit. V **takovém případě nepřechází poplatková povinnost na rodiče (zákonné zástupce)**. Pokud v Tvé nemovitosti někdo bydlí, funguješ jako takový prostředník – musíš vybrat poplatek od osob, které v nemovitosti ubytováváš a zaplatit ho místnímu obecnímu úřadu. Pokud bys to neudělal/a, bude obecní úřad požadovat zaplacení po Tobě. 
+
+
+      > Jaký poplatek mají v obci zavedený, najdeš na webu té dané obce nebo na webu [Sbírky předpisů územních samosprávných celků](https://sbirkapp.gov.cz/).
 ---
