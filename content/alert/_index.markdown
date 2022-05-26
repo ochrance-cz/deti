@@ -123,6 +123,4 @@ Podrobné informace také na [www.mvcr.cz](http://www.mvcr.cz/ "Otevření do n
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3TXPR1gH3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ![]()
