@@ -15,7 +15,7 @@ contact:
     desc: |-
       Pošli nebo dones nám dopis na adresu
 
-      **Veřejný ochránce práv**\
+      Kancelář veřejného ochránce práv\
       Údolní 39\
       602 00 Brno
   - title: Osobně
