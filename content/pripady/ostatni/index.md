@@ -282,5 +282,5 @@ cases:
       Až na výjimky se u zásilek **do hodnoty 150 € nebude platit clo**. Bude se však platit daň z přidané hodnoty z jakékoliv hodnoty zásilky. Základní sazba daně z přidané hodnoty je 21 %.
 
 
-      > Pokud se rozhodneš podat celní prohlášení sám/sama, doporučujeme seznámit se s pravidly uvedenými na webových stránkách [Celnicka.cz](https://celnicka.cz/), kde najdeš všechny potřebné informace, včetně dalších odkazů.
+      > **Pokud se rozhodneš podat celní prohlášení sám/sama, koukni na [Celnicka.cz](https://celnicka.cz/). Najdeš tam všechny informace k celnímu řízení i další užitečné odkazy.**
 ---
