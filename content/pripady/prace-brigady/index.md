@@ -30,7 +30,7 @@ cases:
       z letní brigády skutečně odvádět daň a zda nemůže uplatnit nějakou slevu
       na dani.
     body: >-
-      **Rozhodně! Pokud je Ti taky méně než 26 let, stále studuješ a našel/a sis
+      **Rozhodně! Pokud je Ti také méně než 26 let, stále studuješ a našel/a sis
       brigádu, koukni co všechno může udělat, abys za odvedenou práci dostal/a
       co nejvíce peněz.** 
 
