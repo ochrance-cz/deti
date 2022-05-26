@@ -17,4 +17,4 @@ Až na výjimky se u zásilek do hodnoty 150 € nebude platit clo. Bude se vša
 
 
 
-![1](ukrajina_-_letak_deti.jpg "1")
+![]()
