@@ -179,16 +179,16 @@ cases:
       cesta byla dlouhá a stála hodně peněz. 
 
 
-      Než k přemístění Pepy došlo, musel o tom vědět OSPOD a rozhodnout o tom soud. To se také stalo. Nám se soudní rozhodnutí sice nelíbilo, ale nemohli jsme ho změnit. Na to nemáme pravomoc.
+      Než k přemístění Pepy došlo, musel o tom vědět OSPOD a rozhodnout soud. To se také stalo. Nám se soudní rozhodnutí sice nelíbilo, ale nemohli jsme ho změnit. Na to nemáme pravomoc.
 
 
-      Daný postup jsem však vytkli sociální pracovnici OSPOD, která Pepu u soudu zastupovala. Jejím úkolem bylo hájit Pepovy "nejlepší zájmy". Podle nás to ale nedělala. Upozornili jsem ji na to, že nemá povinnost řídit se doporučením diagnostického ústavu, když není pro dítě nejlepší.  
+      Postup jsem však vytkli sociální pracovnici OSPOD, která Pepu u soudu zastupovala. Jejím úkolem bylo hájit Pepovy "nejlepší zájmy". Podle nás to ale nedělala. Upozornili jsem ji, že nemá povinnost řídit se doporučením diagnostického ústavu, když si myslí, že není pro dítě nejlepší.  
 
 
-      Také se nám nelíbilo, že sociální pracovnice OSPOD s chlapcem nemluvila předtím, než soudu navrhla jeho přemístění. I když  by to udělat měly, nezeptaly se chlapce, co si o přemístění myslí, ani mu nevysvětlily, co to pro něj bude znamenat.
+      Také se nám nelíbilo, že sociální pracovnice OSPOD s Pepou nemluvila předtím, než soudu navrhla jeho přemístění. I když by to udělat měla, nezeptala se ho, co si o přemístění myslí, ani mu nevysvětlila, co to pro něj bude znamenat.
 
 
-      Jsme rádi, že sociální pracovnice OSPOD přiznala svou chybu a slíbila, že se to již nebude opakovat. Radost jsme také měli z toho, že se situace v Pepově rodině rychle zlepšila a on se mohl vrátit domů. 
+      Jsme rádi, že sociální pracovnice OSPOD přiznala svou chybu a slíbila, že se již nebude opakovat. Radost jsme také měli z toho, že se situace v Pepově rodině rychle zlepšila a on se mohl vrátit domů. 
 
 
       > **Víš, co je to diagnostický ústav?**
