@@ -1,5 +1,5 @@
 ---
-title: Práce, brigády...
+title: Práce a brigády
 cases:
   - title: Od kolika let můžu chodit na brigády a jaké odvody budu platit?
     perex: Obrátila se na nás čtrnáctiletá Zuzana se stížností na postup firmy, u
