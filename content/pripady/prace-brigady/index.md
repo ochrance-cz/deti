@@ -60,21 +60,24 @@ cases:
       slibují, že za úplatu brigádu v zahraničí najdou. Setkáváme se s různou
       úrovní služeb agentur, které zprostředkovávají brigády.
     body: >-
-      V České republice fungují agentury, které mají povolení práci v zahraničí
-      zprostředkovávat. Jejich seznam najdete na
+      V České republice fungují a**gentury, které mají povolení práci v
+      zahraničí zprostředkovávat.** Jejich seznam najdete na
       [zde](https://www.uradprace.cz/web/cz/agentury-prace).[](http://portal.mpsv.cz/sz/obcane/zpr_prace)
       Tyto agentury nesmí za zprostředkování práce žádat poplatek, ale mohou k
       práci zajistit třeba ubytování nebo jinou službu. Tohle už je navíc, proto
       za to zaplatíš.
 
 
-      Než smlouvu s agenturou podepíšeš, pořádně si ji přečti a neboj se zeptat na to, co ti není jasné. Nejlepší je, když smlouvu ještě před podpisem dáš přečíst někomu zkušenému. Nikdy nepodepisuj smlouvu, které nerozumíš! Vždy si pečlivě přečti, k čemu se zavazuješ, jaké budou tvé povinnosti, jaké jsou povinnosti agentury nebo zaměstnavatele. Vždycky také žádej kopii smlouvy a schovej si ji.
+      Než smlouvu s agenturou podepíšeš, p**ořádně si ji přečti a neboj se zeptat na to, co ti není jasné.** Nejlepší je, když smlouvu ještě před podpisem dáš přečíst někomu zkušenému. **Nikdy nepodepisuj smlouvu, které nerozumíš!** Vždy si pečlivě přečti, k čemu se zavazuješ, jaké budou tvé povinnosti, jaké jsou povinnosti agentury nebo zaměstnavatele. Vždycky také žádej kopii smlouvy a schovej si ji.
 
 
-      To, že má nějaká agentura povolení zprostředkovávat práci, ještě neznamená, že je to dobrá agentura. Ptej se známých, jestli s ní mají nějaké zkušenosti, a jaké. Spoustu informací a referencí najdeš určitě i na internetu. Přemýšlej také o tom, co ti agentura nabízí – jaká je to práce, v jakých podmínkách, za kolik peněz. Buď zvlášť opatrní, pokud vám někdo nabízí za běžnou nebo dokonce snadnou práci příliš vysoké výdělky. Za sbírání jahod těžko vyděláte statisíce.
+      To, že má nějaká agentura povolení zprostředkovávat práci, ještě neznamená, že je to dobrá agentura. Ptej se známých, jestli s ní mají nějaké zkušenosti, a jaké. Spoustu informací a referencí najdeš určitě i na internetu. 
 
 
-      > Pokud se setkáš s podezřelým chováním ze strany zprostředkovatelské agentury nebo zaměstnavatele, můžeš se obrátit na nejbližší [úřad práce](https://www.uradprace.cz/web/cz/krajske-pobocky) nebo [oblastní inspektorát práce](https://www.suip.cz/#inspektoraty), které tam mohou provést kontrolu.
+      Přemýšlej také o tom, co Ti agentura nabízí – jaká je to práce, v jakých podmínkách, za kolik peněz. **Buď zvlášť opatrní, pokud vám někdo nabízí za běžnou nebo dokonce snadnou práci příliš vysoké výdělky.** Za sbírání jahod těžko vyděláte statisíce.
+
+
+      > **Pokud se setkáš s podezřelým chováním ze strany zprostředkovatelské agentury nebo zaměstnavatele, můžeš se obrátit na nejbližší [úřad práce](https://www.uradprace.cz/web/cz/krajske-pobocky) nebo [oblastní inspektorát práce](https://www.suip.cz/#inspektoraty), které tam mohou provést kontrolu.**
   - title: Lékařská prohlídka před nástupem do práce
     perex: Zaměstnavatel chce, abych si zaplatil lékařskou prohlídku, která je
       podmínkou pro můj nástup do práce. Má na to právo?
