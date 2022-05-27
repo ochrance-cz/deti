@@ -125,39 +125,45 @@ cases:
 
 
       Pokud ani Česká školní inspekce nepomůže, napiš [nám](https://deti.ochrance.cz/kdo/jak/). Můžeme posoudit, zda v Tvém konkrétním případě nedošlo k diskriminaci. Naše závěry pak můžeš použít jak pro jednání se školou, tak pro případné podání žaloby.
-  - title: Podmínka osmnácti let pro zřízení datové schránky není diskriminační
-    perex: Ještě ti nebylo osmnáct a pokoušel/a ses zřídit si datovou schránku?
-      Nešlo ti to? Myslíš si, že je to diskriminační?
+  - title: Podmínka 18 let pro zřízení datové schránky není diskriminační
+    perex: Ještě Ti nebylo 18 let a pokoušel/a ses zřídit si datovou schránku? Nešlo
+      Ti to? Myslíš si, že je to diskriminační? Se stejným problémem se na nás
+      obrátil šestnáctiletý Martin. Nelíbilo se mu, že si nemůže zřídit datovou
+      schránku a komunikovat s úřady.
     body: >-
-      Se stejným problémem se na ochránce nedávno obrátil šestnáctiletý Martin.
-      Nelíbilo se mu, že si nemůže zřídit datovou schránku a komunikovat s
-      úřady. Na CzechPointu, kde si chtěl datovou schránku zřídit, ho totiž
-      odmítli s odůvodněním, že mu ještě nebylo osmnáct let. Martin se zlobil a
-      považoval jednání České pošty, která CzechPoint provozuje, za
-      diskriminační.
+      Martin si chtěl datovou schránku zřídit na CzechPointu. Tam ho ale odmítli
+      s odůvodněním, že mu ještě nebylo 18 let. Martin se zlobil a považoval
+      jednání České pošty, která CzechPoint provozuje, za diskriminační.
 
 
-      Ochránce mu však vysvětlil, že postup České pošty je v pořádku a že se o diskriminaci nejedná. Jak to? Vždyť při poskytování služeb by si měli být všichni rovni. Zřízení datové schránky snad není službou veřejnosti?
+      **Vysvětlili jsme mu však, že postup České pošty byl v pořádku a že se o diskriminaci nejednalo. Jak to? Martin se u nás dočetl, že při poskytování služeb by si měli být všichni rovni. Zřízení datové schránky snad není službou veřejnosti?**
 
 
-      Martin měl pravdu, že by si při poskytování služeb měli být všichni rovni. Stejně tak správně dovodil, že zřízení datové schránky je službou veřejnosti poskytovanou státem (konkrétně Ministerstvem vnitra). Avšak zákon (konkrétně ten antidiskriminační) připouští výjimky. Říká, že rozdílné zacházení je v pořádku, pokud to umožňují jiné zákony. A zákon, který upravuje zřizování datových schránek, toto umožňuje. Počítá s tím, že Ministerstvo vnitra zřídí datovou schránku pouze plně svéprávným osobám. Plnou svéprávnost pak člověk nabývá buď dovršením osmnácti let, nebo přiznáním soudem.  
-
-      A proč ochránce takové omezení schvaluje?
+      Martin měl pravdu, že by si při poskytování služeb měli být všichni rovni. Stejně tak správně dovodil, že zřízení datové schránky je službou veřejnosti poskytovanou státem (konkrétně Ministerstvem vnitra). Avšak zákon (konkrétně ten antidiskriminační) připouští výjimky. Říká, že rozdílné zacházení je v pořádku, pokud to umožňují jiné zákony.
 
 
-      Úkony provedené datovou schránkou zavazují člověka stejně, jako kdyby například podepsal smlouvu. A pokud člověk datovou schránku pravidelně nekontroluje, může to pro něj mít i negativní důsledky (například může prošvihnout nějakou důležitou lhůtu). Využívání datové schránky vyžaduje určitou míru odpovědnosti a vyspělosti. Bylo by velmi složité posuzovat dostatečnou vyspělost každého mladého člověka pro každý dílčí úkon. Proto je potřeba nastavit nějakou jednotnou věkovou hranici, která bude míru vyspělosti a odpovědnosti předpokládat. Byť nemusí být vždy vnímána spravedlivě. V případě datových schránek je to osmnáct let (výjimečně šestnáct se souhlasem soudu).
-  - title: Co někteří lidé považují za diskriminaci - perličky z práce ombudsmana
-    perex: Na ombudsmana se většinou obrací lidé s vážnými problémy, které je
-      každodenně omezují a trápí. Občas se však objeví i spíše zábavné perličky…
+      A zákon, který upravuje zřizování datových schránek, toto umožňuje. Počítá s tím, že Ministerstvo vnitra zřídí datovou schránku pouze plně svéprávným osobám. Plnou svéprávnost pak člověk nabývá buď dovršením osmnácti let, nebo přiznáním soudem.
+
+
+      #### A proč takové omezení schvalujeme?
+
+
+      Úkony provedené datovou schránkou zavazují člověka stejně, jako kdyby například podepsal smlouvu. A pokud člověk datovou schránku pravidelně nekontroluje, může to pro něj mít i negativní důsledky. Například může prošvihnout nějakou důležitou lhůtu. 
+
+
+      Využívání datové schránky vyžaduje určitou míru odpovědnosti a vyspělosti. Bylo by velmi složité posuzovat dostatečnou vyspělost každého mladého člověka pro každý dílčí úkon. Proto je vhodné nastavit jednotnou věkovou hranici, která bude míru vyspělosti a odpovědnosti předpokládat. Byť nemusí být vždy vnímána spravedlivě. V případě datových schránek je to 18 let (výjimečně 16 let se souhlasem soudu).
+  - title: Co někteří lidé považují za diskriminaci - perličky z naší práce
+    perex: Většinou se na nás obrací lidé s vážnými problémy, které je každodenně
+      omezují a trápí. Občas se však objeví i spíše zábavné perličky…
     body: >-
       **Jednou z nich byla stížnost muže na řetězec obchodů s oblečením.**
       Nelíbilo se mu, že obchod zlevnil pouze červené dětské bundy, zatímco
       modré prodával dál za plnou cenu. Napsal, že *„zatímco modrou bundičku
-      mohou klidně nosit i děvčata, červená se pro chlapečky nehodí“, *a tvrdil,
+      mohou klidně nosit i děvčata, červená se pro chlapečky nehodí“,* a tvrdil,
       že se jedná o diskriminaci.
 
 
-      O diskriminaci ale nešlo. Protože i kluci můžou nosit červenou bundu. A protože slevy nemůžeme ve většině případů posuzovat  jako diskriminaci. Obchody (a nejen ty) se slevami snaží především prodat více věcí (a vydělat tak více peněz). Jestliže sleva cílí jen na nějakou skupinu osob, měl by pro to existovat rozumný důvod a sleva by zároveň měla být přiměřená. Příkladem může být obchod s kutilskými potřebami, který své zboží na víkend zlevní pro ženy, které jinak v tomto obchodě moc nenakupují.
+      O diskriminaci ale nešlo. Protože i kluci můžou nosit červenou bundu. A protože slevy nemůžeme ve většině případů posuzovat jako diskriminaci. Obchody (a nejen ty) se slevami snaží především prodat více věcí (a vydělat tak více peněz). Jestliže sleva cílí jen na nějakou skupinu osob, měl by pro to existovat rozumný důvod a sleva by zároveň měla být přiměřená. Příkladem může být obchod s kutilskými potřebami, který své zboží na víkend zlevní pro ženy, které jinak v tomto obchodě moc nenakupují.
 
 
       Pokud tě tato otázka více zajímá, můžeš si podrobnosti přečíst [zde](https://eso.ochrance.cz/Nalezene/Edit/2380).
@@ -166,7 +172,7 @@ cases:
       **V jiném případě jsme odpovídali ženě, které se nelíbila slovenská učebnice, jejíž autoři přepočítali váhu planety Země na počet jablek o stejné váze.** Tvrdila, že výpočet je nesprávný a učebnice tak „diskriminuje“ slovenské žáky nepřesnou informací.
 
 
-      Ani v tomto případě však o diskriminaci nešlo. Informace o počtu jablek stejné váhy jako je váha Země (ať už je správná nebo ne) nikoho neomezuje a ani nikomu neškodí. Omezení nebo poškození určité skupiny lidí je totiž základní podmínkou, abychom vůbec mohli o diskriminaci uvažovat. Navíc, česká ombudsmanka nemůže působit na Slovensku.
+      Ani v tomto případě však o diskriminaci nešlo. Informace o počtu jablek stejné váhy jako je váha Země (ať už je správná nebo ne) nikoho neomezuje a ani nikomu neškodí. Omezení nebo poškození určité skupiny lidí je totiž základní podmínkou, abychom vůbec mohli o diskriminaci uvažovat. Navíc, jako česká instituce nemůžeme zasahovat do učebnic na Slovensku.
 
 
       **Také žena z dalšího případu se cítila být diskriminována.** Tentokrát internetovou seznamkou, která po ní požadovala nahrání digitální fotografie. Paní však měla pouze „klasické“ fotky, které chtěla naskenovat.
