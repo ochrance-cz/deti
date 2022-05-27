@@ -157,19 +157,17 @@ cases:
       podařilo vše domluvit a Eda může dál pobývat v dětském domově.
 
 
-      > Platí, že pokud mladý dospělý (čerstvě zletilý) chce zůstat v dětském domově, nebo se do něj chce vrátit, musí:
+      Platí, že pokud mladý dospělý (čerstvě zletilý) chce zůstat v dětském domově, nebo se do něj chce vrátit, musí:
 
-      >
 
-      > * o to požádat ředitele či ředitelku zařízení (nejlépe písemně),
+      * o to požádat ředitele či ředitelku zařízení (nejlépe písemně),
 
-      > * se zařízením sepsat smlouvu nejpozději do jednoho roku od ukončení jeho ústavní či ochranné výchovy (tedy do 19 let; případně do 20 let, prodloužil-li ústavní či ochrannou výchovu soud),
+      * se zařízením sepsat smlouvu nejpozději do jednoho roku od ukončení jeho ústavní či ochranné výchovy (tedy do 19 let; případně do 20 let, prodloužil-li ústavní či ochrannou výchovu soud),
 
-      > * studovat (tedy splňovat podmínku nezaopatřenosti).
+      * studovat (tedy splňovat podmínku nezaopatřenosti).
 
-      >
 
-      > Zároveň však zařízení musí mít volnou kapacitu, v opačném případě není možné smlouvu uzavřít.
+      Zároveň však zařízení musí mít volnou kapacitu, v opačném případě není možné smlouvu uzavřít.
 
 
       To, že Eda smlouvu již jednou vypověděl, nemá v případě splnění výše uvedených podmínek význam. Důležité je, že novou žádost o prodloužení pobytu v zařízení podal **do jednoho roku od skončení ústavní či ochranné výchovy a že stále studoval** (a současně měl dětský domov volnou kapacitu).
