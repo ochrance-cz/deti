@@ -3,14 +3,14 @@ title: Ústavní a ochranná výchova
 cases:
   - title: Co kontroluje ombudsman v zařízeních?
     perex: >-
-      Pravidelně jezdíme na preventivní návštěvy dětských domovů a dalších
-      zařízení pro děti. Máme za úkol kontrolovat, zda není s dětmi špatně
-      zacházeno. Soustředíme se proto například na to, jestli mají děti dostatek
-      soukromí, jak často jezdí za rodiči nebo jak jsou připravovány na
+      Pravidelně jezdíme na **preventivní návštěvy dětských domovů a dalších
+      zařízení pro děti**. Máme za úkol kontrolovat, zda zařízení s dětmi
+      nezachází špatně. Soustředíme se proto například na to, jestli mají děti
+      dostatek soukromí, jak často jezdí za rodiči nebo jak jsou připravovány na
       samostatný život mimo zdi domova.
 
 
-      Můžeme také prošetřovat konkrétní stížnosti dětí ze zařízení. Třeba, když jim vychovatelé zakazují volné vycházky nebo nechtějí pustit na víkend
+      Můžeme také prošetřovat **konkrétní stížnosti** dětí ze zařízení. Třeba, když jim vychovatelé zakazují volné vycházky nebo nechtějí pustit na víkend.
     body: >-
       Ve kterých zařízeních jsme už byli, se dozvíš [z interaktivní
       mapky](https://www.google.com/maps/d/embed?mid=1h8Nxe-xnknSxOMrZKUyud0jmjdpsLAyt&hl=cs&ll=49.860819393211585%2C15.441935000000022&z=8).
