@@ -20,13 +20,16 @@ cases:
       ústavní výchova).
 
 
-      Při návštěvách konkrétních zařízení jsme například zjistili, že nebylo zajištěno soukromí dětí, například si děti nemohly uzamknout záchod, ve sprchách nebyly závěsy a v koupelnách nebyl žádný prostor, kam by bylo možné pověsit si třeba ručník. Také jsme občas narazili na to, že děti u postele neměly ani lampičku, aby si mohly číst.
+      Při návštěvách konkrétních zařízení jsme například zjistili, že **některé děti nemají dostatek soukromí**. Například si nemohly uzamknout záchod, ve sprchách nebyly závěsy a v koupelnách nebyl žádný prostor, kam by bylo možné pověsit si třeba ručník. Také jsme občas narazili na to, že děti u postele neměly ani lampičku, aby si mohly číst.
 
 
-      Co se týče závažnějších zjištění, zaměřili jsme se také při návštěvách na to, jak často jezdí děti za svými rodiči nebo jak jim pracovníci domova pomáhají s kontakty se sourozenci (osobní návštěvy, telefonáty apod.). V některých domovech, které byly například na vesnici či v menším městě, bylo mnohem těžší zajistit, aby děti z domovů mohly docházet do běžných kroužků mimo zařízení s ostatními kamarády, což podporujeme.
+      Co se týče závažnějších zjištění, zaměřili jsme se při návštěvách také na to, jak často jezdí děti za svými rodiči nebo jak jim pracovníci domova pomáhají s kontakty se sourozenci (osobní návštěvy, telefonáty apod.). 
 
 
-      Podle nás je také moc důležité připravit děti z dětského domova na okamžik, kdy stejně jako ostatní děti, z domova odejdou například do jiné školy nebo do práce a budou se o sebe muset samy postarat. Je tedy běžnou praxí, že se děti učí vařit, prát, uklízet si, společně hospodařit s rozpočtem rodinné skupiny nebo například vyřídit nejdůležitější věci na úřadě.
+      Zjistili jsme také, že zejména v zařízení, která jsou na vesnici či v menším městě, je těžké zajistit, aby děti z domovů mohly docházet do běžných kroužků mimo zařízení s ostatními kamarády. To je ale důležité! Děti ze zařízení by neměly mít své speciální kroužky za zdmi zařízení, přestat hrát na klavír nebo hrát fotbal jen proto, že je obtížnější to zajistit. 
+
+
+      Podle nás je také moc důležité připravit děti z dětského domova na okamžik, kdy stejně jako ostatní děti, z domova odejdou a budou se o sebe muset samy postarat. Je tedy běžnou praxí, že se děti učí vařit, prát, uklízet si, společně hospodařit s rozpočtem rodinné skupiny nebo například vyřídit nejdůležitější věci na úřadě.
 
 
       Zjistili jsme také, že ve spoustě dětských domovů se žije dětem hodně podobně jako v rodinách, mají třeba takový malý byt, kde jsou pokoje po dvou, společná kuchyňka a koupelna a stará se o ně teta. Ta si s nimi hraje, píše úkoly, jezdí na výlety, chodí na nákupy, navštěvuje lékaře nebo jim i zakládá fotky do alba, aby měly vzpomínky na hezké chvíle.
