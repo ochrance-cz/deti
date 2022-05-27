@@ -129,33 +129,33 @@ cases:
       Co se týče práce v noci (tj. mezi 22:00 hod. a 6:00 hod.), zásadou je, že mladiství v noci nesmí pracovat. Pracovat v noci můžeš pouze výjimečně, a to splňuješ-li všechny níže uvedené podmínky:
 
 
-      - je ti více než 16 let,
+      * je Ti více než 16 let,
 
-      - práce v noci není delší než 1 hodinu,
+      * práce v noci není delší než 1 hodinu,
 
-      - noční práce bezprostředně navazuje na tvou práci během dne, 
+      * noční práce bezprostředně navazuje na Tvou práci během dne, 
 
-      - je to třeba pro tvou výchovu k povolání,
+      * je to třeba pro Tvou výchovu k povolání,
 
-      - práce budeš vykonávat pod dohledem zaměstnance staršího 18 let.
+      * práce budeš vykonávat pod dohledem zaměstnance staršího 18 let.
 
 
       **Přesčasy**
 
 
-      Práce přesčas je mladistvým zakázána. Zaměstnavatel ti ji nemůže nařídit ani výjimečně.
+      Práce přesčas je mladistvým zakázána. Zaměstnavatel Ti ji nemůže nařídit ani výjimečně.
 
 
       **Práce na směny**
 
 
-      Na směny jako mladistvý pracovat můžeš. Ale zaměstnavatel ti musí umožnit odpočinout si alespoň 12 hodin mezi koncem jedné a začátkem druhé směny během 24 hodin po sobě jdoucích. Směny ti zároveň musí rozepsat tak, aby sis během týdne nepřetržitě odpočinul minimálně 48 hodin, což odpovídá 2 dnům. Zákoník práce nepřipouští u mladistvých výjimky ani v mimořádných případech, jako např. při haváriích.
+      Na směny jako mladistvý pracovat můžeš. Ale zaměstnavatel Ti musí umožnit odpočinout si alespoň 12 hodin mezi koncem jedné a začátkem druhé směny během 24 hodin po sobě jdoucích. Směny Ti zároveň musí rozepsat tak, aby sis během týdne nepřetržitě odpočinul minimálně 48 hodin, což odpovídá 2 dnům. Zákoník práce nepřipouští u mladistvých výjimky ani v mimořádných případech, jako např. při haváriích.
 
 
       **Přestávky v práci**
 
 
-      Tvůj zaměstnavatel ti jako mladistvému musí poskytnout přestávku na jídlo a oddech nejdéle po 4,5 hodinách nepřetržité práce. Tví dospělí spolupracovníci ji mohou čerpat stejně s tebou, většinou však později dle pravidel zaměstnavatele, ale tak, aby si odpočinuli a nasvačili se nebo se naobědvali nejdéle po 6 hodinách práce. Délka přestávky je pro všechny stejně dlouhá a trvá 30 min.
+      Tvůj zaměstnavatel Ti jako mladistvému musí poskytnout přestávku na jídlo a oddech nejdéle po 4,5 hodinách nepřetržité práce. Tví dospělí spolupracovníci ji mohou čerpat stejně s Tebou, většinou však později dle pravidel zaměstnavatele, ale tak, aby si odpočinuli a nasvačili se nebo se naobědvali nejdéle po 6 hodinách práce. Délka přestávky je pro všechny stejně dlouhá a trvá 30 min..
   - title: Můžu si někde stěžovat, když se mnou zaměstnavatel zachází špatně?
     perex: Zaměstnavatel Ti přiděluje práci, kterou můžou vykonávat jen dospělí?
       Nutí tě pracovat v noci nebo Tě nepouští na přestávky? Platí Ti
