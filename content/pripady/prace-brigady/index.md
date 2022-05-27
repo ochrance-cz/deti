@@ -117,10 +117,8 @@ cases:
       noci či na směny a mám nárok na dřívější přestávky než dospělí? Odpovědi
       naleznete v tomto příspěvku.
     body: >-
-      ### Práce v noci, na směny a přesčasy
-
-
-      Délka tvojí směny podle zákoníku práce nesmí v jednotlivých dnech přesáhnout 8 hodin.
+      Délka tvojí směny podle zákoníku práce nesmí v jednotlivých dnech
+      přesáhnout 8 hodin.
 
 
       **Práce v noci**
