@@ -39,38 +39,41 @@ cases:
   - title: Mohou mi pracovníci zařízení kontrolovat e-maily?
     perex: Řešíme nejen konkrétní stížnosti nebo dotazy, ale také provádíme
       preventivní návštěvy v zařízeních pro děti (dětské domovy, výchovné
-      ústavy…) a zjišťujeme, v jakých podmínkách děti žijí, jak je o ně
-      pečováno, jestli jsou respektována jejich práva. Při té příležitosti jsme
-      narazili na dotazy, jestli pracovníci zařízení mohou dětem kontrolovat
-      e-maily.
+      ústavy…) a zjišťujeme, v jakých podmínkách děti žijí a zda zařízení
+      respektují všechna jejich práva. Při té příležitosti jsme narazili na
+      dotazy, jestli pracovníci zařízení mohou dětem kontrolovat e-maily.
     body: >-
       V jednom dětském domově se to stávalo, že si děti musely každý e-mail,
       který chtěly odeslat, nejprve nechat zkontrolovat. Vedení domova to
-      zdůvodňovalo tím, že chtějí děti vést k tomu, aby nepoužívaly sprostá
-      slova, případně aby zabránili domlouvání útěku. Děti si nám stěžovaly, že
-      je to porušování soukromí, když si pracovníci čtou jejich (někdy i
-      intimní) e-maily přátelům, partnerům, rodině.
+      zdůvodňovalo tím, že vede děti k tomu, aby nepoužívaly sprostá slova, a
+      zabránilo domlouvání útěku. 
 
 
-      Upozornili jsme vedení domova, že je nelegální kontrolovat e-mailovou poštu, a vyzvali jsme vedení domova, aby s takovou praxí přestalo. Úmluva o právech dítěte říká, že nesmí být svévolně zasahováno do soukromého života, rodiny, domova a korespondence dítěte. Korespondencí se přitom dnes nemyslí jen klasická pošta, ale i e-maily, sms zprávy, vzkazy na Facebooku apod.
+      Děti si nám stěžovaly, že je to porušování soukromí, když si pracovníci čtou jejich (někdy i intimní) e-maily přátelům, partnerům, rodině.
+
+
+      Upozornili jsme vedení domova, že je nelegální kontrolovat e-mailovou poštu. Vyzvali jsme vedení domova, aby s takovou praxí přestalo. 
+
+
+      > Úmluva o právech dítěte říká, že nikdo nesmí svévolně zasahovat do soukromého života, rodiny, domova a korespondence dítěte. Korespondencí se přitom dnes nemyslí jen klasická pošta, ale i e-maily, sms zprávy, vzkazy na Facebooku apod..
   - title: Vzali mě od rodičů, ale myslím si, že se problémy v rodině měly a mohly
       řešit jinak. Co se s tím dá dělat?
     perex: Obrátil se na nás patnáctiletý Roman. Soud rozhodl, že bude lepší, když i
       s mladšími sourozenci nebude dále žít s rodiči, ale v zařízení pro děti.
       Důvodem bylo to, že si stěžoval sociálním pracovníkům, že má na něj matka
-      přehnané nároky, má příliš mnoho kroužků, matka mu často nadává a někdy
-      jej dokonce nepřiměřeně fyzicky trestá.
+      přehnané nároky - má příliš mnoho kroužků, matka mu často nadává a někdy
+      ho dokonce nepřiměřeně fyzicky trestá.
     body: >-
-      Roman si však nepřál, aby byl odejmut z rodiny. Už vůbec nechtěl, aby
-      někdo zasáhl také do života jeho sourozenců, kterých se jednání matky až
-      tolik nedotýkalo (hlavně nejmladšího čtyřletého bratra). Roman si přál,
-      aby problémy s matkou sociální pracovníci zkusili řešit nejprve domluvou.
+      Roman si však nepřál odejít z rodiny. Už vůbec nechtěl, aby někdo zasáhl
+      také do života jeho sourozenců, kterých se jednání matky až tolik
+      nedotýkalo. Roman si přál, aby sociální pracovníci zkusili problémy s
+      matkou nějak řešit, nejlépe domluvou.
 
 
-      Provedli jsme v Romanově věci ihned šetření. Navštívili jsme ho v zařízení, aby nám vše osobně řekl. Také jsme jednali se sociálními pracovníky a společně hledali co nejrychlejší řešení v zájmu sourozenců tak, aby bylo zohledněno jejich přání být co nejdříve zpět v rodině. 
+      Romana jsme ihned navštívili v zařízení, aby nám vše řekl osobně. Také jsme jednali se sociálními pracovníky OSPOD, na které si Roman stěžoval. Společně jsme hledali co nejrychlejší řešení tak, aby se Roman i se sourozenci mohl vrátit domů a zároveň se tam cítil bezpečně.
 
 
-      Rodiče také spolupracovali s úřadem a podařilo se dohodnout, že budou docházet do poradny, kde jim budou pomáhat řešit napjaté vztahy v rodině, zejména mezi matkou a dětmi tak, aby se mohly vrátit ze zařízení zpět domů. Spolupráce rodiny byla dobrá a sourozenci se domů vrátili.
+      Naštěstí se odebrání dětí z péče nelíbilo ani rodičům. Ihned začali spolupracovali s pracovníky OSPOD. Souhlasili s tím, že budou docházet do poradny, ve které jim poradí, jak řešit napjaté vztahy v rodině, zejména mezi matkou a dětmi. Díky tomu se přístup matky k dětem změnil a sourozenci se mohli vrátit domů.
   - title: Může mi ředitel zařízení (dětského domova, výchovného ústavu apod.)
       zakázat víkendový pobyt v mé rodině?
     perex: Napsala nám Anežka, která je v dětském domově (má nařízenou ústavní
@@ -78,8 +81,8 @@ cases:
       rodičů.
     body: >-
       O povolení či zamítnutí propustky (někdy také označované jako dovolenky,
-      tj. pobytu mimo zařízení přes noc) rozhoduje ředitel/ka dětského domova.
-      Před tím si musí vyžádat souhlas sociálního pracovníka/ sociální
+      tj. pobytu mimo zařízení přes noc) ro**zhoduje ředitel/ka dětského
+      domova**. Před tím si musí vyžádat souhlas sociálního pracovníka/ sociální
       pracovnice OSPOD. 
 
 
@@ -103,40 +106,43 @@ cases:
       **S ředitele dětského domova jsme upozornili, že každé dítě má právo na kontakt s rodinou, a to jak formou osobních návštěv, tak telefonátů a dopisů.** 
 
 
-      Návštěva rodinných příslušníkům v domově m**ůže být ředitelem zakázána, přerušena nebo jinak omezena** pouze jednotlivě v případě, že by se chovala nevhodně a tím ohrožovala výchovu dítěte. Třeba když rodič přijde na návštěvu opilý, na dítě během návštěvy křičí a nadává mu, nebo začne rozbíjet věci kolem sebe. 
+      > **Ale pozor!** **Návštěva rodinných příslušníkům v domově může být ředitelem zakázána, přerušena nebo jinak omezena. Ale pouze jednotlivě** **a v případě, že by se chovala nevhodně a tím ohrožovala výchovu dítěte.** Třeba když rodič přijde na návštěvu opilý, na dítě během návštěvy křičí a nadává mu, nebo začne rozbíjet věci kolem sebe. 
 
-       Zakázat nebo omezit návštěvy spolužáků, kamarádů a přátel může ředitel domova pouze v rámci tzv. opatření ve výchově dítěte za porušení povinností, avšak na dobu nejdéle třiceti dnů (v období třech měsíců).
 
-      V případě Petra se nám podařilo řediteli vysvětlit, jaká jsou pravidla pro návštěvy rodiny a kamarádů a pro jejich zákaz (či omezení). Ředitel přislíbil, že tato pravidla bude dodržovat.
+      Zakázat nebo omezit návštěvy **spolužáků, kamarádů a přátel** může ředitel domova pouze v rámci tzv. opatření ve výchově dítěte. A to za porušení povinností. I zde je však omezení - může to nařídit na dobu nejdéle třiceti dnů v období třech měsíců.
+
+
+      V případě Petra se nám podařilo řediteli vysvětlit, jaká jsou pravidla pro návštěvy a pro jejich zákaz či omezení. Ředitel přislíbil, že tato pravidla bude dodržovat.
   - title: I dítě z dětského domova si může vybrat střední školu
-    perex: Obrátila se na nás dívka z dětského domova s tím, že z donucení dětského
-      domova musí nastoupit na střední školu, na kterou nechce. Jednak je škola
-      od dětského domova daleko, takže bude muset bydlet na internátu. Také
-      chtěla chodit na stejnou školu, kterou navštěvuje i její sestra.
+    perex: Obrátila se na nás patnáctiletá Eva z dětského domova s tím, že z
+      donucení dětského domova musí nastoupit na střední školu, na kterou
+      nechce. Jednak je škola od dětského domova daleko, takže bude muset bydlet
+      na internátu. A také chtěla chodit na stejnou školu, kterou navštěvuje i
+      její sestra.
     body: >-
       Dětský domov nemůže sám určovat, na jakou střední školu dítě půjde. Musí
       se aktivně snažit do volby vhodné střední školy zapojit nejen dítě, ale i
       jeho rodiče.
 
 
-      Zjistili jsme, že ředitel dětského domova postupoval v rozporu se zákonem. O volbě střední školy aktivně nemluvil s matkou dívky, která má pořád rodičovskou odpovědnost a je s dcerou v pravidelném kontaktu.
+      Zjistili jsme, že se ředitel dětského domova skutečně v Evině případě nechoval správně. O volbě střední školy aktivně nemluvil s její matkou, která má pořád rodičovskou odpovědnost a Evu pravidelně navštěvuje.
 
 
       Upozornili jsme proto ředitele domova, že pokud jsou rodiče dítěte aktivní a o své děti se zajímají: 
 
 
-      * nemůže zařízení autoritativně dětem vybírat střední školu, na kterou mají chodit,
+      * nemůže zařízení dětem autoritativně vybírat střední školu, na kterou mají nastoupit,
 
       * nemůže ředitel zařízení zastupovat dítě v rámci přijímacího řízení (tj. podepsat přihlášku za rodiče). 
 
 
-      Zároveň ale platí, že by zařízení mělo výběr školy s dítětem a jeho rodiči v dostatečném předstihu řešit. Každé dítě má totiž jiné schopnosti, nadání a potřeby a je důležité tomu přizpůsobit i výběr školy. Je například v pořádku, pokud zařízení upozorní "čtyřkaře", že není nejlepší nápad podávat přihlášku na gymnázium. 
+      > Zároveň platí, že by zařízení mělo výběr školy s dítětem a jeho rodiči v dostatečném předstihu řešit. Každé dítě má totiž jiné schopnosti, nadání a potřeby a je důležité tomu přizpůsobit i výběr školy. Je například v pořádku, pokud zařízení upozorní "čtyřkaře", že není nejlepší nápad podávat přihlášku na gymnázium. 
 
 
-      Po prošetření stížnosti dívky jsme totiž měli pochybnosti i o tom, jestli a do jaké míry probral dětský domov otázku výběru školy se samotnou dívkou. Ukázalo se také – a řediteli domova jsme to vytkli jako velmi neférové chování – že dívce zatajil, že byla přijata i na střední školu, na které chtěla studovat.
+      V Evině případě jsme navíc narazili na to, že jí ředitel dětského domova zatajil, že byla přijata i na střední školu, na které chtěla studovat (a podala na ni druhou přihlášku). Řediteli domova jsem proto řekli, že to bylo velmi neférové chování a vyzvali jsme ho k tomu, aby věci napravil.
 
 
-      Vyzvali jsme ředitele dětského domova, aby věc napravil. Ředitel proto dívce nabídl možnost přestoupit mezi středními školami a sociální pracovnici domova, která měla volbu střední školy na starost, udělil výtku za neplnění pracovních povinností. Ředitel také rozeslal dopis všem rodičům dětí v dětském domově a nabídl jim intenzivnější spolupráci. Poučil i pracovníky zařízení, aby s rodiči i dětmi lépe komunikovali.
+      Ředitel následně Evě nabídl možnost přestoupit mezi středními školami. Také udělil výtku za neplnění pracovních povinností sociální pracovnici domova, protože ta měla volbu Eviny střední školy na starost. Ředitel také rozeslal dopis všem rodičům dětí v dětském domově a nabídl jim intenzivnější spolupráci. Poučil i pracovníky zařízení, aby s rodiči i dětmi lépe komunikovali.
   - title: Návrat do dětského domova
     perex: Obrátil se na nás osmnáctiletý chlapec, který po dosažení zletilosti
       ještě chvíli pobýval v dětském domově (na základě smlouvy), následně z něj
