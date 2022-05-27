@@ -143,35 +143,36 @@ cases:
 
 
       Ředitel následně Evě nabídl možnost přestoupit mezi středními školami. Také udělil výtku za neplnění pracovních povinností sociální pracovnici domova, protože ta měla volbu Eviny střední školy na starost. Ředitel také rozeslal dopis všem rodičům dětí v dětském domově a nabídl jim intenzivnější spolupráci. Poučil i pracovníky zařízení, aby s rodiči i dětmi lépe komunikovali.
-  - title: Návrat do dětského domova
-    perex: Obrátil se na nás osmnáctiletý chlapec, který po dosažení zletilosti
-      ještě chvíli pobýval v dětském domově (na základě smlouvy), následně z něj
-      však odešel. Po několika týdnech si své rozhodnutí rozmyslel a chtěl se do
-      dětského domova vrátit. Ptal se nás, zda na to má nárok a zda jej paní
-      ředitelka musí přijmout zpět. Sdělila mu totiž, že neví, zda s ním může
-      smlouvu znovu uzavřít, když už tak v minulosti jednou učinila a on ji
-      vypověděl.
+  - title: Můžu se vrátit do dětského domova, když jsem z něho v 18 letech odešel?
+    perex: Obrátil se na nás osmnáctiletý Eda, který po dosažení zletilosti ještě
+      chvíli dobrovolně pobýval v dětském domově (na základě smlouvy), následně
+      z něj však odešel. Po několika týdnech si své rozhodnutí rozmyslel a chtěl
+      se do dětského domova vrátit. Ptal se nás, zda na to má nárok. Ředitelka
+      dětského domova mu totiž řekla, že neví, jestli ho může přijmout zpět (zda
+      s ním může uzavřít znovu smlouvu, když už tak v minulosti jednou učinila a
+      on ji vypověděl).
     body: >-
       Spojili jsme se s paní ředitelkou a vysvětlili jsme jí, za jakých podmínek
-      musí chlapce přijmout zpět. Stejně tak jsme situaci vysvětlili i chlapci.
-      Následně se podařilo vše domluvit a chlapec může dál pobývat v dětském
-      domově.
+      Edu musí přijmout zpět. Stejně tak jsme to vysvětlili Edovi. Následně se
+      podařilo vše domluvit a Eda může dál pobývat v dětském domově.
 
 
-      Platí, že pokud mladý dospělý (čerstvě zletilý) chce zůstat v dětském domově, nebo se do něj chce vrátit, musí:
+      > Platí, že pokud mladý dospělý (čerstvě zletilý) chce zůstat v dětském domově, nebo se do něj chce vrátit, musí:
+
+      >
+
+      > * o to požádat ředitele či ředitelku zařízení (nejlépe písemně),
+
+      > * se zařízením sepsat smlouvu nejpozději do jednoho roku od ukončení jeho ústavní či ochranné výchovy (tedy do 19 let; případně do 20 let, prodloužil-li ústavní či ochrannou výchovu soud),
+
+      > * studovat (tedy splňovat podmínku nezaopatřenosti).
+
+      >
+
+      > Zároveň však zařízení musí mít volnou kapacitu, v opačném případě není možné smlouvu uzavřít.
 
 
-      * o to požádat ředitele či ředitelku zařízení (nejlépe písemně),
-
-      * se zařízením sepsat smlouvu nejpozději do jednoho roku od ukončení jeho ústavní či ochranné výchovy (tedy do 19 let; případně do 20 let, prodloužil-li ústavní či ochrannou výchovu soud),
-
-      * studovat (tedy splňovat podmínku nezaopatřenosti).
-
-
-      Zároveň však platí, že zařízení musí mít volnou kapacitu, v opačném případě není možné smlouvu uzavřít.
-
-
-      To, že smlouvu chlapec již jednou vypověděl, nemá v případě splnění výše uvedených podmínek význam. Důležité je, že novou žádost o prodloužení pobytu v zařízení podal **do jednoho roku od skončení ústavní či ochranné výchovy a že stále studoval** (a současně měl dětský domov volnou kapacitu).
+      To, že Eda smlouvu již jednou vypověděl, nemá v případě splnění výše uvedených podmínek význam. Důležité je, že novou žádost o prodloužení pobytu v zařízení podal **do jednoho roku od skončení ústavní či ochranné výchovy a že stále studoval** (a současně měl dětský domov volnou kapacitu).
 
 
       Stejný postup se uplatní i u mladých dospělých, kteří odešli z jiných zařízení pro výkon ústavní či ochranné výchovy, např. dětského domova se školou či výchovného ústavu.
@@ -208,20 +209,20 @@ cases:
       ostatní
     perex: Řešili jsme případ sedmnáctileté Žanety, kterou do dětského domova
       umístil soud. U rodičů být nemohla a s určenými poručníky být nechtěla. Po
-      příchodu do dětského domova (první měsíc) Žaneta musela odevzdat mobil a
-      měla k němu přístup pouze jednu hodinu denně. Ředitel dětského domova také
+      příchodu do dětského domova (první měsíc) musela odevzdat mobil a měla k
+      němu přístup pouze jednu hodinu denně. Ředitel dětského domova také
       zakázal, aby ji navštěvoval její přítel nebo aby k němu mohla jet na
-      víkend. I přístup k internetu měla pouze omezený, a kromě odchodu do školy
+      víkend. I přístup k internetu měla pouze omezený. A kromě odchodu do školy
       vzdálené jen několik stovek metrů nemohla samostatně odejít mimo areál
       zařízení.
     body: >-
-      Přístup zařízení se nám nelíbil. Kontaktovali jsme také sociální
+      **Přístup zařízení se nám nelíbil.** Kontaktovali jsme také sociální
       pracovnici OSPOD, která měla dívku na starosti. Ani ta však s věcí nic
       neudělala. Zařízení trvalo na tom, že tato omezení jsou během prvního
-      měsíce pobytu dívky v domově nutná. **Po rozsáhlé komunikaci dětský domov
-      i OSPOD uznaly svou chybu.** Zařízení s příchodem nového ředitele změnilo
-      vnitřní řád. OSPOD slíbil, že napříště bude postupovat podle doporučení
-      ombudsmanky.
+      měsíce pobytu dívky v domově nutná. 
+
+
+      **Po rozsáhlé komunikaci dětský domov i OSPOD uznaly svou chybu.** Zařízení s příchodem nového ředitele změnilo vnitřní řád. OSPOD slíbil, že napříště na podobné situace dohlídne.
 
 
       > Kdybys chtěl/a vědět víc, podrobně jsme případ popsali ve [zprávě](http://eso.ochrance.cz/Nalezene/Edit/5694) o šetření a [závěrečném stanovisku.](http://eso.ochrance.cz/Nalezene/Edit/6374)
@@ -233,7 +234,7 @@ cases:
       Občas se však setkáváme s případy, kdy zařízení nově příchozím dětem automaticky zakazuje přijímat návštěvy blízkých, chodit na volné vycházky, telefonovat, mít u sebe vlastní mobil či používat internet. To však nelze! Omezení těchto práv je možné jen z vážných důvodů a je-li to v zájmu dítěte. O některých dokonce musí rozhodnout soud. 
 
 
-      Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](https://deti.ochrance.cz/kdo/jak/).
+      **Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](https://deti.ochrance.cz/kdo/jak/).**
   - title: Co jsou to Standardy kvality péče o děti v dětských domovech?
     perex: Máme za úkol kontrolovat, jak je s dětmi v dětských domovech a jiných
       zařízeních zacházeno, a proto nejen jezdíme na pravidelné preventivní
