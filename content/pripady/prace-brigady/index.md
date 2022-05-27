@@ -68,7 +68,10 @@ cases:
       za to zaplatíš.
 
 
-      Než smlouvu s agenturou podepíšeš, **pořádně si ji přečti a neboj se zeptat na to, co ti není jasné.** Nejlepší je, když smlouvu ještě před podpisem dáš přečíst někomu zkušenému. **Nikdy nepodepisuj smlouvu, které nerozumíš!** Vždy si pečlivě přečti, k čemu se zavazuješ, jaké budou tvé povinnosti, jaké jsou povinnosti agentury nebo zaměstnavatele. Vždycky také žádej kopii smlouvy a schovej si ji.
+      Než smlouvu s agenturou podepíšeš, **pořádně si ji přečti a neboj se zeptat na to, co ti není jasné.** Nejlepší je, když smlouvu ještě před podpisem dáš přečíst někomu zkušenému. 
+
+
+      **Nikdy nepodepisuj smlouvu, které nerozumíš!** Vždy si pečlivě přečti, k čemu se zavazuješ, jaké budou tvé povinnosti, jaké jsou povinnosti agentury nebo zaměstnavatele. Vždycky také žádej kopii smlouvy a schovej si ji.
 
 
       To, že má nějaká agentura povolení zprostředkovávat práci, ještě neznamená, že je to dobrá agentura. Ptej se známých, jestli s ní mají nějaké zkušenosti, a jaké. Spoustu informací a referencí najdeš určitě i na internetu. 
