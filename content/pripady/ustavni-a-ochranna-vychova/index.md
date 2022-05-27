@@ -196,13 +196,12 @@ cases:
       Jsme rádi, že sociální pracovnice OSPOD přiznala svou chybu a slíbila, že se již nebude opakovat. Radost jsme také měli z toho, že se situace v Pepově rodině rychle zlepšila a on se mohl vrátit domů. 
 
 
-      > **Víš, co je to diagnostický ústav?**
+      * **Víš, co je to diagnostický ústav?**
 
-      >
 
-      > Jedná se o typ zařízení, kde děti zůstávají jen krátce, většinou ne déle než 8 týdnů. V tomto  zařízení bývají děti proto, aby odborníci řekli, jestli mají jít zpět domů k rodičům, nebo do dalšího zařízení a jakého (dětského domova, dětského domova se školou nebo do výchovného ústavu). 
+      Jedná se o typ zařízení, kde děti zůstávají jen krátce, většinou ne déle než 8 týdnů. V tomto  zařízení bývají děti proto, aby odborníci řekli, jestli mají jít zpět domů k rodičům, nebo do dalšího zařízení a jakého (dětského domova, dětského domova se školou nebo do výchovného ústavu). 
 
-      > V diagnostickém ústavu pracují s dětmi odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí a doporučí, co je podle nich pro dítě nejlepší.
+      V diagnostickém ústavu pracují s dětmi odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí a doporučí, co je podle nich pro dítě nejlepší.
   - title: Mohou pro mě po příchodu do dětského domova platit jiná pravidla než pro
       ostatní
     perex: Řešili jsme případ sedmnáctileté Žanety, kterou do dětského domova
