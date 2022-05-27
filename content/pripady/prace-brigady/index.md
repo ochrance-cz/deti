@@ -192,5 +192,5 @@ cases:
       Jestliže jsi v evidenci úřadu práce, můžeš nastoupit i na tzv. rekvalifikaci a během kratší doby získat nové zkušenosti a dovednosti v oboru, který tě zajímá. Pokud stojíš o rekvalifikaci, zeptej se na konkrétní podmínky pracovnice či pracovníka úřadu práce v místě tvého bydliště. Podat musíš také písemnou žádost. Nevadí, že ti ještě nebylo 18 let.
 
 
-      Nemusíš vybírat pouze z rekvalifikací, které nabízí úřad práce. Rekvalifikační kurz si můžeš zvolit sám/sama podle toho, co tě zajímá (např. zahradnické, kosmetické či kadeřnické služby). Svůj výběr ale s úřadem práce konzultuj. **Úřad práce ti rekvalifikaci zaplatí pouze v případě, že vybraný rekvalifikační kurz odsouhlasí.**
+      Nemusíš vybírat pouze z rekvalifikací, které nabízí úřad práce. Rekvalifikační kurz si můžeš zvolit sám/sama podle toho, co tě zajímá (např. zahradnické, kosmetické či kadeřnické služby). Svůj výběr ale s úřadem práce konzultuj. **Úřad práce Ti rekvalifikaci zaplatí pouze v případě, že vybraný rekvalifikační kurz odsouhlasí.**
 ---
