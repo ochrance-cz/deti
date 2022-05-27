@@ -72,7 +72,7 @@ questions:
 
 
       Pokud máš ale uloženou ochrannou výchovou, můžeš sám/sama na vycházku jen „za odměnu“, nejdéle na 12 hodin.
-  - title: Musím se nechat otestovat na alkohol nebo jinou návykovou látku?
+  - title: Musím se nechat otestovat na alkohol nebo jiné drogy?
     icon: alkohol.svg
     desc: Ano, pokud Tě k tomu vyzve ředitel/ka zařízení nebo jiný
       pracovník/pracovnice (třeba vychovatelé). Mohou Ti sami udělat test ze
