@@ -170,33 +170,34 @@ cases:
 
       Stejný postup se uplatní i u mladých dospělých, kteří odešli z jiných zařízení pro výkon ústavní či ochranné výchovy, např. dětského domova se školou či výchovného ústavu.
   - title: Jsem v dětském domově daleko od rodičů. Je to v pořádku?
-    perex: Zabývali jsem se případem, kdy si matka stěžovala, že její syn je
+    perex: Zabývali jsem se případem, kdy si matka stěžovala, že její syn Pepa je
       umístěný v dětském domově příliš daleko od jejího bydliště.
     body: >-
-      Zjistili jsme, že chlapec pobýval nejprve v diagnostickém ústavu. Ten po
-      čase navrhl přemístit chlapce do dětského domova, který byl vzdálený 100
-      kilometrů od bydliště jeho matky a bratra. 
+      Zjistili jsme, že Pepa pobýval nejprve v diagnostickém ústavu. Ten ho po
+      čase doporučil přemístit do dětského domova vzdáleného 100 kilometrů od
+      bydliště jeho matky a bratra. Ti za ním pak nemohli často jezdit, protože
+      cesta byla dlouhá a stála hodně peněz. 
 
 
-      Sociální pracovnice orgánu sociálně-právní ochrany dětí (označovaného také jako „OSPOD“) souhlasily, soud návrhu vyhověl a chlapec byl přemístěn. Kvůli přemístění začala mít rodina chlapce (zejména matka a jeho bratr) problém za ním jezdit. Cesta byla dlouhá a stála hodně peněz. Proto chlapce nenavštěvovali často.
+      Než k přemístění Pepy došlo, musel o tom vědět OSPOD a rozhodnout o tom soud. To se také stalo. Nám se soudní rozhodnutí sice nelíbilo, ale nemohli jsme ho změnit. Na to nemáme pravomoc.
 
 
-      Nám se rozhodnutí o přemístění nelíbilo. Nemohli jsme však změnit rozhodnutí soudu, na to nemáme pravomoc. Postup jsme však vytkli sociálním pracovnicím OSPOD. Ty by totiž měly hájit nejlepší zájem dítěte. A v tomto případě bylo v zájmu dítěte podpořit jeho častý kontakt s rodinou. Sociálním pracovnicím OSPOD jsme zdůraznili, že nemají povinnost řídit se jen doporučením diagnostického ústavu, ale musí posuzovat všechny skutečnosti, které do práv dítěte zasahují.
+      Daný postup jsem však vytkli sociální pracovnici OSPOD, která Pepu u soudu zastupovala. Jejím úkolem bylo hájit Pepovy "nejlepší zájmy". Podle nás to ale nedělala. Upozornili jsem ji na to, že nemá povinnost řídit se doporučením diagnostického ústavu, když není pro dítě nejlepší.  
 
 
-      Také se nám nelíbilo, že sociální pracovnice OSPOD s chlapcem nemluvily předtím, než soudu podaly návrh na jeho přemístění. I když  by to udělat měly, nezeptaly se chlapce, co si o přemístění myslí, ani mu nevysvětlily, co to pro něj bude znamenat.
+      Také se nám nelíbilo, že sociální pracovnice OSPOD s chlapcem nemluvila předtím, než soudu navrhla jeho přemístění. I když  by to udělat měly, nezeptaly se chlapce, co si o přemístění myslí, ani mu nevysvětlily, co to pro něj bude znamenat.
 
 
-      Je dobře, že sociální pracovnice OSPOD přijaly naše výtky a zavázaly se, že napříště již budou postupovat v souladu s našimi doporučeními. Situace v chlapcově rodině se naštěstí po čase zlepšila a on se mohl vrátit domů.
+      Jsme rádi, že sociální pracovnice OSPOD přiznala svou chybu a slíbila, že se to již nebude opakovat. Radost jsme také měli z toho, že se situace v Pepově rodině rychle zlepšila a on se mohl vrátit domů. 
 
 
       > **Víš, co je to diagnostický ústav?**
 
       >
 
-      > Jedná se o typ zařízení, kde děti zůstávají jen krátce, většinou ne déle než 8 týdnů. V tomto typu zařízení bývají děti proto, aby odborníci stanovili, jestli mají jít zpět domů k rodičům, nebo do dalšího zařízení a jakého (dětského domova, dětského domova se školou nebo do výchovného ústavu). 
+      > Jedná se o typ zařízení, kde děti zůstávají jen krátce, většinou ne déle než 8 týdnů. V tomto  zařízení bývají děti proto, aby odborníci řekli, jestli mají jít zpět domů k rodičům, nebo do dalšího zařízení a jakého (dětského domova, dětského domova se školou nebo do výchovného ústavu). 
 
-      > V diagnostickém ústavu s dětmi pracují odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí, zda se dítě vrátí zpět domů, nebo bude nějakou dobu žít v jiném zařízení.
+      > V diagnostickém ústavu pracují s dětmi odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí a doporučí, co je podle nich pro dítě nejlepší.
   - title: Mohou pro mě po příchodu do dětského domova platit jiná pravidla než pro
       ostatní
     perex: Řešili jsme případ sedmnáctileté Žanety, kterou do dětského domova
