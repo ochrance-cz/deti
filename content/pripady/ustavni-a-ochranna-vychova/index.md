@@ -77,9 +77,12 @@ cases:
       O povolení či zamítnutí propustky (někdy také označované jako dovolenky,
       tj. pobytu mimo zařízení přes noc) rozhoduje ředitel/ka dětského domova.
       Před tím si musí vyžádat souhlas sociálního pracovníka/ sociální
-      pracovnice OSPOD. OSPOD souhlas nemusí udělit pouze v případech, kdy by
-      pobyt mimo zařízení nebyl v zájmu dítěte (např. pokud rodiče nemají kde
-      pobývat, dítěti ubližují nebo se mu nevěnují).
+      pracovnice OSPOD. 
+
+
+      * OSPOD souhlas nemusí udělit pouze v případech, kdy by pobyt mimo zařízení nebyl v zájmu dítěte (např. pokud rodiče nemají kde pobývat, dítěti ubližují nebo se mu nevěnují).
+
+      * Ředitel/ka může dovolenku nepovolit, i když OSPOD souhlasí. A to pokud usoudí, že pobyt pro dítě není z nějakého důvodu vhodný (třeba se ukáže, že rodiče ztratili v mezidobí bydlení a nemají dítě kam vzít). 
 
 
       V případě Anežky se jsme se zabývali přímo postupem ředitele a sociálního pracovníka OSPOD. Zjistili jsme, že nepostupovali správně. Nebyl žádný důvod nepovolit Anežce víkendy doma. Po našem zásahu tak mohla Anežka začít jezdit na víkendy a prázdniny opět domů.
@@ -94,11 +97,12 @@ cases:
       návštěvami chodí.
 
 
-      S ředitele dětského domova jsme upozornili, že každé dítě má právo na kontakt s rodinou, a to jak formou osobních návštěv, tak telefonátů a dopisů. 
+      **S ředitele dětského domova jsme upozornili, že každé dítě má právo na kontakt s rodinou, a to jak formou osobních návštěv, tak telefonátů a dopisů.** 
 
 
-      Návštěva rodinných příslušníkům v domově může být ředitelem zakázána, přerušena nebo jinak omezena pouze jednotlivě v případě, že by se chovala nevhodně a tím ohrožovala výchovu dítěte. Zakázat nebo omezit návštěvy spolužáků, kamarádů a přátel může ředitel domova pouze v rámci tzv. opatření ve výchově dítěte za porušení povinností, avšak na dobu nejdéle třiceti dnů (v období třech měsíců).
+      Návštěva rodinných příslušníkům v domově m**ůže být ředitelem zakázána, přerušena nebo jinak omezena** pouze jednotlivě v případě, že by se chovala nevhodně a tím ohrožovala výchovu dítěte. Třeba když rodič přijde na návštěvu opilý, na dítě během návštěvy křičí a nadává mu, nebo začne rozbíjet věci kolem sebe. 
 
+       Zakázat nebo omezit návštěvy spolužáků, kamarádů a přátel může ředitel domova pouze v rámci tzv. opatření ve výchově dítěte za porušení povinností, avšak na dobu nejdéle třiceti dnů (v období třech měsíců).
 
       V případě Petra se nám podařilo řediteli vysvětlit, jaká jsou pravidla pro návštěvy rodiny a kamarádů a pro jejich zákaz (či omezení). Ředitel přislíbil, že tato pravidla bude dodržovat.
   - title: I dítě z dětského domova si může vybrat střední školu
@@ -115,7 +119,15 @@ cases:
       Zjistili jsme, že ředitel dětského domova postupoval v rozporu se zákonem. O volbě střední školy aktivně nemluvil s matkou dívky, která má pořád rodičovskou odpovědnost a je s dcerou v pravidelném kontaktu.
 
 
-      Upozornili jsme proto ředitele domova, že dětem nemůže vybírat střední školu, na kterou mají chodit, a nemůže je ani zastupovat v rámci přijímacího řízení. 
+      Upozornili jsme proto ředitele domova, že pokud jsou rodiče dítěte aktivní a o své děti se zajímají: 
+
+
+      * nemůže zařízení autoritativně dětem vybírat střední školu, na kterou mají chodit,
+
+      * nemůže ředitel zařízení zastupovat dítě v rámci přijímacího řízení (tj. podepsat přihlášku za rodiče). 
+
+
+      Zároveň ale platí, že by zařízení mělo výběr školy s dítětem a jeho rodiči v dostatečném předstihu řešit. Každé dítě má totiž jiné schopnosti, nadání a potřeby a je důležité tomu přizpůsobit i výběr školy. Je například v pořádku, pokud zařízení upozorní "čtyřkaře", že není nejlepší nápad podávat přihlášku na gymnázium. 
 
 
       Po prošetření stížnosti dívky jsme totiž měli pochybnosti i o tom, jestli a do jaké míry probral dětský domov otázku výběru školy se samotnou dívkou. Ukázalo se také – a řediteli domova jsme to vytkli jako velmi neférové chování – že dívce zatajil, že byla přijata i na střední školu, na které chtěla studovat.
@@ -179,7 +191,9 @@ cases:
 
       >
 
-      > Jedná se o zařízení (tzv. školské zařízení pro výkon ústavní a ochranné výchovy), kam soud umisťuje děti buď tzv. předběžným opatřením, rozhodnutím o nařízení ústavní výchovy nebo uložení ochranné výchovy. Děti by v něm měly pobývat pouze krátkou dobu, zpravidla ne delší než 8 týdnů. Během pobytu děti spolupracují s psychologem, speciálním pedagogem, terapeutem a vychovateli. Ti všichni se podílí na tzv. diagnostické zprávě, která soudu a OSPOD pomáhá určit další (dlouhodobější) zařízení, které by mělo být pro dítě nejvhodnější.
+      > Jedná se o typ zařízení, kde děti zůstávají jen krátce, většinou ne déle než 8 týdnů. V tomto typu zařízení bývají děti proto, aby odborníci stanovili, jestli mají jít zpět domů k rodičům, nebo do dalšího zařízení a jakého (dětského domova, dětského domova se školou nebo do výchovného ústavu). 
+
+      > V diagnostickém ústavu s dětmi pracují odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí, zda se dítě vrátí zpět domů, nebo bude nějakou dobu žít v jiném zařízení.
   - title: Mohou pro mě po příchodu do dětského domova platit jiná pravidla než pro
       ostatní
     perex: Řešili jsme případ sedmnáctileté Žanety, kterou do dětského domova
