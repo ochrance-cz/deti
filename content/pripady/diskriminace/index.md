@@ -182,7 +182,7 @@ cases:
   - title: V jakých diskriminačních sporech se na soudy obracejí děti?
     perex: Naším úkolem je mimo jiné ochrana před diskriminací. Pomáháme lidem, se
       kterými někdo jedná jinak než s ostatními třeba jen proto, že jsou starší,
-      nemocní, nebo mají jinou barvu pleti. Poradíme, co můžou udělat. Někdy je
+      nemocní nebo mají jinou barvu pleti. Poradíme, co můžou udělat. Někdy je
       třeba obrátit se i na soud. Proto je pro nás důležité vědět, jak v
       takových případech soudy rozhodují. Podnikli jsme proto výzkum…pojď s námi
       zjistit, jaké případy se týkaly i dětí.
@@ -194,62 +194,65 @@ cases:
       která soudy vydaly. Teď víme:
 
 
-      - o čem soudy rozhodovaly,
+      * o čem soudy rozhodovaly,
 
-      - že to nebylo vždy jednoduché rozhodování,
+      * že to nebylo vždy jednoduché rozhodování,
 
-      - co některé problémy způsobilo a jak by se jim dalo do budoucna předejít.
-
-
-      Často se lidé soudili, když měli v životě potíže kvůli svému **zdravotnímu postižení nebo věku a pohlaví.** Nejvíce lidí se pak soudilo kvůli potížím v práci. Vadilo jim například, že jsou v nevýhodě vůči mladším.
+      * co některé problémy způsobilo a jak by se jim dalo do budoucna předejít.
 
 
-      - *Soudy například řešily případ ženy, která přišla o místo jen kvůli tomu, že byla těhotná.*
+      Často se lidé soudili, když měli v životě potíže kvůli svému **zdravotnímu postižení, věku nebo pohlaví.** Nejvíce lidí se pak soudilo kvůli potížím v práci. Vadilo jim například, že jsou v nevýhodě vůči mladším.
 
-      - *Pomoc u soudů také hledala jiná žena kvůli tomu, že za stejnou práci měla dostávat menší výplatu než muži.*
+
+      * *Soudy například řešily případ ženy, která přišla o místo jen kvůli tomu, že byla těhotná.*
+
+      * *Pomoc u soudů také hledala jiná žena kvůli tomu, že za stejnou práci měla dostávat menší výplatu než muži.*
 
 
       Co do počtu na druhém místě byly **žaloby žáků a studentů, kteří měli různé trable se školou**. A nešlo přitom o známky.
 
 
-      - *Například až soud se zastal chlapce, který měl kvůli svému zdravotnímu postižení problém najít školu, která by ho přijala. Nejdříve chodil do tzv. speciální školy. Protože byl hodně chytrý, v pedagogické poradně mu doporučili, aby přestoupil do běžné školy v místě, kde bydlí. Mohl by se tak učit společně se svými kamarády z okolí. Ředitelce školy se to nelíbilo. A tak ho nepřijala jen proto, že by s ním bylo kvůli jeho zdravotnímu postižení víc práce.*
+      * *Například až soud se zastal chlapce, který měl kvůli svému zdravotnímu postižení problém najít školu, která by ho přijala. Nejdříve chodil do tzv. speciální školy. Protože byl hodně chytrý, v pedagogické poradně mu doporučili, aby přestoupil do běžné školy v místě, kde bydlí. Mohl by se tak učit společně se svými kamarády z okolí. Ředitelce školy se to nelíbilo. A tak ho nepřijala jen proto, že by s ním bylo kvůli jeho zdravotnímu postižení víc práce.*
 
-      - *Jiný soud se zabýval postupem školy, která chlapci se zdravotním postižením nedovolila navštěvovat školní družinu.* 
+      * *Jiný soud se zabýval postupem školy, která chlapci se zdravotním postižením nedovolila navštěvovat školní družinu.* 
 
-      - *Na soud se obrátila také muslimská dívka, které škola zakázala mít při výuce na hlavě šátek.*
+      * *Na soud se obrátila také muslimská dívka, které škola zakázala mít při výuce na hlavě šátek.*
 
 
       Některé romské děti a jejich rodiče trápilo, že děti nemohly chodit do školy s neromskými dětmi.
 
 
-      - *Na soud se například obrátili dva chlapci, které ředitel jedné základní školy nechtěl přijmout do první třídy kvůli tomu, že jsou Romové. Do novin ředitel školy řekl, že by takových dětí ve škole nemělo být moc. Soud se dětí zastal a škola se jim musela omluvit. Do školy nakonec nastoupit mohly.*
+      * *Na soud se například obrátili dva chlapci, které ředitel jedné základní školy nechtěl přijmout do první třídy kvůli tomu, že jsou Romové. Do novin ředitel školy řekl, že by takových dětí ve škole nemělo být moc. Soud se dětí zastal a škola se jim musela omluvit. Do školy nakonec nastoupit mohly.*
 
 
-      **Kompletní výzkumná zpráva je dostupná **[**zde**](https://eso.ochrance.cz/Nalezene/Edit/8910)**.**
+      **Kompletní výzkumnou zprávu si můžeš přečíst [zde](https://www.ochrance.cz/dokument/rozhodovani_ceskych_soudu_o_diskriminacnich_sporech_2015_2019/2020-vyzkum_judikatura-dis.pdf).**
 
 
-      ** **
+      - - -
   - title: Jaké případy diskriminace se už v jiných státech řešily?
-    perex: Ombudsman v České republice poskytuje pomoc obětem diskriminace. Každý
-      stát Evropské unie má speciální instituci, která se prosazování rovného
-      zacházení věnuje. Mezi případy napříč Evropou tedy vybíráme pár
-      zajímavých, na základě kterých si každý bude moci lépe představit, co to
-      znamená zákaz diskriminace a jak se může řešit.
+    perex: Každý stát Evropské unie má speciální instituci, která se věnuje
+      prosazování rovného zacházení. V České republice jsme to my. Aby sis
+      mohl/a lépe představit, co vše může znamenat zákaz diskriminace, vybrali
+      jsme pár zajímavých příkladů od našich zahraničních kolegů.
     body: >-
-      V Maďarsku například řešili případ učitele, kterého studenti obtěžovali
-      kvůli jeho sexuální orientaci. Poté, co se v poměrně krátké době stal
-      terčem ostrého posměchu studentů, snažil se marně řešit tuto situaci přímo
-      se studenty. Následně se obrátil na třídního učitele a na ředitele školy.
-      Přesto však škola nepodnikla žádné kroky, které by vedly k nápravě.
-      Studenti naopak na konci školního roku obdrželi samé dobré známky z
-      chování a naopak učiteli nebyla na konci roku prodloužena pracovní
-      smlouva. Maďarský úřad pro rovné zacházení stanovil, že učitel byl
-      vystaven jak přímé diskriminaci v souvislosti s jeho propuštěním, tak také
-      obtěžování ze strany studentů, když zaměstnavatel naprosto selhal u řešení
-      této situace. Nenařídil však uložení pokuty škole, a to z důvodu, že během
-      celého řízení se škola snažila hledat smírné řešení pro obě strany. Mimo
-      jiné nabídla učitele znovu zaměstnat, ten však nabídku odmítl.
+      **V Maďarsku** například řešili případ učitele, kterého studenti
+      obtěžovali kvůli jeho sexuální orientaci. Poté, co se v poměrně krátké
+      době stal terčem ostrého posměchu studentů, snažil se svou situaci marně
+      řešit přímo se studenty. Následně se obrátil na třídního učitele a na
+      ředitele školy. 
 
 
-      Dánský soud se zabýval případem mladé muslimské dívky, která byla studentkou odborné školy, kde se připravovala na výkon budoucího povolání nutriční asistentky. V rámci školní praxe ale po ní bylo požadováno ochutnávání vepřového masa, které zpracuje. To ale kvůli svému náboženství odmítala. Byla ochotná vepřové maso zpracovávat, dotýkat se ho, ale už ne konzumovat. Studentka uváděla, že v ostatních třech odborných školách studenti nejsou k ochutnávání nuceni. Chtěla povolit výjimku z náboženských důvodů a předložila i dopis od ministra školství, v němž konstatoval, že po studentech nemůže být požadováno ochutnávání všech druhů jídel. Škola ale mladé muslimce nevyhověla a dívka byla nucena ukončit své vzdělávání. Daným případem se nejprve zabýval Úřad pro rovné zacházení (Board of Equal Treatment), který shledal, že se jedná o nepřímou diskriminaci a přiznal studentce náhradu ve výši 75. 000 dánských korun (přibližně 10.000 €). Případ je nyní řešen soudem.
+      Přesto však škola nepodnikla žádné kroky, které by vedly k nápravě. Studenti na konci školního roku obdrželi samé dobré známky z chování, naopak učiteli škola neprodloužila na konci roku pracovní smlouvu. 
+
+
+      Maďarský úřad pro rovné zacházení stanovil, že učitel byl vystaven přímé diskriminaci v souvislosti s jeho propuštěním, stejně jako obtěžování ze strany studentů. Přestože škola zcela selhala při řešení situace, neuložil jí úřad pokutu. A to z důvodu, že se snažila během celého řízení hledat smírné řešení pro obě strany. Mimo jiné nabídla učiteli, že ho znovu zaměstná. Ten však nabídku odmítl.
+
+
+      **Dánský soud** se zabýval případem mladé muslimské dívky, která byla studentkou odborné školy pro nutriční asistentky. V rámci školní praxe po ní škola požadovala, aby ochutnávala vepřové maso. To však dívka odmítala kvůli svému náboženství. 
+
+
+      Byla ochotná vepřové maso zpracovávat (dotýkat se ho), ale už ne ho jíst. Studentka uváděla, že v ostatních odborných školách nikdo studenty maso ochutnávat nenutí. Chtěla povolit výjimku z náboženských důvodů. Předložila i dopis od ministra školství, který ji podpořil. 
+
+
+      Škola ale mladé muslimce nevyhověla a dívka byla nucena ukončit své vzdělávání. Daným případem se nejprve zabýval dánský Úřad pro rovné zacházení (Board of Equal Treatment), který shledal, že se jedná o nepřímou diskriminaci a přiznal studentce náhradu ve výši 75 000 dánských korun (přibližně 250 000,- Kč). Případ nyní řeší soud.
 ---
