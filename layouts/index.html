@@ -49,6 +49,7 @@
           [...document.querySelectorAll('.dots span')].forEach((el) => {
             el.addEventListener('click', (e) => {
               e.preventDefault();
+              stopVideo();
               current = parseInt(el.dataset.n, 10);
               showVideo();
             })
