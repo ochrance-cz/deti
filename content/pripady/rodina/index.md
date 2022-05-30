@@ -22,23 +22,6 @@ cases:
 
 
       **Ty i tví rodiče mohou najít také více informací o úpravě styku [zde](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Uprava-styku.pdf).**
-  - title: Mám právo v souvislosti s rozvodem rodičů vypovídat před soudem?
-    perex: Ochránci napsala čtrnáctiletá Anička se žádostí o radu, zda může
-      vypovídat před soudem (např. při rozhodování o výchově, výživě apod.),
-      které předchází rozvodovému řízení jejích rodičů.
-    body: >-
-      Ochránce nemůže zasáhnout přímo vůči soudu, proto Aničce doporučil, aby se
-      obrátila na sociálního pracovníka, protože právě ten u soudu vystupuje
-      jako její zástupce (tzv. kolizní opatrovník). Jeho úkolem je chránit zájmy
-      dětí u soudu a také podávat soudu konkrétní návrhy (např. na to, jak často
-      by se měla stýkat s rodičem, se kterým nebydlí). Anička tedy dál řešila
-      případ se svým sociálním pracovníkem.
-
-
-      Sociální pracovník Aničce řekl, že vyjádřit se u soudu je jejím právem, nikoliv povinností. Názor nezletilého dítěte se zjišťuje buď přímo u soudu, nebo někdy postačí právě situaci probrat se sociálním pracovníkem a ten potom sám informuje soud. Pohovor by se měl provádět bez přítomnosti dalších osob (tedy i rodičů). K takto zjištěným názorům soud přihlíží, ale neznamená to, že vždy rozhodne přesně podle Tvého přání.
-
-
-      Na závěr je dobré říci, že pokud bys nebyl/a spokojená s postupem sociálního pracovníka, je možné napsat ochránci a ten jeho postup prošetří.
   - title: Sociální pracovníci se musí zajímat o názor dítěte
     perex: Ochránkyně se zabývala případem patnáctileté dívky, jejíž matce úřad ve
       správním řízení uložil povinnost, aby dceru přivedla k psychologovi. Úřad
@@ -54,27 +37,6 @@ cases:
 
 
       Sociální pracovníci mohou rodičům doporučit, aby zajistili svému dítěte odbornou poradenskou pomoc, například pomoc psychologa. Jestliže to rodiče neudělají, může úřad rodičům ve správním řízení uložit povinnost využít odborné pomoci pro dítě. V případě, že se o této povinnosti vede na úřadě správní řízení, měli by o tom sociální pracovníci dítě informovat a zjistit jeho názor. Jestliže dítě dosáhlo věku 12 let, zákon předpokládá, že je schopno informaci přijmout, vytvořit si vlastní názor a tento sdělit. Týká se to i vás? Jestli ano, [napište](jak-se-na-ochrance-obratit/).
-  - title: Musí soud zjišťovat můj názor, když rozhoduje o změně mého příjmení?
-    perex: Ano. V roce 2015 to potvrdil také Ústavní soud. Rozhodl, že o tak zásadní
-      otázce, jakou je změna příjmení, nemohou soudy zodpovědně rozhodovat bez
-      kontaktu s tím, jehož se změna přímo dotýká.
-    body: >-
-      Tento postup vyplývá z čl. 12 Úmluvy o právech dítěte, podle kterého má
-      dítě, které je schopno formulovat vlastní názory, právo tyto názory
-      svobodně vyjadřovat ve všech záležitostech, které se ho dotýkají (nejen
-      tedy v případě změny příjmení). Názorům dítěte se musí věnovat patřičná
-      pozornost odpovídající jeho věku a vyspělosti. Za tímto účelem se dítěti
-      zejména poskytuje možnost, aby bylo slyšeno v každém soudním nebo správním
-      řízení, které se ho týká.
-
-
-      Z toho tedy plyne, že soudkyně a soudci by měli zjistit názor dítěte přímo před soudem (nebrání-li tomu zvlášť významné okolnosti). Opačným postupem by mohlo dojít k zásahu do ústavně zaručeného práva na spravedlivý proces, garantovaného v čl. 36 odst. 1 Listiny základních práv a svobod.
-
-
-      Ústavní soud ovšem dodává, že v žádném případě nelze z čl. 12 Úmluvy o právech dítěte dovodit, že by názor dítěte byl pro soud zavazující a že by tudíž nemohl rozhodnout odlišně od tohoto názoru. V opačném případě by totiž bylo jakékoliv soudní řízení nadbytečné – postačovalo by, aby se všechny dotčené osoby a orgány dozvěděly o názoru dítěte a z něj pak ve své činnosti nadále vycházely.
-
-
-      Celý text nálezu Ústavního soudu sp. zn. IV. ÚS 3900/14 ze dne 4. listopadu 2015 je dostupný [zde](https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/IV._US_3900_14_an.pdf).
   - title: Rodiče se rozvádí a se mnou nikdo nemluví. Prý jsem ještě malý!
     perex: Mají sociální pracovníci a pracovnice OSPOD povinnost mluvit i s malými
       dětmi, které chodí teprve do školky? Mají povinnost zkusit se domluvit s
