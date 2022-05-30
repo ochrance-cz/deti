@@ -1,5 +1,5 @@
 ---
-title: Rodičovství - mateřství
+title: Rodičovství a mateřství
 cases:
   - title: Mohou rodiče zakázat nezletilému (budoucímu rodiči) stýkat se se svým
       dítětem?
