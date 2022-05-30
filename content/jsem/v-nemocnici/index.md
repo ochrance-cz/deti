@@ -85,4 +85,3 @@ questions:
       Pokud máš v nemocnici nějaké problémy, můžeš podat stížnost. Napiš nebo řekni lékaři, primáři nebo řediteli nemocnice.
 ---
 
-Leták je realizován prostřednictvím projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
