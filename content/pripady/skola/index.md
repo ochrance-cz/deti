@@ -69,22 +69,23 @@ cases:
 
       Ombudsman upozornil, že podobným sporem se už před časem zabýval Nejvyšší správní soud, který rovněž apeloval na vstřícnost vůči dětem. Školka či škola by neměla považovat nákup mikrovlnné trouby za zbytečnou investici sloužící jen vegetariánům. Mohou ji využívat například celiaci, kteří musí jíst výhradně bezlepkovou stravu, nebo děti, které ze zdravotních důvodů musí trvale nebo po určitou dobu dodržovat zvláštní dietu (např. po žloutence apod.). Náklady na pořízení mikrovlnné trouby ze strany školy pak i s ohledem na možné využití i pro další děti, nejsou nepřiměřené.
   - title: "Co můžu dělat, když mě ve škole šikanují? "
-    perex: Ochránci napsal třináctiletý Radim s dotazem, zda mu může ochránce pomoci
-      v případě, kdy jsou on i jeho kamarádi šikanováni spolužáky ve škole.
+    perex: Napsal nám třináctiletý Radim s dotazem, zda mu můžeme pomoci v případě,
+      kdy jsou on i jeho kamarádi šikanováni spolužáky ve škole.
     body: >-
-      Ochránce nemůže zasáhnout přímo vůči spolužákům, kteří Radima a jeho
-      kamarády šikanují, ale poradil mu, ať se v první řadě obrátí na učitele,
+      Nemůžeme zasáhnout přímo vůči spolužákům, kteří Radima a jeho kamarády
+      šikanují, ale poradili jsme mu, ať se v první řadě obrátí na učitele,
       ředitele či metodika prevence ve své škole a poté na [Českou školní
-      inspekci](http://www.csicr.cz) .
+      inspekci](http://www.csicr.cz). Pokud by nebyla šikana správně prošetřena
+      či jinak řešena, můžeme případ šetřit i my. Zůstali jsme proto s Radimem v
+      kontaktu, abychom mohli sledovat, zda úřady (hlavně Česká školní inspekce)
+      jednají tak, jak mají. V případě Radima zasáhl přímo učitel a ředitel
+      školy, šikana byla tedy vyřešena.
 
 
-      Pokud by nebyla šikana správně prošetřena či jinak řešena, může případ šetřit ochránce. Pracovník z Kanceláře ochránce zůstal s Radimem v kontaktu, aby mohl sledovat, zda úřady (hlavně Česká školní inspekce) jednají tak, jak mají. V případě Radima zasáhl přímo učitel a ředitel školy, šikana byla tedy vyřešena.
+      #### **Co tedy dělat, když mě ve škole šikanují?**
 
 
-      #### **Co můžu tedy dělat, když mě ve škole šikanují?**
-
-
-      **Není se třeba stydět, může se to stát každému. Důležité je nenechat se a situaci řešit. Začít bys měl/a tím, že se někomu svěříš. Nejlépe někomu z dospělých v tvém okolí (třeba rodiči, učiteli, vychovateli).  **
+      **Není se třeba stydět, může se to stát každému. Důležité je nenechat se a situaci řešit. Začít bys měl/a tím, že se někomu svěříš. Nejlépe někomu z dospělých v tvém okolí (třeba rodiči, učiteli, vychovateli).**  
 
 
       Pokud se bojíš o problému mluvit s někým známým, můžeš využít například webové stránky [Nenech to být](https://www.nntb.cz/), prostřednictvím které můžeš oznámit, proč se ve škole necítíš dobře. Podnět můžeš poslat i anonymně. Poputuje pak rovnou do emailové schránky určeného učitele či psychologa na tvé škole, který by se na problém měl zaměřit.
