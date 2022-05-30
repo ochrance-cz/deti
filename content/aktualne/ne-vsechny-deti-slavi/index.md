@@ -1,18 +1,12 @@
 ---
 title: Ne všechny dětí slaví…
-date: "2018-06-01"
+date: 2018-06-01
 perex: První červen je vyhlášen jako Mezinárodní den dětí.
 ---
-
-
-
 Všem dětem přejeme, aby si ho užily, a to nejlépe společně
 se svými blízkými. Ombudsmanka se však stále častěji setkává s případy, kdy děti
 nemohou být z nejrůznějších důvodů se svými rodiči, případně se
 s nimi nemohou alespoň pravidelně vídat.
-
-
-
 
 O odebrání dítěte z péče rodičů může rozhodnout pouze
 soud, je-li k tomu závažný důvod (rodiče nezajistí dítěti řádnou péči nebo
@@ -24,9 +18,6 @@ dobu. Pouze ve výjimečných případech (vede-li se s rodiči trestní řízen
 může rozhodnout také státní zástupce. Nikdo jiný (např. OSPOD, zařízení pro
 děti, pěstouni,…) nemůže dítěti bránit, aby se s rodiči pravidelně vídalo.
 
-
-
-
 V nedávné době se
 ombudsmanka setkala s případy několika dětí, kteří se bezprostředně po
 umístění do pěstounské péče na přechodnou dobu nemohly vídat s rodiči. Bránily
@@ -36,10 +27,4 @@ dítěte z péče rodičů a jeho dalším setkáním s rodiči způsobena také
 komunikací mezi vyjmenovanými subjekty. Tento postup není správný a ombudsmanka
 jej kritizovala.
 
-
-
-
-Pokud by ses dostal/a do stejné situace, můžeš ombudsmance napsat například prostřednictvím e-mailu [deti@ochrance.cz](mailto:deti@ochrance.cz)
-[podrobnosti (zde](jak-se-na-ochrance-obratit/)).
-
-
+Pokud by ses dostal/a do stejné situace, můžeš ombudsmance napsat například prostřednictvím e-mailu [deti@ochrance.cz](mailto:deti@ochrance.cz)  - podrobnosti [zde](https://deti.ochrance.cz/kdo/jak/).
