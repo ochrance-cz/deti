@@ -81,7 +81,7 @@ cases:
       Pokud nesouhlasíš ani s rozhodnutím nadřízeného soudu, je možné zvážit **ústavní stížnost**. O té rozhoduje Ústavní soud, který chrání základní práva a svobody. Mezi ně patří například i právo na ochranu rodinného života. Ústavní soud nevylučuje, že ústavní stížnost podá samotné dítě. Ústavní soud bude při podání takové stížnosti posuzovat, zda máš takovou rozumovou a citovou vyspělost, že se dokážeš samostatně vyjádřit k tomu, čeho se řízení týká, a tedy stížnost podat. Více informací najdeš v tomto [rozhodnutí Ústavního soudu](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1629-16_1). Pozor ale na to, že před Ústavním soudem musí být všichni zastoupeni advokátem nebo advokátkou – pokud bys podal/a stížnost sám/sama, Ústavní soud Tě vyzve, abys doložil, že Tě zastupuje advokát či advokátka. 
 
 
-      Kdo je to kolizní opatrovník a jak by Ti měl pomáhat? Koukni: 
+      **Kdo je to kolizní opatrovník a jak by Ti měl pomáhat? Koukni:** 
 
 
       <iframe width="640" height="360" src="https://www.youtube.com/embed/cHw1A8z36Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
