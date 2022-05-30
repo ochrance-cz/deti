@@ -5,6 +5,6 @@ document.querySelector("article").addEventListener("click", (e) => {
     const wrapper = document.createElement("DIV");
     wrapper.classList.add("zoomed-in");
     wrapper.appendChild(e.target.cloneNode());
-    document.body.appendChild(wrapper);
+    document.querySelector("article").appendChild(wrapper);
   }
 });
