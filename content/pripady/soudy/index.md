@@ -46,7 +46,7 @@ cases:
 
       **Pokud by se Ti nelíbilo, jak předseda či předsedkyně soudu Tvou stížnost vyřídili, napiš [nám](https://deti.ochrance.cz/kdo/jak/). Můžeme to s nimi řešit.**
     perex: Patnáctileté Evě se nelíbilo, jakým způsobem s ní mluvil soudce předtím,
-      že rozhodl, jak často se má vídat s mámou, se kterou nežije. Zdálo se jí,
+      než rozhodl, jak často se má vídat s mámou, se kterou nežije. Zdálo se jí,
       že zpochybňoval její názor, často ji přerušoval, a když mluvil, takřka
       křičel. Připadalo jí, že takto by se soudce chovat neměl. Ptala se, zda se
       proti tomu může nějak bránit?
