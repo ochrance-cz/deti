@@ -8,7 +8,7 @@ perex: Ochránkyně se nedávno setkala s tím, že úřad práce nechtěl posla
 ---
 Pokud ti už bylo 15 let a máš ukončenou povinnou školní docházku (do základní školy jsi chodil/a minimálně 9 let), nemusíš už dál studovat. Můžeš se rozhodnout, že budeš pracovat. 
 
-* [Jakou práci nemohou nezletilý vykonávat?](https://deti.ochrance.cz/pripady/prace-brigady/)
+* [Jakou práci nemohou nezletilí vykonávat?](https://deti.ochrance.cz/pripady/prace-brigady/)
 * [Mají nezletilí nějaká omezení při práci v noci, práci na směny či přesčasech?](https://deti.ochrance.cz/pripady/prace-brigady/)
 
 **Nepracuješ? Registruj se na úřadě práce!** 
