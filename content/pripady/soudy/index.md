@@ -61,7 +61,7 @@ cases:
       soudu změnit.
 
 
-      #### A kdo my tedy pomůže?
+      #### A kdo mi tedy pomůže?
 
 
       Může se zdát, že soudce či soudkyně si tak mohou dělat, co chtějí, a nikdo je nemůže kontrolovat. Tak tomu ale není. **Kontrolu zajišťují nadřízené soudy.** Pokud někdo z účastníků či účastnic soudního řízení nesouhlasí s rozhodnutím soudu, může se proti němu odvolat nebo jinak bránit. Vše pak posoudí nadřízený soud.
