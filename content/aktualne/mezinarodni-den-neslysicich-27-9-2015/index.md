@@ -1,15 +1,11 @@
 ---
 title: Mezinárodní den neslyšících 27. 9. 2015
-date: "2015-09-24"
-perex: >-
-  Věděli jste, že každoročně se třetí neděli v září slaví Mezinárodní den
+date: 2015-09-24
+perex: Věděli jste, že každoročně se třetí neděli v září slaví Mezinárodní den
   neslyšících? Víte, jaký je rozdíl mezi českým znakovým jazykem a znakovanou
   češtinou? Dovedete si představit, jak náročným situacím musí osoby se
   sluchovým postižením každodenně čelit? Tak čtěte dál.
 ---
-
-
-
 Český
 znakový jazyk je plnohodnotný jazyk jako každý jiný (čeština, angličtina nebo
 třeba čínština). Je to přirozený komunikační systém neslyšících skládající se
@@ -18,17 +14,7 @@ taky svou gramatiku, proto není možné překládat (jako z češtiny do
 francouzštiny) „slovo od slova“, ale například otázka se tvoří odlišně. Jak
 plyne už z názvu, není to jazyk mezinárodní, a dokonce v rámci České
 republiky je možné sledovat odlišnosti mezi moravskými a českými výrazy.
-Slovník je možné najít tady [http://ruce.cz/slovnik](http://ruce.cz/slovnik)
-nebo [http://www.spreadthesign.com/cz/](http://www.spreadthesign.com/cz/).
-
-
-
-
-
-  
-
-
-
+Slovník je možné najít tady <http://www.spreadthesign.com/cz/>.
 
 Vedle
 českého znakového jazyka existují i jiné systémy, kterými se mohou osoby se
@@ -43,14 +29,6 @@ velké mezery. Výbor například zjistil, že je u nás málo tlumočníků če
 znakového jazyka a vyzývá Českou republiku, aby vyvinula úsilí ke zjednodušení
 dorozumívání neslyšících v některých situacích, například u lékařů. 
 
-
-
-
-  
-
-
-
-
 Napříč
 Evropou můžeme najít zajímavé příklady dobré praxe týkající se osob se
 sluchovým postižením. Například v Polsku funguje online tlumočení z a
@@ -59,17 +37,7 @@ jazykem země. V některých státech mají povinně úřady své tlumočníky
 znakového jazyka, vybraní ombudsmani přijímají i stížnosti na DVD ve znakovém
 jazyce. 
 
-
-
-
-  
-
-
-
-
 Stane-li
 se česká ombudsmanka monitorovacím orgánem podle Úmluvy o právech osob se
 zdravotním postižením, bude se samozřejmě i ona zaměřovat na dodržování práv
-osob se sluchovým postižením. 
-
-
+osob se sluchovým postižením.
