@@ -16,18 +16,20 @@ cases:
 
       Právnička kanceláře ombudsmana jim vysvětlila, že obecně není možné, aby rodiče Alešovi zakázali se s Petrou a dítětem do budoucna vídat a stýkat. Otcovství je u nezletilého možné prohlásit před soudem s tím, že účast Alešových rodičů není nutná. Soud také může Alešovi přiznat ve vztahu k péči o dítě rodičovskou odpovědnost. Potřebné informace by měl oběma budoucím rodičům poskytnout místně příslušný orgán sociálně-právní ochrany dětí (OSPOD). O pomoc lze žádat i bez vědomí rodičů nebo jiných osob odpovědných za výchovu dítěte. O dávkách by se Petra měla informovat na Úřadu práce.
   - title: Můžu jako nezletilá podstoupit potrat bez vědomí rodičů?
-    perex: Ochránci napsala patnáctiletá Julie s dotazem, zda může podstoupit potrat
-      bez vědomí rodičů.
+    perex: Napsala nám patnáctiletá Julie s dotazem, zda může podstoupit potrat bez
+      vědomí rodičů.
     body: >-
-      Ochránce Julii informoval o tom, že dle zákona o umělém přerušení
-      těhotenství dívka starší 16 let rozhoduje o těhotenství sama, k provedení
-      potratu tedy nepotřebuje souhlas rodičů. Ovšem je-li mladší 18 ti let, tak
-      po jeho provedení jsou rodiče informováni zdravotnickým zařízením. V
-      případě patnáctileté Julie tedy je k potratu zapotřebí souhlasu jejích
-      rodičů.
+      Podle zákona o umělém přerušení těhotenství rozhoduje dívka starší 16 let
+      o těhotenství sama. K provedení potratu tedy nepotřebuje souhlas rodičů.
+      Zároveň ale platí, že nemocnice musí informovat rodič o provedení potratu,
+      pokud dívce ještě nebylo 18 let. **V případě patnáctileté Julie tedy byl
+      zapotřebí k potratu souhlas jejích rodičů.**
 
 
-      Aby tedy Julie našla sílu o své situaci říci doma, poslal jí ochránce kontakty na organizace, které ženám a dívkám v těchto případech pomáhají. Seznam poraden pro ženy a dívky je dostupný na [www.poradnaprozeny.eu](http://www.poradnaprozeny.eu/) . Pomáhají v obtížných životních situacích vzniklých (nejen) těhotenstvím. Všechny jejich služby jsou zdarma a zachovává se tu naprostá diskrétnost. Volat lze na krizovou linku 603 210 999.
+      #### Jsi v podobné situaci a nevíš, jak bojíš se, jak rodiče zareagují? 
+
+
+      Neboj se. Pokud je to pro Tebe jednodušší, svěř se někomu, komu důvěřuješ (oblíbené učitelce, tetě, starší kamarádce) a požádej je, ať jsou Ti oporou. Existují také organizace, které ženám a dívkám v těchto případech pomáhají. Třeba [Poradna pro ženy](https://www.poradnaprozeny.eu/) - zavolat jím můžeš i na jejich [krizovou linku](https://www.poradnaprozeny.eu/sluzby/).
   - title: Kdy můžu jako nezletilá matka dostal rodičovský příspěvek či porodné?
     perex: Napsala nám sedmnáctiletá Petra, která očekává za měsíc narození syna.
       Ptala se, zda má nárok na rodičovský příspěvek (případně porodné).
