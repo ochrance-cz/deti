@@ -7,7 +7,7 @@ perex: Během června se naše kancelář otevírá plně dětem. Čeká nás [k
   mnoho exkurzí pro školní kolektivy, představíme nová videa pro děti i výstavu
   Vašich projektů na téma Jak ombudsman pomáhá dětem. Budeme také mluvit o
   možnostech participace dětí a právech dětí hned na několika odborných akcích.
-  Sledovat to můžeš třeba na našem Facebooku @verejny.ochrance.prav. Aktivně
+  Sledovat to můžeš třeba na našem Facebooku (@verejny.ochrance.prav). Aktivně
   také upozorňujeme na potřebu zřídit funkci dětského ombudsmana, který v České
   republice stále chybí.
 ---
