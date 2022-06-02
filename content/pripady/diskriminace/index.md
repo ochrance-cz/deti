@@ -226,9 +226,6 @@ cases:
 
 
       **Kompletní výzkumnou zprávu si můžeš přečíst [zde](https://www.ochrance.cz/dokument/rozhodovani_ceskych_soudu_o_diskriminacnich_sporech_2015_2019/2020-vyzkum_judikatura-dis.pdf).**
-
-
-      - - -
   - title: Jaké případy diskriminace se už v jiných státech řešily?
     perex: Každý stát Evropské unie má speciální instituci, která se věnuje
       prosazování rovného zacházení. V České republice jsme to my. Aby sis
