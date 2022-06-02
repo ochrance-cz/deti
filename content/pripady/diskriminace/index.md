@@ -225,7 +225,7 @@ cases:
       * *Na soud se například obrátili dva chlapci, které ředitel jedné základní školy nechtěl přijmout do první třídy kvůli tomu, že jsou Romové. Do novin ředitel školy řekl, že by takových dětí ve škole nemělo být moc. Soud se dětí zastal a škola se jim musela omluvit. Do školy nakonec nastoupit mohly.*
 
 
-      **Kompletní výzkumnou zprávu si můžeš přečíst [zde](https://www.ochrance.cz/dokument/rozhodovani_ceskych_soudu_o_diskriminacnich_sporech_2015_2019/2020-vyzkum_judikatura-dis.pdf).**
+      **Můžeš si přečíst i naši kompletní [výzkumnou zprávu](https://www.ochrance.cz/dokument/rozhodovani_ceskych_soudu_o_diskriminacnich_sporech_2015_2019/2020-vyzkum_judikatura-dis.pdf).**
   - title: Jaké případy diskriminace se už v jiných státech řešily?
     perex: Každý stát Evropské unie má speciální instituci, která se věnuje
       prosazování rovného zacházení. V České republice jsme to my. Aby sis
