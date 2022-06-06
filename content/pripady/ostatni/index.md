@@ -329,7 +329,10 @@ cases:
       (nejčastěji rodiče).
 
 
-      Pokud si nejsi jistý/á, jaké řidičské oprávnění potřebuješ k řízení konkrétního vozidla, obrať se na kterýkoliv **registr řidičů** (tj. úřady obcí s rozšířenou působností, typicky městské úřady a magistráty). Při pokládání dotazu uveď technické specifikace vozidla, které chceš řídit, tj. počet kol, typ motoru (spalovací či elektrický), výkon motoru, zdvihový objem válců, hmotnost vozidla atd.. Další podrobnosti můžete nalézt také na webu [Ministerstva dopravy](https://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy/Cesky-RP). 
+      Pokud si nejsi jistý/á, jaké řidičské oprávnění potřebuješ k řízení konkrétního vozidla, obrať se na kterýkoliv **registr řidičů** (tj. úřady obcí s rozšířenou působností, typicky městské úřady a magistráty). Při pokládání dotazu uveď technické specifikace vozidla, které chceš řídit – počet kol, typ motoru (spalovací či elektrický), výkon motoru, zdvihový objem válců, hmotnost vozidla atd.. 
+
+
+      Další podrobnosti můžete nalézt také na webu [Ministerstva dopravy](https://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy/Cesky-RP). 
 
 
       > **Rozdělení vozidel do jednotlivých skupin stanoví zákon:**
@@ -340,7 +343,7 @@ cases:
 
       >
 
-      > **Do skupiny A1** jsou zařazeny:
+      > **Do skupiny A1** se řadí:
 
       >
 
@@ -350,20 +353,16 @@ cases:
 
       >
 
-      > Řidičské oprávnění udělené pro skupinu A1 opravňuje také k řízení čtyřkolových vozidel o výkonu motoru do 15 kW, s hmotností v nenaloženém stavu do 400 kg a se zdvihovým objemem spalovacího motoru do 125 cm3.
+      > S řidičákem pro skupinu A1 můžeš řídit také čtyřkolová vozidla o výkonu motoru do 15 kW, s hmotností v nenaloženém stavu do 400 kg a se zdvihovým objemem spalovacího motoru do 125 cm3.
 
       >
 
-      > **Skupina B1** zahrnuje čtyřkolová motorová vozidla nespadající do skupiny AM, jejichž výkon nepřevyšuje 15 kW a hmotnost v nenaloženém stavu nepřevyšuje 400 kg nebo 550 kg u vozidel určených k přepravě zboží.
-
-      >
-
-      > Řidičské oprávnění pro skupinu B1 opravňuje i k řízení tříkolových vozidel ze skupiny AM.
+      > **Skupina B1** zahrnuje čtyřkolová motorová vozidla nespadající do skupiny AM, jejichž výkon není větší než 15 kW a hmotnost v nenaloženém stavu nepřevyšuje 400 kg nebo 550 kg u vozidel určených k přepravě zboží. S řidičákem pro skupinu B1 můžeš řídit i tříkolová vozidla ze skupiny AM.
 
       >
 
       > **Do skupiny T** patří traktory a samojízdné pracovní stroje, a to i s přípojným vozidlem.
     title: Mohu získat řidičák, když mi ještě nebylo 18 let?
-    perex: Ano, ale jen pro některé skupiny motorových vozidel. Třeba pro malé
+    perex: Ano, ale jen pro některé skupiny motorových vozidel. Třeba pro menší
       motorky a čtyřkolky, silnější elektrické koloběžky nebo traktor.
 ---
