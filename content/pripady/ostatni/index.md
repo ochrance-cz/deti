@@ -332,7 +332,7 @@ cases:
       Pokud si nejsi jistý/á, jaké řidičské oprávnění potřebuješ k řízení konkrétního vozidla, obrať se na kterýkoliv **registr řidičů** (tj. úřady obcí s rozšířenou působností, typicky městské úřady a magistráty). Při pokládání dotazu uveď technické specifikace vozidla, které chceš řídit – počet kol, typ motoru (spalovací či elektrický), výkon motoru, zdvihový objem válců, hmotnost vozidla atd.. 
 
 
-      Další podrobnosti můžete nalézt také na webu [Ministerstva dopravy](https://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy/Cesky-RP). 
+      Další podrobnosti najdeš také na webu [Ministerstva dopravy](https://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy/Cesky-RP). 
 
 
       > **Rozdělení vozidel do jednotlivých skupin stanoví zákon:**
