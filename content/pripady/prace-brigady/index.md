@@ -18,7 +18,7 @@ cases:
       Pokud jde o samotnou brigádu, tato je vykonávána na základě dohody o provedení práce nebo dohody o pracovní činnosti. Jaké jsou v tom rozdíly?
 
 
-      * **Dohoda o provedení práce** se sjednává na práci o max. rozsahu 300 hodin v kalendářním roce a do výdělku nižšího než 10 000,- Kč měsíčně zaměstnavatel není povinen platit ani zdravotní pojištění, ani sociální pojištění. Výplata podléhá „jen“ srážkové dani ve výši 15 %. Tento typ dohody je pro studentské brigády nejčastější. 
+      * **Dohoda o provedení práce** se sjednává na práci o max. rozsahu 300 hodin v kalendářním roce.  Pokud zaměstnanec vydělá méně než 10 000,- Kč měsíčně, není povinen platit ani zdravotní pojištění, ani sociální pojištění. Výplata podléhá „jen“ srážkové dani ve výši 15 %. Tento typ dohody je pro studentské brigády nejčastější. 
 
       * U **dohody o pracovní činnosti** může být překročen rozsah 300 hodin v kalendářním roce, avšak maximálně přípustný počet odpracovaných hodin je nejvýše polovina běžné týdenní pracovní doby (tedy 20 hodin za týden). Zdravotní, sociální a nemocenské pojištění platí zaměstnanec i zaměstnavatel z odměny od 3 500,- Kč za měsíc.
 
@@ -30,7 +30,7 @@ cases:
       na dani.
     body: >-
       **Rozhodně! Pokud je Ti také méně než 26 let, stále studuješ a našel/a sis
-      brigádu, koukni co všechno může udělat, abys za odvedenou práci dostal/a
+      brigádu, koukni, co všechno můžeš udělat, abys za odvedenou práci dostal/a
       co nejvíce peněz.** 
 
 
@@ -77,7 +77,7 @@ cases:
       To, že má nějaká agentura povolení zprostředkovávat práci, ještě neznamená, že je to dobrá agentura. Ptej se známých, jestli s ní mají nějaké zkušenosti, a jaké. Spoustu informací a referencí najdeš určitě i na internetu. 
 
 
-      Přemýšlej také o tom, co Ti agentura nabízí – jaká je to práce, v jakých podmínkách, za kolik peněz. **Buď zvlášť opatrní, pokud vám někdo nabízí za běžnou nebo dokonce snadnou práci příliš vysoké výdělky.** Za sbírání jahod těžko vyděláte statisíce.
+      Přemýšlej také o tom, co Ti agentura nabízí – jaká je to práce, v jakých podmínkách, za kolik peněz. **Buď zvlášť opatrný/á, pokud Ti někdo nabízí za běžnou nebo dokonce snadnou práci příliš vysoké výdělky.** Za sbírání jahod těžko vyděláte statisíce.
 
 
       > **Pokud se setkáš s podezřelým chováním ze strany zprostředkovatelské agentury nebo zaměstnavatele, můžeš se obrátit na nejbližší [úřad práce](https://www.uradprace.cz/web/cz/krajske-pobocky) nebo [oblastní inspektorát práce](https://www.suip.cz/#inspektoraty), které tam mohou provést kontrolu.**
