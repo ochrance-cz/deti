@@ -71,23 +71,46 @@ Základní škola Komenského, Staré Město
 
 * POSTERY A OBRÁZKY
 
-  ![soutěžní příspěvek - plakát](zs_ceska_ves.jpg " ")
+Základní škola Česká Ves
 
-  ![soutěžní příspěvek - plakát](zs_a_ms_raspenava.jpg " ")
+![soutěžní příspěvek - plakát](zs_ceska_ves.jpg " ")
 
-  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ludmila_mysakova.jpeg " ")
+Základní škola Raspenava
 
-  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_helena_holoubkova.jpeg)
+![soutěžní příspěvek - plakát](zs_a_ms_raspenava.jpg " ")
 
-  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ella_ptacovska.jpeg)
+Základní škola B. Dvorského, Ostrava - Bělský Les
 
-  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_eliska_janacova.jpeg " ")
+![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ludmila_mysakova.jpeg " ")
 
-  ![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_2.jpg " ")
+Základní škola B. Dvorského, Ostrava - Bělský Les
 
-  ![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_1.jpg " ")
+![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_helena_holoubkova.jpeg)
 
-  ![soutěžní příspěvek - plakát](masarykova_zs_a_ms_melc.jpg " ")
+Základní škola B. Dvorského, Ostrava - Bělský Les
+
+![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ella_ptacovska.jpeg)
+
+Základní škola B. Dvorského, Ostrava - Bělský Les
+
+![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_eliska_janacova.jpeg " ")
+
+Základní škola Vajgar, Jindřichův Hradec
+
+![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_2.jpg " ")
+
+Základní škola Vajgar, Jindřichův Hradec
+
+![]()
+
+![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_1.jpg " ")
+
+Masarykova základní škola, Melč
+
+![soutěžní příspěvek - plakát](masarykova_zs_a_ms_melc.jpg " ")
+
+
+
 * LITERÁRNÍ DÍLA
 
 
