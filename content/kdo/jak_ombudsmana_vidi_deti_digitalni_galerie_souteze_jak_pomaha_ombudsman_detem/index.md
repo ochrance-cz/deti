@@ -89,3 +89,6 @@ Základní škola Komenského, Staré Město
 
   ![soutěžní příspěvek - plakát](masarykova_zs_a_ms_melc.jpg " ")
 * LITERÁRNÍ DÍLA
+
+
+* PREZENTACE
