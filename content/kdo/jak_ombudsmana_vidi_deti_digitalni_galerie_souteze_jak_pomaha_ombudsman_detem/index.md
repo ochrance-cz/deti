@@ -70,4 +70,22 @@ Základní škola Komenského, Staré Město
 <iframe width="750" height="422" src="https://www.youtube.com/embed/ytyESm900Ks?list=PLWNv_IxgJdEJbpY3TQjzjoaX74aVxIGvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * POSTERY A OBRÁZKY
+
+  ![soutěžní příspěvek - plakát](zs_ceska_ves.jpg " ")
+
+  ![soutěžní příspěvek - plakát](zs_a_ms_raspenava.jpg " ")
+
+  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ludmila_mysakova.jpeg " ")
+
+  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_helena_holoubkova.jpeg)
+
+  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_ella_ptacovska.jpeg)
+
+  ![soutěžní příspěvek - plakát](zs_a_ms_ostrava-belsky_les_-_eliska_janacova.jpeg " ")
+
+  ![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_2.jpg " ")
+
+  ![soutěžní příspěvek - plakát](zakladni_skola_jindrichuv_hradec_iii_-_1.jpg " ")
+
+  ![soutěžní příspěvek - plakát](masarykova_zs_a_ms_melc.jpg " ")
 * LITERÁRNÍ DÍLA
