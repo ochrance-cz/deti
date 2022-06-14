@@ -143,7 +143,9 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 
 ![soutěžní příspěvek - plakát](gymnazium_bruntal_-_vokalova_blazkova_page-0001.jpg " ")
 
+![soutěžní příspěvek - plakát](img_20220614_193124.jpg " ")
 
+![soutěžní příspěvek - plakát](img_20220614_193138.jpg " ")
 
 * LITERÁRNÍ DÍLA
 *
