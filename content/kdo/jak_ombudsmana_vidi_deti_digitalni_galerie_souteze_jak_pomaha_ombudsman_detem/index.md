@@ -111,7 +111,7 @@ Masarykova základní škola, Melč
 
 * LITERÁRNÍ DÍLA
 
-  /media/zs_luzec.docx
+  media/zs_luzec.docx
 
 
 
