@@ -43,6 +43,8 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 
 <iframe width="750" height="422" src="https://www.youtube.com/embed/ytyESm900Ks?list=PLWNv_IxgJdEJbpY3TQjzjoaX74aVxIGvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 * POSTERY A OBRÁZKY
 
 ![soutěžní příspěvek - plakát](zs_ceska_ves.jpg " ")
@@ -147,6 +149,8 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 
 ![soutěžní příspěvek - plakát](img_20220614_193138.jpg " ")
 
+
+
 * LITERÁRNÍ DÍLA
 
 ![literární dílo](zs_j.a.komenskeho_fulnek-weissmannova_krasovy_matejova_fojtikova_page-0001.jpg "  ")
@@ -160,6 +164,8 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 ![literární dílo ](20220614_210344.jpg "  ")
 
 ![literární dílo](20220614_210359.jpg "  ")
+
+
 
 * PREZENTACE
 
