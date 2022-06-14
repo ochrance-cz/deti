@@ -137,11 +137,8 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 
 ![soutěžní příspěvek - plakát](zs_javornik.jpg " ")
 
-![]()
+![](0001.jpg)
 
 * LITERÁRNÍ DÍLA
-
-
-
 *
 * PREZENTACE
