@@ -153,9 +153,13 @@ perex: V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman d�
 
 ![literární dílo](zs_luzec_page-0001.jpg "  ")
 
+![literární dílo](pribeh_pages-to-jpg-0001.jpg "  ")
 
+![literární dílo](pribeh_pages-to-jpg-0002.jpg "  ")
 
+![literární dílo ](20220614_210344.jpg "  ")
 
+![literární dílo](20220614_210359.jpg "  ")
 
 
 
