@@ -109,9 +109,13 @@ Masarykova základní škola, Melč
 
 ![soutěžní příspěvek - plakát](masarykova_zs_a_ms_melc.jpg " ")
 
-
-
 * LITERÁRNÍ DÍLA
 
+  /media/zs_luzec.docx
 
+
+
+
+
+*
 * PREZENTACE
