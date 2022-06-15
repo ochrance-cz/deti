@@ -11,6 +11,6 @@ Do soutěže se zapojilo téměř 400 dětí ze základních škol a víceletýc
 
 Kromě diskuze s ombudsmanem a jeho zástupkyní děti během dne tvořily, zkoušely a vymýšlely, kde všude mohou být aktivní, na koho se v případě problémů mohou obracet a jak jim může pomoci ombudsman. 
 
-> **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes stream.** 
+> **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes [stream](http://ochrance.livebox.cz/aJ0QpxiinECTq6Yc2IT2GA.html).** 
 >
 > **Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na [deti@ochrance.cz](mailto:deti@ochrance.cz) (předmět e-mailu „participace-otázka“).**
