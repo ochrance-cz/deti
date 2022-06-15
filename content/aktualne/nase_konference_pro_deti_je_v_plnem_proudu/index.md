@@ -1,5 +1,6 @@
 ---
 title: Naše konference pro děti je v plném proudu!
+draft: true
 date: 2022-06-15T19:09:31.923Z
 perex: Dnes v naší kanceláři probíhá naše první konference pro děti. Devadesát
   dětí z celé republiky přijelo, aby mohlo diskutovat s ombudsmanem a jeho
