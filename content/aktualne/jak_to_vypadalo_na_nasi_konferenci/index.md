@@ -41,7 +41,7 @@ attachments: []
 
 ![Jednání s politiky](dsc_0328.jpg "U stolu sedí ombudsman, jeho zástupkyně, právníci Kanceláře veřejného ochránce práv, poslankyně, zástupci ministerstev a Výboru pro práva dítěte.")
 
-**Samostatně jsme jednali také s učitelkami a učiteli, kteří děti doprovodili na konferenci. Nasdíleli jsme si tipy, jak s dětmi mluvit o ombudsmanovi a důležitosti jejich participace na věcech, které se jich přímo dotýkají.** 
+**Samostatně jsme jednali také s učitelkami a učiteli, kteří děti doprovodili na konferenci. Nasdíleli jsme si tipy, jak s dětmi mluvit o ombudsmanovi a o důležitosti zapojení dětí do věcí, které se jich přímo dotýkají.** 
 
 ![Jednání s učiteli](dsc_0378.jpg "U stolu sedí učitelky a učitelé s právničkami Kanceláře veřejného ochránce práv.")
 
