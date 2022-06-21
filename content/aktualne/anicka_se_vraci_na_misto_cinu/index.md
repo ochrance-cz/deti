@@ -6,4 +6,4 @@ perex: Víte, co je to podnět a že i cestuje? A víte, že existuje úřad, kt
   a jak s nimi souvisí práce ombudsmana. Koukněte v našem novém videu.
 attachments: []
 ---
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/_wkG9PC6a1A" title="#AničkaVloguje 2. díl – ÚŘADY \\[CZ Titulky]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wPzjwGk72M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
