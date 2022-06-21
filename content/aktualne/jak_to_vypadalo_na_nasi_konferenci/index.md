@@ -1,15 +1,14 @@
 ---
 title: Jak to vypadalo na naší konferenci?
-draft: true
+draft: false
 date: 2022-06-21T08:46:12.475Z
 perex: Minulý týden přijeli k nám do Brna výherci naší nedávné
   [soutěže](https://deti.ochrance.cz/kdo/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/).
   Přes 90 dětí a jejich učitelé z celé České republiky. A bylo to skvělé!
-  Koukněte sami ve fotoreportáži nebo reportáži ČT:D.
+  Koukněte sami ve fotoreportáži nebo [reportáži
+  ČT:D](https://decko.ceskatelevize.cz/video/e222411000160616).
 attachments: []
 ---
-https://decko.ceskatelevize.cz/video/e222411000160616 
-
 **Než to všechno vypuklo:**
 
 ![Konference pro děti - diskuze před zahájením](dsc_0178.jpg "Děti i dospělí diskutují v předsálí před zahájením konference")
