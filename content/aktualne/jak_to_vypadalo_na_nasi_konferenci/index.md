@@ -17,7 +17,7 @@ attachments: []
 
 ![Konference pro děti - výstava soutěžních děl](dsc_0186.jpg "Dívka si prohlíží obrázky vystavené v předsálí konferenčního sálu")
 
-**Zahájení konference - děti se dozvěděli, co ombudsman a jeho zástupkyně dělá a kde mohou pomáhat:**
+**Zahájení konference** – **děti se dozvěděli, co ombudsman a jeho zástupkyně dělá a kde mohou pomáhat:**
 
 ![Konference pro děti - zahájení](dsc_0289.jpg "Zahájení konference - děti sedí v sále a ombudsman a jeho zástupkyně v křesílkách")
 
