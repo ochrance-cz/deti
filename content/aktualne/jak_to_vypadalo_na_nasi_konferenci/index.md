@@ -25,7 +25,7 @@ attachments: []
 
 ![Konference pro děti - zahájení](dsc_0310.jpg "Moderátorka představuje dětem lektory, kteří je následně prováděli")
 
-**Po oficiálním zahájení čekal děti program v podobě drama lekce. Aktivně vymýšlely, jaké situace je trápí, kde mohou být více aktivní a na koho se v případě problémů mohou obracet. Zkusily si také vytvořit svého dětského ombudsmana a vyzkoušely si, jaké je to mu klást otázky.** 
+**Po oficiálním zahájení čekal děti program v podobě drama lekce. Aktivně vymýšlely, jaké situace je trápí, kde mohou být více aktivní a na koho se v případě problémů mohou obracet. Zkusily si také vytvořit svého dětského ombudsmana a vyzkoušely si, jaké to je mu klást otázky.** 
 
 ![Drama lekce](dsc_0338.jpg "Děti tvoří velký kruh a uprostřed stojí lektorka s dvěma chlapci.")
 
