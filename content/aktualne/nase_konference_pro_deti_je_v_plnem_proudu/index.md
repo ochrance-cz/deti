@@ -14,3 +14,7 @@ Kromě diskuze s ombudsmanem a jeho zástupkyní děti během dne tvořily, zkou
 > **Části konference pro děti se může zúčastnit každý! V čase od 13:15 do 14:30 bude probíhat diskuze dětí s ombudsmanem a jeho zástupkyní. Sleduj nás on-line přes [stream](http://ochrance.livebox.cz/aJ0QpxiinECTq6Yc2IT2GA.html).** 
 >
 > **Chtěl/a bys ombudsmanovi a jeho zástupkyni také položit otázku? Jasně! Napiš ji předem nebo v průběhu diskuze na [deti@ochrance.cz](mailto:deti@ochrance.cz) (předmět e-mailu „participace-otázka“).**
+
+
+
+*Konference pro děti je realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.*
