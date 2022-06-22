@@ -5,7 +5,7 @@ date: 2022-06-21T08:46:12.475Z
 perex: Minulý týden přijeli k nám do Brna výherci naší nedávné
   [soutěže](https://deti.ochrance.cz/kdo/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/).
   Přes 90 dětí a jejich učitelé z celé České republiky. A bylo to skvělé!
-  Koukněte sami ve fotoreportáži nebo [reportáži
+  Koukněte sami ve fotkách nebo [reportáži
   ČT:D](https://decko.ceskatelevize.cz/video/e222411000160616).
 attachments: []
 ---
@@ -45,7 +45,7 @@ attachments: []
 
 ![Jednání s učiteli](dsc_0378.jpg "U stolu sedí učitelky a učitelé s právničkami Kanceláře veřejného ochránce práv.")
 
-**Děti se zapojily také do tiskového brífinku, na kterém jsme mimo jiné prezentovali, co vše pro děti děláme:**
+**Děti se zapojily také do tiskové konference, na které jsme mimo jiné prezentovali, co vše děláme pro děti:**
 
 ![Tiskový brífink](dsc_0403.jpg "Tisková mluvčí Kanceláře veřejného ochránce práv pokládá otázku slečně. Pozoruje je ombudsman, jeho zástupkyně a novináři. ")
 
@@ -78,3 +78,11 @@ attachments: []
 ![Exkurze na Ústavní soud](dsc_0641.jpg "V plenární zasedací místnosti Ústavního soudu děti diskutují s představitelem Ústavního soudu.")
 
 ![Exkurze na Ústavní soud](dsc_0671.jpg "Děti se fotí u řečnického pultu Ústavního soudu.")
+
+**Tiskovou zprávu o konferenci pro děti můžete zhlédnout také ve znakovém jazyce:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7joyhC2pDgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+*Konference pro děti a tisková zpráva byly realizovány v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.*
