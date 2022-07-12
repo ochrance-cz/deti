@@ -9,10 +9,8 @@ Nejprve zkuste ověřit, jestli na tábor nepřispívá Tvoje zdravotní pojiš�
 
 **Pozor!** Mimořádná okamžitá pomoc se poskytuje na zaplacení i jiných výdajů, nejen táborů. Ve formuláři je proto potřeba zaškrtnout správnou kolonku. Která to je je označeno [tady](https://1iq.cz/img/j3zDM/K2mu5.bmp).
 
-|                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------- |
 | <a href="http://imgway.cz/s/8VoK" target="_blank" title="Zobrazit obrázek"><img src="http://imgway.cz/v/8VoK.jpg"/></a> |
-|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
 
 
 
