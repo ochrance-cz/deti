@@ -9,6 +9,13 @@ Nejprve zkuste ověřit, jestli na tábor nepřispívá Tvoje zdravotní pojiš�
 
 **Pozor!** Mimořádná okamžitá pomoc se poskytuje na zaplacení i jiných výdajů, nejen táborů. Ve formuláři je proto potřeba zaškrtnout správnou kolonku. Která to je je označeno [tady](https://1iq.cz/img/j3zDM/K2mu5.bmp).
 
+|                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| <a href="http://imgway.cz/s/8VoK" target="_blank" title="Zobrazit obrázek"><img src="http://imgway.cz/v/8VoK.jpg"/></a> |
+|                                                                                                                         |
+
+
+
 Pokud byste si při vyplňování formuláře nebyli s něčím jistí, požádejte o pomoc pracovníky a pracovnice na úřadu práce. Poradí vám. Mrknout můžete i do našich infoletáků [Mimořádná okamžitá pomoc pro nezaopatřené děti](https://www.ochrance.cz/letaky/mimoradna-okamzita-pomoc-pro-nezaopatrene-deti/mop-pro-deti.pdf) a [Řízení o dávkách pomoci v hmotné nouzi a příspěvku na bydlení](https://www.ochrance.cz/letaky/rizeni-o-davkach-pomoci-v-hn/rizeni-o-davkach-pomoci-v-hn.pdf).
 
 Jestliže máš nějaké další otázky, spojené s letními prázdninami, koukni taky do našeho infoletáku [Prázdniny bezpečně s ombudsmanem](https://www.ochrance.cz/letaky/prazdniny-bezpecne/prazdniny-bezpecne.pdf). Pokud bys tam nenašel/nenašla odpověď na svou otázku, [napiš nám](https://deti.ochrance.cz/kdo/jak/) a my Ti poradíme.
