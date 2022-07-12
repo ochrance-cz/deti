@@ -7,7 +7,7 @@ perex: Začaly prázdniny a spousta Tvých kamarádů a kamarádek odjela na tá
 ---
 Nejprve zkuste ověřit, jestli na tábor nepřispívá Tvoje zdravotní pojišťovna nebo obec či město, kde bydlíte. Pokud nic takového nezjistíte, mohou Tví rodiče požádat o **mimořádnou okamžitou pomoc**, což je jedna z dávek pomoci v hmotné nouzi. Pro získání dávky je potřeba vyplnit předepsaný formulář a ten předat nebo poslat na nejbližší úřad práce. Formulář je ke stažení na [webových stránkách Ministerstva práce a sociálních věcí](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc), nebo ho vašim dají na jakémkoli úřadu práce. Do formuláře napište konkrétní tábor, na který chceš jet, a kolik stojí.
 
-**Pozor!** Mimořádná okamžitá pomoc se poskytuje na zaplacení i jiných výdajů, nejen táborů. Ve formuláři je proto potřeba zaškrtnout správnou kolonku. Která to je, zjistíš na přiloženém obrázku.
+**Pozor!** Mimořádná okamžitá pomoc se poskytuje na zaplacení i jiných výdajů, nejen táborů. Ve formuláři je proto potřeba zaškrtnout správnou kolonku. Která to je, zjistíš na přiloženém obrázku:
 
 ![formulář MOP](/media/bez_nazvu.jpg " ")
 
