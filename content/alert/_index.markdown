@@ -1,6 +1,6 @@
 ---
 title: Dnes probíhá konference pro děti! Sleduj nás na streamu!
-draft: true
+draft: false
 ---
 Dnes v naší kanceláři probíhá **naše první konference pro děti.** Devadesát dětí z celé republiky přijelo, aby mohlo diskutovat s ombudsmanem a jeho zástupkyní. Možnost účastnit se konference vyhráli v soutěži. **Zapojit se však můžeš i Ty! V čase od 13:15 do 14:30 nás sleduj na [streamu](http://ochrance.livebox.cz/aJ0QpxiinECTq6Yc2IT2GA.html). Děti budou diskutovat s ombudsmanem a jeho zástupkyní.** 
 
