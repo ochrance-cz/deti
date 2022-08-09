@@ -1,38 +1,7 @@
 ---
 title: Dluhy a odpovědnost
 cases:
-  - title: Nesu odpovědnost za škodu, kterou způsobím?
-    perex: Napsal nám jedenáctiletý Josef. O víkendu si kopal před panelákem s
-      míčem. Špatně kopl a rozbil sousedovi míčem okno. Ptal se, jestli je
-      odpovědný za škodu, kterou způsobil sousedovi.
-    body: >-
-      Josefovi jsme odpověděli, že zákon nestanoví věkovou hranici, od kdy je
-      nezletilé dítě odpovědné za škodu. Vždy se posuzuje jeho rozumová a volní
-      vyspělost. Tedy zda je dítě schopno posoudit následky svého jednání a
-      ovládnout své jednání. Oba tyto předpoklady musí být splněny zároveň a
-      zcela. 
-
-
-      U průměrného jedenáctiletého chlapce se dá předpokládat, že splněny byly. Měl by si již uvědomovat, že kopnutý míč může rozbít okno. Stejně tak je velmi pravděpodobné, že si již umí vybrat místo vhodné pro kopání, případně svou hru přizpůsobit tomu, že v bezprostředním okolí jsou domy s okny. 
-
-
-      #### Jsou odpovědní i rodiče?
-
-
-      Rodiče nebo jiní pečovatele (třeba pěstouni, učitelé, vychovatelé,...) mají povinnost vykonávat nad svěřeným dítětem dohled. Pokud tzv. náležitý dohled zanedbali, jsou i oni odpovědní za škodu. 
-
-
-      V Josefově případě by za škodu odpovídali i rodiče. Pokud by byl Josef výrazně mladší nebo třeba zdravotně postižený, odpovídal by za způsobenou škodu jen dospělák, který ho měl hlídat a nedělal to (tedy zanedbal náležitý dohled). 
-
-
-      #### Kdo škodu zaplatí?
-
-
-      Josef a jeho rodiče odpovídají za škodu společně a nerozdílně. To znamená, že soused může chtít uhradit škodu po kterýmkoliv z nich. Josef s rodiči se pak musí dohodnout, jak se vzájemně vypořádají. Mělo by to být podle toho, nakolik se který z nich podílel na rozbití okna. Tedy nejen kdo kopl míč, ale i nakolik se rodiče snažili škodě předejít. 
-
-
-      Je také možné, že Josefovi rodiče mají sjednáno pojištění odpovědnosti za škodu. Tedy smlouvu s pojišťovnou, že za ně v případě nějakého maléru zaplatí vzniknou škodu. V takovém případě by škodu mohla zaplatit za Josefa a jeho rodiče pojišťovna.
-  - title: Nezaplatil/a jsem školné nebo telefon – co mám dělat?
+  - title: Nezaplatil/a jsem školné nebo za telefon. Co mám dělat?
     body: >-
       Nejlepší je platit včas. Když už dluh vznikne, je nejlepší snažit se s
       věřitelem dohodnout na splátkovém kalendáři. Vždy je lepší nenechat věc
@@ -64,6 +33,37 @@ cases:
       Školy evidují asi deset tisíc dlužníků, kteří nezaplatili poplatky za
       prodloužení studia. Až tisícovku z těchto studentů čeká exekuce. Kromě
       vysokých škol studenti nejčastěji dluží bankám a mobilním operátorům.
+  - title: Nesu odpovědnost za škodu, kterou způsobím?
+    perex: Napsal nám jedenáctiletý Josef. O víkendu si kopal před panelákem s
+      míčem. Špatně kopl a rozbil sousedovi míčem okno. Ptal se, jestli je
+      odpovědný za škodu, kterou způsobil sousedovi.
+    body: >-
+      Josefovi jsme odpověděli, že zákon nestanoví věkovou hranici, od kdy je
+      nezletilé dítě odpovědné za škodu. Vždy se posuzuje jeho rozumová a volní
+      vyspělost. Tedy zda je dítě schopno posoudit následky svého jednání a
+      ovládnout své jednání. Oba tyto předpoklady musí být splněny zároveň a
+      zcela. 
+
+
+      U průměrného jedenáctiletého chlapce se dá předpokládat, že splněny byly. Měl by si již uvědomovat, že kopnutý míč může rozbít okno. Stejně tak je velmi pravděpodobné, že si již umí vybrat místo vhodné pro kopání, případně svou hru přizpůsobit tomu, že v bezprostředním okolí jsou domy s okny. 
+
+
+      #### Jsou odpovědní i rodiče?
+
+
+      Rodiče nebo jiní pečovatele (třeba pěstouni, učitelé, vychovatelé,...) mají povinnost vykonávat nad svěřeným dítětem dohled. Pokud tzv. náležitý dohled zanedbali, jsou i oni odpovědní za škodu. 
+
+
+      V Josefově případě by za škodu odpovídali i rodiče. Pokud by byl Josef výrazně mladší nebo třeba zdravotně postižený, odpovídal by za způsobenou škodu jen dospělák, který ho měl hlídat a nedělal to (tedy zanedbal náležitý dohled). 
+
+
+      #### Kdo škodu zaplatí?
+
+
+      Josef a jeho rodiče odpovídají za škodu společně a nerozdílně. To znamená, že soused může chtít uhradit škodu po kterýmkoliv z nich. Josef s rodiči se pak musí dohodnout, jak se vzájemně vypořádají. Mělo by to být podle toho, nakolik se který z nich podílel na rozbití okna. Tedy nejen kdo kopl míč, ale i nakolik se rodiče snažili škodě předejít. 
+
+
+      Je také možné, že Josefovi rodiče mají sjednáno pojištění odpovědnosti za škodu. Tedy smlouvu s pojišťovnou, že za ně v případě nějakého maléru zaplatí vzniknou škodu. V takovém případě by škodu mohla zaplatit za Josefa a jeho rodiče pojišťovna.
   - body: >-
       Daniel již má řidičák a může tak motorku řídit. Podle zákona tak odpovídá
       i za škodu, kterou při řízení způsobí. 
