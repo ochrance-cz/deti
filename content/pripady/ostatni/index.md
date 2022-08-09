@@ -17,6 +17,24 @@ cases:
 
 
       Prodejce by Haninu reklamaci měl přijmout. Pokud ne, může Hana najít pomoc u [České obchodní inspekce](https://www.coi.cz/).
+  - title: Jak mám postupovat, pokud si na internetu objednám něco ze státu mimo
+      Evropskou unii?
+    perex: Pokud rád/a objednáváš zboží na internetu, měl/a bys sis dávat pozor,
+      jestli ho nemusíš zdanit.
+    body: >-
+      Nejprve je třeba zjistit, jestli k Tobě zboží poputuje ze skladu na území
+      Evropské unie nebo nikoliv. Pokud se jedná o sklad **v rámci Evropské
+      unie, není třeba se v zásadě o nic starat.** Na webových stránkách e-shopu
+      bys měl/a tuto informaci zjistit.
+
+
+      Pokud se jedná o zboží **ze skladu mimo Evropskou unii, budeš mít povinnost podat celní prohlášení.** To můžeš učinit buď sám/sama nebo o to požádat přepravní společnost (nejčastěji Českou poštu nebo jiného dopravce). Dopravci si ale účtují poplatek za vyřízení celního prohlášení.
+
+
+      Až na výjimky se u zásilek **do hodnoty 150 € nebude platit clo**. Bude se však platit daň z přidané hodnoty z jakékoliv hodnoty zásilky. Základní sazba daně z přidané hodnoty je 21 %.
+
+
+      > **Pokud se rozhodneš podat celní prohlášení sám/sama, koukni na [Celnicka.cz](https://celnicka.cz/). Najdeš tam všechny informace k celnímu řízení i další užitečné odkazy.**
   - title: Co můžu dělat, mám-li podezření, že mě někdo zneužívá přes internet?
     perex: Víte, že kromě oloupení v přeplněné MHD nebo obtěžování v noci na ulici
       vám dnes hrozí ještě jiné, mnohdy daleko závažnější riziko? Riziko, které
@@ -26,9 +44,9 @@ cases:
     body: >-
       Internet dnes nabízí velký prostor pro seznámení s neznámými lidmi.
       Prostřednictvím sociálních sítí (Facebook, Twitter apod.), seznamek
-      (lide.cz apod.) či nejrůznějších komunikačních stránek (ICQ, Skype) je
-      možné na internetu komunikovat v podstatě s kýmkoli, kdo si zrovna na tom
-      kterém serveru zřídí účet (což je většinou velmi snadné).
+      (Tinder apod.) či nejrůznějších komunikačních stránek (Skype. Viber,
+      WhatsUp apod.) je možné na internetu komunikovat v podstatě s kýmkoli, kdo
+      si zrovna na tom kterém serveru zřídí účet (což je většinou velmi snadné).
 
 
       Existují lidé, kteří uvedené internetové stránky užívají z toho důvodu, aby sexuálně obtěžovali, zneužili nebo jinak zmanipulovali nezletilé, a to nejen dospívající, ale i mladší děti. V podstatě neexistuje žádná věková hranice, o které by se dalo říci, že právě dítě tohoto věku je ještě v bezpečí a nic mu nehrozí. Sexuální zneužití, obtěžování či jiná manipulace hrozí v podstatě všem, kdo se na internetu pohybují a komunikují.
@@ -133,24 +151,6 @@ cases:
 
 
       Pokud by krajská hygienická stanice na podání nereagovala nebo bys s její odpovědí nesouhlasil/a, mohl by její postup prošetřit **ombudsman**.
-  - title: Jak mám postupovat, pokud si na internetu objednám něco ze státu mimo
-      Evropskou unii?
-    perex: Pokud rád/a objednáváš zboží na internetu, měl/a bys sis dávat pozor,
-      jestli ho nemusíš zdanit.
-    body: >-
-      Nejprve je třeba zjistit, jestli k Tobě zboží poputuje ze skladu na území
-      Evropské unie nebo nikoliv. Pokud se jedná o sklad **v rámci Evropské
-      unie, není třeba se v zásadě o nic starat.** Na webových stránkách e-shopu
-      bys měl/a tuto informaci zjistit.
-
-
-      Pokud se jedná o zboží **ze skladu mimo Evropskou unii, budeš mít povinnost podat celní prohlášení.** To můžeš učinit buď sám/sama nebo o to požádat přepravní společnost (nejčastěji Českou poštu nebo jiného dopravce). Dopravci si ale účtují poplatek za vyřízení celního prohlášení.
-
-
-      Až na výjimky se u zásilek **do hodnoty 150 € nebude platit clo**. Bude se však platit daň z přidané hodnoty z jakékoliv hodnoty zásilky. Základní sazba daně z přidané hodnoty je 21 %.
-
-
-      > **Pokud se rozhodneš podat celní prohlášení sám/sama, koukni na [Celnicka.cz](https://celnicka.cz/). Najdeš tam všechny informace k celnímu řízení i další užitečné odkazy.**
   - title: Ochrana osobních údajů v naší kanceláři
     perex: Stejně jako mnoho jiných institucí (např. školy, sportovní kluby atp.) i
       Kancelář veřejného ochránce práv tzv. zpracovává, tedy shromažďuje a
