@@ -65,22 +65,25 @@ cases:
       prodloužení studia. Až tisícovku z těchto studentů čeká exekuce. Kromě
       vysokých škol studenti nejčastěji dluží bankám a mobilním operátorům.
   - body: >-
-      Ochránce Daniela informoval o tom, že pokud jde o škodu způsobenou
-      dopravním prostředkem (*pozn. nezletilý může mít od 15 let řidičské
-      oprávnění k řízení motorového jednostopého vozidla s nižší kubaturou*), je
-      nezletilý odpovědný podle občanského zákoníku za škodu způsobenou provozem
-      motorového vozidla. Odpovědnost má i tehdy, pokud škodu jeho motorovým
-      vozidlem způsobil někdo jiný. Pokud se jeho vozidla někdo zmocnil proti
-      jeho vůli nebo bez jeho vědomí, ale on, jako vlastník vozidla, to umožnil
-      svou nedbalostí, pak za způsobenou škodu odpovídají společně. Osoby, které
-      jsou povinny vykonávat nad nezletilým dítětem dohled (rodiče, pěstouni,
-      dětský domov, škola, mateřská škola), nenesou v těchto případech za škodu
-      způsobenou provozem dopravního prostředku odpovědnost.
+      Daniel již má řidičák a může tak motorku řídit. Podle zákona tak odpovídá
+      i za škodu, kterou při řízení způsobí. 
 
 
-      Jestliže však nezletilý způsobí škodu řízením motorového vozidla škodu a vozidla není jeho a nemá ani řidičské oprávnění, pak za škodu odpovídá buď sám,  nebo společně s osobou, která je povinna vykonávat nad ním dohled. Záleží přitom na okolnostech (např. jestli bylo vozidlo, kterým škodu způsobil, zabezpečeno proti použití cizí osobou apod.)
-    perex: Na ochránce se obrátil šestnáctiletý Daniel s dotazem, zda odpovídá za
-      škodu, kterou způsobil při dopravní nehodě na svém motocyklu.
-    title: Nesu odpovědnost za škodu, kterou jsem způsobil provozem dopravního
-      prostředku?
+      #### Jsou odpovědní i rodiče?
+
+
+      V Danielově případě **nejsou** rodiče (případně jeho jiní pečovatelé, např. pěstouni nebo vychovatelé dětského domova) odpovědní za škodu způsobenou provozem dopravního prostředku, kterou způsobilo jejich dítě (dítě, nad kterém vykonávali dohled). Ze zákona se má za to, že pokud nezletilý řídí vozidlo, ke kterému řádně získal řidičák, je odpovědný i za škodu způsobenou při dopravní nehodě. 
+
+
+      #### **Jsi vlastníkem motorky?**
+
+
+      Daniela jsme upozornili, že za škodu by byl odpovědný i v případě, že by mu motorku někdo ukradl a způsobil na ní dopravní nehodu. Jako majitel motorky by pak za škodu odpovídal společně s viníkem. Doporučili jsme mu proto, aby si motorku dobře zamykal či jinak zabezpečoval.
+    perex: Napsal nám šestnáctiletý David. Jezdí rád na motorce. Hned v patnácti "si
+      udělal papíry" a koupil motorku. Nedávno měl ale nehodu. Přehlédl červenou
+      na semaforu a narazil do projíždějícího auta. Auto zůstalo poškrábané a
+      jeho majitel chce zaplatit opravu. David se ptal, jestli jako nezletilý
+      odpovídá za škodu, kterou způsobil při dopravní nehodě.
+    title: Nesu odpovědnost za škodu, kterou jsem způsobil/a při nehodě na své
+      motorce?
 ---
