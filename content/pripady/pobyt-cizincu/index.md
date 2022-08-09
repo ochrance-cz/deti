@@ -118,11 +118,9 @@ cases:
 
 
 
-      > [Листівки онлайн ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf)
+      > * [Листівки онлайн ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf)
 
-      >
-
-      > [Листівки ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf)
+      > * [Листівки ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf)
 
 
 
@@ -217,11 +215,11 @@ cases:
 
 
 
-      > [Leták ke stažení - CZ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/ombudsman-detem-z-ukrajiny-cze.pdf)
+      > * [Leták ke stažení - CZ](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/ombudsman-detem-z-ukrajiny-cze.pdf)
 
-      > [Leták ke stažení - UA online](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf) 
+      > * [Leták ke stažení - UA online](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_ONLINE__01.pdf) 
 
-      > [Leták ke stažení - UA tisk](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf)
+      > * [Leták ke stažení - UA tisk](https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/Detem_z_Ukrajiny/Ombudsman_detem_z_ukrajiny__UA_-_pro_TISK__01.pdf)
 
 
 
