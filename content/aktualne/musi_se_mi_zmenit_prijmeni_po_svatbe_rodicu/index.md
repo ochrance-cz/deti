@@ -3,7 +3,7 @@ title: Musí se mi změnit příjmení po svatbě rodičů?
 date: 2022-08-09T08:05:03.910Z
 perex: Léto je obdobím často využívaným pro svatby. Možná se i Tví rodiče
   rozhodli, že se konečně vezmou. Stejně jako rodiče čtrnáctileté Veroniky,
-  která nám napsala. Ze svatby rodičů měla radost. Ale jen do chvíle, než
+  která nám napsala. Ze svatby rodičů měla radost. Ale jen do chvíle než
   zjistila, že se jí svatbou rodičů změnilo příjmení.
 ---
 ### Jak je to možné?
