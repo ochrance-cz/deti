@@ -16,6 +16,6 @@ Veroniku jsme museli zklamat. Na matrice totiž měli pravdu. Platí, že příj
 
 > Podle § 860 odst. 1 občanského zákoníku: *„Dítě má příjmení určené při uzavření manželství svých rodičů pro společné děti manželů.“* 
 
-### Dá se s tím něco dělat? 
+### Dá se s tím něco dělat?
 
-Veronika sama nemůže podat žádost o změnu svého příjemní zpět na příjmení původní. Může ale požádat rodiče, aby na matrice podali žádost za ni. Budou však muset zaplatit správní poplatek ve výši 100 Kč.
+Veronika nemůže podat žádost o změnu svého příjmení zpět na příjmení původní. **Může ale požádat rodiče, aby na matrice podali žádost za ni.** Budou však muset zaplatit správní poplatek ve výši 100 Kč.
