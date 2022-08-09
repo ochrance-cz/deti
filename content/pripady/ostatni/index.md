@@ -2,21 +2,21 @@
 title: Ostatní
 cases:
   - title: Od kdy mohu uzavírat smlouvy a jednat závazně sám bez rodičů?
-    perex: Do Kanceláře ochránce přišel dopis šestnáctileté Hany se žádostí o pomoc
-      ve věci reklamace vadného mobilního telefonu, který sama koupila v
-      prodejně. Prodejce odmítl přijmout její reklamaci s tím, že ji za ni musí
-      podat její rodič (zákonný zástupce).
-    body: Ochránce Hanu informoval o tom, že zákon nestanoví žádnou věkovou hranici
-      pro tzv. způsobilost k právním úkonům. Občanský zákoník sice říká, že v
-      plném rozsahu člověk nabývá práva a bere na sebe povinnosti dosažením
-      zletilostí (tj. dosažením 18 ti let či uzavřením manželství před dosažením
-      tohoto věku). Nicméně i nezletilí mohou sami jednat přiměřeně své tzv.
-      rozumové a volní vyspělosti. Poněkud zjednodušeně řečeno to znamená, že
-      koupit lízátko si může i malé dítě a mobilní telefon např. 16-ti letá
-      Hana. Tím pádem je oprávněna i sama telefon reklamovat. Proto by v daném
-      případě prodejce měl přijmout reklamaci i bez rodičů Hany. Je třeba jen
-      dodat, že ochránce nemůže proti prodejci nijak zasáhnout. Neúspěšné
-      reklamace lze řešit prostřednictvím České obchodní inspekce a soudu.
+    perex: Napsala nám šestnáctiletá Hana. Koupila si sama mobil v kamenném obchodě.
+      Teď se jí rozbil a prodejce jí odmítl přijmout reklamaci. Tvrdil, že mobil
+      musí reklamovat jeden z jejich rodičů (zákonných zástupců).
+    body: >-
+      Zákon nestanoví žádnou věkovou hranici pro tzv. způsobilost k právním
+      úkonům. Občanský zákoník sice říká, že v plném rozsahu člověk nabývá práva
+      a bere na sebe povinnosti dosažením zletilostí (tj. dosažením 18 ti let či
+      uzavřením manželství před dosažením tohoto věku). **Nicméně i nezletilí
+      mohou sami jednat přiměřeně své tzv. rozumové a volní vyspělosti.**
+
+
+      Poněkud zjednodušeně řečeno to znamená, že koupit lízátko si může i malé dítě a mobil i šestnáctiletá Hana. **Může tak mobil i sama reklamovat.** 
+
+
+      Prodejce by Haninu reklamaci měl přijmout. Pokud ne, může Hana najít pomoc u [České obchodní inspekce](https://www.coi.cz/).
   - title: Nesu odpovědnost za škodu, kterou způsobím?
     perex: Ochránci napsal jedenáctiletý Josef a ptal se, jestli je odpovědný za
       škodu, kterou způsobil sousedovi, když mu míčem rozbil okno.
@@ -147,24 +147,6 @@ cases:
 
 
       **Mnoho užitečných informací o kyberšikaně, kybergroomingu, kyberslatkingu a dalším formám obtěžování prostřednictvím internetu se můžeš dozvědět také na [webových stránkách projektu E-Bezpečí](https://www.e-bezpeci.cz/index.php/home), kde je k dispozici také [on-line poradna.](https://poradna.e-bezpeci.cz/)**
-  - title: Poručníci by již neměli mít problémy s vyřízením pasů pro svěřené děti
-    perex: Jsi v péči poručníků a měl/a jsi problém s vydáním pasu? Již by se to
-      nemělo stávat.
-    body: >-
-      Úřady dříve vyžadovaly, aby se poručníci nejprve obrátili na soud a
-      požádali ho o svolení, že mohou pro svěřené dítě vyřídit pas. Teprve s
-      přivolením soudu pak mohli podat žádost o pas pro dítě na úřadě.   
-
-      Znamenalo to, že některé děti nemohli odjet na dovolenou či školní zájezd do zahraničí, protože soud o žádosti poručníků nestihl včas rozhodnout.
-
-
-      Ombudsmanka chtěla, aby úřady změnily svoji praxi při vydávání pasů pro děti, za které o vydání  žádali jejich poručníci. A na podzim loňského roku se ombudsmance podařilo přesvědčit Ministerstvo vnitra ke změně.
-
-
-      Aktuálně již úřady přivolení soudu nevyžadují. Poručníci tak mohou žádat o pas rovnou, sami a bez dalšího. Ombudsmanka totiž Ministerstvu vnitra vysvětlila, že požadavek úřadů nemá oporu v zákoně.
-
-
-      Podrobnější informace nalezneš [zde](https://eso.ochrance.cz/Nalezene/Edit/6132).
   - title: Právo na informace mají i nezletilí
     perex: Setkali jsme se s dotazem sedmnáctiletého chlapce, který chtěl do školní
       ročníkové seminární práce získat přesné informace o provozu městského
@@ -322,47 +304,4 @@ cases:
 
 
       Podrobné informace k oblasti exekucí přinášíme v [informačním letáku](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf).
-  - body: >-
-      Konkrétně pro skupinu **AM je věková hranice 15 let**, pro skupinu **A1 16
-      let** a pro skupinu **B1 a T 17 let**. Při podání žádosti o vydání
-      řidičského průkazu je však **nutný souhlas (podpis) zákonného zástupce**
-      (nejčastěji rodiče).
-
-
-      Pokud si nejsi jistý/á, jaké řidičské oprávnění potřebuješ k řízení konkrétního vozidla, obrať se na kterýkoliv **registr řidičů** (tj. úřady obcí s rozšířenou působností, typicky městské úřady a magistráty). Při pokládání dotazu uveď technické specifikace vozidla, které chceš řídit – počet kol, typ motoru (spalovací či elektrický), výkon motoru, zdvihový objem válců, hmotnost vozidla atd.. 
-
-
-      Další podrobnosti najdeš také na webu [Ministerstva dopravy](https://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy/Cesky-RP). 
-
-
-      > **Rozdělení vozidel do jednotlivých skupin stanoví zákon:**
-
-      >
-
-      > **Do skupiny AM** patří motorová vozidla s konstrukční rychlostí do 45 km/h. Dvoukolová vozidla jsou dále omezena objemem válců spalovacího motoru do 50 cm3 a výkonem elektrického motoru do 4 kW. Do této kategorie tak mohou patřit i některé elektrické koloběžky. Obdobné omezení platí pro tříkolová vozidla. Vozidla čtyřkolová jsou pak omezena hmotností v nenaloženém stavu do 350 kg a motorem do 50 cm3 nebo jiným motorem s výkonem do 4 kW. 
-
-      >
-
-      > **Do skupiny A1** se řadí:
-
-      >
-
-      > * lehké motocykly s postranním vozíkem nebo bez něj o výkonu nejvýše 11 kW a s poměrem výkonu/hmotnosti nejvýše 0,1 kW/kg a se zdvihovým objemem spalovacího motoru nepřevyšujícím 125 cm3,
-
-      > * tříkolová motorová vozidla o výkonu nejvýše 15 kW.
-
-      >
-
-      > S řidičákem pro skupinu A1 můžeš řídit také čtyřkolová vozidla o výkonu motoru do 15 kW, s hmotností v nenaloženém stavu do 400 kg a se zdvihovým objemem spalovacího motoru do 125 cm3.
-
-      >
-
-      > **Skupina B1** zahrnuje čtyřkolová motorová vozidla nespadající do skupiny AM, jejichž výkon není větší než 15 kW a hmotnost v nenaloženém stavu nepřevyšuje 400 kg nebo 550 kg u vozidel určených k přepravě zboží. S řidičákem pro skupinu B1 můžeš řídit i tříkolová vozidla ze skupiny AM.
-
-      >
-
-      > **Do skupiny T** patří traktory a samojízdné pracovní stroje, a to i s přípojným vozidlem.
-    title: Mohu získat řidičák, když mi ještě nebylo 18 let?
-    perex: Ano, ale jen pro některé skupiny motorových vozidel. Třeba pro menší
-      motorky a čtyřkolky, silnější elektrické koloběžky nebo traktor.
 ---
