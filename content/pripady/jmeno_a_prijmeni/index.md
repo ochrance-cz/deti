@@ -22,7 +22,7 @@ cases:
       #### Co s tím lze dělat?
 
 
-      Veronika sama nemůže podat žádost o změnu svého příjemní zpět na příjmení původní. Může ale požádat rodiče, aby na matrice podali žádost za ni. Budou však muset zaplatit správní poplatek ve výši 100 Kč.
+      Veronika nemůže sama podat žádost o změnu svého příjmení zpět na příjmení původní. **Může ale požádat rodiče, aby na matrice podali žádost za ni.** Budou však muset zaplatit správní poplatek ve výši 100 Kč.
   - title: Mohu nést nepočeštěné příjmení svých předků?
     perex: Sedmnáctiletý Radek u nás hledal radu a pomoc, jak si bezplatně vymoci
       navrácení původního příjmení, které měli jeho předci. Radek zjistil, že
