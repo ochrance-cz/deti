@@ -1,14 +1,14 @@
 ---
 title: Ostatní
 cases:
-  - title: Od kdy mohu uzavírat smlouvy a jednat závazně sám bez rodičů?
-    perex: Napsala nám šestnáctiletá Hana. Koupila si sama mobil v kamenném obchodě.
-      Teď se jí rozbil a prodejce jí odmítl přijmout reklamaci. Tvrdil, že mobil
+  - title: Mohu reklamovat mobil, který jsem si koupil/a?
+    perex: Napsala nám šestnáctiletá Hana. Koupila si mobil v kamenném obchodě. Teď
+      se jí rozbil a prodejce jí odmítl přijmout reklamaci. Tvrdil, že mobil
       musí reklamovat jeden z jejich rodičů (zákonných zástupců).
     body: >-
       Zákon nestanoví žádnou věkovou hranici pro tzv. způsobilost k právním
       úkonům. Občanský zákoník sice říká, že v plném rozsahu člověk nabývá práva
-      a bere na sebe povinnosti dosažením zletilostí (tj. dosažením 18 ti let či
+      a bere na sebe povinnosti dosažením zletilostí (tj. dosažením 18 let či
       uzavřením manželství před dosažením tohoto věku). **Nicméně i nezletilí
       mohou sami jednat přiměřeně své tzv. rozumové a volní vyspělosti.**
 
