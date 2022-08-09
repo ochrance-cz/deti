@@ -17,47 +17,6 @@ cases:
 
 
       Prodejce by Haninu reklamaci měl přijmout. Pokud ne, může Hana najít pomoc u [České obchodní inspekce](https://www.coi.cz/).
-  - title: Nesu odpovědnost za škodu, kterou způsobím?
-    perex: Ochránci napsal jedenáctiletý Josef a ptal se, jestli je odpovědný za
-      škodu, kterou způsobil sousedovi, když mu míčem rozbil okno.
-    body: >-
-      Ochránce Josefa informoval o tom, že zákon nestanoví věkovou hranici, od
-      kdy je nezletilé dítě odpovědné za škodu. U nezletilých je předpokladem
-      jejich odpovědnosti za škodu rozumová schopnost spočívající ve schopnosti
-      posouzení následků svého jednání a dále schopnost ovládnout své jednání.
-      Oba tyto předpoklady musí být splněny zároveň a plně (což u
-      jedenáctiletého Josefa s nejvyšší pravděpodobností jsou). Osoba povinná
-      vykonávat nad nezletilým dítětem dohled (např. rodiče, pěstouni, dětský
-      domov, škola, mateřská škola) je odpovědná v případě, že zanedbala
-      náležitý dohled nad nezletilým. Jsou-li uvedené podmínky odpovědnosti za
-      škodu splněny jak u nezletilého dítěte, tak i u osoby povinné vykonávat
-      dohled, odpovídají za škodu oba, a to společně a nerozdílně. Pokud
-      nezletilé dítě není schopno ovládnout své jednání a posoudit jeho následky
-      (např. děti v útlém věku), odpovídají za škodu způsobenou nezletilým
-      dítětem pouze osoby, které jsou povinny vykonávat dohled za předpokladu,
-      že dohled zanedbaly.
-
-
-      Společná a nerozdílná odpovědnost znamená, že poškozený soused by se v daném případě mohl domáhat náhrady celé způsobené škody na kterémkoli z nich a mezi sebou se poté nezletilé dítě a osoba povinná dohledem nad ním vypořádají podle své účasti na vzniku způsobené škody. Je však možné, že rodina má sjednáno pojištění odpovědnosti za škodu a plnění bude hrazeno z pojistky.
-  - title: Nesu odpovědnost za škodu, kterou jsem způsobil provozem dopravního
-      prostředku?
-    perex: Na ochránce se obrátil šestnáctiletý Daniel s dotazem, zda odpovídá za
-      škodu, kterou způsobil při dopravní nehodě na svém motocyklu.
-    body: >-
-      Ochránce Daniela informoval o tom, že pokud jde o škodu způsobenou
-      dopravním prostředkem (*pozn. nezletilý může mít od 15 let řidičské
-      oprávnění k řízení motorového jednostopého vozidla s nižší kubaturou*), je
-      nezletilý odpovědný podle občanského zákoníku za škodu způsobenou provozem
-      motorového vozidla. Odpovědnost má i tehdy, pokud škodu jeho motorovým
-      vozidlem způsobil někdo jiný. Pokud se jeho vozidla někdo zmocnil proti
-      jeho vůli nebo bez jeho vědomí, ale on, jako vlastník vozidla, to umožnil
-      svou nedbalostí, pak za způsobenou škodu odpovídají společně. Osoby, které
-      jsou povinny vykonávat nad nezletilým dítětem dohled (rodiče, pěstouni,
-      dětský domov, škola, mateřská škola), nenesou v těchto případech za škodu
-      způsobenou provozem dopravního prostředku odpovědnost.
-
-
-      Jestliže však nezletilý způsobí škodu řízením motorového vozidla škodu a vozidla není jeho a nemá ani řidičské oprávnění, pak za škodu odpovídá buď sám,  nebo společně s osobou, která je povinna vykonávat nad ním dohled. Záleží přitom na okolnostech (např. jestli bylo vozidlo, kterým škodu způsobil, zabezpečeno proti použití cizí osobou apod.)
   - title: Ochrana Tvých osobních údajů
     perex: Stejně jako mnoho jiných institucí (např. školy, sportovní kluby atp.) i
       Kancelář veřejného ochránce práv tzv. zpracovává, tedy shromažďuje a
@@ -272,36 +231,4 @@ cases:
 
 
       > **Pokud se rozhodneš podat celní prohlášení sám/sama, koukni na [Celnicka.cz](https://celnicka.cz/). Najdeš tam všechny informace k celnímu řízení i další užitečné odkazy.**
-  - title: Nezaplatila jsem školné nebo telefon - co mám dělat?
-    perex: Média často informují o tom, že studenti dluží miliony vysokým školám.
-      Školy evidují asi deset tisíc dlužníků, kteří nezaplatili poplatky za
-      prodloužení studia. Až tisícovku z těchto studentů čeká exekuce. Kromě
-      vysokých škol studenti nejčastěji dluží bankám a mobilním operátorům.
-    body: >-
-      Nejlepší je platit včas. Když už dluh vznikne, je nejlepší snažit se s
-      věřitelem dohodnout na splátkovém kalendáři. Vždy je lepší nenechat věc
-      dojít až k exekuci. S tou se Ti splácení dluhu o dost prodraží.
-
-
-      **Se samotnou exekucí Ti pomoci nemůžeme.** Nejsme oprávněni přímo prověřovat postup soudních exekutorů ani jejich komory. Můžeme jen prověřit postup Ministerstva spravedlnosti, případně předsedy soudu, kteří nad exekutory vykonávají státní dohled.
-
-
-      Aby mohlo dojít k exekuci, musí existovat tzv. exekuční titul.
-
-
-      * Nejčastěji jde o rozhodnutí soudu ukládající určitou povinnost. 
-
-      * Může se jednat také o rozhodčí nález, rozhodnutí správního orgánu či třeba notářský nebo exekutorský zápis se svolením k vykonatelnosti.
-
-
-      **Některá z těchto rozhodnutí mohou být vykonatelná, přestože jsi se o nich nikdy nedozvěděl/a.** Důvodem jsou speciální pravidla doručování (takzvané náhradní doručení), která se mohou uplatnit. Třeba když si nevyzvedáváš dopis na adrese svého trvalého pobytu, případně se na této adrese vůbec nezdržuješ a nenahlásil/a jsi ohlašovně (obecnímu úřadu v místě Tvého trvalého pobytu) adresu, na kterou Ti má dopisy přeposílat. 
-
-
-      Někteří dlužníci pak mají pocit, že na ně exekuce „padla“ jak blesk z čistého nebe. Pokud by ale při doručování skutečně došlo k chybě, můžeš se proti exekuci bránit. A to u soudního exekutora **návrhem na zastavení exekuce. Musíš ho ale podat do 30 dnů od doručení vyrozumění soudního exekutora o zahájení exekuce**.
-
-
-      **Nejsi si jistý/á, zda máš nějaké dluhy?** Můžeš to zjistit nahlédnutím do spisů z takzvaných nalézacích řízení i výkonu exekuce u okresního soudu podle svého bydliště. Úplné informace o průběhu exekuce  získáš z exekučního spisu vedeného soudním exekutorem.
-
-
-      Podrobné informace k oblasti exekucí přinášíme v [informačním letáku](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf).
 ---
