@@ -16,7 +16,7 @@ cases:
 
 
       Veronika sama nemůže podat žádost o změnu svého příjemní zpět na příjmení původní. Může ale požádat rodiče, aby na matrice podali žádost za ni. Budou však muset zaplatit správní poplatek ve výši 100 Kč.
-    title: Musím mít stejné příjmení jako rodiče?
+    title: Musím mít po svatbě rodičů stejné příjmení?
     perex: Čtrnáctileté Veronice se nelíbilo, že se jí změnilo příjmení. Od narození
       se jmenovala stejně jako máma. Rodiče měli až teď svatbu a máma si vzala
       otcovo příjmení. Na matrice rodičům řekli, že se tím mění i příjmení
