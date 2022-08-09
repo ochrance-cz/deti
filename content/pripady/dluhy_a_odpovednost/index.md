@@ -1,7 +1,7 @@
 ---
 title: Dluhy a odpovědnost
 cases:
-  - title: Nezaplatil/a jsem školné nebo za telefon. Co mám dělat?
+  - title: Nezaplatil/a jsem školné a za telefon. Co mám dělat?
     body: >-
       Nejlepší je platit včas. Když už dluh vznikne, je nejlepší snažit se s
       věřitelem dohodnout na splátkovém kalendáři. Vždy je lepší nenechat věc
