@@ -1,5 +1,5 @@
 ---
-title: Matrika – doklady, jména, trvalý pobyt, zápisy otcovství,..
+title: Doklady, trvalý pobyt, zápis otcovství, jméno a příjmení
 cases:
   - body: >-
       Veroniku jsme museli zklamat. Na matrice totiž měli pravdu. Platí, že
