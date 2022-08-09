@@ -121,7 +121,7 @@ cases:
 
 
       > **Ale pozor!** Eričin přítel musí svůj byt užívat oprávněně – měl by být jeho majitelem, nebo v něm bydlet na základě smlouvy s majitelem. Zároveň je nejlepší, pokud Erika půjde na úřad spolu s přítelem. Přítel musí souhlasit, že u něj může bydlet, a že jí dává souhlas se „změnou místa trvalého pobytu“.
-    title: Mohou mi rodiče zrušit trvalý pobyt, až mi bude osmnáct?
+    title: Mohou mi rodiče zrušit trvalý pobyt, až mi bude 18 let?
     perex: Sedmnáctiletá Erika nám v e-mailu popsala svůj životní příběh. S rodiči
       od malička nevycházela. Utekla párkrát z domova, žila nějaký čas s partou,
       brala drogy, jezdila načerno v městské hromadné dopravě. Teď jí rodiče
@@ -189,5 +189,5 @@ cases:
       Podrobnější informace nalezneš [zde](https://eso.ochrance.cz/Nalezene/Edit/6132).
     perex: Jsi v péči poručníků a měl/a jsi problém s vydáním pasu? Již by se to
       nemělo stávat.
-    title: "Mohou mí poručníci požádat o vydání pasu pro mě? "
+    title: "Mohou poručníci požádat o vydání mého pasu? "
 ---
