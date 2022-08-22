@@ -7,8 +7,6 @@ perex: Nemohli jste být při tom? Tak se podívejte a poslechněte si, jak
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WRqEZI7fLvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 Jaká atmosféra panovala na naší konferenci pro děti se můžete kouknout také ve [fotoreportáži](https://deti.ochrance.cz/aktualne/jak_to_vypadalo_na_nasi_konferenci/) nebo na [Déčku](https://decko.ceskatelevize.cz/video/e222411000160616).
 
-> Video je realizováno v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustanovení Národní lidskoprávní instituce v ČR), číslo projektu: LP-PDP3-001. Tento projekt je financován z prostředků fondů EHP a Norska 2014-2021 a státního rozpočtu ČR.
+> Dětská konference byla realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustanovení Národní lidskoprávní instituce v ČR), číslo projektu: LP-PDP3-001. Tento projekt je financován z prostředků fondů EHP a Norska 2014-2021 a státního rozpočtu ČR.
