@@ -4,11 +4,11 @@ videos:
   - video: https://youtu.be/WRqEZI7fLvs
   - video: https://youtu.be/OcKbyR5Nzp0
   - video: https://youtu.be/GiTQycQaZgM
-  - video: https://youtu.be/7joyhC2pDgQ
   - video: https://youtu.be/frRrDw4p7uc
   - video: https://youtu.be/iiw2OM4jDbA
   - video: https://youtu.be/oq3Tu4rzI54
   - video: https://youtu.be/IrrFMT1evB4
+  - video: https://youtu.be/7joyhC2pDgQ
   - video: https://youtu.be/Ny6AdOPpcfo
   - video: https://youtu.be/8wPzjwGk72M
 langs:
