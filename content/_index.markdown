@@ -10,6 +10,7 @@ videos:
   - video: https://youtu.be/oq3Tu4rzI54
   - video: https://youtu.be/IrrFMT1evB4
   - video: https://youtu.be/Ny6AdOPpcfo
+  - video: https://youtu.be/frRrDw4p7uc
 langs:
   en: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__anglictina_.pdf
   de: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf
