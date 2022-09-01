@@ -1,6 +1,6 @@
 ---
-title: " "
-role: Zástupce veřejného ochránce práv (ombudsmana) - pozice aktuálně neobsazena
+title: pozice aktuálně neobsazena
+role: Zástupce veřejného ochránce práv (ombudsmana)
 pic: img_6619-2.jpg
 ---
 **Pozice od 1. září 2022 neobsazena.** 
