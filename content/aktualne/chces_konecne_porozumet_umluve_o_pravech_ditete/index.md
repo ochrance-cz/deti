@@ -12,7 +12,7 @@ attachments:
 ---
 Úmluva o právech dítěte je mezinárodní smlouva. Je závazná pro státy, které se v průběhu let rozhodly ji dodržovat. Běžnému (dětskému) čtenáři se však čte špatně. **A to jsme se rozhodli změnit.** 
 
-Úmluvu o právech dítěte jsme přepsali tak, aby jí rozuměl každý. Výrazně jsme její znění zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty. 
+**Úmluvu o právech dítěte jsme přepsali tak, aby jí rozuměl každý. Výrazně jsme její znění zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty.** 
 
 Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf) můžeš volně šířit mezi kamarády a kamarádky. Pokud bys jí chtěl/a mít ve své domácí knihovně, můžeš si o ni [napsat](https://deti.ochrance.cz/kdo/jak/). My Ti ji rádi pošleme.
 
