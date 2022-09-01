@@ -22,8 +22,6 @@ Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném 
 
 **Ukázka z obsahu publikace:** 
 
-![Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.](8.jpg "Stránka z publikace Úmluva o právech dítěte ve znění srozumitelném dětem - článek 2 s ilustrací čtyř různých dětí. ")
-
-![Stránka z publikace Úmluva o právech dítěte ve znění srozumitelném dětem - článek 13 s ilustrací dívky mluvící do megafonu.](18.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
+![Výběr stránek z Úmluvy o právech dítěte ve znění srozumitelném dětem, kterou vydala Kancelář veřejného ochránce práv.](updkolaz.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
 
 *Publikace vznikla v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustanovení Národní lidskoprávní instituce v ČR), číslo projektu: LP-PDP3-001. Tento projekt je financován z prostředků fondů EHP a Norska 2014-2021 a státního rozpočtu ČR.*
