@@ -16,7 +16,7 @@ attachments:
 
 Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf) můžeš volně šířit mezi kamarády a kamarádky. Pokud bys ji chtěl/a mít ve své domácí knihovně, můžeš si o ni [napsat](https://deti.ochrance.cz/kdo/jak/). My Ti ji rádi pošleme.
 
-![Na stole leží několik výtisků Úmluvy o právech dítěte ve znění srozumitelném dětem.](img-20220901-wa0002.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
+![Na stole leží několik výtisků Úmluvy o právech dítěte ve znění srozumitelném dětem a jeden výtisk drží dívka.](dsc_1406.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
 
 > Úmluva o právech dítěte je mezinárodní smlouva přijatá Valným shromážděním OSN v listopadu 1989. Česká republika ji podepsala v září 1990. K jejímu dodržování se zavázalo již 196 států světa. Dodržování Úmluvy o právech dítěte kontroluje [Výbor pro práva dítěte OSN](https://www.ohchr.org/en/treaty-bodies/crc). Plné české znění Úmluvy o právech dítěte najdeš třeba [zde](https://www.zakonyprolidi.cz/cs/1991-104).
 
