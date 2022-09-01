@@ -16,12 +16,14 @@ attachments:
 
 Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf) můžeš volně šířit mezi kamarády a kamarádky. Pokud bys jí chtěl/a mít ve své domácí knihovně, můžeš si o ni [napsat](https://deti.ochrance.cz/kdo/jak/). My Ti ji rádi pošleme.
 
-![Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.](img-20220901-wa0002.jpg "Na stole leží několik výtisků Úmluvy o právech dítěte ve znění srozumitelném dětem.")
+![Na stole leží několik výtisků Úmluvy o právech dítěte ve znění srozumitelném dětem.](img-20220901-wa0002.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
 
 > Úmluva o právech dítěte je mezinárodní smlouva přijatá Valným shromážděním OSN v listopadu 1989. Česká republika ji podepsala v září 1990. K jejímu dodržování se zavázalo již 196 států světa. Dodržování Úmluvy o právech dítěte kontroluje [Výbor pro práva dítěte OSN](https://www.ohchr.org/en/treaty-bodies/crc). Plné české znění Úmluvy o právech dítěte najdeš třeba [zde](https://www.zakonyprolidi.cz/cs/1991-104).
 
+**Ukázka z obsahu publikace:** 
+
 ![Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.](8.jpg "Stránka z publikace Úmluva o právech dítěte ve znění srozumitelném dětem - článek 2 s ilustrací čtyř různých dětí. ")
 
-![Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.](18.jpg "Stránka z publikace Úmluva o právech dítěte ve znění srozumitelném dětem - článek 13 s ilustrací dívky mluvící do megafonu.")
+![Stránka z publikace Úmluva o právech dítěte ve znění srozumitelném dětem - článek 13 s ilustrací dívky mluvící do megafonu.](18.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
 
 *Publikace vznikla v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustanovení Národní lidskoprávní instituce v ČR), číslo projektu: LP-PDP3-001. Tento projekt je financován z prostředků fondů EHP a Norska 2014-2021 a státního rozpočtu ČR.*
