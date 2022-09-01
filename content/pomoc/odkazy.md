@@ -3,9 +3,7 @@ title: Další užitečné odkazy
 ---
 ## Úmluva o právech dítěte ve znění srozumitelném dětem 
 
-Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. 
-
-[/media/umluva_o_pravech_ditete_web_pdf.pdf](/media/umluva_o_pravech_ditete_web_pdf.pdf)
+Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. Ke stažení [zde](/media/umluva_o_pravech_ditete_web_pdf.pdf).  
 
 ## Mapa Ohrožené dítě
 
