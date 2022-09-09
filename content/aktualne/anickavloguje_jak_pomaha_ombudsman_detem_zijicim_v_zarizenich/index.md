@@ -1,7 +1,7 @@
 ---
 title: "#Aničkavloguje – Jak pomáhá ombudsman dětem žijícím v zařízeních?"
 draft: false
-date: 2022-09-09T15:53:29.736Z
+date: 2022-09-09T12:16:40.187Z
 perex: "Mluví Ti někdo do toho, co si oblečeš? Říká Ti někdo, jak se máš
   ostříhat, že se nemůžeš malovat nebo že nemůžeš jít ven s kamarády? Umíš si to
   představit? Některé děti to možná zažívají. I Aničku to překvapilo. Natočila
