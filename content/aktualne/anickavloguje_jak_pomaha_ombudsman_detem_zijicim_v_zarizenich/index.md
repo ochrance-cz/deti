@@ -15,15 +15,15 @@ A﻿ničce tentokrát odpovídala Sylva. Zaměřily se spolu na to, proč ombuds
 * M﻿ůžeš také [kouknout](https://deti.ochrance.cz/pripady/ustavni-a-ochranna-vychova/), jaké situace jsme už pomohli vyřešit dětem ze zařízení. 
 * Zodpověděli jsem také [nejčastější otázky](https://deti.ochrance.cz/jsem/v-domove/) dětí, které musí v zařízení žít. 
 
-> **O jakých *zařízeních* to mluvíme?** Pokud se o děti nemohou nebo nechtějí postarat jejich rodiče, někdo blízký nebo třeba pěstouni, mohou žít v:
+> **O jakých zařízeních to mluvíme?** 
+>
+> Pokud se o děti nemohou nebo nechtějí postarat jejich rodiče, někdo blízký nebo třeba pěstouni, mohou žít v:
 >
 > * dětském domově, 
 > * dětském domově se školou, 
 > * výchovném ústavu, 
 > * diagnostickém ústavu, 
 > * dětském domově pro děti do třech let věku nebo
-> *  zařízení pro děti vyžadující okamžitou pomoc. 
+> * zařízení pro děti vyžadující okamžitou pomoc. 
 >
 > Pokud je to potřeba, mohou být děti nějakou dobu v psychiatrické nemocnici nebo domově pro osoby se zdravotním postižením.
->
->
