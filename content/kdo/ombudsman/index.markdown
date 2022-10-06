@@ -1,7 +1,7 @@
 ---
 title: JUDr. Stanislav Křeček
 role: Veřejný ochránce práv (ombudsman)
-pic: photo.jpg
+pic: krecek04.jpg
 ---
 **Funkční období od 19. února 2020**
 
