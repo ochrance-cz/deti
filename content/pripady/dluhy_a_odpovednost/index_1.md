@@ -98,7 +98,7 @@ cases:
       Na tyto případy pamatuje havarijní pojištění, které je dobrovolné. Pokud by ho David neměl, mohl by škodu vymáhat po tom, kdo ji způsobil. Tedy po tom, kdo motorku ukradl, nebo komu ji David půjčil.
 
 
-      > **A na závěr jedno upozornění:** Řídit se nesmí pod vlivem alkoholu ani jiných návykových látek. Porušení tohoto pravidla většinou znamená, že pojišťovna nezaplatí případnou škodu, nebo její část.
+      > **Pozor:** Řídit se nesmí pod vlivem alkoholu ani jiných návykových látek. Porušení tohoto pravidla většinou znamená, že pojišťovna nezaplatí případnou škodu, nebo její část.
     perex: Napsal nám šestnáctiletý David. Jezdí rád na motorce. Hned v patnácti „si
       udělal papíry“ a koupil motorku. Nedávno měl ale nehodu. Přehlédl červenou
       na semaforu a narazil do projíždějícího auta. Auto zůstalo poškrábané a
