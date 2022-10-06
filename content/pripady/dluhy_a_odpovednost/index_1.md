@@ -106,7 +106,7 @@ cases:
       odpovídá za škodu, kterou způsobil při dopravní nehodě.
     title: Nesu odpovědnost za škodu, kterou jsem způsobil/a při nehodě na své
       motorce?
-  - title: Mohu dlužit "za popelnice", i když mi ještě nebylo 18 let?
+  - title: Mohu dlužit „za popelnice“, i když mi ještě nebylo 18 let?
     perex: Napsala nám sedmnáctiletá Denisa, že slyšela, že se dříve stávalo, že
       úřad požadoval uhrazení nezaplacených poplatků za komunální odpad také od
       nezletilých, tedy dětí do 18 let věku. V nejzazších případech dokonce
