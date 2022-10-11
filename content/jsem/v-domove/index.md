@@ -7,6 +7,9 @@ perex: >-
 
 
   Ke stažení také [zde](/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.pdf).
+
+
+  ![informační leták pro děti z dětských domovů](4273273b1a0c4ffcba0e09090a6b9794-0001.jpg "informační leták pro děti z dětských domovů")
 questions:
   - title: Proč jsem v domově nebo v ústavu?
     icon: proc.svg
