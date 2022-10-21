@@ -14,7 +14,7 @@ Vaše podněty vyřizujeme **přednostně**. Jezdíme za vámi do škol. Dohlí�
 * dalších 1200 stížností se týkalo oblasti **školství a vzdělávání** ,
 * od roku 2006 **navštěvujeme zařízení** , kde jsou děti umístěny, navštívili jsme jich 77 a stále pokračujeme,
 * prověřili jsme **podmínky skoro 2500 dětí** umístěných v zařízeních,
-* v roce 2012 jsme spustili web určený pouze vám: **[www.deti.ochrance.cz](https://deti.ochrance.cz/)**,
+* v roce 2012 jsme spustili web určený pouze vám: **[deti.ochrance.cz](https://deti.ochrance.cz/)**,
 * v uplynulých letech se na nás obrátily **stovky dětí**.
 
 Většinu uvedených činností může v České republice vykonávat pouze ombudsman. Často jsme jedinou nebo poslední instancí, na kterou se můžete v potížích obrátit a kdo může vaše podněty prošetřit.
