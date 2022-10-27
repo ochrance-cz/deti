@@ -7,7 +7,7 @@ attachments:
   - file: 2022e299a082.mp4
     link: "zdroj: Česká televize"
     title: První reakce nového zástupce ombudsmana zaznamenalo třeba zpravodajství
-      Česká televize
+      České televize
 ---
 Vít Alexandr Schorm se narodil v Brně a v příštím roce oslaví své 50. narozeniny. 
 
