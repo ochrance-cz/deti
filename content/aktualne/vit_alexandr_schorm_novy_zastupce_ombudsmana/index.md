@@ -1,8 +1,8 @@
 ---
 title: Vít Alexandr Schorm – nový zástupce ombudsmana
 date: 2022-10-27T07:04:24.948Z
-perex: Poslanci včera zvolili nového zástupce ombudsmana. Bude jím Vít Alexandr
-  Schorm. Své funkce by se měl ujmout do 10 dní.
+perex: Poslanci včera zvolili nového zástupce ombudsmana. Bude jím **Vít
+  Alexandr Schorm**. Své funkce by se měl ujmout do 10 dní.
 attachments:
   - file: 2022e299a082.mp4
     link: "zdroj: Česká televize"
