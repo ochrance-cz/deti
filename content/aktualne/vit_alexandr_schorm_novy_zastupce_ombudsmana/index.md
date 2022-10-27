@@ -8,12 +8,12 @@ attachments:
     link: "zdroj: Česká televize"
     title: První reakce nového zástupce zaznamenalo zpravodajství České televize
 ---
-<!--StartFragment-->
+
 
 ```
 
 ```
 
-<!--EndFragment-->Vít Alexandr Schorm se narodil v Brně a v příštím roce oslaví své 50. narozeniny. 
+Vít Alexandr Schorm se narodil v Brně a v příštím roce oslaví své 50. narozeniny. 
 
 Je právníkem a posledních dvacet let působil jako [vládní zmocněnec pro zastupování České republiky před Evropským soudem pro lidská práva](https://justice.cz/web/msp/zpravodaj). Předtím byl mimo jiné poradcem Otakara Motejla, tehdejšího předsedy Nejvyššího soudu a pozdějšího prvního českého ombudsmana.
