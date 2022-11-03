@@ -10,6 +10,16 @@ attachments:
     title: název přílohy
     link: odkaz (volitelný)
 ---
+piktogram
+
+<!--StartFragment-->
+
+```
+
+```
+
+<!--EndFragment-->
+
 t﻿est
 
 ![obrázek jpg Alt text](ukrajina_-_letak_deti.jpg "title")
