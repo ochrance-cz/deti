@@ -22,6 +22,16 @@ piktogram
 
 t﻿est
 
+p﻿iktogram 2<!--StartFragment-->
+
+```
+
+```
+
+<!--EndFragment-->
+
+
+
 ![obrázek jpg Alt text](ukrajina_-_letak_deti.jpg "title")
 
 ![obrázek jpg 620kb Alt text](4273273b1a0c4ffcba0e09090a6b9794-0001.jpg "title")
