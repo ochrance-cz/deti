@@ -1,6 +1,6 @@
 ---
 title: Školní docházka do dvou škol?
-date: "2017-03-02"
+date: 2017-03-02T12:00:00.000Z
 perex: >-
   Obrátil se na nás jedenáctiletý chlapec, který byl svěřen do střídavé péče
   rodičů – týden bývá u mámy a týden u táty. Rodiče ale bydlí v různých městech.

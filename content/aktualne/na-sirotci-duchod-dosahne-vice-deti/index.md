@@ -1,6 +1,6 @@
 ---
 title: Na sirotčí důchod dosáhne více dětí
-date: "2016-07-30"
+date: 2016-07-30T12:00:00.000Z
 perex: >-
   O sirotčích důchodech se bude rozhodovat mírnějším způsobem. Více dětí, kterým
   bohužel zemřel rodič, se tak dočká finanční podpory. Nový, mírnější zákon se

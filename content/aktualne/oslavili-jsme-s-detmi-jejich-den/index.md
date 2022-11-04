@@ -1,6 +1,6 @@
 ---
 title: Oslavili jsme s dětmi jejich den
-date: "2015-06-03"
+date: 2015-06-03T12:00:00.000Z
 perex: >-
   I naši zaměstnanci mají děti a právě pro ty jsme na Den dětí připravili různé
   zábavné aktivity, aby se mohly vyřádit, vyzkoušet si svou obratnost, zapojit

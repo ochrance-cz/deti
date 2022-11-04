@@ -1,6 +1,6 @@
 ---
 title: Do 18 let místní poplatek neplatíš
-date: "2020-07-08"
+date: 2020-07-08T12:00:00.000Z
 perex: >-
   Pronajal/a sis s kamarády chatu na letní dovču? Jedeš si užít léto do kempu k
   vodě? Nezapomeň s sebou občanku nebo jiný doklad. Můžeš ušetřit.

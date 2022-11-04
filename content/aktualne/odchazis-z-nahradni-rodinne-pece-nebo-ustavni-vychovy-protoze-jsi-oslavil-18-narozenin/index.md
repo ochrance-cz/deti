@@ -2,7 +2,7 @@
 title: >-
   Odcházíš z náhradní rodinné péče nebo ústavní výchovy, protože jsi oslavil 18.
   narozeniny? Od 1. 1. 2022 můžeš požádat o zaopatřovací příspěvek!
-date: "2022-01-19"
+date: 2022-01-19T12:00:00.000Z
 perex: >-
   Zaopatřovací příspěvek je nová dávka určená pro mladé dospělé (tj. osoby po
   dosažení zletilosti nebo přiznání plné svéprávnosti), kteří do té doby byli v

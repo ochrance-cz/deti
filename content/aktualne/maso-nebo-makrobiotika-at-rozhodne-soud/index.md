@@ -1,6 +1,6 @@
 ---
 title: Maso nebo makrobiotika? Ať rozhodne soud!
-date: "2015-07-22"
+date: 2015-07-22T12:00:00.000Z
 perex: >-
   Italský soud řešil zajímavý případ. Rodiče, kteří spolu nežijí, ale v péči o
   dítě se střídají, se nemohli domluvit, co vařit za jídlo. Otec chodil se synem

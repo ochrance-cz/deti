@@ -1,6 +1,6 @@
 ---
 title: Soutěž pro studenty
-date: "2019-02-27"
+date: 2019-02-27T12:00:00.000Z
 perex: >-
   Rozhlédni se. Myslíš si, že všichni kolem tebe mají možnost žít důstojný
   život? Mají stejnou příležitost studovat školu, kterou studovat chtějí? Žít v

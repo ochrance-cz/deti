@@ -1,6 +1,6 @@
 ---
 title: Ombudsman dětem z Ukrajiny
-date: "2022-03-08"
+date: 2022-03-08T12:00:00.000Z
 perex: >-
   Zodpověděli jsem nejčastější otázky, které mohou aktuálně trápit děti
   prchající před válkou z Ukrajiny.

@@ -1,6 +1,6 @@
 ---
 title: Děti v nemocnici mají právo na přítomnost rodiče
-date: "2020-01-23"
+date: 2020-01-23T12:00:00.000Z
 perex: >-
   Občas slýcháme, že nemocnice neumožnila rodiči zůstat s dítětem v nemocnici.
   Může se to stát? Děti přece mají právo být se svým rodičem, a to i když jsou

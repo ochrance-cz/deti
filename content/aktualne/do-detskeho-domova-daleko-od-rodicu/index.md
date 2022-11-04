@@ -1,6 +1,6 @@
 ---
 title: Do dětského domova daleko od rodičů?
-date: "2019-01-04"
+date: 2019-01-04T12:00:00.000Z
 perex: >-
   Ombudsmanka se nedávno zabývala případem, kdy si matka stěžovala, že její syn
   je umístěný v dětském domově příliš daleko od jejího bydliště.

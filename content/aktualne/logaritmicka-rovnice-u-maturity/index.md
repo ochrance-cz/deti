@@ -1,6 +1,6 @@
 ---
 title: Logaritmická rovnice u maturity
-date: "2017-10-30"
+date: 2017-10-30T12:00:00.000Z
 perex: >-
   Na jaře 2016 museli maturanti v testu z matematiky řešit logaritmickou rovnici
   [„Pro x∈R určete definiční obor rovnice (podmínky) a rovnici vyřešte:

@@ -1,6 +1,6 @@
 ---
 title: Sociální pracovníci se musí zajímat o názor dítěte
-date: "2016-08-12"
+date: 2016-08-12T12:00:00.000Z
 perex: >-
   Ochránkyně se zabývala případem patnáctileté dívky, jejíž matce úřad ve
   správním řízení uložil povinnost, aby dceru přivedla k psychologovi. Úřad ale

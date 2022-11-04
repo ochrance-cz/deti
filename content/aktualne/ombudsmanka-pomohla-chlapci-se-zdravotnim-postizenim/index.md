@@ -1,6 +1,6 @@
 ---
 title: Ombudsmanka pomohla chlapci se zdravotním postižením
-date: "2018-01-23"
+date: 2018-01-23T12:00:00.000Z
 perex: >-
   Navzdory předchozí domluvě odmítla škola specializující se na vzdělávání dětí
   se zdravotním postižením přijmout chlapce se zdravotním postižením. Ještě v

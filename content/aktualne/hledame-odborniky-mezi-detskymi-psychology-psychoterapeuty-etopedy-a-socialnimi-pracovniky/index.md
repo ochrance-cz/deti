@@ -2,7 +2,7 @@
 title: >-
   Hledáme odborníky mezi dětskými psychology, psychoterapeuty, etopedy a
   sociálními pracovníky
-date: "2015-10-05"
+date: 2015-10-05T12:00:00.000Z
 perex: >-
   Ochránkyně zve dětské psychology, psychoterapeuty, etopedy a sociální
   pracovníky ke spolupráci. Hledá odborníky, kteří by měli zájem pomáhat

@@ -1,6 +1,6 @@
 ---
 title: Představení práce ombudsmanky v Polsku
-date: "2014-10-23"
+date: 2014-10-23T12:00:00.000Z
 perex: >-
   Ombudsmanka přijala pozvání Ministerstva zahraničních věcí Polské republiky
   představit svou činnost na semináři o ochraně práv dětí konaném 30. září ve

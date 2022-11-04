@@ -1,6 +1,6 @@
 ---
 title: Zajímáte nás
-date: "2014-11-03"
+date: 2014-11-03T12:00:00.000Z
 perex: >-
   V říjnu zahájila ombudsmanka sérii osvětových návštěv krajů nazvaných
   „Zajímáte nás“ s cílem setkat se s občany, vysvětlit jim jejich práva i to, v

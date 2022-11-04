@@ -1,6 +1,6 @@
 ---
 title: "Stali jsme se Přátelským místem "
-date: "2016-03-21"
+date: 2016-03-21T12:00:00.000Z
 perex: >-
   Pracovníci Kanceláře ombudsmanky převzali na slavnostním večeru v Praze dne
   10. února 2016 certifikát, že se stali „Přátelským místem“ k osobám se

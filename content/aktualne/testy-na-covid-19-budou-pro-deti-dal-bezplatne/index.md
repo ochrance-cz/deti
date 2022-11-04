@@ -1,6 +1,6 @@
 ---
 title: Testy na covid-19 budou pro děti dál bezplatné
-date: "2021-08-20"
+date: 2021-08-20T12:00:00.000Z
 perex: >-
   Zástupkyni ombudsmana těší, že ministerstvo zdravotnictví částečně vyhovělo
   její námitce a od září 2021 nebudou muset děti mladší 18 let platit testy na

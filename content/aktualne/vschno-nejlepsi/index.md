@@ -1,6 +1,6 @@
 ---
 title: Všchno nejlepší!
-date: "2019-08-27"
+date: 2019-08-27T12:00:00.000Z
 perex: >-
   Dnes je to přesně 10 let od doby, kdy je v České republice účinný
   antidiskriminační zákon. A proto vám představujeme vítězné video středoškolské

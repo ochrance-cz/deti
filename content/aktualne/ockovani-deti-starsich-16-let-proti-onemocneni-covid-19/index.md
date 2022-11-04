@@ -1,6 +1,6 @@
 ---
 title: Očkování dětí starších 16 let proti onemocnění covid-19
-date: "2021-06-08"
+date: 2021-06-08T12:00:00.000Z
 perex: >-
   I děti starší 16 let se již mohou nechat naočkovat proti onemocnění covid-19,
   pokud sami chtějí. Očkování je nepovinné a bezplatné.

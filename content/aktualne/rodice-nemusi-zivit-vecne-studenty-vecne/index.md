@@ -1,6 +1,6 @@
 ---
 title: Rodiče nemusí živit „věčné studenty“ věčně
-date: "2014-11-14"
+date: 2014-11-14T12:00:00.000Z
 perex: >-
   Ústavní soud dal za pravdu otci 22 letého studenta a rozhodl, že rodič nemá
   povinnost živit své dítě, pokud toto nedůvodně prodlužuje své středoškolské

@@ -1,6 +1,6 @@
 ---
 title: Lidská práva pohledem českých středoškoláků a středoškolaček
-date: "2020-04-24"
+date: 2020-04-24T12:00:00.000Z
 perex: >-
   V březnu pražská Nová radnice hostila finálové kolo prestižní Olympiády
   lidských práv. Záštitu této soutěži udělil i veřejný ochránce práv.

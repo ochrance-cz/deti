@@ -1,6 +1,6 @@
 ---
 title: Vánoční....
-date: "2017-12-20"
+date: 2017-12-20T12:00:00.000Z
 perex: >-
   Přejeme vám krásné Vánoce, užijte si volna, najděte (nejen pod stromečkem), co
   si přejete, a třeba napadne i sníh. V novém roce ať jste zdraví, zažijete

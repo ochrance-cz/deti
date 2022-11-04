@@ -1,6 +1,6 @@
 ---
 title: "Podporujeme justici přátelskou k dětem "
-date: "2015-05-15"
+date: 2015-05-15T12:00:00.000Z
 perex: ""
 ---
 

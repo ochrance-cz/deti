@@ -1,6 +1,6 @@
 ---
 title: Střelba a vulgární nadávky na dětském táboře
-date: "2018-08-11"
+date: 2018-08-11T12:00:00.000Z
 perex: >-
   Doufáme, že se v letošním roce žádné dítě na dětském táboře nesetká s tím, co
   před dvěma lety zažili táborníci v Jiřetíně pod Jedlovou.

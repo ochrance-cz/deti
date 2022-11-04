@@ -1,6 +1,6 @@
 ---
 title: Návštěvy zařízení pro děti vyžadující okamžitou pomoc
-date: "2016-12-01"
+date: 2016-12-01T12:00:00.000Z
 perex: >-
   Ombudsmanka provádí návštěvy zařízení pro děti, které vyžadují okamžitou
   pomoc. Jsou to místa, která pomáhají dětem, které se ocitly bez jakékoliv

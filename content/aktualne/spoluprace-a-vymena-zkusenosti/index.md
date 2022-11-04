@@ -1,6 +1,6 @@
 ---
 title: Spolupráce a výměna zkušeností
-date: "2015-10-19"
+date: 2015-10-19T12:00:00.000Z
 perex: ""
 ---
 

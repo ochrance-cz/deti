@@ -1,6 +1,6 @@
 ---
 title: Je hlášení obecního rozhlasu hluk?
-date: "2021-05-05"
+date: 2021-05-05T12:00:00.000Z
 perex: >-
   Nedávno se na nás obrátil patnáctiletý Matěj. Obec umístila na sloup těsně
   před jeho oknem hlásič obecního rozhlasu. Teď kromě varovných sdělení (např.

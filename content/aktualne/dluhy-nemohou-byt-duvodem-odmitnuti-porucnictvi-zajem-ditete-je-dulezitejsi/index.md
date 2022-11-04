@@ -1,6 +1,6 @@
 ---
 title: Dluhy nemohou být důvodem odmítnutí poručnictví, zájem dítěte je důležitější
-date: "2020-04-07"
+date: 2020-04-07T12:00:00.000Z
 perex: >-
   Ústavní soud potvrdil, že při rozhodování o poručnictví nelze trestat za
   „hříchy z mládí“. V souladu s názorem zástupkyně ombudsmana Moniky Šimůnkové,

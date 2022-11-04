@@ -1,6 +1,6 @@
 ---
 title: Přestup na jinou střední školu či obor
-date: "2017-03-02"
+date: 2017-03-02T12:00:00.000Z
 perex: >-
   Zjistil/a jsi, že obor, který studuješ, není pro tebe? Nelíbí se ti na
   internátu a raději bys studoval/a blíž domovu? Chtěl/a bys na jinou školu, ale

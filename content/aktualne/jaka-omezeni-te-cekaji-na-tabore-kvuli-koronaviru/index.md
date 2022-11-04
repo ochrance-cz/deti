@@ -1,6 +1,6 @@
 ---
 title: Jaká omezení tě čekají na táboře kvůli koronaviru?
-date: "2020-07-24"
+date: 2020-07-24T12:00:00.000Z
 perex: >-
   Dlouho se nevědělo, zda letošní tábory vůbec proběhnou. Nakonec vše dobře
   dopadlo. Oproti loňsku se však musíš nachystat na několik změn.

@@ -2,7 +2,7 @@
 title: >-
   Co se ombudsmance podařilo během prvního roku monitorování práv lidí s
   postižením?
-date: "2019-10-02"
+date: 2019-10-02T12:00:00.000Z
 perex: >-
   Ombudsmanka působí od 1. ledna 2018 jako tzv. monitorovací orgán pro práva
   lidí s postižením. Co v této oblasti stihla za první rok shrnula v nové

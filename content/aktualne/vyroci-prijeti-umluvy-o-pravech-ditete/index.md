@@ -1,6 +1,6 @@
 ---
 title: Výročí přijetí Úmluvy o právech dítěte
-date: "2015-11-20"
+date: 2015-11-20T12:00:00.000Z
 perex: >-
   Dne 20. listopadu slavíme přijetí  Úmluvy o právech dítěte. Stalo se tak před
   26 lety, tedy v roce 1989, v New Yorku. Je to nejuznávanější dokument na

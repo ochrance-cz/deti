@@ -1,6 +1,6 @@
 ---
 title: Cestování se zvířaty
-date: "2020-07-23"
+date: 2020-07-23T12:00:00.000Z
 perex: >-
   Jedeš na dovolenou do zahraničí a nechceš nechat svého mazlíčka doma? Pokud
   rodiče souhlasí, můžeš ho vzít s sebou. Dej si však pozor na následující

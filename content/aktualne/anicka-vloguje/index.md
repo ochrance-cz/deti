@@ -1,6 +1,6 @@
 ---
 title: Anička vloguje…
-date: "2021-02-02"
+date: 2021-02-02T12:00:00.000Z
 perex: >-
   Co ombudsman dělá? Kde sídlí? Jak ho můžeš kontaktovat? Co se s tvým podnětem
   bude dít?

@@ -1,6 +1,6 @@
 ---
 title: Na kávu s ombudsmanem
-date: "2021-10-22"
+date: 2021-10-22T12:00:00.000Z
 perex: >-
   Baví Tě poslouchat podcasty? Pak by Tě mohl zajímat i ten náš - Na kávu s
   ombudsmanem. Představuje různé oblasti, kterými se ombudsman zabývá. V jedné z

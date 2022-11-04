@@ -1,6 +1,6 @@
 ---
 title: Děti v psychiatrické nemocnici (léčebně)
-date: "2021-10-07"
+date: 2021-10-07T12:00:00.000Z
 perex: >-
   Může být dítě hospitalizováno na psychiatrii i bez svého souhlasu? Kdo
   rozhoduje, pokud k tomu není dítě schopné? Co když dítě s pobytem nesouhlasí?

@@ -1,6 +1,6 @@
 ---
 title: Úmluva o právech dítěte slaví
-date: "2018-11-23"
+date: 2018-11-23T12:00:00.000Z
 perex: >-
   Tento týden si připomínáme výročí přijetí Úmluvy o právech dítěte. Proč je to
   důležité a co se v ní píše?

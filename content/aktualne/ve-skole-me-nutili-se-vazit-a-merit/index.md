@@ -1,6 +1,6 @@
 ---
 title: Ve škole mě nutili se vážit a měřit
-date: "2019-04-08"
+date: 2019-04-08T12:00:00.000Z
 perex: >-
   Na ombudsmanku se nedávno obrátila Eliška, které se nelíbilo, že se ve škole,
   v rámci předmětu Výchova ke zdraví, musela před celou třídou vážit a měřit.

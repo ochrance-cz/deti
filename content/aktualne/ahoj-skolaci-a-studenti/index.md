@@ -1,6 +1,6 @@
 ---
 title: Ahoj školáci a studenti!
-date: "2020-06-25"
+date: 2020-06-25T12:00:00.000Z
 perex: >-
   Na poslední den školního roku a na vysvědčení se možná těšíte, možná se ho
   trošku obáváte. Z dobrých známek máte jistě radost, z těch horších můžete být

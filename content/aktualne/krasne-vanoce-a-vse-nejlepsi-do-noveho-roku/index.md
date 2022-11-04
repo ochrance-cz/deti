@@ -1,6 +1,6 @@
 ---
 title: "Krásné Vánoce a vše nejlepší do nového roku "
-date: "2016-12-20"
+date: 2016-12-20T12:00:00.000Z
 perex: Přejeme Vám krásné Vánoce a vše nejlepší do nového roku.
 ---
 

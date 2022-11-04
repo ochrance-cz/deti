@@ -1,6 +1,6 @@
 ---
 title: "Nový web pro boj se šikanou "
-date: "2017-04-11"
+date: 2017-04-11T12:00:00.000Z
 perex: >-
   Šikanuje někdo Tvého kamaráda nebo dokonce Tebe? Nechceš o šikaně říct
   učiteli, abys nebyl za „práskače“ nebo se bojíš, že by se šikana ještě

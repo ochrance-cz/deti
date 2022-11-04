@@ -1,6 +1,6 @@
 ---
 title: Ústavní soud se zastal dětí, za které rodiče neplatili popelnice
-date: "2017-09-11"
+date: 2017-09-11T12:00:00.000Z
 perex: >-
   Poplatky za popelnice mají za děti zaplatit jejich rodiče. Bohužel pokud
   rodiče v minulosti poplatek neplatili, vznikal dluh dětem. Ústavní soud nyní

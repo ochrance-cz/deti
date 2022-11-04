@@ -1,6 +1,6 @@
 ---
 title: Chceš změnit své příjmení? Soud musí přímo zjistit tvůj názor
-date: "2016-01-07"
+date: 2016-01-07T12:00:00.000Z
 perex: >-
   Ústavní soud v nedávné době rozhodl, že o tak zásadní otázce, jakou je změna
   příjmení, nemůže soud zodpovědně rozhodovat bez kontaktu s tím, jehož se změna
