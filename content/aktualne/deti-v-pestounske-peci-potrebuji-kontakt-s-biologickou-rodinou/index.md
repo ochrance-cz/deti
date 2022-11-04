@@ -1,6 +1,7 @@
 ---
 title: Děti v pěstounské péči potřebují kontakt s biologickou rodinou
-date: '2019-09-25'
+date: 2019-09-25T12:00:00.000Z
+
 perex: >-
   Dnes a zítra probíhá v Kanceláři veřejného ochránce práv pod záštitou
   ombudsmanky konference organizace Triáda pomáhající rodinám a pěstounům s

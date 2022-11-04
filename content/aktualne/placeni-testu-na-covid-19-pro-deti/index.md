@@ -1,6 +1,7 @@
 ---
 title: 'Placení testů na covid-19 pro děti '
-date: '2021-08-19'
+date: 2021-08-19T12:00:00.000Z
+
 perex: >-
   Zástupkyně ombudsmana se obrátila na ministra zdravotnictví. Nesouhlasí s tím,
   že má skončit bezplatné testování na covid-19 pro děti starší 12 let. To má

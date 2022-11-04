@@ -1,6 +1,7 @@
 ---
 title: Jak najít lékaře pro dítě se zdravotním postižením?
-date: '2019-09-11'
+date: 2019-09-11T12:00:00.000Z
+
 perex: >-
   Aby dítě se zdravotním postižením mohlo jít domů z nemocnice, je třeba, aby na
   jeho zdravotní stav dohlížel lékař.

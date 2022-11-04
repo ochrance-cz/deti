@@ -1,6 +1,7 @@
 ---
 title: Mezinárodní den životního prostředí
-date: '2021-06-05'
+date: 2021-06-05T12:00:00.000Z
+
 perex: >-
   Pátý červnový den si připomínáme Mezinárodní den životního prostředí. Jak se
   snaží k ochraně životního prostředí přispět ombudsman?

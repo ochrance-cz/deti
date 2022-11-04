@@ -1,6 +1,7 @@
 ---
 title: Musím jet na školní sportovní kurz?
-date: '2018-10-08'
+date: 2018-10-08T12:00:00.000Z
+
 perex: >-
   Obrátila se na nás patnáctiletá Alžběta s dotazem, zda ji škola může nutit jet
   na školní cyklisticky kurz.

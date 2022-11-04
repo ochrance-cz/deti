@@ -1,6 +1,7 @@
 ---
 title: Rodiče se rozvádí a se mnou nikdo nemluví
-date: '2018-10-16'
+date: 2018-10-16T12:00:00.000Z
+
 perex: >-
   Mají sociální pracovníci a pracovnice OSPOD povinnost mluvit i s malými dětmi,
   které chodí teprve do školky? Mají povinnost zkusit se domluvit s dětmi, které

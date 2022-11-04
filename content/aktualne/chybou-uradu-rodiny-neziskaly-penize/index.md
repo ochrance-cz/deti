@@ -1,6 +1,7 @@
 ---
 title: Chybou úřadů rodiny nezískaly peníze
-date: '2019-12-09'
+date: 2019-12-09T12:00:00.000Z
+
 perex: >-
   Ombudsmance se v nedávné době podařilo pomoci hned dvěma rodinám, které chybou
   úřadů nedostaly od státu peníze za to, že pečují o cizí děti. Po zásahu

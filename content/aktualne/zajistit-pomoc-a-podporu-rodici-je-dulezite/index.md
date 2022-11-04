@@ -1,6 +1,7 @@
 ---
 title: Zajistit pomoc a podporu rodiči je důležité
-date: '2019-09-19'
+date: 2019-09-19T12:00:00.000Z
+
 perex: >-
   Ombudsmanka se zabývala případem devítiletého Adama, který se se svou matkou
   přestěhoval k babičce z otcovy strany. O několik měsíců později soud rozhodl,

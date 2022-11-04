@@ -1,6 +1,7 @@
 ---
 title: Testy na covid-19 nakonec budou dál bezplatné pro všechny
-date: '2021-08-24'
+date: 2021-08-24T12:00:00.000Z
+
 perex: >-
   Vláda včera rozhodla o zachování bezplatného testování na covid-19 pro všechny
   i po 1. září 2021.

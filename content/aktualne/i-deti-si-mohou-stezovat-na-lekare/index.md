@@ -1,6 +1,7 @@
 ---
 title: I děti si mohou stěžovat na lékaře
-date: '2021-09-14'
+date: 2021-09-14T12:00:00.000Z
+
 perex: >-
   Každý pacient, který není spokojený s poskytnutými zdravotními službami, může
   podat stížnost.

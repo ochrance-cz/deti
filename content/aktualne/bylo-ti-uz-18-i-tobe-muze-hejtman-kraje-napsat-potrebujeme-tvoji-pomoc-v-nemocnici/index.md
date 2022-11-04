@@ -2,7 +2,8 @@
 title: >-
   Bylo Ti už 18? I Tobě může hejtman kraje napsat: Potřebujeme Tvoji pomoc v
   nemocnici!
-date: '2021-03-23'
+date: 2021-03-23T12:00:00.000Z
+
 perex: >-
   Obrátila se na nás matka osmnáctiletého Adama, který je studentem třetího
   ročníku zdravotnické školy. Adam obdržel od své školy e-mail s informací o
