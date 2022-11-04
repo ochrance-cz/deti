@@ -252,6 +252,13 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
+    sortable_fields:
+      - commit_date
+      - date
+    view_filters:
+      - label: Z roku 2020
+        field: date
+        pattern: '2020'
   - name: kdo-custom
     label: Speciální „Kdo je…“
     editor:

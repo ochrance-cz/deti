@@ -366,13 +366,8 @@ export const relation = (
   name: string,
   options: RelationOptions
 ): RelationWidget => {
-  const {
-    collection,
-    value_field,
-    display_fields,
-    search_fields,
-    multiple,
-  } = options;
+  const { collection, value_field, display_fields, search_fields, multiple } =
+    options;
 
   const w = {
     ...base(name, label, options),
@@ -460,6 +455,9 @@ export interface FolderCollection {
     preview: boolean;
   };
   fields: AnyWidget[];
+
+  sortable_fields: any;
+  view_filters: any;
 }
 
 export type AnyWidget =
@@ -519,6 +517,17 @@ export const folderCollection = (
     d.public_folder = folderConfig.public_folder;
   if (folderConfig.preview_path !== undefined)
     d.preview_path = folderConfig.preview_path;
+
+  if (d.name == "aktualne") {
+    d.sortable_fields = ["commit_date", "date"];
+    d.view_filters = [
+      {
+        label: "Z roku 2020",
+        field: "date",
+        pattern: "2020",
+      },
+    ];
+  }
 
   return d;
 };
