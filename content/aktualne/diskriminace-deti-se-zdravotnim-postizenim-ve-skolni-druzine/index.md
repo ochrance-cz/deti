@@ -1,6 +1,6 @@
 ---
 title: Diskriminace dětí se zdravotním postižením ve školní družině
-date: 2014-11-20
+date: 2014-11-20T12:00:00.000Z
 perex: Ombudsman poskytuje pomoc obětem diskriminace, a to i dětí. Diskriminací
   např. může být i nepřijetí dítěte se zdravotním postižením do školní družiny.
   I takové případy se dějí.

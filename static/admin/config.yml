@@ -253,7 +253,7 @@ collections:
     media_folder: ''
     public_folder: ''
     sortable_fields:
-      - fields.date
+      - date
       - commit_date
   - name: kdo-custom
     label: Speciální „Kdo je…“

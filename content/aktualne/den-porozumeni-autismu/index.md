@@ -1,6 +1,6 @@
 ---
 title: Den porozumění autismu
-date: 2016-04-15
+date: 2016-04-15T12:00:00.000Z
 perex: Mezinárodní den porozumění autismu připadá každý rok na 2. dubna. V Brně
   se ale letos konaly oslavy již s předstihem.
 ---

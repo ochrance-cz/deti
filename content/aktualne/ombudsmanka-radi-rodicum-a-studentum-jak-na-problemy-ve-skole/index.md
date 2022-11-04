@@ -1,6 +1,6 @@
 ---
 title: Ombudsmanka radí rodičům a studentům, jak na problémy ve škole
-date: 2017-09-11
+date: 2017-09-11T12:00:00.000Z
 perex: ""
 ---
 Každý týden ombudsmanka obdrží minimálně 2 podněty týkající se školství. Rodiče nebo i přímo žáci nesouhlasí s rozhodnutím ředitelů škol, stěžují si na konflikty s učiteli, nesouhlasí s výsledkem maturitní zkoušky, namítají šikanu ve škole apod. Ročně jde o přibližně 130 stížností a ne vždy se jimi ombudsmanka může zabývat. 

@@ -1,6 +1,6 @@
 ---
 title: Používání mobilních telefonů ve škole
-date: 2018-09-12
+date: 2018-09-12T12:00:00.000Z
 perex: Ochránkyně se občas setkává s dotazy, jak je to s používáním mobilů ve
   škole. Nedávno se na ni obrátil chlapec, kterému se nelíbilo, že ve škole
   nesmí používat svůj mobilní telefon, a to ani o přestávce.

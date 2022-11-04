@@ -1,6 +1,6 @@
 ---
 title: Adopce dítěte párem se zdravotním postižením na Kypru
-date: 2015-06-19
+date: 2015-06-19T12:00:00.000Z
 perex: Ombudsman na Kypru řešil případ diskriminace manželského páru s
   postižením pohybového aparátu při adopci dítěte. Stěžovatelé namítali, že se
   setkali se zacházením založeným na předsudcích kvůli svému zdravotnímu

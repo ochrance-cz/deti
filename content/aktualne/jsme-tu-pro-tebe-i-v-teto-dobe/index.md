@@ -1,6 +1,6 @@
 ---
 title: Jsme tu pro Tebe i v této době
-date: 2020-11-10
+date: 2020-11-10T12:00:00.000Z
 perex: Školy jsou zavřené, kroužky neprobíhají, většina obchodů je zavřena. Ale
   my stále pracujeme a jsme připraveni Ti pomoct.
 ---

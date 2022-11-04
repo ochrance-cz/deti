@@ -1,6 +1,6 @@
 ---
 title: Ministerstvo vydalo standardy kvality péče o děti v dětských domovech
-date: 2015-05-15
+date: 2015-05-15T12:00:00.000Z
 perex: Ombudsman má za úkol kontrolovat, jak je s dětmi v dětských domovech a
   jiných zařízeních zacházeno, a proto nejen jezdí na pravidelné preventivní
   návštěvy do zařízení, ale také sleduje, co je v této oblasti nového.

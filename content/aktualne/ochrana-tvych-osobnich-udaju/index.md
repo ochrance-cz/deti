@@ -1,6 +1,6 @@
 ---
 title: Ochrana tvých osobních údajů
-date: 2018-06-13
+date: 2018-06-13T12:00:00.000Z
 perex: Stejně jako mnoho jiných institucí (např. školy, sportovní kluby atp.) i
   Kancelář veřejného ochránce práv tzv. zpracovává, tedy shromažďuje a uchovává,
   osobní údaje. Co to pro tebe znamená?

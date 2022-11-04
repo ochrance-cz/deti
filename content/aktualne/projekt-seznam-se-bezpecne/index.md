@@ -1,6 +1,6 @@
 ---
 title: Projekt „Seznam se bezpečně!“
-date: 2014-11-28
+date: 2014-11-28T12:00:00.000Z
 perex: Projekt upozorňuje na odvrácenou tvář internetu, zdůrazňuje nebezpečí
   skrytá za nejrůznějšími identitami na internetu a snaží se naučit děti řešit
   situace, do kterých se mohou dostat. Do nebezpečných situací se může dostat

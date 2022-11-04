@@ -1,6 +1,6 @@
 ---
 title: Ombudsmanka navštěvuje zařízení pro děti
-date: 2019-06-13
+date: 2019-06-13T12:00:00.000Z
 perex: Dětské domovy, domovy se školou či výchovné ústavy. Na to, jak se zde
   dětem žije a zda jsou v nich dodržována práva dětí, se v letošním roce
   zaměřuje ombudsmanka.

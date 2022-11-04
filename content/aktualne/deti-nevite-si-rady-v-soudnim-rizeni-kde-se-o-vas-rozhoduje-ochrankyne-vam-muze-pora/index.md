@@ -1,7 +1,7 @@
 ---
 title: " Děti, nevíte si rady v soudním řízení, kde se o vás rozhoduje?
   Ochránkyně Vám může poradit.  "
-date: 2016-08-03
+date: 2016-08-03T12:00:00.000Z
 perex: Před rokem ochránkyni napsali dva sourozenci ve věku 11 a 14 let o svém
   trápení a smutku, o rozpadu rodiny a o střídavé výchově, která jim nevyhovuje.
   Chtěli být svěřeni do péče táty. Máma je zklamala. Měli pocit, že na jejich

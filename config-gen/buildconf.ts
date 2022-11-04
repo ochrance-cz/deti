@@ -519,7 +519,7 @@ export const folderCollection = (
     d.preview_path = folderConfig.preview_path;
 
   if (d.name == "aktualne") {
-    d.sortable_fields = ["fields.date", "commit_date"];
+    d.sortable_fields = ["date", "commit_date"];
   }
 
   return d;

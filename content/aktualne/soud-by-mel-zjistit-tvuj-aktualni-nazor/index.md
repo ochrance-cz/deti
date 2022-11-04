@@ -1,6 +1,6 @@
 ---
 title: "Soud by měl zjistit tvůj aktuální názor "
-date: 2015-12-21
+date: 2015-12-21T12:00:00.000Z
 perex: Ústavní soud opět řešil, jak má být zohledněno přání dítěte při
   rozhodování o rozšíření úpravy styku s rodičem. Dospěl k závěru, že je
   důležité zjistit aktuální názor dítěte například výslechem u soudu.

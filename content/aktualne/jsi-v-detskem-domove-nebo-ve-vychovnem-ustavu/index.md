@@ -1,6 +1,6 @@
 ---
 title: Jsi v dětském domově nebo ve výchovném ústavu?
-date: 2020-10-06
+date: 2020-10-06T12:00:00.000Z
 perex: Pak právě pro tebe jsme připravili odpovědi na nejčastější otázky, se
   kterými se na nás obracejí děti ze zařízení.
 ---

@@ -1,6 +1,6 @@
 ---
 title: V jakých diskriminačních sporech se na soudy obracejí děti?
-date: 2021-04-08
+date: 2021-04-08T12:00:00.000Z
 perex: Naším úkolem je mimo jiné ochrana před diskriminací. Pomáháme lidem, se
   kterými někdo jedná jinak než s ostatními třeba jen proto, že jsou starší,
   nemocní, nebo mají jinou barvu pleti. Poradíme, co můžou udělat. Někdy je

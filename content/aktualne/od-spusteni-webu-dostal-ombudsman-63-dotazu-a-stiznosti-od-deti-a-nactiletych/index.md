@@ -1,6 +1,6 @@
 ---
 title: Od spuštění webu dostal ombudsman 63 dotazů a stížností od dětí a náctiletých
-date: 2014-01-06
+date: 2014-01-06T12:00:00.000Z
 perex: Od 1.9.2012, kdy ombudsman spustil internetové stránky pro děti a
   náctileté, do 31.12.2013 mu bylo doručeno 63 otázek, proseb a stížností přímo
   od dětí a mladých dospělých. V předcházejících letech to bylo vždy kolem 10

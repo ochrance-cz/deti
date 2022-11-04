@@ -1,6 +1,6 @@
 ---
 title: Stravování dětí s celiakií na internátech
-date: 2019-01-22
+date: 2019-01-22T12:00:00.000Z
 perex: Obrátil se na nás čtrnáctiletý chlapec. Chtěl by studovat na střední
   škole obor, který však nenabízí žádná škola v okolí. Proto by musel bydlet na
   internátě. Narazil však na problém, protože je celiak (nemůže jíst potraviny

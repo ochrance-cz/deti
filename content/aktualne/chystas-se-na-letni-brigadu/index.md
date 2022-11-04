@@ -1,6 +1,6 @@
 ---
 title: Chystáš se na letní brigádu?
-date: 2020-07-07
+date: 2020-07-07T12:00:00.000Z
 perex: Přinášíme souhrn odpovědí na nejčastější otázky související s (letními)
   brigádami.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jak to je s očkováním dětí?
-date: 2021-09-22
+date: 2021-09-22T12:00:00.000Z
 perex: Pokud jsi starší 12 let, můžeš se nechat naočkovat proti onemocnění
   covid-19. Toto očkování je nepovinné a bezplatné. O očkování za Tebe mohou
   rozhodnout rodiče. Měli by ale přihlédnout k Tvému názoru. Proto pokud se s

@@ -1,6 +1,6 @@
 ---
 title: Vymáhání výživného na zletilé dítě
-date: 2017-09-26
+date: 2017-09-26T12:00:00.000Z
 perex: Od října 2017 bude možné pozastavit řidičské oprávnění také v případech,
   kdy povinný dluží výživné zletilému dítěti
 ---

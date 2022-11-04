@@ -1,6 +1,6 @@
 ---
 title: Studentské brigády jsou v plném proudu
-date: 2018-07-01
+date: 2018-07-01T12:00:00.000Z
 perex: Začínají prázdniny a mnoho studentů hledá přivýdělek. Zaměřili jsme se
   proto na nejčastější otázky a odpovědi související s prací mladistvých (15 –
   18 let).

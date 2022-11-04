@@ -1,6 +1,6 @@
 ---
 title: Jsme tu pro vás každý den
-date: 2020-06-01
+date: 2020-06-01T12:00:00.000Z
 perex: Dnes slavíme Den dětí. V práci ombudsmana však máte výsadní pozici každý
   den již dvacet let.
 ---

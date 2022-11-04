@@ -1,6 +1,6 @@
 ---
 title: Školství v době koronaviru
-date: 2021-04-06
+date: 2021-04-06T12:00:00.000Z
 perex: Během distanční výuky řeší mnoho dětí nejrůznější problémy se školou.
   Přinášíme odpovědi na nejčastější otázky, se kterými se v těchto dnech
   setkáváme.

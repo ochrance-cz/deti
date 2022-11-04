@@ -1,6 +1,6 @@
 ---
 title: Ne všechny dětí slaví…
-date: 2018-06-01
+date: 2018-06-01T12:00:00.000Z
 perex: První červen je vyhlášen jako Mezinárodní den dětí.
 ---
 Všem dětem přejeme, aby si ho užily, a to nejlépe společně

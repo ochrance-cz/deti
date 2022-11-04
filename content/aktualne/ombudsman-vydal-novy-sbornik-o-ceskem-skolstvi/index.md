@@ -1,6 +1,6 @@
 ---
 title: Ombudsman vydal nový sborník o českém školství
-date: 2021-04-07
+date: 2021-04-07T12:00:00.000Z
 perex: Je možné, aby škola zakázala žákům používat mobilní telefony ve škole? Co
   dělat, když tě ve škole spolužáci šikanují? A co třeba kyberšikana – dá se
   proti ní také nějak bránit? Jaké máš možnosti, když se nepovede maturita nebo

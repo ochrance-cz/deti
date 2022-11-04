@@ -1,6 +1,6 @@
 ---
 title: Den nulové diskriminace
-date: 2022-03-01
+date: 2022-03-01T12:00:00.000Z
 perex: Dnes, 1. března, slavíme mezinárodní den nulové diskriminace. Rádi bychom
   při této příležitosti zdůraznili, že nelze tolerovat jiné (méně příznivé)
   zacházení s lidmi například jen kvůli jejich původu nebo národnosti.

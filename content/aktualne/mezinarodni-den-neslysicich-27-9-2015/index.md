@@ -1,6 +1,6 @@
 ---
 title: Mezinárodní den neslyšících 27. 9. 2015
-date: 2015-09-24
+date: 2015-09-24T12:00:00.000Z
 perex: Věděli jste, že každoročně se třetí neděli v září slaví Mezinárodní den
   neslyšících? Víte, jaký je rozdíl mezi českým znakovým jazykem a znakovanou
   češtinou? Dovedete si představit, jak náročným situacím musí osoby se

@@ -1,6 +1,6 @@
 ---
 title: "Slavíme 2. narozeniny! "
-date: 2014-09-30
+date: 2014-09-30T12:00:00.000Z
 perex: Jsou to dva roky, co jsme spustili tento web pro děti a náctileté a
   zřídili speciální e-mailovou schránku deti@ochrance.cz. Jen jejím
   prostřednictvím jsme od té doby pomohli skoro stovce dětí.
