@@ -255,7 +255,7 @@ collections:
     sortable_fields:
       - date
       - commit_date
-    description: '{{date}}'
+    summary: '{{date}}'
   - name: kdo-custom
     label: Speciální „Kdo je…“
     editor:
