@@ -520,13 +520,6 @@ export const folderCollection = (
 
   if (d.name == "aktualne") {
     d.sortable_fields = ["commit_date"];
-    d.view_filters = [
-      {
-        label: "Z roku 2020",
-        field: "date",
-        pattern: "2020",
-      },
-    ];
   }
 
   return d;
