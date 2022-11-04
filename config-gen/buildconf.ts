@@ -457,7 +457,7 @@ export interface FolderCollection {
   fields: AnyWidget[];
 
   sortable_fields: any;
-  view_filters: any;
+  description: any;
 }
 
 export type AnyWidget =
@@ -520,6 +520,7 @@ export const folderCollection = (
 
   if (d.name == "aktualne") {
     d.sortable_fields = ["date", "commit_date"];
+    d.description = "{{date}}";
   }
 
   return d;
