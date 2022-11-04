@@ -520,7 +520,7 @@ export const folderCollection = (
 
   if (d.name == "aktualne") {
     d.sortable_fields = ["date", "commit_date"];
-    d.summary = "{{date}}";
+    d.summary = "{{day}}. {{month}}. {{year}}: {{title}}";
   }
 
   return d;
