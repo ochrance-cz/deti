@@ -519,7 +519,7 @@ export const folderCollection = (
     d.preview_path = folderConfig.preview_path;
 
   if (d.name == "aktualne") {
-    d.sortable_fields = ["commit_date", "date"];
+    d.sortable_fields = ["commit_date"];
     d.view_filters = [
       {
         label: "Z roku 2020",
