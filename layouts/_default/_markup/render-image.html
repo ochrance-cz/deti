@@ -1,8 +1,15 @@
+<figure>
 {{ if (.Page.Resources.GetMatch .Destination) }}
   {{ $path := .Page.Resources.GetMatch .Destination }}
   {{ if findRE ".png$" $path }}
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
   {{ else }}
     <img src="{{ ($path.Resize `1400x jpg q50`).RelPermalink | safeURL }}" alt="{{ .Text }}" />
+    {{ with .Title }}
+      {{ if ne (len (trim . " ")) 0 }}
+        <figcaption>{{ . }}</figcaption>
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
+</figure>
