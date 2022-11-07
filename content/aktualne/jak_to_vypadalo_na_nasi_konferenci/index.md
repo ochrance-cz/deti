@@ -19,7 +19,7 @@ attachments: []
 
 **Zahájení konference** – **děti se dozvěděli, co ombudsman a jeho zástupkyně dělají a kde mohou pomáhat:**
 
-![Konference pro děti - zahájení](dsc_0289.jpg)
+![Konference pro děti - zahájení](dsc_0289.jpg "Zahájení konference - děti sedí v sále a ombudsman a jeho zástupkyně v křesílkách")
 
 ![Konference pro děti - zahájení](dsc_0296.jpg "Zahájení konference - děti sedí v sále a sledují video")
 
