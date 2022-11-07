@@ -19,7 +19,7 @@ attachments: []
 
 **Zahájení konference** – **děti se dozvěděli, co ombudsman a jeho zástupkyně dělají a kde mohou pomáhat:**
 
-![Konference pro děti - zahájení](dsc_0289.jpg "Zahájení konference - děti sedí v sále a ombudsman a jeho zástupkyně v křesílkách")
+![Konference pro děti - zahájení](dsc_0289.jpg)
 
 ![Konference pro děti - zahájení](dsc_0296.jpg "Zahájení konference - děti sedí v sále a sledují video")
 
@@ -82,7 +82,5 @@ attachments: []
 **Tiskovou zprávu o konferenci pro děti můžete zhlédnout také ve znakovém jazyce:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7joyhC2pDgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 *Konference pro děti a tisková zpráva byly realizovány v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.*
