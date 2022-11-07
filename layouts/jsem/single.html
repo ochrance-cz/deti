@@ -5,7 +5,9 @@
 
     <div class="text-content">
       {{ with .Params.perex }}
-        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+        <div class="perex">
+          {{ partial "md-block.html" (dict "content" . "context" $) }}
+      </div>
       {{ end }}
 
       {{ with .Params.date }}
@@ -16,7 +18,7 @@
 
       {{ range .Params.questions }}
          {{ partial "collapsible-open.html" (dict "icon" .icon "id" .title "title" .title "open" false)}}
-             {{ partial "md-block.html" .desc }}
+             {{ partial "md-block.html" (dict "content" .desc "context" $) }}
           {{ partial "collapsible-close.html" }}
       {{ end }}
 

@@ -5,7 +5,7 @@
 
     <div class="text-content">
       {{ with .Params.perex }}
-        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+        <div class="perex">{{ partial "md-block.html" (dict "content" (trim . "\n") "context" $) }}</div>
       {{ end }}
 
       {{ with .Params.date }}
@@ -18,7 +18,7 @@
 
       {{ with .Params.linky }}
         <div class="perex">
-          {{ partial "md-block.html" . }}
+          {{ partial "md-block.html" (dict "content" . "context" $) }}
         </div>
       {{ end }}
 

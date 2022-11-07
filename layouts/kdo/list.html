@@ -6,7 +6,7 @@
 
     <div class="text-content">
       <div class="perex">
-        {{ partial "md-block.html" .Params.perex }}
+        {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
       </div>
 
       <div class="people">
@@ -46,7 +46,7 @@
       </div>
 
       <div class="facts">
-        {{ partial "md-block.html" .Params.facts }}
+        {{ partial "md-block.html" (dict "content" .Params.facts "context" $) }}
       </div>
 
       <ul class="_link-list">

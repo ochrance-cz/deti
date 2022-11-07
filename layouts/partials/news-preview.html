@@ -1,4 +1,5 @@
 <article class="_news-preview">
+  {{ $context := .context }}
   {{ $preview := .preview }}
   {{ $h := .h }}
   {{ $res := $preview.Resources }}
@@ -27,7 +28,9 @@
         </p>
       {{ end }}
 
-    {{ with .Params.perex }}{{ partial "md-block.html" . }}{{ end }}
+      {{ with .Params.perex }}
+        {{ partial "md-block.html" (dict "content" . "context" $context) }}
+      {{ end }}
     {{ end }}
   </div>
 </article>

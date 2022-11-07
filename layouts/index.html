@@ -84,7 +84,7 @@
 
     <div class="_news">
       {{ range first 3 $news }}
-        {{ partial "news-preview.html" (dict "preview" .) }}
+        {{ partial "news-preview.html" (dict "preview" . "context" $) }}
       {{ end }}
     </div>
 

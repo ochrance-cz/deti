@@ -5,7 +5,7 @@
 
     <div class="text-content">
       {{ with .Params.perex }}
-        <div class="perex">{{ partial "md-block.html" (trim . "\n") }}</div>
+        <div class="perex">{{ partial "md-block.html" (dict "content" (trim . "\n") "context" $) }}</div>
       {{ end }}
 
       {{ with .Params.date }}
@@ -25,7 +25,7 @@
       {{ end }}
 
       {{ with (index .Params "we-can") }}
-        {{ partial "md-block.html" (index $.Params "we-can-title") }}
+        {{ partial "md-block.html" (dict "content" (index $.Params "we-can-title") "context" $) }}
 
         <ul class="_we-can">
           {{ range .  }}
@@ -35,7 +35,7 @@
       {{ end }}
 
       {{ with (index .Params "we-cannot") }}
-        {{ partial "md-block.html" (index $.Params "we-cannot-title") }}
+        {{ partial "md-block.html" (dict "content" (index $.Params "we-cannot-title") "context" $) }}
 
         <ul class="_we-cannot">
           {{ range .  }}
@@ -50,7 +50,7 @@
             <li>
               <img class="contact-icon" src="/images/domov/{{ .icon }}">
               <p><strong>{{ .title }}</strong></p>
-              {{ partial "md-block.html" .desc }}
+              {{ partial "md-block.html" (dict "content" .desc "context" $) }}
             </li>
           {{ end }}
         </ul>

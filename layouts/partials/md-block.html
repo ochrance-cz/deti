@@ -1,6 +1,9 @@
-{{/*
-    https://discourse.gohugo.io/t/consistent-behavior-of-markdownify-for-single-multiple-paragaphs/8728/4
-*/}}
-{{- $raw := partial "typo.html" . }}
-{{- $block := findRE "(?is)^<(?:address|article|aside|blockquote|canvas|dd|div|dl|dt|fieldset|figcaption|figure|footer|form|h(?:1|2|3|4|5|6)|header|hgroup|hr|li|main|nav|noscript|ol|output|p|pre|section|table|tfoot|ul|video)\\b" $raw 1 -}}
-{{range $block }}{{ $raw }}{{ else }}<p>{{ $raw }}</p>{{ end -}}
+{{- $raw := replaceRE " - " " — " .content -}}
+{{- $raw = replaceRE "§ " "§&nbsp;" $raw -}}
+{{- $raw = replaceRE " Kč" "&nbsp;Kč" $raw -}}
+{{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
+{{- $raw = replaceRE "(;[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
+
+{{ $optBlock := dict "display" "block" }}
+{{ $raw | .context.Page.RenderString $optBlock }}
+
