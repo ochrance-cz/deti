@@ -7,8 +7,6 @@
     @include font-size-l;
 
     &::before {
-      @include svg-bg($arrow, $primary, 50% 50%);
-
       --size: 1.5rem;
 
       width: var(--size);
