@@ -72,7 +72,11 @@ https://youtu.be/dQw4w9WgXcQ</pre>
 
   <script src="https://unpkg.com/clipboard@2/dist/clipboard.min.js"></script>
   <script>
-    var clipboard = new ClipboardJS('.copy');
+    var clipboard = new ClipboardJS('.copy', {
+      text: function(el) {
+        return document.querySelector(el.dataset.clipboardTarget).innerText;
+      },
+    });
 
     clipboard.on('success', function(e) {
       e.trigger.classList.add('copied');
