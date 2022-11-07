@@ -1,3 +1,8 @@
 {{ if (.Page.Resources.GetMatch .Destination) }}
-  <img src="{{ ((.Page.Resources.GetMatch .Destination).Resize `1400x jpg q50`).RelPermalink | safeURL }}" alt="{{ .Text }}" />
+  {{ $path := .Page.Resources.GetMatch .Destination }}
+  {{ if findRE ".png$" $path }}
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+  {{ else }}
+    <img src="{{ ($path.Resize `1400x jpg q50`).RelPermalink | safeURL }}" alt="{{ .Text }}" />
+  {{ end }}
 {{ end }}
