@@ -11,7 +11,7 @@ attachments: []
 ---
 **Než to všechno vypuklo:**
 
-![](dsc_0178.jpg "Děti i dospělí diskutují v předsálí před zahájením konference")
+![Konference pro děti - diskuze před zahájením](dsc_0178.jpg "Děti i dospělí diskutují v předsálí před zahájením konference")
 
 **Vystavili jsme všechna díla, se kterými děti soutěžili o účast na konferenci:**
 
