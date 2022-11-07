@@ -114,14 +114,22 @@ const pages = files("Stránky", "pages", [
     ]),
     markdown("Úvodní text", "body"),
   ]),
-  fileCollection("Varování", "varovani", "content/alert/_index.markdown", [
-    title("Titulek"),
-    boolean("Je varování aktivní?", "draft"),
-    markdown("Podrobný popis", "body", {
-      hint:
-        "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
-    }),
-  ]),
+  fileCollection(
+    "Upozornění",
+    "varovani",
+    "content/alert/_index.markdown",
+    [
+      title("Titulek"),
+      boolean("Skrýt upozornění", "draft"),
+      markdown("Podrobný popis", "body", {
+        hint: "Titulek se zobrazí na titulní straně, detailní popis na samostatné stránce.",
+      }),
+      attached(),
+    ],
+    {
+      media_folder: "",
+    }
+  ),
   fileCollection("Nevíš si rady?", "pomoc", "content/pomoc/_index.markdown", [
     title("Titulek"),
     markdown("Perex", "perex"),
@@ -168,16 +176,21 @@ const kdoCustom = files("Speciální „Kdo je…“", "kdo-custom", [
       media_folder: "",
     }
   ),
-  fileCollection("Jak kontaktovat", "kontakt", "content/kdo/jak/index.markdown", [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    list("Možnosti kontaktu", "položka", "contact", [
-      title("Název"),
-      icons,
-      markdown("Popis", "desc"),
-    ]),
-    markdown("Text", "body"),
-  ]),
+  fileCollection(
+    "Jak kontaktovat",
+    "kontakt",
+    "content/kdo/jak/index.markdown",
+    [
+      title("Titulek"),
+      markdown("Perex", "perex"),
+      list("Možnosti kontaktu", "položka", "contact", [
+        title("Název"),
+        icons,
+        markdown("Popis", "desc"),
+      ]),
+      markdown("Text", "body"),
+    ]
+  ),
   fileCollection(
     "Čím se zabývá",
     "cim-se-zabyva",
@@ -209,11 +222,7 @@ const kdo = folderCollection(
     media_folder: "",
     public_folder: "",
   },
-  [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
-  ]
+  [title("Titulek"), markdown("Perex", "perex"), markdown("Text", "body")]
 );
 
 const pomoc = folderCollection(
@@ -228,11 +237,7 @@ const pomoc = folderCollection(
     media_folder: "",
     public_folder: "",
   },
-  [
-    title("Titulek"),
-    markdown("Perex", "perex"),
-    markdown("Text", "body"),
-  ]
+  [title("Titulek"), markdown("Perex", "perex"), markdown("Text", "body")]
 );
 
 const jsem = folderCollection(
