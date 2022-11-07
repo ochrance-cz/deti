@@ -207,6 +207,16 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern:
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
       - label: Uložit jako draft
         name: draft
         required: false

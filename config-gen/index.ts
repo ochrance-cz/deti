@@ -277,6 +277,7 @@ const aktualne = folderCollection(
   },
   [
     title("Titulek"),
+    slug(),
     boolean("Uložit jako draft", "draft"),
     datetime("Datum publikování", "date", { time_format: false }),
     markdown("Perex", "perex"),
