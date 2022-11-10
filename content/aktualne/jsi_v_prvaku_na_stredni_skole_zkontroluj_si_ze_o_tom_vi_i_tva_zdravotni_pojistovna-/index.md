@@ -11,8 +11,6 @@ Během studia na základní i střední škole nemusíš platit zdravotní poji�
 
 Některé školy své studenty a studentky hlásí zdravotním pojišťovnám hromadně. Ale nemusí, a proto si to raději zkontroluj. **Do Tvých 18 let by to totiž měli udělat Tví rodiče nebo Ty. Od 18 let už je to jenom na Tobě. Pak musíš všechny změny oznámit sám/sama.** 
 
-{{ icon "sam-ven.svg" }}
-
 Pokud zdravotní pojišťovna nebude vědět, že studuješ, bude chtít, abys pojistné zaplatil/a. Měsíční pojistné je nyní 2 187 Kč. Když nezaplatíš, každý den Ti roste dluh na pojistném a penále. Proto je dobré si včas zkontrolovat, že je všechno, jak má být. 
 
 > POZOR: Zdravotní pojišťovně je třeba hlásit také změnu bydliště nebo jména.
