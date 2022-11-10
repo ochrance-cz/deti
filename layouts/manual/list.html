@@ -59,7 +59,7 @@ https://youtu.be/dQw4w9WgXcQ</pre>
 
     <h4>Dostupné piktogramy</h4>
       {{ range .Params.icons }}
-        {{ $id := replaceRE "." "-" . }}
+        {{ $id := replaceRE "\\." "-" . }}
         <div class="icon-wrapper">
           <img class="icon" src="/images/domov/{{ . }}">
 
