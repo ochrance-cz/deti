@@ -13,4 +13,4 @@ Některé školy své studenty a studentky hlásí zdravotním pojišťovnám hr
 
 Pokud zdravotní pojišťovna nebude vědět, že studuješ, bude chtít, abys pojistné zaplatil/a. Měsíční pojistné je nyní 2 187 Kč. Když nezaplatíš, každý den Ti roste dluh na pojistném a penále. Proto je dobré si včas zkontrolovat, že je všechno, jak má být. 
 
-> POZOR: Zdravotní pojišťovně je třeba hlásit také změnu bydliště nebo jména.
+> **POZOR: Zdravotní pojišťovně je třeba hlásit také změnu bydliště nebo jména.**
