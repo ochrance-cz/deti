@@ -142,7 +142,7 @@ cases:
       Stěžovat si můžeš nejprve řediteli nemocnice nebo přímo lékaři (jde-li o praktického lékaře, zubaře nebo jiného odborného lékaře). A pokud se Ti nebude líbit odpověď ředitele nemocnice/lékaře, můžeš se obrátit na krajský úřad v kraji, ve kterém je nemocnice/ve kterém ordinuje lékař. V některých případech se stížnostmi nezabývají krajské úřady. Tyto výjimky najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf).
 
 
-      **Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.**
+      > **[Více informací o tom, jak a na koho se obrátit?](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf)**
   - perex: Obrátila se na nás maminka, která marně hledala dětského lékaře či
       lékařku pro svou několika měsíční dceru. Všichni ji však odmítali z důvodu
       naplněné kapacity. Maminka se správně obrátila i na zdravotní pojišťovnu,
