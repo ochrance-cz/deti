@@ -100,6 +100,9 @@ cases:
       **Přímo s dítětem, nebo v jiném pokoji?**
 
 
+      {{< icon "nemocnice.png" >}}
+
+
       Zda rodič zůstane na pokoji přímo s dítětem, v jiném pokoji či blízké budově záleží na možnostech nemocnice. Doufáme ale, že s postupem času budou nemocnice při rekonstrukcích pamatovat na potřeby dětí i jejich rodičů.
 
 
