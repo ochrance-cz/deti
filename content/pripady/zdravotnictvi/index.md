@@ -166,11 +166,10 @@ cases:
     perex: Napsala nám patnáctiletá Julie s dotazem, zda může podstoupit potrat bez
       vědomí rodičů.
     body: >-
-      Podle zákona o umělém přerušení těhotenství rozhoduje dívka starší 16 let
-      o těhotenství sama. K provedení potratu tedy nepotřebuje souhlas rodičů.
-      Zároveň ale platí, že nemocnice musí informovat rodič o provedení potratu,
-      pokud dívce ještě nebylo 18 let. **V případě patnáctileté Julie tedy byl
-      zapotřebí k potratu souhlas jejích rodičů.**
+      {{< icon "lecba.png" >}}
+
+
+      Podle zákona o umělém přerušení těhotenství rozhoduje dívka starší 16 let o těhotenství sama. K provedení potratu tedy nepotřebuje souhlas rodičů. Zároveň ale platí, že nemocnice musí informovat rodič o provedení potratu, pokud dívce ještě nebylo 18 let. **V případě patnáctileté Julie tedy byl zapotřebí k potratu souhlas jejích rodičů.**
 
 
       #### Jsi v podobné situaci a nevíš, jak bojíš se, jak rodiče zareagují?
