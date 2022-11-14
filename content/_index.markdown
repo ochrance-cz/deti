@@ -15,6 +15,6 @@ langs:
   ru: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__rustina_-_anglicke_logo_.pdf
   rom: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__romstina_.pdf
 ---
-Ať už vás na tyto stránky přivedla zvědavost nebo problémy, které vás trápí, věříme, že tady najdete pomoc nebo alespoň radu.
+Ať už Tě na tyto stránky přivedla zvědavost nebo problémy, které Tě trápí, věříme, že tady najdeš pomoc nebo alespoň radu.
 
-Skoro každý problém má řešení a když vám s jeho hledáním někdo pomůže, jde to snáze.
+Skoro každý problém má řešení. Když Ti s jeho hledáním někdo pomůže, jde to snáze.
