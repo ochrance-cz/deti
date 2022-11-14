@@ -17,4 +17,4 @@ langs:
 ---
 Ať už Tě na tyto stránky přivedla zvědavost nebo problémy, které Tě trápí, věříme, že tady najdeš pomoc nebo alespoň radu.
 
-Skoro každý problém má řešení. Když Ti někdo pomůžes jeho hledáním, jde to snáze.
+Skoro každý problém má řešení. Když Ti někdo pomůže s jeho hledáním, jde to snáze.
