@@ -100,9 +100,6 @@ cases:
       **Přímo s dítětem, nebo v jiném pokoji?**
 
 
-      {{< icon "nemocnice.png" >}}
-
-
       Zda rodič zůstane na pokoji přímo s dítětem, v jiném pokoji či blízké budově záleží na možnostech nemocnice. Doufáme ale, že s postupem času budou nemocnice při rekonstrukcích pamatovat na potřeby dětí i jejich rodičů.
 
 
@@ -130,6 +127,9 @@ cases:
       #### Na co si můžu stěžovat?
 
 
+      {{< icon "napsat.svg" >}}
+
+
       Stěžovat si nemusíš jen na samotnou péči, kterou Ti doktor poskytnul, ale i na související věci. Například pokud se k Tobě choval hrubě nebo nevhodně, pokud Ti nechtěl vysvětlit tvůj zdravotní stav nebo pokud Tě odmítnul ošetřit, nepustil k Tobě v nemocnici Tvoji rodinu a podobně. **Za podání stížnosti nic neplatíš.** Pokud se rozhodneš stížnost podat, nemusíš se ničeho bát. Nesmí to ovlivnit Tvoji další léčbu a nikdo (ani doktoři) Ti nesmí zazlívat, že sis stěžoval/a.
 
 
@@ -140,6 +140,24 @@ cases:
 
 
       **Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.**
+  - body: >-
+      
+      České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
+
+
+      Vysvětlili jsme jim, že na jejich situaci myslí jedno evropské nařízení. Podle něj je rozhodující, že se již v České republice zabydlely a chodí zde do školy. Rozhodující naopak není, že rodiče jsou stále na Slovensku, kde nepracují, ani to, že soud zatím nerozhodl o jejich svěření do péče strýce.
+
+
+      Poradili jsme jim, aby na české pojišťovně trvaly na registraci a doložily jí například potvrzením o studiu, které prokazuje jejich bydliště v České republice. Zároveň jsme si ověřili, že stejný názor zastává i [Kancelář zdravotního pojištění](https://kancelarzp.cz). Ta Ti vždycky může poskytnout bližší informace k čerpání zdravotní péče v Evropské unii.
+
+
+      **Ombudsman v těchto případech může prověřit postup zdravotní pojišťovny. Neváhej se tak na nás obrátit.**
+    title: Problém se zdravotním pojištěním dětí ze Slovenska
+    perex: Obrátily se na nás děti původně ze Slovenska. Pečoval o ně jejich strýc v
+      České republice, který zároveň žádal u soudu o jejich svěření do
+      pěstounské péče. Rodiče dětí na Slovensku nepracovali a děti tak nebyly na
+      Slovensku zdravotně pojištěny. Zato v České republice chodily do školy a
+      potřebovaly i lékaře. S tím však byl problém.
   - perex: Obrátila se na nás maminka, která marně hledala dětského lékaře či
       lékařku pro svou několika měsíční dceru. Všichni ji však odmítali z důvodu
       naplněné kapacity. Maminka se správně obrátila i na zdravotní pojišťovnu,
@@ -163,10 +181,11 @@ cases:
     perex: Napsala nám patnáctiletá Julie s dotazem, zda může podstoupit potrat bez
       vědomí rodičů.
     body: >-
-      {{< icon "lecba.png" >}}
-
-
-      Podle zákona o umělém přerušení těhotenství rozhoduje dívka starší 16 let o těhotenství sama. K provedení potratu tedy nepotřebuje souhlas rodičů. Zároveň ale platí, že nemocnice musí informovat rodič o provedení potratu, pokud dívce ještě nebylo 18 let. **V případě patnáctileté Julie tedy byl zapotřebí k potratu souhlas jejích rodičů.**
+      Podle zákona o umělém přerušení těhotenství rozhoduje dívka starší 16 let
+      o těhotenství sama. K provedení potratu tedy nepotřebuje souhlas rodičů.
+      Zároveň ale platí, že nemocnice musí informovat rodič o provedení potratu,
+      pokud dívce ještě nebylo 18 let. **V případě patnáctileté Julie tedy byl
+      zapotřebí k potratu souhlas jejích rodičů.**
 
 
       #### Jsi v podobné situaci a nevíš, jak bojíš se, jak rodiče zareagují?
@@ -195,22 +214,4 @@ cases:
       sám/sama.
     title: Jsi v prváku na střední škole? Zkontroluj si, že o tom ví i Tvá zdravotní
       pojišťovna.
-  - body: >-
-      
-      České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
-
-
-      Vysvětlili jsme jim, že na jejich situaci myslí jedno evropské nařízení. Podle něj je rozhodující, že se již v České republice zabydlely a chodí zde do školy. Rozhodující naopak není, že rodiče jsou stále na Slovensku, kde nepracují, ani to, že soud zatím nerozhodl o jejich svěření do péče strýce.
-
-
-      Poradili jsme jim, aby na české pojišťovně trvaly na registraci a doložily jí například potvrzením o studiu, které prokazuje jejich bydliště v České republice. Zároveň jsme si ověřili, že stejný názor zastává i [Kancelář zdravotního pojištění](https://kancelarzp.cz). Ta Ti vždycky může poskytnout bližší informace k čerpání zdravotní péče v Evropské unii.
-
-
-      **Ombudsman v těchto případech může prověřit postup zdravotní pojišťovny. Neváhej se tak na nás obrátit.**
-    title: Problém se zdravotním pojištěním dětí ze Slovenska
-    perex: Obrátily se na nás děti původně ze Slovenska. Pečoval o ně jejich strýc v
-      České republice, který zároveň žádal u soudu o jejich svěření do
-      pěstounské péče. Rodiče dětí na Slovensku nepracovali a děti tak nebyly na
-      Slovensku zdravotně pojištěny. Zato v České republice chodily do školy a
-      potřebovaly i lékaře. S tím však byl problém.
 ---
