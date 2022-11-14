@@ -56,6 +56,9 @@ cases:
       **I rodič má v nemocnici povinnosti**
 
 
+      {{< icon "nemocnice.png" >}}
+
+
       Pokud to umožňuje vybavení nemocnice, pobyt rodiče nenaruší poskytování zdravotních služeb anebo ho nevylučuje nějaký právní předpis, nemocnice musí rodiči dovolit zůstat se svým dítětem. Rodiče a jiné návštěvy pacientů však musí dodržovat právní předpisy a vnitřní řád nemocnice. Nesmí narušit poskytnutí zdravotních služeb jak svému dítěti, tak ostatním pacientům.
 
 
@@ -98,9 +101,6 @@ cases:
 
 
       **Přímo s dítětem, nebo v jiném pokoji?**
-
-
-      {{< icon "nemocnice.png" >}}
 
 
       Zda rodič zůstane na pokoji přímo s dítětem, v jiném pokoji či blízké budově záleží na možnostech nemocnice. Doufáme ale, že s postupem času budou nemocnice při rekonstrukcích pamatovat na potřeby dětí i jejich rodičů.
