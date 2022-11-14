@@ -140,24 +140,6 @@ cases:
 
 
       **Více informací o tom, jak a na koho se obrátit, najdeš [tady](https://www.ochrance.cz/letaky/zdravotnictvi-stiznosti/zdravotnictvi-stiznosti.pdf). Můžeš nám i napsat na [deti@ochrance.cz](mailto:deti@ochrance.cz) nebo zavolat na linku 542 542 888, kde Ti vše rádi vysvětlíme.**
-  - body: >-
-      
-      České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
-
-
-      Vysvětlili jsme jim, že na jejich situaci myslí jedno evropské nařízení. Podle něj je rozhodující, že se již v České republice zabydlely a chodí zde do školy. Rozhodující naopak není, že rodiče jsou stále na Slovensku, kde nepracují, ani to, že soud zatím nerozhodl o jejich svěření do péče strýce.
-
-
-      Poradili jsme jim, aby na české pojišťovně trvaly na registraci a doložily jí například potvrzením o studiu, které prokazuje jejich bydliště v České republice. Zároveň jsme si ověřili, že stejný názor zastává i [Kancelář zdravotního pojištění](https://kancelarzp.cz). Ta Ti vždycky může poskytnout bližší informace k čerpání zdravotní péče v Evropské unii.
-
-
-      **Ombudsman v těchto případech může prověřit postup zdravotní pojišťovny. Neváhej se tak na nás obrátit.**
-    title: Problém se zdravotním pojištěním dětí ze Slovenska
-    perex: Obrátily se na nás děti původně ze Slovenska. Pečoval o ně jejich strýc v
-      České republice, který zároveň žádal u soudu o jejich svěření do
-      pěstounské péče. Rodiče dětí na Slovensku nepracovali a děti tak nebyly na
-      Slovensku zdravotně pojištěny. Zato v České republice chodily do školy a
-      potřebovaly i lékaře. S tím však byl problém.
   - perex: Obrátila se na nás maminka, která marně hledala dětského lékaře či
       lékařku pro svou několika měsíční dceru. Všichni ji však odmítali z důvodu
       naplněné kapacity. Maminka se správně obrátila i na zdravotní pojišťovnu,
@@ -214,4 +196,22 @@ cases:
       sám/sama.
     title: Jsi v prváku na střední škole? Zkontroluj si, že o tom ví i Tvá zdravotní
       pojišťovna.
+  - body: >-
+      
+      České zdravotní pojišťovny se zdráhaly děti pojistit. Nebylo jim totiž jasné, ve kterém státě mají mít děti zdravotní pojištění. V důsledku toho odmítali děti zaregistrovat i čeští lékaři. Hrozilo, že si děti budou muset platit za všechna případná ošetření.
+
+
+      Vysvětlili jsme jim, že na jejich situaci myslí jedno evropské nařízení. Podle něj je rozhodující, že se již v České republice zabydlely a chodí zde do školy. Rozhodující naopak není, že rodiče jsou stále na Slovensku, kde nepracují, ani to, že soud zatím nerozhodl o jejich svěření do péče strýce.
+
+
+      Poradili jsme jim, aby na české pojišťovně trvaly na registraci a doložily jí například potvrzením o studiu, které prokazuje jejich bydliště v České republice. Zároveň jsme si ověřili, že stejný názor zastává i [Kancelář zdravotního pojištění](https://kancelarzp.cz). Ta Ti vždycky může poskytnout bližší informace k čerpání zdravotní péče v Evropské unii.
+
+
+      **Ombudsman v těchto případech může prověřit postup zdravotní pojišťovny. Neváhej se tak na nás obrátit.**
+    title: Problém se zdravotním pojištěním dětí ze Slovenska
+    perex: Obrátily se na nás děti původně ze Slovenska. Pečoval o ně jejich strýc v
+      České republice, který zároveň žádal u soudu o jejich svěření do
+      pěstounské péče. Rodiče dětí na Slovensku nepracovali a děti tak nebyly na
+      Slovensku zdravotně pojištěny. Zato v České republice chodily do školy a
+      potřebovaly i lékaře. S tím však byl problém.
 ---
