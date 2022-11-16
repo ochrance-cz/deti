@@ -1,5 +1,6 @@
 ---
-title: '"Na kávu s ombudsmanem" o tom, jak pomáháme dětem'
+title: Jak pomáháme dětem? Podíváme si o tom v novém díle podcastu Na kávu s
+  ombudsmanem.
 slug: ""
 draft: false
 date: 2022-11-16T07:39:48.549Z
