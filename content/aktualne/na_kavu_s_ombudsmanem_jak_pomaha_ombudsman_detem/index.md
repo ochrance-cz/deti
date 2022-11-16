@@ -7,7 +7,7 @@ date: 2022-11-16T07:39:48.549Z
 perex: Posloucháš rád/a podcasty? Pak nevynechej Na kávu s ombudsmanem o tom, co
   děláme pro děti. Ptala se patnáctiletá Anička.
 ---
-Jak pomáháme dětem? Kolika dětem pomůžeme ročně? A co všechno jsme udělali pro děti v posledním roce? Na to všechno se ptá patnáctiletá Anička v dalším dílu podcastu **Na kávu s ombudsmanem**.
+Jak pomáháme dětem? Kolika dětem pomůžeme ročně? A co všechno jsme udělali pro děti v posledním roce? Na to všechno se ptá patnáctiletá Anička.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvfLU3p3G8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
