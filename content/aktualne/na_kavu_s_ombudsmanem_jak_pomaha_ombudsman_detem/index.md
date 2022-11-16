@@ -1,5 +1,5 @@
 ---
-title: Na kávu s ombudsmanem o tom, jak pomáhá ombudsman dětem
+title: Na kávu s ombudsmanem o tom, jak pomáháme dětem
 slug: ""
 draft: false
 date: 2022-11-16T07:39:48.549Z
