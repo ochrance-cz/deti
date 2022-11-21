@@ -13,10 +13,15 @@ Zhruba dvouhodinový program, během kterého:
 * ukážeme vám zákoutí naší budovy (kde pracujeme, kde se vzděláváme, kde relaxujeme, kde chováme včely i kde řádí "naše děti") a 
 * budete se moci zeptat ombudsmana nebo jeho zástupce na cokoliv, co vás zajímá. 
 
+### Pro koho? 
+
+* školní kolektivy či jiné zájmové skupiny dětí,
+* šesťáky a starší.
+
 > Sídlo máme pouze v Brně, takže i exkurze probíhají pouze [v Brně na adrese Údolní 39](https://www.ochrance.cz/kontakt/).
 
 ![Děti diskutují s ombudsmanem v jeho kanceláři.  ](dsc_1287.jpg "Děti na exkurzi diskutují s ombudsmanem v jeho kanceláři.")
 
-![Ombudsman ukazuje dětem obraz ve své kanceláři](dsc_0505.jpg "\"Tento obraz mi namaloval slon!\" říká ombudsman dětem na exkurzi.")
+![Ombudsman ukazuje dětem obraz ve své kanceláři](dsc_0505.jpg "\\"Tento obraz mi namaloval slon!\\" říká ombudsman dětem na exkurzi.")
 
 ![Děti a jejich učitelka stojí v kanceláři ombudsmana.](dsc_0509.jpg "Skupinová fotografie s ombudsmanem v jeho kanceláři")
