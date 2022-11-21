@@ -16,4 +16,4 @@ Zítra je Světový den prevence týrání a zneužívání dětí. Organizace [
 
 **Pokud sám/sama potřebuješ pomoct, neboj se nám [napsat nebo koukni na další možnosti řešení](https://deti.ochrance.cz/pomoc/).**  
 
-> Dětská skupina Motejlci je naše „školka“. Zázemí má přímo v naší kanceláři a chodí do ní děti našich zaměstnankyň a zaměstnanců. Skvělý benefit, které zjednodušuje moha rodinám s malými dětmi dobře fungovat jako „máma a táta“ a být přitom aktivní v pracovním životě.
+> Dětská skupina Motejlci je naše „školka“. Zázemí má přímo v naší kanceláři a chodí do ní děti našich zaměstnankyň a zaměstnanců. Skvělý benefit, které zjednodušuje moha rodinám s malými dětmi fungovat jako „máma a táta“ a být přitom aktivní v pracovním životě.
