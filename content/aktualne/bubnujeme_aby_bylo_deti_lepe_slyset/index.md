@@ -12,7 +12,7 @@ perex: Násilí na dětech je kolem nás, i když ho často nevnímáme nebo nev
 
 Zítra je Světový den prevence týrání a zneužívání dětí. Organizace [Locika](https://www.facebook.com/centrumlocika) už na dnešek připravila [Bubnovačku](https://www.facebook.com/profile.php?id=100084667686615) – preventivní happening, který má symbolicky upozornit na důležitost ochrany dětí před násilím a otevřít ve společnosti téma včasné prevence. 
 
-**Zabubnuj si společně s dětmi z naší dětské skupiny „Motejlci“** ([](https://fb.watch/gS_bI3L506/)<https://fb.watch/gS_bI3L506/>) **a připomeň si, že hlas dětí je důležitý!** Přizvi klidně přátele, natočte se, vyfoťte se a sdílejte to do [FB události Bubnuj, aby bylo děti lépe slyšet 2022](https://www.facebook.com/events/793688931986684).
+**Zabubnuj si společně s dětmi z [naší dětské skupiny „Motejlci“](https://fb.watch/gS_bI3L506/)** **a připomeň si, že hlas dětí je důležitý!** Přizvi klidně přátele, natočte se, vyfoťte se a sdílejte to do [FB události Bubnuj, aby bylo děti lépe slyšet 2022](https://www.facebook.com/events/793688931986684).
 
 **Pokud sám/sama potřebuješ pomoct, neboj se nám [napsat nebo koukni na další možnosti řešení](https://deti.ochrance.cz/pomoc/).**  
 
