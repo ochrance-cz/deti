@@ -1,5 +1,5 @@
 ---
-title: JUDr. Vít Alexandr Schorm
+title: JUDr. Vít Alexander Schorm
 role: Zástupce veřejného ochránce práv (ombudsmana)
 pic: cn2a0300a-1.jpg
 ---
