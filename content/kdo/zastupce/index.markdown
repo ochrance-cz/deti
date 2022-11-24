@@ -1,7 +1,7 @@
 ---
 title: JUDr. Vít Alexander Schorm
 role: Zástupce veřejného ochránce práv (ombudsmana)
-pic: zvop.jpg
+pic: img_6584-2.jpg
 ---
 **Ve funkci od 1. listopadu 2022.**  
 
