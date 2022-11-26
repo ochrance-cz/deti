@@ -51,6 +51,16 @@
   {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
   <script src="{{ $js.Permalink }}"></script>
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34532706-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-34532706-1');
+  </script>
+
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
