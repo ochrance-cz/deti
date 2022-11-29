@@ -15,6 +15,6 @@ Dlouhodobě se věnuje problematice nájemních vztahů – v roce 1991 se stal 
 
 Má rád přírodu a je dlouholetým členem Skautu.
 
-> Od 5. dubna 2013 do 3. prosince 2019 vykonával funkci **zástupce ombudsmana**.
+> Od 5. dubna 2013 do 3. prosince 2019 vykonával funkci zástupce ombudsmana.
 >
-> V únoru 2020 byl zvolen **ombudsmanem** a funkci vykonává od 19. února 2020.
+> V únoru 2020 byl zvolen ombudsmanem a funkci vykonává od 19. února 2020.
