@@ -65,7 +65,7 @@ questions:
       zdravotní stav vážný a je potřeba, aby Ti lékaři poskytli péči
       opravdu rychle (bezodkladně).
   - title: Co dělat, když nechci být na psychiatrii nebo nesouhlasím s léčbou?
-    icon: soud.png
+    icon: zamykat.svg
     desc: >-
       #### Soud
 
