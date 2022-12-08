@@ -204,7 +204,7 @@ questions:
 
       Nemůže zařídit Tvé přemístění do jiného zařízení. O tom také rozhoduje soud.
   - title: Kde najdu, co už ombudsman zjistil a řekl o ústavní a ochranné výchově?
-    icon: napsat.svg
+    icon: soud.png
     desc: >-
       Vyřešené případy dětí, které nám napsaly, najdeš
       [zde](https://deti.ochrance.cz/pripady/ustavni-a-ochranna-vychova/). 
