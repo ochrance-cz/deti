@@ -2,7 +2,7 @@
 title: Zkusme to změnit!
 date: 2022-12-08T13:51:51.415Z
 perex: Děti volají po lepším jídle ve školách a výuce finanční gramotnosti.
-  Podaří se jim to zajistit? Zkusí to vlastními silami!
+  Podaří se jim to zajistit? Za naší podpory to zkusí vlastními silami!
 ---
 Na podzim jsme připravili pro žáky a žákyně 8. a 9. tříd vybraných základních školy výzvu – Zkusme to změnit! Úkolem dětí bylo:
 
