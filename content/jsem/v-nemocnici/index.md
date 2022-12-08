@@ -91,4 +91,5 @@ questions:
 
 
       Poslední souhrnná zpráva z návštěv zařízení dětské psychiatrie je k dispozici [zde](https://www.ochrance.cz/uploads-import/ESO/Brozura%20detska%20psychiatrie%2008-22%20online.pdf). Jsou v ní mimo jiné popsány problémy, na které ombudsman narazil během systematických návštěv zařízení, ale také doporučení, jejichž přijetí by napomohlo ke zlepšení psychiatrické péče o dětské pacienty.
+    icon: napsat.svg
 ---
