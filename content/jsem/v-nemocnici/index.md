@@ -83,5 +83,12 @@ questions:
 
 
       Pokud máš v nemocnici nějaké problémy, můžeš podat stížnost. Napiš nebo řekni lékaři, primáři nebo řediteli nemocnice.
----
+  - title: Kde najdu, co už ombudsman zjistil a řekl o dětských psychiatriích?
+    desc: >-
+      Zprávy z návštěv zařízení pro děti najdeš v [Evidenci stanovisek
+      ochránce](https://eso.ochrance.cz/) (v záložce Oblast práva vyber 807
+      Detence - zdravotnická zařízení). 
 
+
+      Poslední souhrnná zpráva z návštěv zařízení dětské psychiatrie je k dispozici [zde](https://www.ochrance.cz/uploads-import/ESO/Brozura%20detska%20psychiatrie%2008-22%20online.pdf). Jsou v ní mimo jiné popsány problémy, na které ombudsman narazil během systematických návštěv zařízení, ale také doporučení, jejichž přijetí by napomohlo ke zlepšení psychiatrické péče o dětské pacienty.
+---
