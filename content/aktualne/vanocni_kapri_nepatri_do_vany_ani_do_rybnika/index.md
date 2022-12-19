@@ -1,6 +1,6 @@
 ---
 title: Vánoční kapři nepatří do vany ani do rybníka!
-draft: true
+draft: false
 date: 2022-12-19T11:06:03.083Z
 perex: Chystáš se jít s mámou, tátou nebo prarodiči koupit vánočního kapra?
   Zároveň ale patříš mezi ty, kteří chtějí nechat kapra plavat doma ve vaně nebo
