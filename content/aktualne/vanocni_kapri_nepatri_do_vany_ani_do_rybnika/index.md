@@ -18,6 +18,6 @@ Pokud kapra budeš přenášet živého domů:
 
 Odborníci se shodují, že kapr vyčerpá své energetické zásoby a ve většině případů uhyne vlivem snížené funkce imunitního systému, případně teplotního šoku. 
 
-> Ve [stanovisku Ústřední komise pro ochranu zvířat ](https://eagri.cz/public/web/file/692123/_2021k_prodeji_zivych_ryb.pdf)najdeš podrobnější informace o tom, proč kapry nevracet do přírody ani se s nimi nekoupat ve vaně.
+> Ve [stanovisku](https://eagri.cz/public/web/file/692123/_2021k_prodeji_zivych_ryb.pdf) Ústřední komise pro ochranu zvířat najdeš podrobnější informace o tom, proč kapry nevracet do přírody ani se s nini nekoupat ve vaně. 
 
-*Co děláme v oblasti ochrany zvířat si můžete poslechnout hned ve dvou dílech našeho podcastu Na kávu s ombudsmanem* – *[Ochrana zvířat 1](https://youtu.be/8NG6VLmKYjk?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i) a [Ochrana zvířat 2](https://youtu.be/mijh5Udllis?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i).*[](https://eagri.cz/public/web/file/692123/_2021k_prodeji_zivych_ryb.pdf)
+*Co děláme v oblasti ochrany zvířat si můžete poslechnout hned ve dvou dílech podcastu Na kávu s ombudsmanem – [Ochrana zvířat 1](https://youtu.be/8NG6VLmKYjk?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i) a [Ochrana zvířat 2](https://youtu.be/mijh5Udllis?list=PLWNv_IxgJdEKvV9-ZYu7VTxvc1SjDRb2i).*[](https://eagri.cz/public/web/file/692123/_2021k_prodeji_zivych_ryb.pdf)
