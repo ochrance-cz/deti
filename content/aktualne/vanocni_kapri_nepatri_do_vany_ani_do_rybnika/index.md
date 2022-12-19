@@ -14,7 +14,7 @@ Pokud kapra budeš přenášet živého domů:
 * může utrpět teplotní šok z rozdílné teploty vody a
 * v chlorované vodě ve vaně se mu bude hodně špatně dýchat.
 
-#### A co se stane, když živého vánočního kapra vypustíš zpět do rybníka?
+#### Co se stane, když živého vánočního kapra vypustíš zpět do rybníka?
 
 Odborníci se shodují, že kapr vyčerpá své energetické zásoby a ve většině případů uhyne vlivem snížené funkce imunitního systému, případně teplotního šoku. 
 
