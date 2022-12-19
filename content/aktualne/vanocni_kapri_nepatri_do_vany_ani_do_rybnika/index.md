@@ -1,5 +1,5 @@
 ---
-title: Vánoční kapři nepatří do vany ani do rybníka!
+title: Vánoční kapři nepatří do vany ani rybníka!
 draft: false
 date: 2022-12-19T11:06:03.083Z
 perex: Chystáš se jít s mámou, tátou nebo prarodiči koupit vánočního kapra?
