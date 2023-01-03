@@ -7,11 +7,11 @@ perex: Vadí Ti něco na Tvém okolí? Máš kolem sebe partu přátel, se kter�
 
 Chceme, aby se mladí lidé:
 
-1. aktivně zajímali o své okolí, 
-2. vzájemně spolupracovali a prozkoumávali možnosti, které se nabízí ke zlepšení jejich okolí, 
-3. seznámili se s překážkami, pro které dosud nebylo možné změnit neutěšený stav okolí, 
-4. měli šanci se naučit jasně formulovat své nápady a uvažovali při tom realisticky a udržitelně,
-5. sami navrhli smysluplnou a proveditelnou variantu řešení, kterou se pokusí zrealizovat.
+* aktivně zajímali o své okolí, 
+* vzájemně spolupracovali a prozkoumávali možnosti, které se nabízí ke zlepšení jejich okolí, 
+* seznámili se s překážkami, pro které dosud nebylo možné změnit neutěšený stav okolí, 
+* měli šanci se naučit jasně formulovat své nápady a uvažovali při tom realisticky a udržitelně,
+* sami navrhli smysluplnou a proveditelnou variantu řešení, kterou se pokusí zrealizovat.
 
 **Aby cesta k úspěchu byla jednodušší, nabízíme k tomu motivující soutěžní prostředí, naše tipy a zkušenosti.** 
 
@@ -19,23 +19,22 @@ Chceme, aby se mladí lidé:
 
 Všechny přihlášené týmy získají:
 
-* možnost zúčastnit se webináře na téma plánování projektu, jeho managementu a zpracování projektové žádosti,
-* možnost on-line konzultace projektu,
-* písemnou zpětnou vazbu k odevzdanému projektu,
-* možnost sledovat on-line přenos z hlavní části květnového setkání pro vybrané týmy,
-* certifikát potvrzující zapojení do soutěže,
-* možnost domluvit si individuální exkurzi pro jejich třídní kolektiv v Kanceláři veřejného ochránce práv v Brně.
+1. možnost zúčastnit se webináře na téma plánování projektu, jeho managementu a zpracování projektové žádosti,
+2. možnost on-line konzultace projektu,
+3. písemnou zpětnou vazbu k odevzdanému projektu,
+4. možnost sledovat on-line přenos z hlavní části květnového setkání pro vybrané týmy,
+5. certifikát potvrzující zapojení do soutěže,
+6. možnost domluvit si individuální exkurzi pro jejich třídní kolektiv v Kanceláři veřejného ochránce práv v Brně.
 
 Vybrané týmy nadto získají možnost zúčastnit se květnového setkání, kde:
 
-* budou prezentovat svůj projekt, seznámí se s ostatními projekty a budou moci sdílet zkušenosti a dobrou praxi,
-* získají zpětnou vazbu k projektu a individualizovanou konzultaci a poradenství od odbornic a odborníků z Kanceláře veřejného ochránce práv, Centra podpory podnikavosti (mj. autorek projektu [Podnikavá mysl](https://www.podnikavamysl.cz/cz/)) a [Domu zahraniční spolupráce](https://www.dzs.cz/) (zprostředkovává financování mj. studentských projektů napříč Evropou – např. Erasmus+, Evropský sbor solidarity, projekty EHP a další),
-* se zúčastní workshopu na téma projektového managementu (pro pedagogický doprovod je připraven workshop představující metody práce se studentským kolektivem – jak děti aktivizovat a motivovat k zapojení do veřejného života a ovlivnění světa kolem sebe),
-* se je pokusíme propojit se zástupkyněmi či zástupci samospráv či státní správy, nadací, podnikatelských inkubátorů či dalších donátorů, kteří by jim mohli pomoci s realizací projektu,
-* dostanou občerstvení, drobné odměny a proplacené cestovní náklady související s (veřejnou) dopravou na setkání (platí pro zástupkyně a zástupce týmů a jejich pedagogický doprovod).
+1. budou prezentovat svůj projekt, seznámí se s ostatními projekty a budou moci sdílet zkušenosti a dobrou praxi,
+2. získají zpětnou vazbu k projektu a individualizovanou konzultaci a poradenství od odbornic a odborníků z Kanceláře veřejného ochránce práv, Centra podpory podnikavosti (mj. autorek projektu [Podnikavá mysl](https://www.podnikavamysl.cz/cz/)) a [Domu zahraniční spolupráce](https://www.dzs.cz/) (zprostředkovává financování mj. studentských projektů napříč Evropou – např. Erasmus+, Evropský sbor solidarity, projekty EHP a další),
+3. se zúčastní workshopu na téma projektového managementu (pro pedagogický doprovod je připraven workshop představující metody práce se studentským kolektivem – jak děti aktivizovat a motivovat k zapojení do veřejného života a ovlivnění světa kolem sebe),
+4. se je pokusíme propojit se zástupkyněmi či zástupci samospráv či státní správy, nadací, podnikatelských inkubátorů či dalších donátorů, kteří by jim mohli pomoci s realizací projektu,
+5. dostanou občerstvení, drobné odměny a proplacené cestovní náklady související s (veřejnou) dopravou na setkání (platí pro zástupkyně a zástupce týmů a jejich pedagogický doprovod).
 
-### 
-Kdo se může přihlásit a jak?
+### Kdo se může přihlásit a jak?
 
 Přihlásit se může tým složený minimálně ze tří studentek nebo studentů střední školy nebo odpovídajících ročníků víceletých gymnázií. Členky a členové týmu nemusí být z jedné třídy ani školy. Každý může být součástí pouze jednoho týmu. Počet týmů na jednu školu není omezen.
 
@@ -43,16 +42,15 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 **Přihlásit do soutěže se můžete on-line \[link], a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
 
-### 
-Jaké projekty je možné přihlásit?
+### Jaké projekty je možné přihlásit?
 
-Projekt musí:
+**Projekt musí:**
 
 * řešit problém nebo nevyhovující situaci, které tým označí ve svém okolí (škála oblastí, které se projekty mohou dotknout, je široká – např. veřejný prostor, volnočasové aktivity, přístup k úřadům, zapojení se do života ve městě, bezpečnost na ulici či na silnici, dopravní situace, životní prostředí, kultura, jinakost, přístup k pomoci nebo podpoře v otázkách financí, zdraví či duševní pohoda),
 * být veřejně prospěšný,
 * navrhovat jednorázová, dlouhodobá či systémová řešení, případně být potenciálním podnikatelským záměrem.
 
-Projekt nesmí:
+**Projekt nesmí:**
 
 * primárně cílit na život ve škole, její fungování a školský systém,
 * propagovat produkty, služby, činnosti či stanoviska subjektů komerčního i nekomerčního charakteru, zejména náboženského či politického.
@@ -60,14 +58,9 @@ Projekt nesmí:
 ### Co dál?
 
 Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím webového formuláře. 
-Podrobnosti o soutěži a přesný časový harmonogram naleznete 
+Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](media/podrobne_informace_a_podminky_souteze.pdf).
 
-![]()
-
- \[link-pdf podrobné informace a podmínky soutěže].
-
-### 
-Pro garanty a garantky (pedagogický doprovod)
+### Pro garanty a garantky (pedagogický doprovod)
 
 Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následujícími materiály: 
 
@@ -75,10 +68,6 @@ Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následuj
 * [kreativní zápisník nápadů pro město](https://skoly.damenavas.cz/publikace/) – radí, jak poutavě učit o městě a motivovat děti k péči o něj,
 * [JICskill ](https://skill.jic.cz/)– ideální pro práci se středoškolskými kolektivy, motivuje k práci s vlastním nápadem. 
 
-
-
 **Případné dotazy Vám zodpoví pověřená pracovnice Kanceláře veřejného ochránce práv Mgr. Petra Marie Andrášik na telefonním čísle 602 468 476 nebo e-mailu andrasik@ochrance.cz.** 
-
-
 
 > Aktivita je realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
