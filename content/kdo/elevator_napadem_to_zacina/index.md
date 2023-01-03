@@ -58,7 +58,7 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 ### Co dál?
 
 Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím webového formuláře. 
-Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](media/podrobne_informace_a_podminky_souteze.pdf).
+Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](/media/podrobne_informace_a_podminky_souteze.pdf).
 
 ### Pro garanty a garantky (pedagogický doprovod)
 
