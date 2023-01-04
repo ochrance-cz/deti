@@ -71,6 +71,6 @@ Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následuj
 
 **Případné dotazy Vám zodpoví pověřená pracovnice Kanceláře veřejného ochránce práv Mgr. Petra Marie Andrášik na telefonním čísle 602 468 476 nebo e-mailu andrasik@ochrance.cz.** 
 
-![](elevator_napadem_to_zacina-letak.png)
+![](elevator-napadem_to_zacina-letak.png)
 
 > Aktivita je realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
