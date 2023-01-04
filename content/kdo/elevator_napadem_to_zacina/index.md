@@ -57,7 +57,7 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 ### Co dál?
 
-Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/cTvL3iYXMuKgrkSb6). Plné znění projektového formuláře je k nahlédnutí [zde](content/media/formular_navrhu_projektu.pdf).
+Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/cTvL3iYXMuKgrkSb6). Plné znění projektového formuláře je k nahlédnutí [zde](/media/formular_navrhu_projektu.pdf).
 
 Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](/media/podrobne_informace_a_podminky_souteze.pdf).
 
