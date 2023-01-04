@@ -1,6 +1,6 @@
 ---
 title: "Elevator: nápadem to začíná"
-perex: Vadí Ti něco na Tvém okolí? Máš kolem sebe partu přátel, se kterými jste
+perex: Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste
   schopni to změnit? Navrhněte projekt a pojďte do toho!
 ---
 **Pro všechny studentky a studenty středních škol vyhlašuje ve spolupráci s [Lipka – školské zařízení pro environmentální vzdělávání](https://www.lipka.cz/) projektovou soutěž Elevator: nápadem to začíná.**
@@ -9,8 +9,8 @@ Chceme, aby se mladí lidé:
 
 * aktivně zajímali o své okolí, 
 * vzájemně spolupracovali a prozkoumávali možnosti, které se nabízí ke zlepšení jejich okolí, 
-* seznámili se s překážkami, pro které dosud nebylo možné změnit neutěšený stav okolí, 
-* měli šanci se naučit jasně formulovat své nápady a uvažovali při tom realisticky a udržitelně,
+* seznámili s překážkami, pro které dosud nebylo možné změnit neutěšený stav okolí, 
+* naučili jasně formulovat své nápady a uvažovali při tom realisticky a udržitelně,
 * sami navrhli smysluplnou a proveditelnou variantu řešení, kterou se pokusí zrealizovat.
 
 **Aby cesta k úspěchu byla jednodušší, nabízíme k tomu motivující soutěžní prostředí, naše tipy a zkušenosti.** 
@@ -24,12 +24,12 @@ Všechny přihlášené týmy získají:
 3. písemnou zpětnou vazbu k odevzdanému projektu,
 4. možnost sledovat on-line přenos z hlavní části květnového setkání pro vybrané týmy,
 5. certifikát potvrzující zapojení do soutěže,
-6. možnost domluvit si individuální exkurzi pro jejich třídní kolektiv v Kanceláři veřejného ochránce práv v Brně.
+6. možnost domluvit si individuální exkurzi pro třídní kolektiv v Kanceláři veřejného ochránce práv v Brně.
 
 Vybrané týmy nadto získají možnost zúčastnit se květnového setkání, kde:
 
 1. budou prezentovat svůj projekt, seznámí se s ostatními projekty a budou moci sdílet zkušenosti a dobrou praxi,
-2. získají zpětnou vazbu k projektu a individualizovanou konzultaci a poradenství od odbornic a odborníků z Kanceláře veřejného ochránce práv, Centra podpory podnikavosti (mj. autorek projektu [Podnikavá mysl](https://www.podnikavamysl.cz/cz/)) a [Domu zahraniční spolupráce](https://www.dzs.cz/) (zprostředkovává financování mj. studentských projektů napříč Evropou – např. Erasmus+, Evropský sbor solidarity, projekty EHP a další),
+2. získají zpětnou vazbu k projektu a individualizovanou konzultaci a odborné poradenství od Kanceláře veřejného ochránce práv, Centra podpory podnikavosti (mj. autorek projektu [Podnikavá mysl](https://www.podnikavamysl.cz/cz/)) a [Domu zahraniční spolupráce](https://www.dzs.cz/) (zprostředkovává financování mj. studentských projektů napříč Evropou – např. Erasmus+, Evropský sbor solidarity, projekty EHP a další),
 3. se zúčastní workshopu na téma projektového managementu (pro pedagogický doprovod je připraven workshop představující metody práce se studentským kolektivem – jak děti aktivizovat a motivovat k zapojení do veřejného života a ovlivnění světa kolem sebe),
 4. se je pokusíme propojit se zástupkyněmi či zástupci samospráv či státní správy, nadací, podnikatelských inkubátorů či dalších donátorů, kteří by jim mohli pomoci s realizací projektu,
 5. dostanou občerstvení, drobné odměny a proplacené cestovní náklady související s (veřejnou) dopravou na setkání (platí pro zástupkyně a zástupce týmů a jejich pedagogický doprovod).
@@ -46,7 +46,7 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 **Projekt musí:**
 
-* řešit problém nebo nevyhovující situaci, které tým označí ve svém okolí (škála oblastí, které se projekty mohou dotknout, je široká – např. veřejný prostor, volnočasové aktivity, přístup k úřadům, zapojení se do života ve městě, bezpečnost na ulici či na silnici, dopravní situace, životní prostředí, kultura, jinakost, přístup k pomoci nebo podpoře v otázkách financí, zdraví či duševní pohoda),
+* řešit problém nebo nevyhovující situaci, které jste zaznamenali ve svém okolí (škála oblastí, které se projekty mohou dotknout, je široká – např. veřejný prostor, volnočasové aktivity, přístup k úřadům, zapojení se do života ve městě, bezpečnost na ulici či na silnici, dopravní situace, životní prostředí, kultura, jinakost, přístup k pomoci nebo podpoře v otázkách financí, zdraví či duševní pohoda),
 * být veřejně prospěšný,
 * navrhovat jednorázová, dlouhodobá či systémová řešení, případně být potenciálním podnikatelským záměrem.
 
