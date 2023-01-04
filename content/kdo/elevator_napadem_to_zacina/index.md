@@ -40,7 +40,7 @@ Přihlásit se může tým složený minimálně ze tří studentek nebo student
 
 Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektivu školy. Garant/ka může vést více týmů. Je-li tým složený ze studentek a studentů více škol, zvolí si pouze jednu garantku či jednoho garanta.
 
-**Přihlásit do soutěže se můžete on-line \[link], a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
+**Přihlásit do soutěže se můžete [on-line](https://forms.gle/TU6gX7rpYFqgavn59), a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
 
 ### Jaké projekty je možné přihlásit?
 
@@ -57,8 +57,8 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 ### Co dál?
 
-Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím webového formuláře. 
-Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](content/media/podrobne_informace_a_podminky_souteze.pdf).
+Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/2KVo3xbyE3EJQtcq5). 
+Podrobnosti o soutěži a přesný časový harmonogram naleznete zde.
 
 ### Pro garanty a garantky (pedagogický doprovod)
 
