@@ -3,7 +3,7 @@ title: "Elevator: nápadem to začíná"
 perex: Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste
   schopni to změnit? Navrhněte projekt a pojďte do toho!
 ---
-**Pro všechny studentky a studenty středních škol vyhlašuje ve spolupráci s [Lipka – školské zařízení pro environmentální vzdělávání](https://www.lipka.cz/) projektovou soutěž Elevator: nápadem to začíná.**
+**Pro všechny studentky a studenty středních škol vyhlašujeme ve spolupráci s [Lipka – školské zařízení pro environmentální vzdělávání](https://www.lipka.cz/) projektovou soutěž Elevator: nápadem to začíná.**
 
 Chceme, aby se mladí lidé:
 
