@@ -1,5 +1,5 @@
 ---
-title: "Elevator: nápadem to začíná"
+title: "Elevator: nápadem to začíná (soutěž pro střední školy)"
 perex: Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste
   schopni to změnit? Navrhněte projekt a pojďte do toho!
 ---
