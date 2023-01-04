@@ -294,3 +294,4 @@ Redirect 301 /rodina/ /pripady/rodina/
 Redirect 301 /skola/ /pripady/skola/
 Redirect 301 /ustavni-a-ochranna-vychova/ /pripady/ustavni-a-ochranna-vychova/
 Redirect 301 /zdravotnictvi/ /pripady/zdravotnictvi/
+Redirect 301 /elevator /elevator_napadem_to_zacina/
