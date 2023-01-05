@@ -1,7 +1,7 @@
 ---
 title: "VYHLÁSILI JSME SOUTĚŽ PRO STŘEDOŠKOLÁKY A STŘEDOŠKOLAČKY - Elevator:
   nápadem to začíná"
-draft: true
+draft: false
 attachments: []
 ---
 Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste schopni to změnit? Navrhněte projekt a pojďte do toho!
@@ -43,7 +43,7 @@ Přihlásit se může tým složený minimálně ze tří studentek nebo student
 
 Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektivu školy. Garant/ka může vést více týmů. Je-li tým složený ze studentek a studentů více škol, zvolí si pouze jednu garantku či jednoho garanta.
 
-**Přihlásit do soutěže se můžete on-line \[link], a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
+**Přihlásit do soutěže se můžete [on-line](https://docs.google.com/forms/d/e/1FAIpQLSeAK_Cxc_6PFRDRSVSyo72Wji7g5CA07LMySOQWI5P5G_mIuA/viewform), a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
 
 ### Jaké projekty je možné přihlásit?
 
@@ -60,7 +60,9 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 ### Co dál?
 
-Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím webového formuláře. Podrobnosti o soutěži a přesný časový harmonogram naleznete zde.
+Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/SoB8KChL85DV4Apb6). Plné znění projektového formuláře je k nahlédnutí [zde](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf).
+
+Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](https://deti.ochrance.cz/media/podrobne_informace_a_podminky_souteze.pdf).
 
 ### Pro garanty a garantky (pedagogický doprovod)
 
@@ -71,5 +73,7 @@ Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následuj
 * [JICskill ](https://skill.jic.cz/)– ideální pro práci se středoškolskými kolektivy, motivuje k práci s vlastním nápadem.
 
 **Případné dotazy Vám zodpoví pověřená pracovnice Kanceláře veřejného ochránce práv Mgr. Petra Marie Andrášik na telefonním čísle 602 468 476 nebo e-mailu [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
+
+![](elevator-napadem_to_zacina-letak.png)
 
 > Aktivita je realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
