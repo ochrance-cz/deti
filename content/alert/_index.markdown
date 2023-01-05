@@ -1,5 +1,5 @@
 ---
-title: "VYHLÁSILI JSME SOUTĚŽ PRO STŘEDOŠKOLÁKY A STŘEDOŠKOLAČKY – Elevator:
+title: "VYHLÁSILI JSME SOUTĚŽ PRO STŘEDOŠKOLAČKY A STŘEDOŠKOLÁKY – Elevator:
   nápadem to začíná"
 draft: false
 attachments: []
