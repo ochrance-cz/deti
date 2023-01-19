@@ -27,8 +27,8 @@ perex: ""
 
 * **mimo naši Kancelář můžeme Tvé osobní údaje zpřístupnit pouze:**
 
-1. úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému;
-2. orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana;
+1. úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému,
+2. orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana,
 3. kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
 
     
