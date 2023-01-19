@@ -8,9 +8,11 @@ perex: ""
 
 #### **Můžeme získat, když:**
 
-* nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/) nebo 
-* Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
-* nám je sdělí jiný úřad, instituce nebo zařízení.
+nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/) nebo 
+
+Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
+
+nám je sdělí jiný úřad, instituce nebo zařízení.
 
 #### {{< icon "ss.svg" >}} Tzv. zpracováváme, tedy shromažďujeme a uchováváme:
 
@@ -20,19 +22,23 @@ pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, j
 
 #### Uchováváme:
 
-* jak v papírové, tak elektronické podobě, 
-* dokud Tvůj problém nevyřešíme a pak ještě 7 let. 
+jak v papírové, tak elektronické podobě, 
+
+dokud Tvůj problém nevyřešíme a pak ještě 7 let. 
 
 #### {{< icon "alkohol.svg" >}} Chráníme:
 
-* mohou s nimi nakládat pouze zaměstnanci a zaměstnankyně naší Kanceláře, kteří se s Tebou potřebují spojit nebo se podílí na vyřešení Tvého problému. 
+mohou s nimi nakládat pouze zaměstnanci a zaměstnankyně naší Kanceláře, kteří se s Tebou potřebují spojit nebo se podílí na vyřešení Tvého problému. 
 
 #### {{< icon "soukromi.svg" >}} **Pečlivě střežíme a nesmíme je bezdůvodně nikomu předat:**
 
-* **mimo naši Kancelář můžeme Tvé osobní údaje zpřístupnit pouze:**
-* úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému;
-* orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana;
-* kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
+**mimo naši Kancelář můžeme Tvé osobní údaje zpřístupnit pouze:**
+
+úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému;
+
+orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana;
+
+kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
 
 ### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budete uchovávat? Bude Tě to něco stát?**
 
