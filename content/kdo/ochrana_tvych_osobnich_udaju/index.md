@@ -4,9 +4,9 @@ perex: ""
 ---
 #### **Tvé osobní údaje (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)**
 
-#### **Můžeme získat, když:** 
+#### **Můžeme získat, když:**
 
-* nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/) nebo 
+* nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/),
 * Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
 * nám je sdělí jiný úřad, instituce nebo zařízení.
 
@@ -30,8 +30,6 @@ perex: ""
 1. úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému,
 2. orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana,
 3. kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
-
-    
 
 ### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budete uchovávat? Bude Tě to něco stát?**
 
