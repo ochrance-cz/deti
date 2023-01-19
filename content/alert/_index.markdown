@@ -60,9 +60,10 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 ### Co dál?
 
-Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/SoB8KChL85DV4Apb6). Plné znění projektového formuláře je k nahlédnutí [zde](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf).
+Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/SoB8KChL85DV4Apb6). 
 
-Podrobnosti o soutěži a přesný časový harmonogram naleznete [zde](/media/podrobne_informace_a_podminky_souteze-final.pdf).
+* [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
+* [podrobnosti o soutěži a přesný časový harmonogram](/media/podrobne_informace_a_podminky_souteze-final.pdf)
 
 ### Pro garanty a garantky (pedagogický doprovod)
 
@@ -72,7 +73,7 @@ Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následuj
 * [kreativní zápisník nápadů pro město](https://skoly.damenavas.cz/publikace/) – radí, jak poutavě učit o městě a motivovat děti k péči o něj,
 * [JICskill ](https://skill.jic.cz/)– ideální pro práci se středoškolskými kolektivy, motivuje k práci s vlastním nápadem.
 
-**Případné dotazy Vám zodpoví pověřená pracovnice Kanceláře veřejného ochránce práv Mgr. Petra Marie Andrášik na telefonním čísle 602 468 476 nebo e-mailu [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
+**Případné dotazy Vám zodpoví Petra Marie Andrášik na 602 468 476 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
 
 ![](elevator-napadem_to_zacina-letak.png)
 
