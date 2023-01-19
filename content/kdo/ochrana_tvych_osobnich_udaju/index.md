@@ -34,26 +34,26 @@ pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, j
 * orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana;
 * kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
 
-### **Mohu zjistit, jaké informace o mě máte, proč a jak dlouho je budete uchovávat? Bude mě to něco stát?**
+### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budete uchovávat? Bude Tě to něco stát?**
 
 Kdykoliv nám můžeš napsat dotaz a my Ti bezplatně odpovíme.
 
-### **Pokud změním telefon, e-mail či jiný osobní údaj, musím vám to říct?**
+### **Pokud změníš telefon, e-mail či jiný osobní údaj, musíš nám to říct?**
 
 Nemusíš, ale můžeš. Hlavně pokud společně něco ještě řešíme, jsou pro nás tyto informace důležité.
 
-### **Jak vás mohu kontaktovat?**
+### **Jak nás můžeš kontaktovat?**
 
 Možností je více. Podrobný popis nalezneš [zde](https://deti.ochrance.cz/kdo/jak/).
 
-### **Za jak dlouho a jak mi odpovíte na mé žádosti související se zpracováváním mých osobních údajů?**
+### **Za jak dlouho a jak Ti odpovíme na Tvé žádosti související se zpracováváním mých osobních údajů?**
 
 Budeme Tě informovat do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto lhůtu ze závažných důvodů prodloužit, dáme Ti vědět předem a vysvětlíme Ti proč. Odpovíme Ti stejnou formou, jakou ses na nás obrátil/a (elektronicky, poštou či telefonicky), pokud neurčíš jinak.
 
-### Může někdo zkontrolovat, jak nakládáte s mými osobními údaji?
+### Může někdo zkontrolovat, jak nakládáme s Tvými osobními údaji?
 
 Máš právo podat stížnost k [Úřadu pro ochranu osobních údajů](http://www.uoou.cz/).
 
-### **Mohu se od někoho dozvědět podrobnější informace související s ochranou mých osobních údajů?**
+### **Můžeš se od někoho dozvědět podrobnější informace související s ochranou Tvých osobních údajů?**
 
 Můžeš napsat nebo zavolat naší pověřenkyni pro ochranu osobních údajů, kterou je JUDr. Veronika Gabrišová (542 542 311, [poverenkyne@ochrance.cz)](mailto:poverenkyne@ochrance.cz). Můžeš se obrátit i na [Úřad pro ochranu osobních údajů](http://www.uoou.cz/).
