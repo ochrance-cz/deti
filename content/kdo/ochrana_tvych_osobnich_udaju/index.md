@@ -1,18 +1,20 @@
 ---
 title: Ochrana Tvých osobních údajů
-perex: Osobní údaje tzv. zpracováváme, tedy shromažďujeme a uchováváme, stejně
-  jako mnoho jiných institucí (např. školy, sportovní kluby atp.). Co to pro
-  Tebe znamená?
+perex: ""
 ---
 #### **Tvé osobní údaje (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)**
 
 #### {{< icon "kontrolovat.svg" >}} **Můžeme získat, když:**
 
+
+
 * nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/) nebo 
 * Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
 * nám je sdělí jiný úřad, instituce nebo zařízení.
 
-#### {{< icon "ss.svg" >}} Tzv. zpracováváme:
+#### {{< icon "ss.svg" >}} 
+
+#### Tzv. zpracováváme, tedy shromažďujeme a uchováváme:
 
 * pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, jak nám umožňuje zákon o veřejném ochránci práv. 
 
