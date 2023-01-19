@@ -49,7 +49,7 @@ Budeme Tě informovat do jednoho měsíce od obdržení žádosti. Pokud bychom 
 
 ### Může někdo zkontrolovat, jak nakládáme s Tvými osobními údaji?
 
-Máš právo podat stížnost k [Úřadu pro ochranu osobních údajů](http://www.uoou.cz/).
+Máš právo podat stížnost [Úřadu pro ochranu osobních údajů](http://www.uoou.cz/).
 
 ### **Můžeš se od někoho dozvědět podrobnější informace související s ochranou Tvých osobních údajů?**
 
