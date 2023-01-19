@@ -12,7 +12,7 @@ perex: ""
 * Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
 * nám je sdělí jiný úřad, instituce nebo zařízení.
 
-{{< icon "ss.svg" >}} Tzv. zpracováváme, tedy shromažďujeme a uchováváme:
+#### {{< icon "ss.svg" >}} Tzv. zpracováváme, tedy shromažďujeme a uchováváme:
 
 pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, jak nám umožňuje zákon o veřejném ochránci práv. 
 
