@@ -4,7 +4,9 @@ perex: ""
 ---
 #### **Tvé osobní údaje (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)**
 
-#### **Můžeme získat, když:**
+#### {{< icon "kontrolovat.svg" >}} **Můžeme získat, když:**
+
+
 
 * nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/),
 * Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
