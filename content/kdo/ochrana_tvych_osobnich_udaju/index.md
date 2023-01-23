@@ -45,7 +45,7 @@ Možností je [více](https://deti.ochrance.cz/kdo/jak/).
 
 ### **Za jak dlouho a jak Ti odpovíme na žádosti související se zpracováváním Tvých osobních údajů?**
 
-Budeme Tě informovat do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto lhůtu prodloužit, dáme Ti předem vědět a vysvětlíme Ti proč. Odpovíme Ti stejnou formou, jakou ses na nás obrátil/a (elektronicky, poštou či telefonicky), pokud neurčíš jinak.
+Do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto lhůtu prodloužit, dáme Ti předem vědět a vysvětlíme Ti proč. Odpovíme Ti stejnou formou, jakou ses na nás obrátil/a, pokud neurčíš jinak.
 
 ### Může někdo zkontrolovat, jak nakládáme s Tvými osobními údaji?
 
