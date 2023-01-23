@@ -31,7 +31,7 @@ perex: ""
 2. orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana,
 3. kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
 
-### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budete uchovávat? Bude Tě to něco stát?**
+### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budeme uchovávat? Bude Tě to něco stát?**
 
 Kdykoliv nám můžeš napsat dotaz a my Ti bezplatně odpovíme.
 
