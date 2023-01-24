@@ -2,29 +2,36 @@
 title: Škola
 cases:
   - title: Mám problém se školou. Může mi pomoct ombudsman?
-    perex: "Obrátit na ombudsmana se můžeš v těchto situacích:"
+    perex: ""
     body: >-
-      - nesouhlasíš s rozhodnutím ředitele nebo ředitelky školy, a nepomohlo ani
-      odvolání ke krajskému úřadu,
+      #### Na ombudsmana se můžeš obrátit v těchto situacích:
 
-      - nelíbí se ti, jak Česká školní inspekce vyřídila tvou stížnost na školu,
 
-      - neudělal/a jsi maturitu a myslíš, že krajský úřad nebo Ministerstvo školství mládeže a tělovýchovy tvůj výsledek přezkoumalo špatně,
+      * nesouhlasíš s rozhodnutím ředitele nebo ředitelky školy, a nepomohlo ani odvolání ke krajskému úřadu,
 
-      - ve škole tě diskriminují.
+      * nelíbí se Ti, jak Česká školní inspekce vyřídila Tvou stížnost na školu,
+
+      * neudělal/a jsi maturitu a myslíš, že krajský úřad nebo ministerstvo Tvůj výsledek přezkoumalo špatně,
+
+      * ve škole Tě diskriminují.
 
 
       #### Ombudsman naopak nemůže:
 
 
-      - řešit šikanu mezi žáky, konflikty mezi žákem a učitelem nebo mezi učitelem a rodičem, zasahovat do činnosti školy nebo do rozhodování vedení školy,
+      * řešit šikanu mezi žáky, konflikty mezi žákem a učitelem nebo mezi učitelem a rodičem, 
 
-      - prověřovat postup obce nebo města jako zřizovatele školy (např. při jmenování ředitele školy, slučování škol nebo stanovování školských obvodů),
+      * zasahovat do činnosti školy nebo do rozhodování vedení školy,
 
-      - posuzovat rozhodnutí děkana či rektora vysoké školy o vyloučení ze studia nebo stanovení poplatku za studium (vyjma diskriminace).
+      * prověřovat postup obce nebo města jako zřizovatele školy (např. při jmenování ředitele školy, slučování škol nebo stanovování školských obvodů),
+
+      * posuzovat rozhodnutí děkana či rektora vysoké školy o vyloučení ze studia nebo stanovení poplatku za studium (vyjma diskriminace).
 
 
-      V těchto případech se obrať na vedení školy, zřizovatele, Českou školní inspekci, Ministerstvo vnitra (dohlíží na obce a města) nebo soud (rozhodování vysokých škol). Podnět České školní inspekci můžete poslat na e-mailovou adresu [posta@csicr.cz](mailto:posta@csicr.cz). Stížnost bude vyřizovat regionální inspektorát ve tvém krajském městě (přehled je na [webových stránkách ČŠI](http://www.csicr.cz) ).
+      V těchto případech se obrať na vedení školy, zřizovatele, Českou školní inspekci, Ministerstvo vnitra (dohlíží na obce a města) nebo soud (rozhodování vysokých škol). Podnět České školní inspekci můžete poslat na e-mail [posta@csicr.cz](mailto:posta@csicr.cz). Stížnost bude vyřizovat regionální inspektorát ve Tvém krajském městě (přehled je na [webových stránkách ČŠI](http://www.csicr.cz)).
+
+
+      > Zajímají Tě konkrétní situace, které ombudsman řešil? Můžeš se také podívat do [sborníku Školství](https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Skolstvi.pdf), ve kterém takové případy shrnuje.
   - title: Co když nepovažuji výsledek své maturitní zkoušky za správný?
     perex: Na ombudsmana se obrátilo několik studentů, kteří nesouhlasili s
       výsledkem některé z částí své maturitní zkoušky. Chtěli vědět, jak se
