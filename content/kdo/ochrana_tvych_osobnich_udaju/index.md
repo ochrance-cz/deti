@@ -4,26 +4,26 @@ perex: ""
 ---
 #### **Tvé osobní údaje (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)**
 
-#### Můžeme získat, když:
+#### můžeme získat, když
 
 * nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/),
 * Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
-* nám je sdělí jiný úřad, instituce nebo zařízení.
+* nám je sdělí jiný úřad, instituce nebo zařízení;
 
-#### Tzv. zpracováváme, tedy shromažďujeme a uchováváme:
+#### tzv. zpracováváme, tedy shromažďujeme a uchováváme
 
-* pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, jak nám umožňuje zákon o veřejném ochránci práv. 
+* pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, jak nám umožňuje zákon o veřejném ochránci práv;
 
-#### Uchováváme:
+#### uchováváme
 
 * jak v papírové, tak elektronické podobě, 
-* dokud Tvůj problém nevyřešíme a pak ještě 7 let. 
+* dokud Tvůj problém nevyřešíme a pak ještě 7 let;
 
-#### Chráníme:
+#### chráníme
 
-* mohou s nimi nakládat pouze zaměstnanci a zaměstnankyně naší Kanceláře, kteří se s Tebou potřebují spojit nebo se podílí na vyřešení Tvého problému. 
+* mohou s nimi nakládat pouze zaměstnanci a zaměstnankyně naší Kanceláře, kteří se s Tebou potřebují spojit nebo se podílí na vyřešení Tvého problému;
 
-#### **Pečlivě střežíme a nesmíme je bezdůvodně nikomu předat:**
+#### **pečlivě střežíme a nesmíme je bezdůvodně nikomu předat**
 
 * **mimo naši Kancelář můžeme Tvé osobní údaje zpřístupnit pouze:**
 
