@@ -32,6 +32,35 @@ cases:
 
 
       > Zajímají Tě konkrétní situace, které ombudsman řešil? Můžeš se také podívat do [sborníku Školství](https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Skolstvi.pdf), ve kterém takové případy shrnuje.
+  - title: Česká školní inspekce mi nepomohla. Co mohu dělat?
+    perex: Stěžoval sis na postup školy u České školní inspekce, ale s jejími závěry
+      nesouhlasíš nebo neměly na reálný přístup školy vliv?
+    body: >-
+      Postup krajské pobočky České školní inspekce může přezkoumat [ústředí
+      České školní inspekce ](http://www.csicr.cz/cz/KONTAKTY/Ustredi)
+      ([posta@csicr.cz](mailto:posta@csicr.cz), Fráni Šrámka 37, 150 21 Praha
+      5).
+
+
+      Obrátit se můžeš i na ombudsmana. Je vhodné, pokud k podnětu přiložíš svoji původní stížnost na školu adresovanou České školní inspekci, kopii výsledku šetření této stížnosti, svoji stížnost na postup inspekce adresovanou ústředí a vyřízení této stížnosti. Stejně tak se na ombudsmana mohou obrátit i tví rodiče.
+  - title: Může si základní škola určovat kritéria pro přijímání prvňáčků? Může si
+      mateřská škola vybírat, které dítě přijme do školky?
+    perex: Na některé mateřské a základní školy se hlásí více dětí, než kolik jich
+      konkrétní škola může reálně přijmout. Jak by ředitelka či ředitel měl v
+      takových případech postupovat, aby byl její/jeho postup spravedlivý a v
+      souladu se zákonem?
+    body: >-
+      Tím se zabývají doporučení ombudsmana, která mohou tobě i tvým rodičům
+      pomoci:
+
+
+      - 
+
+      - [Doporučení ochránce k rovnému přístupu k předškolnímu vzdělávání (2018)](https://ochrance.cz/fileadmin/user_upload/ESO/25-2017-DIS-JMK_Doporuceni_k_rovnemu_pristupu_k_predskolnimu_vzdelavani.pdf), [příloha - pomůcka pro ředitelky a ředitele mateřských škol](https://ochrance.cz/fileadmin/user_upload/ESO/25-2017-DIS-JMK_Doporuceni_k_rovnemu_pristupu_k_predskolnimu_vzdelavani_DIAGRAM.pdf)
+
+      - 
+
+      - [Doporučení ochránce k rovnému přístupu k povinné školní docházce (2017)](https://www.ochrance.cz/fileadmin/user_upload/ESO/14-2017-DIS-VB_doporuceni_k_zapisum_do_skol.pdf), [příloha - pomůcka pro ředitelky a ředitele základních škol](https://www.ochrance.cz/fileadmin/user_upload/ESO/14-2017-DIS-VB-diagram_k_zapisum_do_skol.pdf)
   - title: Co když nepovažuji výsledek své maturitní zkoušky za správný?
     perex: Na ombudsmana se obrátilo několik studentů, kteří nesouhlasili s
       výsledkem některé z částí své maturitní zkoušky. Chtěli vědět, jak se
@@ -144,35 +173,6 @@ cases:
 
 
       Situace byla naléhavá. Ombudsmanka proto kontaktovala příslušný magistrát a původní odmítavé rozhodnutí ředitele se následně podařilo zvrátit. Chlapec tak mohl nastoupit do školy.
-  - title: Česká školní inspekce mi nepomohla. Co mohu dělat?
-    perex: Stěžoval sis na postup školy u České školní inspekce, ale s jejími závěry
-      nesouhlasíš nebo neměly na reálný přístup školy vliv?
-    body: >-
-      Postup krajské pobočky České školní inspekce může přezkoumat [ústředí
-      České školní inspekce ](http://www.csicr.cz/cz/KONTAKTY/Ustredi)
-      ([posta@csicr.cz](mailto:posta@csicr.cz), Fráni Šrámka 37, 150 21 Praha
-      5).
-
-
-      Obrátit se můžeš i na ombudsmana. Je vhodné, pokud k podnětu přiložíš svoji původní stížnost na školu adresovanou České školní inspekci, kopii výsledku šetření této stížnosti, svoji stížnost na postup inspekce adresovanou ústředí a vyřízení této stížnosti. Stejně tak se na ombudsmana mohou obrátit i tví rodiče.
-  - title: Může si základní škola určovat kritéria pro přijímání prvňáčků? Může si
-      mateřská škola vybírat, které dítě přijme do školky?
-    perex: Na některé mateřské a základní školy se hlásí více dětí, než kolik jich
-      konkrétní škola může reálně přijmout. Jak by ředitelka či ředitel měl v
-      takových případech postupovat, aby byl její/jeho postup spravedlivý a v
-      souladu se zákonem?
-    body: >-
-      Tím se zabývají doporučení ombudsmana, která mohou tobě i tvým rodičům
-      pomoci:
-
-
-      - 
-
-      - [Doporučení ochránce k rovnému přístupu k předškolnímu vzdělávání (2018)](https://ochrance.cz/fileadmin/user_upload/ESO/25-2017-DIS-JMK_Doporuceni_k_rovnemu_pristupu_k_predskolnimu_vzdelavani.pdf), [příloha - pomůcka pro ředitelky a ředitele mateřských škol](https://ochrance.cz/fileadmin/user_upload/ESO/25-2017-DIS-JMK_Doporuceni_k_rovnemu_pristupu_k_predskolnimu_vzdelavani_DIAGRAM.pdf)
-
-      - 
-
-      - [Doporučení ochránce k rovnému přístupu k povinné školní docházce (2017)](https://www.ochrance.cz/fileadmin/user_upload/ESO/14-2017-DIS-VB_doporuceni_k_zapisum_do_skol.pdf), [příloha - pomůcka pro ředitelky a ředitele základních škol](https://www.ochrance.cz/fileadmin/user_upload/ESO/14-2017-DIS-VB-diagram_k_zapisum_do_skol.pdf)
   - title: Přestup na jinou střední školu či obor
     perex: Zjistil/a jsi, že obor, který studuješ, není pro tebe? Nelíbí se ti na
       internátu a raději bys studoval/a blíž domovu? Chtěl/a bys na jinou školu,
