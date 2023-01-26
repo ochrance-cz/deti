@@ -37,19 +37,19 @@ Kdykoliv nám můžeš napsat dotaz a my Ti bezplatně odpovíme.
 
 ### **Musíš nám říct, když změníš telefon, e-mail či jiný osobní údaj?**
 
-Nemusíš, ale můžeš. Hlavně pokud společně něco ještě řešíme, jsou pro nás tyto informace důležité.
+Nemusíš, ale můžeš. Hlavně pokud spolu něco ještě řešíme, jsou pro nás tyto informace důležité.
 
 ### **Jak nás můžeš kontaktovat?**
 
 Možností je [více](https://deti.ochrance.cz/kdo/jak/). 
 
-### **Za jak dlouho a jak Ti odpovíme na žádosti související se zpracováváním Tvých osobních údajů?**
+### **Za jak dlouho a jak Ti odpovíme na žádost související se zpracováváním Tvých osobních údajů?**
 
 Do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto lhůtu prodloužit, dáme Ti předem vědět a vysvětlíme Ti proč. Odpovíme Ti stejnou formou, jakou ses na nás obrátil/a, pokud neurčíš jinak.
 
 ### Může někdo zkontrolovat, jak nakládáme s Tvými osobními údaji?
 
-Máš právo podat stížnost [Úřadu pro ochranu osobních údajů](http://www.uoou.cz/).
+Ano. [Úřad pro ochranu osobních údajů](http://www.uoou.cz/).
 
 ### **Můžeš se od někoho dozvědět podrobnější informace související s ochranou Tvých osobních údajů?**
 
