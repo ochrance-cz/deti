@@ -33,8 +33,10 @@ Vybrané týmy nadto získají možnost zúčastnit se květnového setkání, k
 1. budou prezentovat svůj projekt, seznámí se s ostatními projekty a budou moci sdílet zkušenosti a dobrou praxi,
 2. získají zpětnou vazbu k projektu a individualizovanou konzultaci a odborné poradenství od Kanceláře veřejného ochránce práv, Centra podpory podnikavosti (mj. autorek projektu [Podnikavá mysl](https://www.podnikavamysl.cz/cz/)) a [Domu zahraniční spolupráce](https://www.dzs.cz/) (zprostředkovává financování mj. studentských projektů napříč Evropou – např. Erasmus+, Evropský sbor solidarity, projekty EHP a další),
 3. se zúčastní workshopu na téma projektového managementu (pro pedagogický doprovod je připraven workshop představující metody práce se studentským kolektivem – jak děti aktivizovat a motivovat k zapojení do veřejného života a ovlivnění světa kolem sebe),
-4. se je pokusíme propojit se zástupkyněmi či zástupci samospráv či státní správy, nadací, podnikatelských inkubátorů či dalších donátorů, kteří by jim mohli pomoci s realizací projektu,
+4. se je pokusíme propojit se zástupkyněmi či zástupci samospráv či státní správy, nadací, podnikatelských inkubátorů či dalších donátorů, kteří by jim mohli pomoci s realizací či financováním projektu,
 5. dostanou občerstvení, drobné odměny a proplacené cestovní náklady související s (veřejnou) dopravou na setkání (platí pro zástupkyně a zástupce týmů a jejich pedagogický doprovod).
+
+Odměnou za účast v soutěži však **není** přímá finanční podpora přihlášených projektů.
 
 ### Kdo se může přihlásit a jak?
 
@@ -42,7 +44,13 @@ Přihlásit se může tým složený minimálně ze tří studentek nebo student
 
 Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektivu školy. Garant/ka může vést více týmů. Je-li tým složený ze studentek a studentů více škol, zvolí si pouze jednu garantku či jednoho garanta.
 
-**Přihlásit do soutěže se můžete [on-line](https://forms.gle/TU6gX7rpYFqgavn59), a to do 11. února 2023 (23:59).** Pro přihlášení musíte pojmenovat členy týmu, napsat nám název Vašeho projektu a jeho stručnou anotaci. Projekt ještě nemusíte mít rozpracovaný.
+**Každý tým musí vyplnit dva online formuláře:** 
+
+1. **do 11. února 2023 (23:59) [přihlášku](https://forms.gle/TU6gX7rpYFqgavn59)**, kterou nám dá vědět, že se chce zapojit do soutěže. Pro přihlášení musí pojmenovat členy týmu, napsat název projektu a jeho stručnou anotaci. Stačí myšlenka, nikoliv detailní popis projektu.
+2. **do 11. dubna 2023 (23:59) [projektový formulář](https://forms.gle/cTvL3iYXMuKgrkSb6),** ve kterém svůj projekt detailně představí.
+
+   * [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
+   * [podrobnosti o soutěži a přesný časový harmonogram](/media/podrobne_informace_a_podminky_souteze-final.pdf)
 
 ### Jaké projekty je možné přihlásit?
 
@@ -56,13 +64,6 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 
 * primárně cílit na život ve škole, její fungování a školský systém,
 * propagovat produkty, služby, činnosti či stanoviska subjektů komerčního i nekomerčního charakteru, zejména náboženského či politického.
-
-### Co dál?
-
-Po vyplnění přihlášky nám musíte do 11. dubna 2023 (23:59) zaslat návrh projektu prostřednictvím [webového formuláře](https://forms.gle/cTvL3iYXMuKgrkSb6). 
-
-* [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
-* [podrobnosti o soutěži a přesný časový harmonogram](/media/podrobne_informace_a_podminky_souteze-final.pdf)
 
 ### Pro garanty a garantky (pedagogický doprovod)
 
