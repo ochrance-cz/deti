@@ -2,7 +2,7 @@
 title: Pololetní vysvědčení - čas pro oslavu i trápení
 date: 2023-01-31T14:26:14.614Z
 ---
-Věříme, že nálada ve tvé třídě při dnešním předávání vysvědčení byla stejně uvolněná jako u těchto kluků:
+Věříme, že nálada ve tvé třídě byla při dnešním předávání vysvědčení stejně uvolněná jako u těchto kluků:
 
 ![](vysvedceni.jpg "Slavnostní předávání vysvědčení na jednom z brněnských gymnázií.")
 
