@@ -6,11 +6,13 @@ Věříme, že nálada ve tvé třídě při dnešním předávání vysvědčen
 
 ![](vysvedceni.jpg "Slavnostní předávání vysvědčení na jednom z brněnských gymnázií.")
 
-Tvé pololetní výsledky nejsou zrovna k oslavě? A přemýšlíš, jak o tom mluvit s rodiči? Zkus se inspirovat radami, které připravilo [Centrum LOCIKA](https://www.centrumlocika.cz/).
+### Tvé pololetní výsledky nejsou zrovna k oslavě? 
+
+A přemýšlíš, jak o tom mluvit s rodiči? Zkus se inspirovat radami, které připravilo [Centrum LOCIKA](https://www.centrumlocika.cz/).
 
 ![](locika-vysvedceni.png "zdroj: Facebook LOCIKA - centrum pro děti ohrožené domácím násilím")
 
-**A pokud by ses přesto doma necítil/a v bezpečí nebo tě rodiče přísně potrestali, neboj se podělit o své pocity. Existuje mnoho možností, ze kterých si můžeš vybrat:** 
+**Pokud by ses přesto doma necítil/a v bezpečí nebo tě rodiče přísně potrestali, neboj se podělit o své pocity. Existuje mnoho možností, ze kterých si můžeš vybrat:** 
 
 * svěř se někomu blízkému ze svého okolí,
 * napiš na chat poradny [Dětství bez násilí](https://www.detstvibeznasili.cz/jsem-dite-nebo-teenager), 
