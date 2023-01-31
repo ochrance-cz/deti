@@ -15,7 +15,7 @@ Pokud letošní vysvědčení nedopadlo nejlépe, možná přemýšlíš, jak o 
 
 ![](locika-vysvedceni.png "zdroj: Facebook LOCIKA - centrum pro děti ohrožené domácím násilím")
 
-### **Doma se i přesto necítíš v bezpečí nebo tě rodiče přísně potrestali?**
+### **Doma se přesto necítíš v bezpečí nebo tě rodiče přísně potrestali?**
 
 **Neboj se podělit o své pocity. Existuje mnoho možností, ze kterých si můžeš vybrat:** 
 
