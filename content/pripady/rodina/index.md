@@ -18,10 +18,10 @@ cases:
       Pro lepší představu sociální pracovník může např. promluvit s oběma rodiči, co by bylo dobré dělat jinak, probrat s rodiči možnou změnu návštěv (že by probíhaly např. jen v sobotu či celý víkend jednou za měsíc) nebo podat podnět na soud, aby byly návštěvy upraveny přímo soudem (pozn.: ve výjimečných případech, pokud např. dochází k ubližování dítěti rodičem, lze podat návrh na úplný zákaz návštěv).
 
 
-      **Pokud máš obdobné problémy, neboj se o nich s rodiči mluvit. Pokud &quot;tě neposlouchají&quot;, zajdi (napiš, nebo zavolej) sociální pracovnici či sociálnímu pracovníkovi orgánu sociálně-právní ochrany dětí (můžeš znát také pod označením &quot;OSPOD&quot; nebo &quot;sociálka&quot;). Pokud &quot;svého&quot; sociálního pracovníka či pracovnici neznáš, pomůžeme ti se s ním spojit. Jsou na každém tzv. obecním úřadě obce s rozšířenou působností. Menší obce vždy spadaní pod blízká větší města. Pomoci ti může tento [seznam](http://mesta.obce.cz/) . **
+      **Pokud máš obdobné problémy, neboj se o nich s rodiči mluvit. Pokud tě neposlouchají, zajdi (napiš, nebo zavolej) sociální pracovnici či sociálnímu pracovníkovi orgánu sociálně-právní ochrany dětí (můžeš znát také pod označením "OSPOD" nebo "sociálka"). Pokud svého sociálního pracovníka či pracovnici neznáš, pomůžeme ti se s ním spojit. Jsou na každém tzv. obecním úřadě obce s rozšířenou působností. Menší obce vždy spadaní pod blízká větší města. Pomoci ti může tento [seznam](http://mesta.obce.cz/) .** 
 
 
-      **Ty i tví rodiče mohou najít také více informací o úpravě styku [zde](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Uprava-styku.pdf).**
+      > **Více informací o možnostech uspořádání rodinných vztahů po rozchodu rodičů můžeš najít Ty i tví také v našem [informačním letáku.](https://www.ochrance.cz/letaky/uprava-styku/uprava-styku.pdf)**
   - title: Sociální pracovníci se musí zajímat o názor dítěte
     perex: Ochránkyně se zabývala případem patnáctileté dívky, jejíž matce úřad ve
       správním řízení uložil povinnost, aby dceru přivedla k psychologovi. Úřad
