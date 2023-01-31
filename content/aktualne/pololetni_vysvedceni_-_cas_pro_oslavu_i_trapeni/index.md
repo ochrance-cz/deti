@@ -8,7 +8,7 @@ Věříme, že nálada ve tvé třídě při dnešním předávání vysvědčen
 
 ### Tvé pololetní výsledky nejsou zrovna k oslavě? 
 
-A přemýšlíš, jak o tom mluvit s rodiči? Zkus se inspirovat radami, které připravilo [Centrum LOCIKA](https://www.centrumlocika.cz/).
+Pokud letošní vysvědčení nedopadlo nejlépe, možná přemýšlíš, jak o tom mluvit s rodiči? Zkus se inspirovat radami, které připravilo [Centrum LOCIKA](https://www.centrumlocika.cz/).
 
 ![](locika-vysvedceni.png "zdroj: Facebook LOCIKA - centrum pro děti ohrožené domácím násilím")
 
