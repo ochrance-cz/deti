@@ -1,0 +1,18 @@
+---
+title: Pololetní vysvědčení - čas pro oslavu i trápení
+date: 2023-01-31T14:26:14.614Z
+---
+Věříme, že nálada ve tvé třídě při dnešním předávání vysvědčení byla stejně uvolněná jako u těchto kluků:
+
+![](vysvedceni.jpg "Slavnostní předávání vysvědčení na jednom z brněnských gymnázií.")
+
+Tvé pololetní výsledky nejsou zrovna k oslavě? A přemýšlíš, jak o tom mluvit s rodiči? Zkus se inspirovat radami, které připravilo [Centrum LOCIKA](https://www.centrumlocika.cz/).
+
+![](locika-vysvedceni.png "zdroj: Facebook LOCIKA - centrum pro děti ohrožené domácím násilím")
+
+**A pokud by ses přesto doma necítil/a v bezpečí nebo tě rodiče přísně potrestali, neboj se podělit o své pocity. Existuje mnoho možností, ze kterých si můžeš vybrat:** 
+
+* svěř se někomu blízkému ze svého okolí,
+* napiš na chat poradny [Dětství bez násilí](https://www.detstvibeznasili.cz/jsem-dite-nebo-teenager), 
+* zavolej na některou z [linek důvěry](https://deti.ochrance.cz/pomoc/linky/),
+* spoj se se sociálními pracovnicemi či pracovníky OSPOD ve tvém městě (najdeš je na městských úřadech, úřadem městských částí či obvodů).
