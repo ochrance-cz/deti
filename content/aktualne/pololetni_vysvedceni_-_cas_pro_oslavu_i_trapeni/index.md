@@ -1,6 +1,9 @@
 ---
 title: Pololetní vysvědčení - čas pro oslavu i trápení
 date: 2023-01-31T14:26:14.614Z
+perex: Jak mluvit s rodiči o špatných známkách na vysvědčení? A jak dnešní den
+  správně oslavit? Rádi sdílíme rady, abyste co nejlépe zvládli náročné období,
+  kterým konec ledna bývá.
 ---
 Věříme, že nálada ve tvé třídě byla při dnešním předávání vysvědčení stejně uvolněná jako u kluků, kteří se s námi podělili o fotku.
 
