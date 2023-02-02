@@ -155,7 +155,7 @@ cases:
       Měsíční výše rodičovského příspěvku není pevně stanovená. Můžeš si ji zvolit podle toho, jak Ti to bude vyhovovat. 
 
 
-      * Pokud jste však Ty ani otec dítěte ke dni jeho narození nepracovali, můžeš čerpat maximálně 10 000 Kč měsíčně. 
+      * Pokud jste však Ty ani otec dítěte ke dni jeho narození nepracovali, můžeš čerpat maximálně 13 000 Kč měsíčně. 
 
       * Pobírat rodičovský příspěvek můžeš až do vyčerpání celkové částky. 
 
@@ -170,7 +170,7 @@ cases:
       #### **Porodné**
 
 
-      U porodného je to trochu složitější. U této dávky, na rozdíl od rodičovského příspěvku, úřad práce zjišťuje výši příjmů. Bude tak záležet na tom, zda žiješ s dítětem sama, nebo zda bydlíš s přítelem nebo s rodiči. Pokud úřad práce vyhodnotí, že máš na porodné nárok, dostaneš **13 000 Kč**. Tato dávka se vyplatí **pouze jednou**. 
+      U porodného je to trochu složitější. U této dávky, na rozdíl od rodičovského příspěvku, úřad práce zjišťuje výši příjmů. Bude tak záležet na tom, zda žiješ s dítětem sama, nebo zda bydlíš s přítelem nebo s rodiči. Pokud úřad práce vyhodnotí, že máš na porodné nárok, dostaneš **13 000 Kč**. Tato dávka se vyplatí **pouze jednou**. U druhého dítěte je pak porodné ve výši 10 000 Kč.
 
 
       Žádost se stejně jako u rodičovského příspěvku podává na [předepsaném formuláři](https://www.mpsv.cz/web/cz/-/zadost-o-porodne) na úřadu práce.
