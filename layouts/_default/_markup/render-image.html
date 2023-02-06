@@ -5,10 +5,10 @@
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
   {{ else }}
     <img src="{{ ($path.Resize `1400x jpg q50`).RelPermalink | safeURL }}" alt="{{ .Text }}" />
-    {{ with .Title }}
-      {{ if ne (len (trim . " ")) 0 }}
-        <figcaption>{{ . | safeHTML }}</figcaption>
-      {{ end }}
+  {{ end }}
+  {{ with .Title }}
+    {{ if ne (len (trim . " ")) 0 }}
+      <figcaption>{{ . | safeHTML }}</figcaption>
     {{ end }}
   {{ end }}
 {{ end }}
