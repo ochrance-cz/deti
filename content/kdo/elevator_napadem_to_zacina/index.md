@@ -71,7 +71,7 @@ Chcete své studentky a studenty lépe motivovat? Zkuste se inspirovat následuj
 * [kreativní zápisník nápadů pro město](https://skoly.damenavas.cz/publikace/) – radí, jak poutavě učit o městě a motivovat děti k péči o něj,
 * [JICskill ](https://skill.jic.cz/)– ideální pro práci se středoškolskými kolektivy, motivuje k práci s vlastním nápadem.
 
-**Případné dotazy Vám zodpoví Petra Marie Andrášik na 602 468 476, 542 542 310 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
+**Případné dotazy Vám zodpovíme na 602 468 476, 542 542 310 nebo [deti@ochrance.cz](mailto:andrasik@ochrance.cz).**
 
 ![](elevator-napadem_to_zacina-letak.png)
 
