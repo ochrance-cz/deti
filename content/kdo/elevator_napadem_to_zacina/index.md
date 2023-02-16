@@ -48,7 +48,7 @@ Tým musí mít svou garantku nebo svého garanta z řad pedagogického kolektiv
 2. **do 11. dubna 2023 (23:59) [projektový formulář](https://forms.gle/cTvL3iYXMuKgrkSb6),** ve kterém svůj projekt detailně představí.
 
 * [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
-* [podrobnosti o soutěži a přesný časový harmonogram](/media/podrobne_informace_a_podminky_souteze-final2.0.pdf)
+* [podrobnosti o soutěži a přesný časový harmonogram](/media/podrobne_informace_a_podminky_souteze-final3.0.pdf)
 
 ### Jaké projekty je možné přihlásit?
 
