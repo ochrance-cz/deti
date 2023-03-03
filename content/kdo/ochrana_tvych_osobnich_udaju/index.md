@@ -3,7 +3,7 @@ title: Ochrana tvých osobních údajů
 perex: Co děláme s tvými osobními údaji (jako je jméno, příjmení, telefonní
   číslo, adresa, e-mail či datum narození)?
 ---
-#### {{< icon "kontrolovat.svg" >}} Získáme je, když:
+#### Získáme je, když:
 
 * nám [napíšeš, zavoláš, řekneš o svém případu](https://deti.ochrance.cz/kdo/jak/),
 * tě navštívíme např. dětský domov, diagnostický ústav nebo zařízení pro děti vyžadující okamžitou pomoc, 
