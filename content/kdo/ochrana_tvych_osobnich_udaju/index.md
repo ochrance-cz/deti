@@ -1,56 +1,52 @@
 ---
-title: Ochrana Tvých osobních údajů
-perex: ""
+title: Ochrana tvých osobních údajů
+perex: Co děláme s tvými osobními údaji (jako je jméno, příjmení, telefonní
+  číslo, adresa, e-mail či datum narození)?
 ---
-#### **Tvé osobní údaje (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)**
+#### {{< icon "kontrolovat.svg" >}} Získáme je, když:
 
-#### můžeme získat, když
+* nám [napíšeš, zavoláš, řekneš o svém případu](https://deti.ochrance.cz/kdo/jak/),
+* tě navštívíme např. dětský domov, diagnostický ústav nebo zařízení pro děti vyžadující okamžitou pomoc, 
+* nám je dá někdo jiný, třeba úřad nebo zařízení, ve kterém jsi.
 
-* nám [napíšeš, zavoláš, řekneš o svém problému](https://deti.ochrance.cz/kdo/jak/),
-* Tě navštívíme v zařízení (např. dětský domov, diagnostický ústav, zařízení pro děti vyžadující okamžitou pomoc), 
-* nám je sdělí jiný úřad, instituce nebo zařízení;
+#### Zpracováváme je, tedy shromažďujeme a uchováváme:
 
-#### tzv. zpracováváme, tedy shromažďujeme a uchováváme
+* bychom vyřešili tvůj případ nebo zkontrolovali zařízení, ve kterém jsi; děláme to podle zákona o veřejném ochránci práv.
 
-* pro účely vyřízení Tvého problému nebo kontrolu poměrů v zařízení, jak nám umožňuje zákon o veřejném ochránci práv;
+#### Uchováváme je:
 
-#### uchováváme
+* papírově i elektronicky,
+* dokud tvůj případ nevyřešíme a pak ještě 7 let.
 
-* jak v papírové, tak elektronické podobě, 
-* dokud Tvůj problém nevyřešíme a pak ještě 7 let;
+#### Chráníme je:
 
-#### chráníme
+* používají je jen lidé z Kanceláře ombudsmana, pokud se s tebou potřebují spojit nebo pomáhají řešit tvůj případ.
 
-* mohou s nimi nakládat pouze zaměstnanci a zaměstnankyně naší Kanceláře, kteří se s Tebou potřebují spojit nebo se podílí na vyřešení Tvého problému;
+#### **Hlídáme je a nesmíme je jen tak někomu dát:** 
 
-#### **pečlivě střežíme a nesmíme je bezdůvodně nikomu předat**
+tvé osobní údaje můžeme předat, jen pokud
 
-* **mimo naši Kancelář můžeme Tvé osobní údaje zpřístupnit pouze:**
+* to musíme udělat, abychom vyřešili tvůj případ (úřadům, zařízením a dalším osobám, které můžeme kontrolovat),
+* nám to přikazuje zákon a souhlasí s tím ombudsman (státním orgánům, třeba soudu nebo policii),
+* nás někdo kontroluje.
 
-1. úřadům, institucím, zařízením a dalším osobám, které můžeme kontrolovat, pokud je to nezbytné pro řešení Tvého problému,
-2. orgánům veřejné moci (např. soudu či policii), pokud nám to přikazuje zákon a se souhlasem ombudsmana,
-3. kontrolním orgánům, je-li to nezbytné v souvislosti s kontrolou činnosti naší Kanceláře.
 
-### **Můžeš zjistit, jaké informace o Tobě máme, proč a jak dlouho je budeme uchovávat? Bude Tě to něco stát?**
 
-Kdykoliv nám můžeš napsat dotaz a my Ti bezplatně odpovíme.
+### Jak zjistíš, které údaje o tobě máme, proč a jak dlouho je budeme mít?
 
-### **Musíš nám říct, když změníš telefon, e-mail či jiný osobní údaj?**
+Kdykoliv se nás zeptej.
 
-Nemusíš, ale můžeš. Hlavně pokud spolu něco ještě řešíme, jsou pro nás tyto informace důležité.
+Odpovíme do měsíce. Kdybychom to nestíhali, dáme ti vědět a vysvětlíme proč.
 
-### **Jak nás můžeš kontaktovat?**
+### Pokud změníš telefon, e-mail nebo jiný osobní údaj, musíš nám to říct?
 
-Možností je [více](https://deti.ochrance.cz/kdo/jak/). 
+Nemusíš. Ale je to pro nás důležité, abychom ti pomohli.
 
-### **Za jak dlouho a jak Ti odpovíme na žádost související se zpracováváním Tvých osobních údajů?**
+### Kdo může zkontrolovat, co děláme s tvými osobními údaji?
 
-Do jednoho měsíce od obdržení žádosti. Pokud bychom potřebovali tuto lhůtu prodloužit, dáme Ti předem vědět a vysvětlíme Ti proč. Odpovíme Ti stejnou formou, jakou ses na nás obrátil/a, pokud neurčíš jinak.
+Úřad pro ochranu osobních údajů ([www.uoou.cz](http://www.uoou.cz)).
 
-### Může někdo zkontrolovat, jak nakládáme s Tvými osobními údaji?
+### Kdo ti o ochraně osobních údajů řekne víc?
 
-Ano. [Úřad pro ochranu osobních údajů](http://www.uoou.cz/).
-
-### **Můžeš se od někoho dozvědět podrobnější informace související s ochranou Tvých osobních údajů?**
-
-Můžeš napsat nebo zavolat naší pověřenkyni pro ochranu osobních údajů, kterou je JUDr. Veronika Gabrišová (542 542 311, [poverenkyne@ochrance.cz)](mailto:poverenkyne@ochrance.cz). Můžeš se obrátit i na [Úřad pro ochranu osobních údajů](http://www.uoou.cz/).
+* naše pověřenkyně pro ochranu osobních údajů JUDr. Veronika Gabrišová. Můžeš jí zavolat (542 542 311) nebo napsat ([poverenkyne@ochrance.cz](mailto:poverenkyne@ochrance.cz)).
+* Úřad pro ochranu osobních údajů ([www.uoou.cz](http://www.uoou.cz)).
