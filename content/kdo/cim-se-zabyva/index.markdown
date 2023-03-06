@@ -7,17 +7,17 @@ we-can:
   - text: sociální pracovník/ice nejedná správně,
   - text: soudní řízení trvá dlouho,
   - text: soudce/kyně se chová nevhodně,
-  - text: ve škole Tebe nebo Tvoje kamarády šikanují a škola ani školní inspekce s
+  - text: ve škole tebe nebo tvoje kamarády šikanují a škola ani školní inspekce s
       tím nic nedělají,
-  - text: jsi nebyl/a přijat/a do školy,
+  - text: "tě nepřijali do školi,  "
   - text: v dětském domově je neobvykle přísný režim, vychovatelé nebo ostatní děti
       se k Tobě nechovají dobře (dochází k šikaně) apod.,
-  - text: Tví rodiče nedostali sociální dávky, přestože si myslí, že na ně mají
-      nárok,
-  - text: babičce nebo dědečkovi úřady špatně spočítaly důchod,
-  - text: stavební úřad neřeší špatný (stavebně-technický) stav budovy nebo to, že
-      soused staví bez povolení,
-  - text: úřady neřeší skládku odpadu na místě, kde je její vytváření zakázáno,
+  - text: úřady ti špatně spočítaly sirotčí důchod,
+  - text: stavební úřad neřeší špatný stav budovy tvé školy nebo že soused staví bez
+      povolení,
+  - text: úřady neřeší odstranění nelegální skládky odpadů nedaleko tvého bydliště,
+  - text: "nemůžeš jet na tábor, protože rodiče na něj nemají peníze a úřad jim
+      odmítá přispět. "
 we-cannot-title: "**Nemůžeme** ale pomoci například, když:"
 we-cannot:
   - text: chceš změnit rozhodnutí soudu (v tomto případě je třeba věc řešit jinak,
