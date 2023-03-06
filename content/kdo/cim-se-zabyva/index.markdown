@@ -16,8 +16,8 @@ we-can:
   - text: stavební úřad neřeší špatný stav budovy tvé školy nebo že soused staví bez
       povolení,
   - text: úřady neřeší odstranění nelegální skládky odpadů nedaleko tvého bydliště,
-  - text: "nemůžeš jet na tábor, protože rodiče na něj nemají peníze a úřad jim
-      odmítá přispět. "
+  - text: "nemůžeš jet na tábor, protože rodiče nemají peníze a úřad vám odmítá
+      přispět. "
 we-cannot-title: "**Nemůžeme** ale pomoci například, když:"
 we-cannot:
   - text: chceš změnit rozhodnutí soudu (v tomto případě je třeba věc řešit jinak,
