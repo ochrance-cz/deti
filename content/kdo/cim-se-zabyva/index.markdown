@@ -12,7 +12,7 @@ we-can:
   - text: "tě nepřijali do školi,  "
   - text: v dětském domově je neobvykle přísný režim, vychovatelé nebo ostatní děti
       se k Tobě nechovají dobře (dochází k šikaně) apod.,
-  - text: úřady ti špatně spočítaly sirotčí důchod,
+  - text: úřad ti špatně spočítal sirotčí důchod,
   - text: stavební úřad neřeší špatný stav budovy tvé školy nebo že soused staví bez
       povolení,
   - text: úřady neřeší odstranění nelegální skládky odpadů nedaleko tvého bydliště,
