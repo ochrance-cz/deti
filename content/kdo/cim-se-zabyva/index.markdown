@@ -4,9 +4,9 @@ perex: Ombudsman kontroluje činnost úřadů. To znamená, že prošetřuje, je
   úřady postupují správně a jednají včas.
 we-can-title: "**Můžeme** pomoci například, když:"
 we-can:
-  - text: sociální pracovník/ice nejedná správně,
+  - text: si myslíš, že ti sociální pracovník/ice OSPOD nepomáhá nebo ti nenaslouchá,
   - text: soudní řízení trvá dlouho,
-  - text: soudce/kyně se chová nevhodně,
+  - text: soudce/kyně se k tobě nechová hezky,
   - text: ve škole tebe nebo tvoje kamarády šikanují a škola ani školní inspekce s
       tím nic nedělají,
   - text: "tě nepřijali do školi,  "
