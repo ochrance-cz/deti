@@ -9,7 +9,7 @@ we-can:
   - text: soudce/kyně se k tobě nechová hezky,
   - text: ve škole tebe nebo tvoje kamarády šikanují a škola ani školní inspekce s
       tím nic nedělají,
-  - text: "tě nepřijali do školi,  "
+  - text: "tě nepřijali do školy,  "
   - text: v dětském domově je neobvykle přísný režim, vychovatelé nebo ostatní děti
       se k Tobě nechovají dobře (dochází k šikaně) apod.,
   - text: úřad ti špatně spočítal sirotčí důchod,
