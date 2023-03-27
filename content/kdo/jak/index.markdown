@@ -30,6 +30,8 @@ contact:
       Zavolej nám na 542 542 888 
 
       (každý všední den mezi 8:00 a 16:00 hod.)
+  - title: Český znakový jazyk
+    icon: soukromi.svg
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
