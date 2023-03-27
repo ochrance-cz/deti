@@ -1,7 +1,7 @@
 ---
 title: Jak se na ombudsmana obrátit?
 perex: Máš-li problém, o kterém si myslíš, že bychom Ti s ním mohli pomoci,
-  obrať se na nás některým z těchto způsobů.
+  obrať se na nás některým z těchto způsobů._
 contact:
   - title: E-mail
     icon: wifi.svg
