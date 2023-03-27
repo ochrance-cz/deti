@@ -1,5 +1,5 @@
 ---
-title: Jak se na ombudsmana obrátit?
+title: Jak se obrátit na ombudsmana?
 perex: Máš-li problém, o kterém si myslíš, že bychom Ti s ním mohli pomoci,
   obrať se na nás některým z těchto způsobů.
 contact:
