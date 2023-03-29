@@ -32,8 +32,8 @@ contact:
       (každý všední den mezi 8:00 a 16:00 hod.)
   - title: Český znakový jazyk
     icon: soukromi.svg
-    desc: Pokud potřebuješ, můžeš nám poslat své video v českém znakovém jazyce.
-      Znakovat můžeš i při osobním setkání.
+    desc: Pokud potřebuješ, pošli nám své video v českém znakovém jazyce. Znakovat
+      můžeš i při osobním setkání.
 ---
 Budeme respektovat způsob komunikace, který si vybereš.
 
