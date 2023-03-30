@@ -10,7 +10,7 @@ attachments: []
 
 ### **Všechny důležité informace o soutěži najdete:**
 
-* na **[webu soutěže](deti.ochrance.cz/elevator) nebo** 
+* na **[webu soutěže](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/) nebo** 
 * v **[podrobnostech o soutěži.](https://deti.ochrance.cz/media/podrobne_informace_a_podminky_souteze-final3.0.pdf)**
 
 ### Jaké projekty je možné přihlásit?
