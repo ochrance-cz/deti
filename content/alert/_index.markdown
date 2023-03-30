@@ -29,3 +29,7 @@ attachments: []
 > **Případné dotazy Vám zodpovíme na 602 468 476, 542 542 310 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
 
 ![](elevator_pitch_2.png)
+
+
+
+> Aktivita je realizována v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí ČR.
