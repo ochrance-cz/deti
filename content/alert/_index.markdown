@@ -4,18 +4,14 @@ title: "Soutěž Elevator: nápadem to začíná –  blíží se odevzdání pr
 draft: false
 attachments: []
 ---
-> **Projektový formulář je nutné vyplnit [online](https://forms.gle/cTvL3iYXMuKgrkSb6) do 11. dubna 2023 (23:59). [](https://forms.gle/cTvL3iYXMuKgrkSb6)**
+> **Projektový formulář je nutné vyplnit [online](https://forms.gle/cTvL3iYXMuKgrkSb6) do 11. dubna 2023 (23:59).** [](https://forms.gle/cTvL3iYXMuKgrkSb6)
 >
-> * [plné znění projektového formuláře k nahlédnutí ](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf) 
->
->
+> * [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
 
-### **Všechny důležité informace o soutěži najdete na:**
+### **Všechny důležité informace o soutěži najdete:**
 
-* **[webu soutěže](deti.ochrance.cz/elevator) nebo** 
-* **[podrobnostech o soutěži.](https://deti.ochrance.cz/media/podrobne_informace_a_podminky_souteze-final3.0.pdf)**
-
-
+* na **[webu soutěže](deti.ochrance.cz/elevator) nebo** 
+* v **[podrobnostech o soutěži.](https://deti.ochrance.cz/media/podrobne_informace_a_podminky_souteze-final3.0.pdf)**
 
 ### Jaké projekty je možné přihlásit?
 
@@ -30,8 +26,6 @@ attachments: []
 * primárně cílit na život ve škole, její fungování a školský systém,
 * propagovat produkty, služby, činnosti či stanoviska subjektů komerčního i nekomerčního charakteru, zejména náboženského či politického.
 
-**Případné dotazy Vám zodpovíme na 602 468 476, 542 542 310 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
-
-
+> **Případné dotazy Vám zodpovíme na 602 468 476, 542 542 310 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
 
 ![]()
