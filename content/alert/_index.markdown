@@ -4,9 +4,9 @@ title: "Soutěž Elevator: nápadem to začíná –  blíží se odevzdání pr
 draft: false
 attachments: []
 ---
-> **Projektový formulář je nutné vyplnit [online](https://forms.gle/cTvL3iYXMuKgrkSb6) do 11. dubna 2023 (23:59).** [](https://forms.gle/cTvL3iYXMuKgrkSb6)
->
-> * [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
+**Projektový formulář je nutné vyplnit [online](https://forms.gle/cTvL3iYXMuKgrkSb6) do 11. dubna 2023 (23:59).** [](https://forms.gle/cTvL3iYXMuKgrkSb6)
+
+* [plné znění projektového formuláře k nahlédnutí](https://deti.ochrance.cz/media/formular_navrhu_projektu.pdf)
 
 ### **Všechny důležité informace o soutěži najdete:**
 
