@@ -28,4 +28,4 @@ attachments: []
 
 > **Případné dotazy Vám zodpovíme na 602 468 476, 542 542 310 nebo [andrasik@ochrance.cz](mailto:andrasik@ochrance.cz).**
 
-![]()
+![](elevator_pitch_2.png)
