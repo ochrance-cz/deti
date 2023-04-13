@@ -1,7 +1,7 @@
 ---
 title: "Soutěž Elevator: nápadem to začíná –  blíží se odevzdání projektových
   formulářů!"
-draft: false
+draft: true
 attachments: []
 ---
 > **Projektový formulář je nutné vyplnit [online](https://forms.gle/cTvL3iYXMuKgrkSb6) do 11. dubna 2023 (23:59).** [](https://forms.gle/cTvL3iYXMuKgrkSb6)
