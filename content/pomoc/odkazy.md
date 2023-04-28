@@ -33,7 +33,7 @@ Projekt Rady pro rozhlasové a televizní vysílání s informacemi a diskuzí o
 
 Přehledné a zábavně zpracované informace o českém státu, jeho znacích i hymně z pera organizace Dny české státnosti, o. p. s..
 
-## [Práva hospitalizovaných dětí](www.mpsv.cz/web/cz/prava-hospitalizovanych-deti)
+## [Práva hospitalizovaných dětí](https://www.mpsv.cz/web/cz/prava-hospitalizovanych-deti)
 
 Deset základních práv hospitalizovaných dětí, které v roce 1999 schválila Centrální etická komise Ministerstva zdravotnictví.
 
