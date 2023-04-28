@@ -5,7 +5,7 @@ title: Další užitečné odkazy
 
 Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. 
 
-## [E-learning o diskriminaci](diskriminace.netventic.net)
+## [E-learning o diskriminaci](https://diskriminace.netventic.net)
 
 Online kurz antidiskriminačního práva nadupaný příklady z naší praxe. Nauč se poznat diskriminaci i způsoby, jak ji řešit. 
 
