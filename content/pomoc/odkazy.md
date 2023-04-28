@@ -25,7 +25,7 @@ Webové stránky Úřadu pro mezinárodněprávní ochranu dětí pro děti. Pom
 
 Nabízí mladým lidem informace o příležitostech v Evropě i mimo ni.
 
-## [Děti a média](https://deti-a-media.cz)
+## [Děti a média](https://www.deti-a-media.cz/)
 
 Projekt Rady pro rozhlasové a televizní vysílání s informacemi a diskuzí o médiích a jejich vlivu na děti a dospívající.
 
