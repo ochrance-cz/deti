@@ -1,24 +1,28 @@
 ---
 title: Další užitečné odkazy
 ---
-## Úmluva o právech dítěte ve znění srozumitelném dětem 
+## [Úmluva o právech dítěte ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf)
 
-Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. Ke stažení [zde](/media/umluva_o_pravech_ditete_web_pdf.pdf).  
+Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. 
 
-## Mapa Ohrožené dítě
+## [Mapa Ohrožené dítě](ohrozenedite.cz)
 
-www.ohrozenedite.cz\
+\
 Na interaktivní mapě můžeš hledat kontakty dostupné pomoci podle Tvých aktuálních potřeb. Může jít o krizi, stejně jako o problémy, které život dětem a rodinám běžně přináší a při kterých by uvítaly radu a pomoc odborníka. Tedy např. situace, kdy dítě má starosti ve škole nebo když mezi jednotlivými členy rodiny dochází ke sporům a komunikačním potížím.
 
 ## Právo na dětství – dětská sekce
 
-www.pravonadetstvi.cz/deti/\
+pravonadetstvi.cz/deti/\
 Stránky Ministerstva práce a sociálních věcí pro děti o právech dětí a možnostech, jak řešit problémy i strachy.
 
 ## UMPOD.KIDS
 
-[www.kids.umpod.cz](https://kids.umpod.cz/)\
+[kids.umpod.cz](https://kids.umpod.cz/)\
 Webové stránky Úřadu pro mezinárodněprávní ochranu dětí pro děti. Pomáhá řešit problémy dětí, jejichž rodina přesahuje hranice jednoho státu.
+
+## E-learning o diskriminaci
+
+[diskriminace.netventic.net](diskriminace.netventic.net)
 
 ## Evropský portál pro mládež
 
@@ -32,7 +36,7 @@ Projekt Rady pro rozhlasové a televizní vysílání s informacemi a diskuzí o
 
 ## Můj stát
 
-www.mujstat.cz\
+[www.mujstat.cz](http://www.mujstat.cz/muj_stat.aspx)\
 Přehledné a zábavně zpracované informace o českém státu, jeho znacích i hymně z pera organizace Dny české státnosti, o. p. s..
 
 ## Práva hospitalizovaných dětí
