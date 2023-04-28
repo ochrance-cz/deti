@@ -5,6 +5,10 @@ title: Další užitečné odkazy
 
 Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výrazně zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty tak, aby jí rozuměl každý. 
 
+## [E-learning o diskriminaci](diskriminace.netventic.net)
+
+Online kurz antidiskriminačního práva nadupaný příklady z naší praxe. Nauč se poznat diskriminaci i způsoby, jak ji řešit. 
+
 ## [Mapa Ohrožené dítě](ohrozenedite.cz)
 
 Na interaktivní mapě můžeš hledat kontakty dostupné pomoci podle Tvých aktuálních potřeb. Může jít o krizi, stejně jako o problémy, které život dětem a rodinám běžně přináší a při kterých by uvítaly radu a pomoc odborníka. Tedy např. situace, kdy dítě má starosti ve škole nebo když mezi jednotlivými členy rodiny dochází ke sporům a komunikačním potížím.
@@ -16,10 +20,6 @@ Stránky Ministerstva práce a sociálních věcí pro děti o právech dětí a
 ## [UMPOD.KIDS](https://kids.umpod.cz/)
 
 Webové stránky Úřadu pro mezinárodněprávní ochranu dětí pro děti. Pomáhá řešit problémy dětí, jejichž rodina přesahuje hranice jednoho státu.
-
-## [E-learning o diskriminaci](diskriminace.netventic.net)
-
-Online kurz antidiskriminačního práva nadupaný příklady z naší praxe. Co je to diskriminace, jak ji poznat a řešit - nauč se to!
 
 ## [Evropský portál pro mládež](www.europa.eu/youth/home_cs)
 
