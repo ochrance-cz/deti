@@ -39,6 +39,6 @@ Deset základních práv hospitalizovaných dětí, které v roce 1999 schválil
 
 ## [Já mám práva, ty máš práva, on/ona/ono má práva…](https://www.coe.int/t/dg3/children/News/20th%20Anniversary%20UN%20CRC_files/BrochureCR_Cz.pdf)
 
-Dokument Rady Evropy určený každému do 18 let s vysvětlením jejich práv.
+Dokument Rady Evropy určený každému dítěti s vysvětlením jeho práv.
 
 ## [Úmluva o právech dítěte – ilustrovaná verze](http://www.pravonadetstvi.cz/tvoje-prava/umluva-o-pravech-ditete-1/prava-deti/ilustrovana-umluva-o-pravech-ditete/)
