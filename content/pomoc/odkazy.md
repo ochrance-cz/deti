@@ -9,11 +9,11 @@ Publikace vytvořená naší kanceláří. Úmluvu o právech dítěte jsme výr
 
 Online kurz antidiskriminačního práva nadupaný příklady z naší praxe. Nauč se poznat diskriminaci i způsoby, jak ji řešit. 
 
-## [Mapa Ohrožené dítě](ohrozenedite.cz)
+## [Mapa Ohrožené dítě](https://www.ohrozenedite.cz)
 
 Na interaktivní mapě můžeš hledat kontakty dostupné pomoci podle Tvých aktuálních potřeb. Může jít o krizi, stejně jako o problémy, které život dětem a rodinám běžně přináší a při kterých by uvítaly radu a pomoc odborníka. Tedy např. situace, kdy dítě má starosti ve škole nebo když mezi jednotlivými členy rodiny dochází ke sporům a komunikačním potížím.
 
-## [Právo na dětství – dětská sekce](pravonadetstvi.cz/deti/)
+## [Právo na dětství – dětská sekce](https://pravonadetstvi.cz/deti/)
 
 Stránky Ministerstva práce a sociálních věcí pro děti o právech dětí a možnostech, jak řešit problémy i strachy.
 
