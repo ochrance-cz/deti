@@ -21,11 +21,11 @@ Stránky Ministerstva práce a sociálních věcí pro děti o právech dětí a
 
 Webové stránky Úřadu pro mezinárodněprávní ochranu dětí pro děti. Pomáhá řešit problémy dětí, jejichž rodina přesahuje hranice jednoho státu.
 
-## [Evropský portál pro mládež](www.europa.eu/youth/home_cs)
+## [Evropský portál pro mládež](https://europa.eu/youth/home_cs)
 
 Nabízí mladým lidem informace o příležitostech v Evropě i mimo ni.
 
-## [Děti a média](www.deti-a-media.cz)
+## [Děti a média](https://deti-a-media.cz)
 
 Projekt Rady pro rozhlasové a televizní vysílání s informacemi a diskuzí o médiích a jejich vlivu na děti a dospívající.
 
