@@ -1,14 +1,14 @@
 ---
-title: "Jak skupina dětí z Hukvald využila naší soutěže? "
+title: "Jak děti z Hukvald využily naší soutěže? "
 date: 2023-05-05T11:16:13.923Z
-perex: Chtěli mít možnost si ve škole koupit svačinu, jako tomu bylo před
-  pandemií COVID-19. A zkusili pro to udělat opravdu hodně. I když se jim
+perex: Chtěly mít možnost si ve škole koupit svačinu, jako tomu bylo před
+  pandemií COVID-19. A zkusily pro to udělat opravdu hodně. I když se jim
   nepodařilo obnovit provoz školního bufetu, odnáší si aktivní skupinka z
   [hukvaldské základní školy](https://www.zshukvaldy.cz/) z [naší
   soutěže](https://deti.ochrance.cz/aktualne/zkusme_to_zmenit/) cenné zkušenosti
   a dovednosti.
 ---
-Jednali s ředitelkou školy i původní paní prodavačkou. Bohužel zjistili, že prostory bufetu musely ustoupit novým potřebám školy a školní bufet tak není možné obnovit.  
+Děti jednaly s ředitelkou školy i původní paní prodavačkou. Bohužel zjistily, že prostory bufetu musely ustoupit novým potřebám školy a školní bufet tak není možné obnovit.  
 
 Odvážná skupina se však nevzdala a vydala se na místní obecní úřad. Tam zvládla vyjednat změnu jízdního řádu pojízdné prodejny, která začala zastavovat i před jejich školou. Bohužel ani to nebylo ideální a hukvaldští si musí svačiny dál nosit z domu nebo koupit po cestě do školy.
 
