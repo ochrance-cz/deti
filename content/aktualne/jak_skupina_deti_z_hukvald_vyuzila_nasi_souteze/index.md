@@ -16,7 +16,7 @@ Přesto nám hukvaldští osmáci Zuzka, Honza a Vendula napsali pozitivní zpě
 
 ***"Díky tomuto projektu jsme se naučili jednat s úřady a poznali jsme problémy ostatních škol."***
 
-![Hukvaldští parlamentáři s odměnami, které jsme jim zaslali za účast v soutěži.](20221222_090718.jpg)
+![Hukvaldští parlamentáři s odměnami, které jsme jim zaslali za účast v soutěži.](20221222_090718.jpg "Hukvaldští parlamentáři s odměnami, které jsme jim zaslali za účast v soutěži.")
 
 Součástí naší soutěže bylo i [online setkání](https://deti.ochrance.cz/aktualne/zkusme_to_zmenit/), v rámci kterého si představily skupiny z různých škol své projekty. Navzájem si také radily, co a jak mohou ještě udělat, případně jak funguje daná věc v jejich škol. 
 
