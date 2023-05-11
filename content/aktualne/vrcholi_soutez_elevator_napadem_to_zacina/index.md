@@ -1,7 +1,7 @@
 ---
-title: "Vrcholí soutěž Elevator: nápadem to začíná!"
+title: "Vrcholí naše soutěž Elevator: nápadem to začíná!"
 draft: true
-date: 2023-05-10T13:36:44.450Z
+date: 2023-05-11T10:04:30.855Z
 perex: V pátek 19. května 2023 se do naší kanceláře sjedou středoškoláci z celé
   České republiky. Budou prezentovat projekty, kterými chtějí změnit své okolí.
   Setkání bude moderovat vysokoškolák Štěpán.
