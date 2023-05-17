@@ -296,3 +296,4 @@ Redirect 301 /ustavni-a-ochranna-vychova/ /pripady/ustavni-a-ochranna-vychova/
 Redirect 301 /zdravotnictvi/ /pripady/zdravotnictvi/
 Redirect 301 /elevator /kdo/elevator_napadem_to_zacina/
 Redirect 301 /gdpr /kdo/ochrana_tvych_osobnich_udaju/
+Redirect 301 /umluva/ /media/umluva_o_pravech_ditete_web_pdf.pdf
