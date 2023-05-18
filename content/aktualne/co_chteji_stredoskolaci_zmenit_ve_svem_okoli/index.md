@@ -14,7 +14,7 @@ Mezi představované projekty patří třeba ambiciózní snaha postavit cyklost
 
 ### Upcyklace – způsob, jak vdechnout věcem druhý život 
 
-Studenti z Benešova zase vymýšlí, jak zřídit charitativní obchůdek. Ten by soužil nejen lidem v nouzi, ale zároveň by v něm našly uplatnění věci, které již dosloužily jiným. Benešovští středoškoláci usilují o co největší upcyklaci oblečení, hraček, knih i potřeb do domácnosti. Aby načerpali inspiraci, sjednali jsme mimo jiné exkurzi v brněnském [Šupligu – charitativním obchůdku Ligy lidských práv](https://llp.cz/suplig/). 
+Studenti z Benešova zase vymýšlí, jak zřídit charitativní obchůdek. Ten by soužil nejen lidem v nouzi, ale zároveň by v něm našly uplatnění věci, které již dosloužily jiným. Benešovští středoškoláci usilují o co největší upcyklaci oblečení, hraček, knih i potřeb do domácnosti. Aby načerpali inspiraci, sjednali jsme mimo jiné exkurzi v brněnském [Šupligu – charitativním obchodu Ligy lidských práv](https://llp.cz/suplig/). 
 
 ### Zelený parkovací dům 
 
