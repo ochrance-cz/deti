@@ -50,4 +50,6 @@ Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](http
 
 Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
+![Studenti na prohlídce v kanceláři ombudsmana. ](dsc_4121.jpg "Studenti mohli také nakouknout do pracoven ombudsmana a jeho zástupce.")
+
 > Soutěž jsme vyhlásili ve spolupráci s [Centrem podpory podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky.](https://www.lipka.cz/) Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
