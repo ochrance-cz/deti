@@ -10,8 +10,6 @@ perex: "Dnes k nám do Brna přijeli autoři sedmi nejlepších středoškolský
   Kanceláře a dalšími odborníky z veřejné i neziskové sféry a posunout se díky
   tomu blíž k uskutečnění svých nápadů."
 ---
-![](fb_img_1684521410380.jpg)
-
 *„K našemu projektu mě vedla osobní motivace. Ráda bych jezdila na kole do školy a měla i možnost navštěvovat své přátele v sousedním městě bez toho, že bych byla závislá na veřejné dopravě nebo mě museli vozit rodiče,“* popisuje studentka [čáslavského gymnázia](https://www.facebook.com/gymcaslav.cz) Nicole, proč se spolužákem Michalem v ombudsmanské soutěži navrhli propojení Čáslavi a Kutné Hory cyklostezkou. *„Situace je nejhorší hlavně o víkendu, kdy autobusy nejezdí, takže pokud bydlíte v jedné z menších vesnic bez přístupu k vlaku, jste zcela závislí na rodičích nebo jiných dospělých,“* přitakává druhák Michal.
 
 *O cyklostezce už oba gymnazisté jednali s čáslavským starostou a oslovili také některé majitele pozemků. Věří, že jejich nápad má šanci uspět, ale zároveň chápou, že samotná příprava a stavba je především v rukou úředníků a politiků. Za svou práci dostali dnes zvláštní cenu poroty za nejambicióznější projekt soutěže.*
@@ -55,6 +53,8 @@ Inspiraci jsme nabídli také [pražským středoškolákům ](https://www.faceb
 ![](img_6526.jpg "Exkurze do naší zelené budovy. ")
 
 Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](https://llp.cz/suplig/) zase využil [tým z Benešova](https://sousbn.cz/), který by rád zřídil charitativní obchůdek pro lidi v nouzi. 
+
+![Student, dvě studentky a jejich učitelka stojí před obchodem Šuplig spolu s jeho pracovnicí.](fb_img_1684521410380.jpg)
 
 Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
