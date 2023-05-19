@@ -20,9 +20,9 @@ Ocenění za důkladné zmapování tématu anketou si odnesla trojice studentů
 
 ![](dsc_4115.jpg "Soutěžní tým přebírá ocenění od zástupce ombudsmana.")
 
-Mezi další úspěšné studentské projekty patřilo založení charitativního obchodu s darovaným zbožím, zlepšení dopravy v okolí školy, ekologická úprava parkovacího domu, revitalizace parku nebo zvýšení finanční gramotnosti mladých lidí a seniorů.
-
 *„Všechny prezentace jasně potvrdily, že mladí lidé na prahu dospělosti dokáží přemýšlet o tom, co by se mělo v jejich okolí zlepšit. Já bych jim moc přál, aby se jim povedlo jejich projekty úspěšně dotáhnout do konce*,“ ocenil zástupce ombudsmana Vít Alexander Schorm.
+
+![Zaplněný sál sleduje prezentaci studentů. ](20230519_104818.jpg "Mezi další úspěšné studentské projekty patřilo založení charitativního obchodu s darovaným zbožím, zlepšení dopravy v okolí školy, ekologická úprava parkovacího domu, revitalizace parku nebo zvýšení finanční gramotnosti mladých lidí a seniorů.")
 
 Každý ze sedmi pozvaných týmů měl dnes na prezentaci svého projektu pět minut. Krátký časový limit spolu s anglickým výrazem Elevator v názvu soutěže odkazuje na schopnost člověka přesvědčit náhodného spolucestujícího během krátké cesty výtahem , aby investoval do jeho nápadu. 
 
