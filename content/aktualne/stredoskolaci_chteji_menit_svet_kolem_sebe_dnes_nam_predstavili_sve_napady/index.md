@@ -3,10 +3,12 @@ title: Středoškoláci chtějí měnit svět kolem sebe, dnes nám představili
 date: 2023-05-19T13:35:54.239Z
 perex: "Dnes k nám do Brna přijeli autoři sedmi nejlepších středoškolských
   projektů přihlášených do naší soutěže [Elevator: nápadem to
-  začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Studenti
-  měli příležitost konzultovat projekty s právníky naší Kanceláře a dalšími
-  odborníky z veřejné i neziskové sféry a posunout se díky tomu blíž
-  k uskutečnění svých nápadů."
+  začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Tu jsme
+  vyhlásili ve spolupráci s [Centrem podpory
+  podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky.](https://ww\
+  w.lipka.cz/) Studenti měli příležitost konzultovat projekty s právníky naší
+  Kanceláře a dalšími odborníky z veřejné i neziskové sféry a posunout se díky
+  tomu blíž k uskutečnění svých nápadů."
 ---
 *„K našemu projektu mě vedla osobní motivace. Ráda bych jezdila na kole do školy a měla i možnost navštěvovat své přátele v sousedním městě bez toho, že bych byla závislá na veřejné dopravě nebo mě museli vozit rodiče,“* popisuje studentka [čáslavského gymnázia](https://www.facebook.com/gymcaslav.cz) Nicole, proč se spolužákem Michalem v ombudsmanské soutěži navrhli propojení Čáslavi a Kutné Hory cyklostezkou. *„Situace je nejhorší hlavně o víkendu, kdy autobusy nejezdí, takže pokud bydlíte v jedné z menších vesnic bez přístupu k vlaku, jste zcela závislí na rodičích nebo jiných dospělých,“* přitakává druhák Michal.
 
@@ -54,4 +56,8 @@ Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
 ![Studenti na prohlídce v kanceláři ombudsmana. ](dsc_4121.jpg "Studenti mohli také nakouknout do pracoven ombudsmana a jeho zástupce.")
 
-> Soutěž jsme vyhlásili ve spolupráci s [Centrem podpory podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky.](https://www.lipka.cz/) Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
+> Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
+
+![](20230519_140317.jpg "Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. ")
+
+![]()
