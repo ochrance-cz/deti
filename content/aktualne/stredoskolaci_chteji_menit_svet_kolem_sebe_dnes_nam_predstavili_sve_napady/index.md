@@ -49,3 +49,5 @@ Inspiraci jsme nabídli také [pražským středoškolákům ](https://www.faceb
 Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](https://llp.cz/suplig/) zase využil tým z Benešova, který by rád zřídil charitativní obchůdek pro lidi v nouzi. 
 
 Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
+
+> Soutěž jsme vyhlásili ve spolupráci s [Centrem podpory podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky.](https://www.lipka.cz/) Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
