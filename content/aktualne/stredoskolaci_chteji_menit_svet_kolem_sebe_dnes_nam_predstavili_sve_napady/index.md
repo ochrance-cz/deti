@@ -36,6 +36,8 @@ Dnešní setkání je další z řady ombudsmanských aktivit zaměřených na 
 
 *„Dlouhodobě vnímáme potřebu zapojit děti a mladé lidi do života kolem nich. Proto se aktivně snažíme naslouchat jejich nápadům a následně je prosazovat i v naší práci. Věřím, že tento úkol časem převezme [dětský ombudsman](https://www.ochrance.cz/aktualne/ustavne_pravni_vybor_poslanecke_snemovny_na_setkani_s_ombudsmanem_a_jeho_zastupcem_v_brne_diskutoval_o_planech_na_zrizeni_detskeho_ombudsmana_nebo_o_zapojovani_spolku_do_rizeni_o_povolovani_staveb/),“* vysvětlila Petra Šuplerová, která v naší Kanceláři vede odbor rodiny, zdravotnictví a práce.
 
+![Studenti na prohlídce v kanceláři ombudsmana. ](dsc_4121.jpg "Studenti mohli nakouknout také do pracoven ombudsmana a jeho zástupce.")
+
 Studenti také konzultovali své nápady s právníky naší Kanceláře a pozvanými odborníky třeba z:
 
 * [Informačního a edukačního centra Masarykova onkologického ústavu,](https://www.mou.cz/informacni-a-edukacni-centrum/t1479)
@@ -53,8 +55,6 @@ Inspiraci jsme nabídli také [pražským středoškolákům ](https://www.faceb
 Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](https://llp.cz/suplig/) zase využil [tým z Benešova](https://sousbn.cz/), který by rád zřídil charitativní obchůdek pro lidi v nouzi. 
 
 Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
-
-![Studenti na prohlídce v kanceláři ombudsmana. ](dsc_4121.jpg "Studenti mohli nakouknout také do pracoven ombudsmana a jeho zástupce.")
 
 ![Šest učitelů s právničkou naší kanceláře během společného workshopu. ](20230519_140317.jpg "Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. ")
 
