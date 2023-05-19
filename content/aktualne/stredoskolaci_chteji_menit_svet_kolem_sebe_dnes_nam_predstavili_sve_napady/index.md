@@ -22,7 +22,9 @@ Ocenění za důkladné zmapování tématu anketou si odnesla trojice studentů
 
 *„Všechny prezentace jasně potvrdily, že mladí lidé na prahu dospělosti dokáží přemýšlet o tom, co by se mělo v jejich okolí zlepšit. Já bych jim moc přál, aby se jim povedlo jejich projekty úspěšně dotáhnout do konce*,“ ocenil zástupce ombudsmana Vít Alexander Schorm.
 
-![Zaplněný sál sleduje prezentaci studentů. ](20230519_104818.jpg "Mezi další úspěšné studentské projekty patřilo založení charitativního obchodu s darovaným zbožím, zlepšení dopravy v okolí školy, ekologická úprava parkovacího domu, revitalizace parku nebo zvýšení finanční gramotnosti mladých lidí a seniorů.")
+Mezi další úspěšné studentské projekty patřilo založení charitativního obchodu s darovaným zbožím, zlepšení dopravy v okolí školy, ekologická úprava parkovacího domu, revitalizace parku nebo zvýšení finanční gramotnosti mladých lidí a seniorů.
+
+![Zaplněný sál sleduje prezentaci studentů. ](20230519_104818.jpg)
 
 Každý ze sedmi pozvaných týmů měl dnes na prezentaci svého projektu pět minut. Krátký časový limit spolu s anglickým výrazem Elevator v názvu soutěže odkazuje na schopnost člověka přesvědčit náhodného spolucestujícího během krátké cesty výtahem , aby investoval do jeho nápadu. 
 
@@ -56,8 +58,10 @@ Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](http
 
 ![Student, dvě studentky a jejich učitelka stojí před obchodem Šuplig spolu s jeho pracovnicí.](fb_img_1684521410380.jpg)
 
-Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
+Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. 
 
-![Šest učitelů s právničkou naší kanceláře během společného workshopu. ](20230519_140317.jpg "Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. ")
+![Šest učitelů s právničkou naší kanceláře během společného workshopu. ](20230519_140317.jpg)
+
+Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
 > Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
