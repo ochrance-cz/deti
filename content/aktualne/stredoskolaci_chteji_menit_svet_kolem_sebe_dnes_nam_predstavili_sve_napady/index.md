@@ -16,7 +16,7 @@ perex: "Dnes k nám do Brna přijeli autoři sedmi nejlepších středoškolský
 
 Ocenění za důkladné zmapování tématu anketou si odnesla trojice studentů [gymnázia z Velkého Meziříčí](https://www.facebook.com/gymplvm). Ti si dali za cíl varovat své vrstevníky před riziky jednorázových e-cigaret. Z 290 vyplněných dotazníků například zjistili, že velká část oslovených sedmáků a deváťáků už má osobní zkušenost s kouřením e-cigaret.
 
-![Tři studenti během své prezentace na mikrofon. ](img_6458.jpg "Středoškoláci z Velkého Meziříčí zdůrazňují, že e-cigarety jsou celospolečenským problémem.")
+![](dsc_4115.jpg "Soutěžní tým přebírá ocenění od zástupce ombudsmana.")
 
 Mezi další úspěšné studentské projekty patřilo založení charitativního obchodu s darovaným zbožím, zlepšení dopravy v okolí školy, ekologická úprava parkovacího domu, revitalizace parku nebo zvýšení finanční gramotnosti mladých lidí a seniorů.
 
