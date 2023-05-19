@@ -24,7 +24,7 @@ Mezi další úspěšné studentské projekty patřilo založení charitativníh
 
 Každý ze sedmi pozvaných týmů měl dnes na prezentaci svého projektu pět minut. Krátký časový limit spolu s anglickým výrazem Elevator v názvu soutěže odkazuje na schopnost člověka přesvědčit náhodného spolucestujícího během krátké cesty výtahem , aby investoval do jeho nápadu. 
 
-![Moderátor při zahájení setkání. ](dsc_4082.jpg "Celým dnem nás prováděl skvělý vysokoškolák Štěpán. ")
+![Moderátor při zahájení setkání. ](dsc_4082.jpg "Celým dnem prováděl skvělý vysokoškolák Štěpán. Mluvil nejen česky, ale i maďarsky, polsky a havajsky. Využil i umělou inteligenci. ")
 
 Ombudsman studentům sice nemůže poskytnout přímo peníze, ale on i jeho zástupce nabídli studentům osobní podporu a pomoc například při jednání s úřady: *„Můžeme je také propojit s těmi správnými lidmi, kteří studentské nápady pomohou změnit v realitu,“* přiblížil ombudsman Stanislav Křeček.
 
