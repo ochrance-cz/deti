@@ -42,6 +42,8 @@ Studenti také konzultovali své nápady s právníky naší Kanceláře a pozv
 * [Centra podpory podnikavosti](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky](https://www.lipka.cz/) a
 * [odboru participace Magistrátu města Brna](https://www.brno.cz/w/odbor-participace).
 
+![Konzultace studentského týmu s právničkou naší kanceláře.](20230519_131815.jpg "Se studenty se podělili o znalosti a zkušenosti také právníci z naší kanceláře. ")
+
 Inspiraci jsme nabídli také [pražským středoškolákům ](https://www.facebook.com/skolabean)se zahradnickým zaměřením. Vzali jsme je mimo jiné do [naší nové budovy, která získala v roce 2020 ocenění v soutěži Zelená střecha roku](https://www.zelenestrechy.info/green-roof/detail/78). Pražský studentský tým totiž usiluje o ozelenění parkovacího domu poblíž jejich školy. Mají v plánu ho osadit nejen popínavými rostlinami, ale také zajistit jejich výsadbu a údržbu. 
 
 ![](img_6526.jpg "Exkurze do naší zelené budovy. ")
