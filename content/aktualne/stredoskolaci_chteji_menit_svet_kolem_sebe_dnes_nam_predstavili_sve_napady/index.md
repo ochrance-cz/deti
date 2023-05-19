@@ -56,6 +56,6 @@ Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
 ![Studenti na prohlídce v kanceláři ombudsmana. ](dsc_4121.jpg "Studenti mohli nakouknout také do pracoven ombudsmana a jeho zástupce.")
 
-> Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
+![Šest učitelů s právničkou naší kanceláře během společného workshopu. ](20230519_140317.jpg "Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. ")
 
-![](20230519_140317.jpg "Na své si přišli i učitelé, kteří doprovázeli studentské týmy. Mluvili jsem s nimi nejen o tom, co a jak ombudsman dělá, ale i jak v dětech podporovat podnikavost. ")
+> Vybrané týmy se zúčastnily dnešního setkání participační skupiny, kterou pořádáme v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
