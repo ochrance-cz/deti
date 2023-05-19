@@ -46,7 +46,7 @@ Inspiraci jsme nabídli také [pražským středoškolákům ](https://www.faceb
 
 ![](img_6526.jpg "Exkurze do naší zelené budovy. ")
 
-Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](https://llp.cz/suplig/) zase využil tým z Benešova, který by rád zřídil charitativní obchůdek pro lidi v nouzi. 
+Nabídku exkurze v [Šuplig - charitativním obchodě Ligy Lidských práv](https://llp.cz/suplig/) zase využil [tým z Benešova](https://sousbn.cz/), který by rád zřídil charitativní obchůdek pro lidi v nouzi. 
 
 Všechny projekty budeme dále sledovat a přineseme vám o nich zprávy.
 
