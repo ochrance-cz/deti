@@ -25,3 +25,7 @@ Zhruba dvouhodinový program, během kterého:
 ![Děti diskutují s ombudsmanem v jeho kanceláři.  ](dsc_1287.jpg "Děti na exkurzi diskutují s ombudsmanem v jeho kanceláři.")
 
 ![Děti a jejich učitelka stojí v kanceláři ombudsmana.](dsc_0509.jpg "Skupinová fotografie s ombudsmanem v jeho kanceláři")
+
+![](341070637_744534580473974_3888828716914193211_n.jpg "Těšit se můžete na různorodé aktivity, práci ve skupinách i prohlídku našich budov. ")
+
+![Na obrázku je maskot deti.ochrance.cz (chlapec s zeleným čírem na skateboardu) a bubliny, v nichž je obsažena zpětná vazba od studentů.](340698713_1620445675125534_801826962798539212_n.png "Zpětná vazba od středoškoláků, kteří nás navštívili. ")
