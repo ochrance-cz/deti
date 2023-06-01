@@ -10,4 +10,6 @@ perex: Mezinárodní den dětí je příležitostí pro děti i dospělé. Přej
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hK4nwPgcj-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> *Vít Alexander Schorm, zástupce ombudsmana: Dnes slavíme mezinárodní den dětí. Moc bych vám, dětem, přál, abychom Vám my dospělí věnovali náležitou pozornost nejenom dnes, ale po celý rok. Abyste vyrůstaly v rodinách a prostředí, kde je hodně radosti a smíchu. Aby Vás Vaši blízcí vychovávali s láskou a porozuměním a šli vám dobrým příkladem. Zkrátka, abychom všichni měli Vaše štěstí a zdraví, stejně jako Vaše práva, neustále na zřeteli. Přeji Vám pěkný sváteční den.*
+> *Vít Alexander Schorm, zástupce ombudsmana:* 
+>
+> *Dnes slavíme mezinárodní den dětí. Moc bych vám, dětem, přál, abychom Vám my dospělí věnovali náležitou pozornost nejenom dnes, ale po celý rok. Abyste vyrůstaly v rodinách a prostředí, kde je hodně radosti a smíchu. Aby Vás Vaši blízcí vychovávali s láskou a porozuměním a šli vám dobrým příkladem. Zkrátka, abychom všichni měli Vaše štěstí a zdraví, stejně jako Vaše práva, neustále na zřeteli. Přeji Vám pěkný sváteční den!*
