@@ -6,7 +6,7 @@ perex: Mezinárodní den dětí je příležitostí pro děti i dospělé. Přej
   nebo vyrazili s blízkými do cukrárny. Ale abyste takových chvil zažívali
   nespočet během celého roku.
 ---
-### Co dětem přeje zástupce ombudsmana Vít Alexander Schorm? Koukni na video. 
+### Co přeje dětem zástupce ombudsmana Vít Alexander Schorm? Koukni na video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hK4nwPgcj-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
