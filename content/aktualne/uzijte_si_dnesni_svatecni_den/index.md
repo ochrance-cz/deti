@@ -1,10 +1,13 @@
 ---
 title: Užijte si dnešní sváteční den!
+draft: true
 date: 2023-06-01T07:35:57.775Z
-perex: Mezinárodní den dětí je příležitostí pro děti i dospělé. Přejeme vám,
-  abyste si nejen dnes užili nejrůznější zábavní programy, netradiční aktivity
-  nebo vyrazili s blízkými do cukrárny. Ale abyste takových chvil zažívali
-  nespočet během celého roku.
+perex: >-
+  
+
+
+
+  Mezinárodní den dětí je příležitostí pro děti i dospělé. Přejeme vám, abyste si nejen dnes užili netradiční aktivity nebo vyrazili s blízkými do cukrárny. Ale abyste takových chvil zažívali nespočet během celého roku.
 ---
 ### Co přeje dětem zástupce ombudsmana Vít Alexander Schorm?
 
