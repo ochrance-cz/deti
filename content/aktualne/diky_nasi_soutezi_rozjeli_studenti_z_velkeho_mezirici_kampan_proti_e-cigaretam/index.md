@@ -19,3 +19,5 @@ Ombudsman pozval celý tým k pracovnímu setkání. Studenti svůj projekt neje
 Po setkání tak navázali spolupráci s řediteli škol ve Velkém Meziříčí a praktickými a dětskými lékaři v okolí. Své plakáty tak umístili nejen do škol, ale také do vybraných čekáren a ordinací. Dále pracují na výběru míst, kde by mohli šířit svou osvětovou kampaň zaměřenou hlavně na nebezpečné účinky jednotlivých látek na lidské zdraví.
 
 ![Ocenění za důkladné zmapování tématu anketou.](6_page-0001.jpg)
+
+> Setkání vybraných týmů (participační skupiny) jsme uspořádali v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
