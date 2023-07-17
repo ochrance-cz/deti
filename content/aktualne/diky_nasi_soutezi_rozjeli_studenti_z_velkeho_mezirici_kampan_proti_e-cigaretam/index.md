@@ -12,7 +12,7 @@ Adéla, Aneta a Standa vytvořili plakát, na kterém informují své vrstevník
 
 ![Plakát vytvořený studenty. Je na něm velká modrá cigareta a nad ní nadpis "Víte, co vdechujete?" Okolo cigarety jsou vyjmenovány chemické látky, které e-cigareta obsahuje (nikotin, benzaldehyd, formaldehyd, glycerol, akrolein, propylenglykol), a nápisy, kde se využívají. ](plakat_vite_co_vdechujete_page-0001.jpg)
 
-Ombudsman pozval celý tým k pracovnímu setkání. Studenti svůj projekt nejen představili, ale setkali se také s několika poradci z řad nejrůznějších odborníků. Mimo jiné s Ivou Hrnčiříkovou, která vede [Informační a edukační centrum při Masarykově onkologickém ústav](https://www.mou.cz/informacni-a-edukacni-centrum/t1423)u. Za jejich pomoci upravili svůj plakát a zamýšleli se nad nejúčinnějšími strategiemi, jak oslovit vybranou cílovou skupinu.
+Ombudsman pozval celý tým k pracovnímu setkání. Studenti svůj projekt nejen představili, ale setkali se také s několika poradci z řad nejrůznějších odborníků. Mimo jiné s Ivou Hrnčiříkovou, která vede[ Informační a edukační centrum při Masarykově onkologickém ústavu](https://www.mou.cz/informacni-a-edukacni-centrum/t1479). Za jejich pomoci upravili svůj plakát a zamýšleli se nad nejúčinnějšími strategiemi, jak oslovit vybranou cílovou skupinu.
 
 ![Tým z Velkého Meziříčí během konzultace s vedoucí Informačního a edukačního centra Masarykova onkologického ústavu. ](vite_co_vdechujete.jpg)
 
