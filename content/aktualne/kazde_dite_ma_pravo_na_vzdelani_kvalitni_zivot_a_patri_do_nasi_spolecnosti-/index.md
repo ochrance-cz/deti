@@ -15,6 +15,6 @@ Zúčastnil se také **předávání osvědčení úspěšným absolventům Tran
 
 Díky stážím si mladí lidé se speciálními vzdělávacími potřebami vyzkoušeli, jak to chodí v práci. Učili se samostatně [](<>)plnit pracovní povinnosti, komunikovat, řešit nové situace a spolupracovat s kolegy. Zaměstnavatelé si zase ověřili, že díky stážím je přechod do práce snazší nejen pro budoucí zaměstnance, ale právě i pro společnosti, které je zaměstnají. 
 
-![Předávání osvědčení úspěšným absolventům Tranzitního programu společnosti Agapo "Ze školy do práce" proběhlo za účasti zástupce ombudsmana v prostorech naší Kanceláře.](372985651_611456624502945_7995546035226120878_n.jpg "Zástupce ombudsmana  prozradil, že v příštích letech nabídne i naše Kancelář stáže v tranzitním programu.")
+![Předávání osvědčení úspěšným absolventům Tranzitního programu společnosti Agapo "Ze školy do práce" proběhlo za účasti zástupce ombudsmana v prostorech naší Kanceláře.](372985651_611456624502945_7995546035226120878_n.jpg "Zástupce ombudsmana prozradil, že v příštích letech nabídne i naše Kancelář stáže v tranzitním programu.")
 
 ![Předávání osvědčení úspěšným absolventům Tranzitního programu společnosti Agapo "Ze školy do práce" proběhlo za účasti zástupce ombudsmana v prostorech naší Kanceláře.](373550900_611457981169476_340965469109437452_n.jpg)
