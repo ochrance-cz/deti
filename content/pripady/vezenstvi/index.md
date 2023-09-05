@@ -56,8 +56,8 @@ cases:
       věznice."
   - title: Mohu se někde dozvědět více informací o tom, jak to ve věznicích chodí?
     perex: >-
-      Pravidelně navštěvuje věznice a kontrolujeme, zda v nich není s vězni
-      špatně zacházeno. Naše zjištění pravidelně zveřejňuje. V roce 2016 jsme se
+      Pravidelně navštěvujeme věznice a kontrolujeme, zda v nich není s vězni
+      špatně zacházeno. Naše zjištění i zveřejňujeme. V roce 2016 jsme se
       souhrnně věnovali
       [věznicím](https://www.ochrance.cz/uploads-import/ESO/14-2014-NZ-Souhrnna_zprava_z_navstev_veznic.pdf),
       v roce 2022 pak [vazebním
