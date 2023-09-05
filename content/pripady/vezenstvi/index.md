@@ -43,7 +43,7 @@ cases:
 
 
       Každý odsouzený by měl mít možnost během dne telefonovat alespoň 20 minut.
-  - title: Mohl by někdo přemístit mého rodiče do bližší věznice, abych ho mohl/a
+  - title: Může někdo přemístit mého rodiče do bližší věznice, abych ho mohl/a
       častěji navštěvovat?
     perex: ""
     body: >-
@@ -55,8 +55,7 @@ cases:
 
 
       Věznice však nemusí žádosti vyhovět, například pokud by v bližší věznici nebylo volné místo nebo by tam nemohl tvůj rodič pracovat.
-  - title: " Mohla by věznice pustit mého rodiče třeba na procházku se mnou a
-      sestrou?"
+  - title: " Může věznice pustit mého rodiče na procházku se mnou a sestrou?"
     body: Ano, může se to stát ale ve výjimečném případě. Zpravidla to bývá za
       odměnu anebo v situaci, kdy už se blíží doba propuštění rodiče z věznice.
 ---
