@@ -11,9 +11,9 @@ I proto zástupce ombudsmana Vít Alexander Schorm včera symbolicky **zahájil 
 
 ![Zahájení školního roku ve škole Smiling Crocodile.](20230904_092546.jpg "Zdroj: Smiling Crocodile")
 
-Zúčastnil se také **předávání osvědčení úspěšným absolventům Tranzitního programu společnosti [Agapo](https://www.facebook.com/agapo.cz) "Ze školy do práce"**. V rámci toho mohlo osmadvacet jihomoravských středoškoláků celý rok chodit na praxi k některému z dvaceti zaměstnavatelů v regionu. 
+Zúčastnil se také **předávání osvědčení úspěšným absolventům Tranzitního programu společnosti [Agapo](https://www.facebook.com/agapo.cz) "Ze školy do práce"**. V rámci toho mohlo osmadvacet jihomoravských středoškoláků chodit celý rok na praxi k některému z dvaceti zaměstnavatelů v regionu. 
 
-Díky stážím si mladí lidé se speciálními vzdělávacími potřebami vyzkoušeli, jak to chodí v práci. Učili se samostatně [](<>)plnit pracovní povinnosti, komunikovat, řešit nové situace a spolupracovat s kolegy. Zaměstnavatelé si zase ověřili, že díky stážím je přechod do práce snazší nejen pro budoucí zaměstnance, ale právě i pro společnosti, které je zaměstnají. 
+Díky stážím si mladí lidé se speciálními vzdělávacími potřebami vyzkoušeli, jak to chodí v práci. Učili se samostatně [](<>)plnit pracovní povinnosti, komunikovat, řešit nové situace a spolupracovat s kolegy. Zaměstnavatelé si zase ověřili, že díky stážím je přechod do práce snazší nejen pro budoucí zaměstnance, ale i pro společnosti, které je zaměstnají. 
 
 ![Předávání osvědčení úspěšným absolventům Tranzitního programu společnosti Agapo "Ze školy do práce" proběhlo za účasti zástupce ombudsmana v prostorech naší Kanceláře.](372985651_611456624502945_7995546035226120878_n.jpg "Zástupce ombudsmana prozradil, že v příštích letech nabídne i naše Kancelář stáže v tranzitním programu.")
 
