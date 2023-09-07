@@ -161,7 +161,7 @@ cases:
       **Přestávky v práci**
 
 
-      Tvůj zaměstnavatel Ti jako mladistvému musí poskytnout přestávku na jídlo a oddech nejdéle po 4,5 hodinách nepřetržité práce. Tví dospělí spolupracovníci ji mohou čerpat stejně s Tebou, většinou však později dle pravidel zaměstnavatele, ale tak, aby si odpočinuli a nasvačili se nebo se naobědvali nejdéle po 6 hodinách práce. Délka přestávky je pro všechny stejně dlouhá a trvá 30 min..
+      Tvůj zaměstnavatel Ti jako mladistvému musí poskytnout přestávku na jídlo a oddech nejdéle po 4,5 hodinách nepřetržité práce. Přestávka trvá 30 min..
   - title: Můžu si někde stěžovat, když se mnou zaměstnavatel zachází špatně?
     perex: Zaměstnavatel Ti přiděluje práci, kterou můžou vykonávat jen dospělí?
       Nutí tě pracovat v noci nebo Tě nepouští na přestávky? Platí Ti
@@ -177,8 +177,8 @@ cases:
   - title: I když ještě nejsi plnoletý/á, můžeš se zaevidovat na úřadu práce i se
       rekvalifikovat
     perex: Ochránce se nedávno setkal s tím, že úřad práce nechtěl poslat na
-      rekvalifikační kurz uchazečku o zaměstnání, protože ještě neměla 18 let.
-      To je špatný přístup.
+      rekvalifikační kurz dívku, která se ucházela o zaměstnání, a to kvůli
+      tomu, že ještě neměla 18 let. To je špatný přístup.
     body: >-
       Pokud ti už bylo 15 let a máš ukončenou povinnou školní docházku (do
       základní školy jsi chodil/a minimálně 9 let), nemusíš už dál studovat.
@@ -191,7 +191,7 @@ cases:
       Pokud nestuduješ a ani jsi nenastoupil/a do práce, je vhodné se zaregistrovat na [úřadě práce](https://www.uradprace.cz/web/cz/krajske-pobocky). Pracovnice nebo pracovník úřadu práce s Tebou provedou pohovor, aby se dozvěděli víc o Tvých pracovních plánech a mohli Ti pomoct nalézt vhodnou práci. 
 
 
-      > **Pozor –  pokud se na úřadě práce nezaeviduješ, je třeba, aby sis sám/sama platil/a zdravotní (případně i sociální) pojištění.**
+      > **Pozor –  pokud se na úřadě práce nezaeviduješ a už nestuduješ, je třeba, aby sis sám/sama platil/a zdravotní (případně i sociální) pojištění.**
 
 
       **Rekvalifikace**
