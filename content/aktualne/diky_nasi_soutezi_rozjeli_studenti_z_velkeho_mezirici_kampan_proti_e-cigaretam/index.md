@@ -20,4 +20,8 @@ Po setkání tak navázali spolupráci s řediteli škol ve Velkém Meziříčí
 
 ![Ocenění za důkladné zmapování tématu anketou.](6_page-0001.jpg)
 
+A jak naši soutěž zhodnotili sami velkomeziříčtí studenti? Přečtěte si v jejich [článku](https://www.gvm.cz/images/stories/Aktuality/Elev%C3%A1tor.pdf), ze kterého vybíráme úryvek: 
+
+***"Vůbec jsme netušili, že by někdo mohl vidět v našem projektu a v nás samotných takový potenciál. Všichni, se kterými jsme mluvili, byli moc milí a ochotní. Dostali jsme několik vizitek, letáčků a také nabídek pomoci. Z budovy jsme odešli po patnácté hodině. Hrdí, vyčerpaní, ale hlavně šťastní, že se nám podařilo uspět."***
+
 > Setkání vybraných týmů (participační skupiny) jsme uspořádali v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
