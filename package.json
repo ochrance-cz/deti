@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build:search": "node generate-search-index.js",
+    "build:app": "npm run build:search && hugo",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "deno run --no-check --allow-write ./config-gen/index.ts"
+    "build:admin": "deno run --no-check --allow-write ./config-gen/index.ts"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,8 @@
   },
   "homepage": "https://github.com/ochrance/deti#readme",
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^13.0.2",
+    "slug": "^8.2.3"
   }
 }

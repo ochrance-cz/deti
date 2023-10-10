@@ -17,7 +17,7 @@
 <body>
   {{ partial "alert-strip.html" . }}
 
-  <nav class="_site-header">
+  <nav class="main _site-header">
     <div class="_backdrop header">
       <ul class="stripe">
         <li class="root-link">
@@ -35,6 +35,10 @@
       </ul>
     </div>
 
+    <div class="small-search">
+      {{ partial "search.html" . }}
+    </div>
+
     <ul class="buttons">
       {{ partial "menu-item.html" (dict "link" "/kdo/" "permalink" .RelPermalink "text" "Kdo je to ombudsman?") }}
       {{ partial "menu-item.html" (dict "link" "/kdo/cim-se-zabyva/" "permalink" .RelPermalink "text" "Čím se zabývá") }}
@@ -50,6 +54,8 @@
 
   {{ $js := resources.Get "scripts/index.js" | minify | fingerprint }}
   <script src="{{ $js.Permalink }}"></script>
+
+  <script src="/main.js"></script>
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2D5HYZE3WP"></script>
