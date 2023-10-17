@@ -7,7 +7,7 @@ perex: Zjistil/a jsi, že obor, který studuješ, není pro tebe "to pravé
 ---
 #### **Musíš podat žádost**
 
-V průběhu studia na střední škole můžeš přestoupit na jiný obor. Jde to jak v rámci jedné školy, tak jako přestup na úplně jinou školu. Je ale třeba o to písemně požádat.
+V průběhu studia na střední škole můžeš přestoupit na jiný obor. Jde to jak v rámci jedné školy, tak jako přestup na úplně jinou školu. Je ale potřeba písemně požádat.
 
 Pokud ti ještě nebylo 18 let, musí za tebe podat žádost rodiče (nebo jiný zákonný zástupce, např. poručník). Jejich žádost ale musí obsahovat tvůj souhlas s přestupem. Pokud jsi již zletilý/á, můžeš požádat sám/sama.
 
@@ -36,6 +36,6 @@ Je dobré nejdřív zavolat nebo napsat e-mail do školy, na kterou chceš přes
 
    Žádost podáš řediteli/ředitelce **nové** školy, který/á o ní také rozhodne. 
 
-#### **Rozdílové zkoušky**
+#### **Rozdílová zkouška**
 
-V obou případech přestupu po tobě mohou ředitelé/ředitelky chtít složení rozdílové zkoušky. Co bude její náplní, kdy se bude konat a jak se tato zkouška bude hodnotit určují oni. Je proto dobré se na to předem zeptat!
+Ředitel/ka může v obou případech chtít, abys složil/a rozdílovou zkoušku. Také určí, co bude její náplní, kdy se bude konat a jak bude hodnocena. Je proto dobré se na to předem zeptat!
