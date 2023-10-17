@@ -29,13 +29,13 @@ Je dobré nejdřív zavolat nebo napsat e-mail do školy, na kterou chceš přes
 
 #### **Rozhodnutí o žádosti**
 
-1. Přestup v rámci jedné školy (z oboru na obor, například studuješ obor kuchař – číšník a raději bys studoval/a obor cukrář, který je na stejné střední škole)
+1. **Přestup v rámci jedné školy, tj. z oboru na obor** (například studuješ obor kuchař – číšník a raději bys studoval/a obor cukrář, který je na stejné střední škole)
 
    Žádost podáš řediteli/ředitelce **tvé** školy, který/á o ní také rozhodne. 
-2. Přestup na novou školu
+2. **Přestup na novou školu**
 
    Žádost podáš řediteli/ředitelce **nové** školy, který/á o ní také rozhodne. 
 
-#### **Rozdílové zkoušky** 
+#### **Rozdílové zkoušky**
 
 V obou případech přestupu po tobě mohou ředitelé/ředitelky chtít složení rozdílové zkoušky. Co bude její náplní, kdy se bude konat a jak se tato zkouška bude hodnotit určují oni. Je proto dobré se na to předem zeptat!
