@@ -187,6 +187,33 @@ cases:
       Za nezletilého studenta/studentku (tedy do osmnácti let věku) podává písemnou žádost jeho zákonný zástupce/zákonná zástupkyně. Tato žádost musí obsahovat Tvůj souhlas s s přestupem. Pokud jsi již zletilý/á, můžeš tuto žádost podat sám/sama.
 
 
+      #### Jak sepsat žádost
+
+
+      Je dobré nejdříve zavolat nebo napsat e-mail do školy, na kterou chceš přestoupit, a zeptat se ředitele/ředitelky školy na bližší informace. Můžeš si také domluvit osobní schůzku společně s rodiči a ředitelem.
+
+
+      Ředitel/ka ti může dát formulář, pokud takový má. Do něj pak jednoduše sepíšeš žádost. Pokud žádný takový formulář nemá, sepíšeš žádost podle svého uvážení. Vzory najdeš také na internetu. 
+
+
+      Žádost by měla obsahovat alespoň:
+
+
+      * Kdo o přestup žádá – tvé jméno, příjmení, datum narození a bydliště.
+
+      * Pokud ti ještě nebylo 18 let, kdo za tebe podává žádost – jméno, příjmení a bydliště rodiče. 
+
+      * Jakou školu, obor a ročník studuješ – název a adresa současné školy, název oboru a ročník, ve kterém jsi.
+
+      * Na jakou školu, obor a do jakého ročníku chceš přestoupit – název a adresa nové školy, název oboru a ročník.
+
+      * Popis toho, proč chceš přestoupit na novou školu (na této pasáži si dej záležet).
+
+      * Místo a datum podání žádosti.
+
+      * Tvůj podpis. Pokud ti ještě nebylo 18 let, i podpis rodiče a tvůj souhlas s přestupem. 
+
+
       #### **Rozhodnutí o žádosti**
 
 
