@@ -187,7 +187,7 @@ cases:
       Za nezletilého studenta/studentku (tedy do osmnácti let věku) podává písemnou žádost jeho zákonný zástupce/zákonná zástupkyně. Tato žádost musí obsahovat Tvůj souhlas s s přestupem. Pokud jsi již zletilý/á, můžeš tuto žádost podat sám/sama.
 
 
-      #### Jak sepsat žádost
+      #### Jak sepsat žádost?
 
 
       Je dobré nejdříve zavolat nebo napsat e-mail do školy, na kterou chceš přestoupit, a zeptat se ředitele/ředitelky školy na bližší informace. Můžeš si také domluvit osobní schůzku společně s rodiči a ředitelem.
