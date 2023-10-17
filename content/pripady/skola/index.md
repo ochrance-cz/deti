@@ -181,19 +181,19 @@ cases:
       #### **Musíš podat žádost**
 
 
-      V průběhu studia střední školy samozřejmě můžeš přestoupit na jiný obor v rámci jedné školy či na jinou školu. Je ale třeba o to písemně požádat.
+      V průběhu studia na střední škole můžeš přestoupit na jiný obor. Jde to jak v rámci jedné školy, tak jako přestup na úplně jinou školu. Je ale třeba o to písemně požádat.
 
 
-      Za nezletilého studenta/studentku (tedy do osmnácti let věku) podává písemnou žádost jeho zákonný zástupce/zákonná zástupkyně. Tato žádost musí obsahovat Tvůj souhlas s s přestupem. Pokud jsi již zletilý/á, můžeš tuto žádost podat sám/sama.
+      Pokud ti ještě nebylo 18 let, musí za tebe podat žádost rodiče (nebo jiný zákonný zástupce, např. poručník). Jejich žádost ale musí obsahovat tvůj souhlas s přestupem. Pokud jsi již zletilý/á, můžeš požádat sám/sama.
 
 
       #### Jak sepsat žádost?
 
 
-      Je dobré nejdříve zavolat nebo napsat e-mail do školy, na kterou chceš přestoupit, a zeptat se ředitele/ředitelky školy na bližší informace. Můžeš si také domluvit osobní schůzku společně s rodiči a ředitelem.
+      Je dobré nejdřív zavolat nebo napsat e-mail do školy, na kterou chceš přestoupit. Zeptej se ředitele/ředitelky školy na bližší informace. Můžeš si také domluvit osobní schůzku společně s rodiči a ředitelem.
 
 
-      Ředitel/ka ti může dát formulář, pokud takový má. Do něj pak jednoduše sepíšeš žádost. Pokud žádný takový formulář nemá, sepíšeš žádost podle svého uvážení. Vzory najdeš také na internetu. 
+      Ředitel/ka ti může dát formulář, pokud ho má. Do něj pak jednoduše sepíšeš žádost. Pokud žádný formulář nemá, sepiš žádost podle svého uvážení. Vzory najdeš i na internetu. 
 
 
       Žádost by měla obsahovat alespoň:
@@ -217,10 +217,17 @@ cases:
       #### **Rozhodnutí o žádosti**
 
 
-      Pokud se jedná o přestup v rámci jedné školy, tedy jen z oboru na obor (například studuješ obor kuchař – číšník a raději bys studoval obor cukrář, který je na stejné střední škole), rozhoduje o přestupu ředitel/ka dané školy. Ředitel/ka může požadovat složení rozdílové zkoušky.
+      1. Přestup v rámci jedné školy (z oboru na obor, například studuješ obor kuchař – číšník a raději bys studoval/a obor cukrář, který je na stejné střední škole)
+
+         Žádost podáš řediteli/ředitelce **tvé** školy, který/á o ní také rozhodne. 
+      2. Přestup na novou školu
+
+         Žádost podáš řediteli/ředitelce **nové** školy, který/á o ní také rozhodne. 
+
+      #### **Rozdílové zkoušky**
 
 
-      Chceš-li přestoupit na úplně jinou střední školu, rozhoduje o přestupu ředitel/ka školy, na kterou chceš přestoupit. Pokud půjde o přestup na jinou školu a zároveň jiný obor, může ředitel/ka školy, kam chceš přestoupit, požadovat složení rozdílové zkoušky. Co bude náplní této zkoušky, kdy se bude konat a jak se tato zkouška bude hodnotit, určuje ředitel/ka nové školy.
+      V obou případech přestupu po tobě mohou ředitelé/ředitelky chtít složení rozdílové zkoušky. Co bude její náplní, kdy se bude konat a jak se tato zkouška bude hodnotit určují oni. Je proto dobré se na to předem zeptat!
   - title: Jsem ve střídavé péči rodičů. Mohu chodit do dvou základních škol zároveň?
     perex: Obrátil se na nás jedenáctiletý chlapec, který byl svěřen do střídavé
       péče rodičů – týden bývá u mámy a týden u táty. Rodiče ale bydlí v různých
