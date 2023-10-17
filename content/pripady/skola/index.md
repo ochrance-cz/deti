@@ -181,7 +181,7 @@ cases:
       #### **Musíš podat žádost**
 
 
-      V průběhu studia na střední škole můžeš přestoupit na jiný obor. Jde to jak v rámci jedné školy, tak jako přestup na úplně jinou školu. Je ale třeba o to písemně požádat.
+      V průběhu studia na střední škole můžeš přestoupit na jiný obor. Jde to jak v rámci jedné školy, tak jako přestup na úplně jinou školu. Je ale potřeba písemně požádat.
 
 
       Pokud ti ještě nebylo 18 let, musí za tebe podat žádost rodiče (nebo jiný zákonný zástupce, např. poručník). Jejich žádost ale musí obsahovat tvůj souhlas s přestupem. Pokud jsi již zletilý/á, můžeš požádat sám/sama.
@@ -227,7 +227,7 @@ cases:
       #### **Rozdílové zkoušky**
 
 
-      V obou případech přestupu po tobě mohou ředitelé/ředitelky chtít složení rozdílové zkoušky. Co bude její náplní, kdy se bude konat a jak se tato zkouška bude hodnotit určují oni. Je proto dobré se na to předem zeptat!
+      Ředitel/ka může v obou případech chtít, abys složil/a rozdílovou zkoušku. Také určí, co bude její náplní, kdy se bude konat a jak bude hodnocena. Je proto dobré se na to předem zeptat!
   - title: Jsem ve střídavé péči rodičů. Mohu chodit do dvou základních škol zároveň?
     perex: Obrátil se na nás jedenáctiletý chlapec, který byl svěřen do střídavé
       péče rodičů – týden bývá u mámy a týden u táty. Rodiče ale bydlí v různých
