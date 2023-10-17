@@ -178,7 +178,7 @@ cases:
       internátu a raději bys studoval/a blíž domovu? Chtěl/a bys na jinou školu,
       ale nevíš, jestli je to možné?
     body: >-
-      #### **Žádost**
+      #### **Musíš podat žádost**
 
 
       V průběhu studia střední školy samozřejmě můžeš přestoupit na jiný obor v rámci jedné školy či na jinou školu. Je ale třeba o to písemně požádat.
