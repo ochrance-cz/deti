@@ -1,7 +1,6 @@
 ---
 title: Omdbudsman dětem a náctiletým
 videos:
-  - video: https://youtube.com/shorts/hK4nwPgcj-Q?feature=share
   - video: https://youtu.be/8wPzjwGk72M
   - video: https://youtu.be/AvfLU3p3G8s
   - video: https://youtu.be/BfMYDjRmHJE
@@ -11,6 +10,7 @@ videos:
   - video: https://youtu.be/GiTQycQaZgM
   - video: https://youtu.be/OcKbyR5Nzp0
   - video: https://youtu.be/oq3Tu4rzI54
+  - video: https://youtube.com/shorts/hK4nwPgcj-Q?feature=share
 langs:
   en: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__anglictina_.pdf
   de: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf
