@@ -1,5 +1,5 @@
 ---
-title: Devatenáctiletý Adam ze Severní Makedonie může díky nám dál studovat!
+title: Devatenáctiletý Adam ze Severní Makedonie může díky nám dál studovat.
 date: 2023-11-07T15:33:40.882Z
 perex: Devatenáctiletý Adam ze Severní Makedonie žije již několik let i s rodiči
   legálně v České republice. Řádně studuje na střední škole a rád by zde zůstal
