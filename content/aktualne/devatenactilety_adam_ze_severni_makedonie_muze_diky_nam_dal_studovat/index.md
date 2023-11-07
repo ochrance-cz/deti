@@ -7,7 +7,7 @@ perex: Devatenáctiletý Adam ze Severní Makedonie žije již několik let i s 
   ho, že mu vypršelo již po jednom roce platnosti. Předchozí povolení měl totiž
   na dva roky.
 ---
-Adamovi hrozilo, že bude muset odcestovat do Severní Makedonie a tam si požádat o nové vízum. Makedonie však leží mimo Schengenský prostor. To znamená, že Adamův návrat by nebyl lehký ani jednoduchý. Adam přitom v Makedonii už nemá žádné zázemí ani blízké příbuzné.
+Adamovi hrozilo, že bude muset odcestovat do Severní Makedonie a tam si požádat o nové vízum. Makedonie však leží mimo Schengenský prostor. To znamená, že by jeho návrat do České republiky nebyl rychlý ani jednoduchý. Adam přitom v Makedonii už neměl žádné zázemí ani blízké příbuzné.
 
 Adam naštěstí mohl zůstat v České republice i po vypršení platnosti povolení k pobytu. A to 3 měsíce v rámci tzv. bezvízového pobytu, během kterého jsme mu pomohli vyřešit nové povolení k pobytu.
 
