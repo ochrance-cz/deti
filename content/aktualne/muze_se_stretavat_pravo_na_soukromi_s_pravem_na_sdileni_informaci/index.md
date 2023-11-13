@@ -5,10 +5,9 @@ perex: Co vše můžeme sdílet o sobě a svých blízkých a kde už se dostáv
   střetu s právem na soukromí? Mohou rodiče rozhodovat za dospívající děti?
   Můžeme prolomit tajemství, pokud chceme pomoci kamarádce v nouzi? A mohou mít
   negativní dopad na náš budoucí život informace, které o sobě sdílíme na
-  sociálních sítích? O těchto a mnoha dalších otázkách jsme dnes diskutovali se
-  studenty a studentkami [Moravského gymnázia Brno](https://www.mgbrno.cz/).
+  sociálních sítích?
 ---
-Jak jak to vypadalo?
+O těchto a mnoha dalších otázkách jsme dnes diskutovali se studenty a studentkami [Moravského gymnázia Brno](https://www.mgbrno.cz/). A jak to vypadalo?
 
 ![Studenti s lektorkou sedící kolem stolu s velkým papírem.](20231113_101124.jpg "O tématu jsme hodně brainstormovali...")
 
