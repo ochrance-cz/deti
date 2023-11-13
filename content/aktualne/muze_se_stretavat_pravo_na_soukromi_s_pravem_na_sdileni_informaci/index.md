@@ -18,7 +18,7 @@ Jak jak to vypadalo?
 
 ![Dva studenti prezentující před tabulí s poznámkami. ](20231113_095141.jpg "...vzájemně si prezentovali názory...")
 
-![...a téma zarámovali do souvislostí. ](20231113_105151.jpg "Papír s myšlenkami ohledně práva na soukromí a studenti přihlížející prezentaci. ")
+![Papír s myšlenkami ohledně práva na soukromí a studenti přihlížející prezentaci. ](20231113_105151.jpg "...a téma zarámovali do souvislostí.")
 
 **Připomínáme si tím mimo jiné výročí přijetí Úmluvy o právech dítěte. Tak koukni na [znění srozumitelné dětem](deti.ochrance.cz/umluva), které jsme připravili.** 
 
