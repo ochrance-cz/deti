@@ -20,7 +20,7 @@ Jak jak to vypadalo?
 
 ![Papír s myšlenkami ohledně práva na soukromí a studenti přihlížející prezentaci. ](20231113_105151.jpg "...a téma zarámovali do souvislostí.")
 
-**Připomínáme si tím mimo jiné výročí přijetí Úmluvy o právech dítěte. Tak koukni na [znění srozumitelné dětem](deti.ochrance.cz/umluva), které jsme připravili.** 
+**Připomínáme si tím mimo jiné výročí přijetí Úmluvy o právech dítěte. Tak koukni na [znění srozumitelné dětem](http://deti.ochrance.cz/umluva), které jsme připravili.** 
 
 ![](dsc_1398.jpg "Naše Úmluva o právech dítěte ve znění srozumitelném dětem je volně ke stažení z: deti.ochrance.cz/umluva")
 
