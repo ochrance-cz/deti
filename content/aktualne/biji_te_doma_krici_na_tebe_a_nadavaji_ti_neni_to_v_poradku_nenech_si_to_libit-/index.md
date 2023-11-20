@@ -10,7 +10,9 @@ perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny dět
   nám i studenti a studentky z [Gymnázia Polička](https://www.gympolicka.cz/),
   kteří nás dneska navštívili.
 ---
-https://youtu.be/veYefeo2x8w?si=PSVjeZoA4XpiX1eg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veYefeo2x8w?si=sDl5-AyMsP-yyQKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 **Neboj se svěřit někomu, komu důvěřuješ.**
 
