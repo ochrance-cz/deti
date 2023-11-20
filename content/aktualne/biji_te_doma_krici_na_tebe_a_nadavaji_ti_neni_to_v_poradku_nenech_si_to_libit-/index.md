@@ -25,6 +25,10 @@ https://youtu.be/veYefeo2x8w?si=PSVjeZoA4XpiX1eg
 
 > #### Jak jsme pomohli Edovi?
 >
-> Devítiletý Eda se nám svěřil, že na něj křičí táta a nechová se k němu hezky. Souhlasil, abychom se spojili s jeho OSPOD. Zjistili jsme, že se jeho rodiče rozvádí, hodně se hádají, neumí spolu mluvit a táta situaci vyčítá Edovi. Vylívá si na něm zlost. Přesto soud určil, že má trávit víkendy u táty. Eda nechtěl, bál se.
+> Devítiletý Eda se nám svěřil, že na něj křičí táta a nechová se k němu hezky. Souhlasil, abychom se spojili s jeho OSPOD. 
 >
-> Chování rodičů ani rozhodnutí soudu nemůžeme změnit. Požádali jsme ale OSPOD, aby s Edou probral, co ho trápí a jak by si přál situaci změnit. O Edových trápeních si pak OSPOD promluvil i s rodiči. Pomohl jim vymyslet, co by měli dělat jinak a jak by se (ne)měli k synovi chovat. Rodiče se asi zastyděli. Souhlasili, že budou chodit na rodinnou terapii a pokusí se zlepšit nejen vzájemný vztah, ale i lépe fungovat jako máma a táta.
+> Zjistili jsme, že se jeho rodiče rozvádí, hodně se hádají, neumí spolu mluvit a táta situaci vyčítá Edovi. Vylívá si na něm zlost. Přesto soud určil, že má trávit víkendy u táty. Eda nechtěl, bál se.
+>
+> Chování rodičů ani rozhodnutí soudu nemůžeme změnit. Požádali jsme ale OSPOD, aby s Edou probral, co ho trápí a jak by si přál situaci změnit. 
+>
+> O Edových trápeních si pak OSPOD promluvil i s rodiči. Pomohl jim vymyslet, co by měli dělat jinak a jak by se (ne)měli k synovi chovat. Rodiče se asi zastyděli. Souhlasili, že budou chodit na rodinnou terapii a pokusí se zlepšit nejen vzájemný vztah, ale i lépe fungovat jako máma a táta.
