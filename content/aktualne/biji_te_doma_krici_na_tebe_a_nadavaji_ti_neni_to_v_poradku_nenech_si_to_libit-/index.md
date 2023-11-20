@@ -25,6 +25,8 @@ perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny dět
 3. Můžeš využít **linky důvěry**. [Existuje jich více](https://deti.ochrance.cz/pomoc/linky/). Některé fungují telefonicky, jiné nabízí i možnost chatu nebo Skype hovoru. Radí na nich různí lidé (nejčastěji psychologové/psycholožky či sociální pracovníci/pracovnice). Společné však mají to, že ti poradí anonymně a okamžitě.
 4. Odvahu ti může dodat také web [Dětství bez násilí](https://www.detstvibeznasili.cz/jsem-dite-nebo-teenager).
 
+> {{< icon "nesouhlas.png" >}}
+>
 > #### Jak jsme pomohli Edovi?
 >
 > Devítiletý Eda se nám svěřil, že na něj křičí táta a nechová se k němu hezky. Souhlasil, abychom se spojili s jeho OSPOD. 
