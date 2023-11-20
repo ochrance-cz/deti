@@ -3,7 +3,7 @@ title: Bijí tě doma? Křičí na tebe a nadávají ti? Není to v pořádku, 
   to líbit.
 slug: bubnovacka2023
 draft: false
-date: 2023-11-20T14:40:38.322Z
+date: 2023-11-20T06:49:10.113Z
 perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny děti bez
   násilí. Aby byl slyšet i tvůj hlas, i letos symbolicky [bubnujeme za dětství
   bez násilí](https://www.detstvibeznasili.cz/kampane/bubnovacka).
