@@ -14,7 +14,7 @@ perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny dět
 
 
 
-**Neboj se svěřit někomu, komu důvěřuješ.**
+### **Neboj se svěřit někomu, komu důvěřuješ.**
 
 1. Může to být třeba paní učitelka ve škole, vedoucí v kroužku, starší kamarádka, teta nebo jiný příbuzný či známý. **Hlavně na to nezůstávej sám/sama!**
 2. Kdykoli se můžeš obrátit také na „svého“ sociálního pracovníka nebo pracovnici OSPOD. Jsou tu od toho, aby ti pomohli. Můžeš to udělat sám/sama nebo klidně v doprovodu někoho blízkého. OSPOD tě musí vyslechnout, poradit ti a pomoct najít řešení. Tvá situace mu nemůže být lhostejná.
