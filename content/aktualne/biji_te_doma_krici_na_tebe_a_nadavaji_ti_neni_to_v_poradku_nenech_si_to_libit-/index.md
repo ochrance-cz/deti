@@ -6,13 +6,11 @@ draft: false
 date: 2023-11-20T06:49:10.113Z
 perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny děti bez
   násilí. Aby byl slyšet i tvůj hlas, i letos symbolicky [bubnujeme za dětství
-  bez násilí](https://www.detstvibeznasili.cz/kampane/bubnovacka).
+  bez násilí](https://www.detstvibeznasili.cz/kampane/bubnovacka). Přidali se k
+  nám i studenti a studentky z [Gymnázia Polička](https://www.gympolicka.cz/),
+  kteří nás dneska navštívili.
 ---
-
-
-*\---video---*
-
-
+https://youtu.be/veYefeo2x8w?si=PSVjeZoA4XpiX1eg
 
 **Neboj se svěřit někomu, komu důvěřuješ.**
 
@@ -24,8 +22,6 @@ perex: Chceme, aby Česká republika byla místem, kde vyrůstají všechny dět
    Máš pocit, že ti OSPOD nepomohl? [Napiš nám](https://deti.ochrance.cz/kdo/jak/). Ověříme, jestli udělat všechno, co měl. 
 3. Můžeš využít **linky důvěry**. [Existuje jich více](https://deti.ochrance.cz/pomoc/linky/). Některé fungují telefonicky, jiné nabízí i možnost chatu nebo Skype hovoru. Radí na nich různí lidé (nejčastěji psychologové/psycholožky či sociální pracovníci/pracovnice). Společné však mají to, že ti poradí anonymně a okamžitě.
 4. Odvahu ti může dodat také web [Dětství bez násilí](https://www.detstvibeznasili.cz/jsem-dite-nebo-teenager).
-
-
 
 > #### Jak jsme pomohli Edovi?
 >
