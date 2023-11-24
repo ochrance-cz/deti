@@ -34,43 +34,52 @@ cases:
 
       Podrobné informace k oblasti exekucí přinášíme v [informačním letáku](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf).
   - title: Nesu odpovědnost za škodu, kterou způsobím?
-    perex: Napsal nám jedenáctiletý Josef. O víkendu si kopal před panelákem s
-      míčem. Špatně kopl a rozbil sousedovi míčem okno. Ptal se, jestli je
-      odpovědný za škodu, kterou způsobil sousedovi.
+    perex: Jedenáctiletý Josef si o víkendu kopal před panelákem s míčem. Špatně
+      kopl a rozbil sousedovi míčem okno. Ptal se, jestli je odpovědný za škodu,
+      kterou způsobil sousedovi.
     body: >-
-      Josefovi jsme odpověděli, že zákon nestanoví věkovou hranici, od kdy je
-      nezletilé dítě odpovědné za škodu. Vždy se posuzuje jeho rozumová a volní
-      vyspělost. Tedy zda je dítě schopno posoudit následky svého jednání a
-      ovládnout své jednání. Oba tyto předpoklady musí být splněny zároveň a
-      zcela. 
+      Od července 2021 zákon chrání děti **do třinácti let**. Má se za to, že
+      většinou ještě nejsou zcela vyspělé a neuvědomují si následky svého
+      chování. Nejsou tak odpovědní za škodu, kterou způsobí. 
 
 
-      U průměrného jedenáctiletého chlapce se dá předpokládat, že splněny byly. Měl by si již uvědomovat, že kopnutý míč může rozbít okno. Stejně tak je velmi pravděpodobné, že si již umí vybrat místo vhodné pro kopání, případně svou hru přizpůsobit tomu, že v bezprostředním okolí jsou domy s okny. 
+      #### Kdo tedy škodu zaplatí?
 
 
-      #### Jsou odpovědní i rodiče?
+      Škodu budou muset uhradit Josefovi rodiče nebo jiní pečovatelé (třeba pěstouni, učitelé, vychovatelé, vedoucí na táboře…), kteří měli Josefa na starost a měli na něj dohlížet. Pokud zanedbali povinnost vykonávat tzv. náležitý dohled, budou za škodu odpovědní oni.
 
 
-      Rodiče nebo jiní pečovatele (třeba pěstouni, učitelé, vychovatelé,...) mají povinnost vykonávat nad svěřeným dítětem dohled. Pokud tzv. náležitý dohled zanedbali, jsou i oni odpovědní za škodu. 
+      Je také možné, že Josefovi rodiče nebo třeba organizátoři tábora mají sjednáno pojištění odpovědnosti za škodu. Tedy smlouvu s pojišťovnou, že za ně zaplatí vzniklou škodu v případě nějakého maléru. V tomto případě bude platit pojišťovna. 
 
 
-      V Josefově případě by za škodu odpovídali i rodiče. Pokud by byl Josef výrazně mladší nebo třeba zdravotně postižený, odpovídal by za způsobenou škodu jen dospělák, který ho měl hlídat a nedělal to (tedy zanedbal náležitý dohled). 
+      #### Může být někdy za škodu odpovědné i dítě mladší třinácti let?
 
 
-      #### Kdo škodu zaplatí?
+      **Ano, ale pouze ve výjimečných situacích.** Muselo by se jednat o jeden ze dvou případů.
 
 
-      Josef a jeho rodiče odpovídají za škodu společně a nerozdílně. To znamená, že soused může chtít uhradit škodu po kterýmkoliv z nich. Josef s rodiči se pak musí dohodnout, jak se vzájemně vypořádají. Mělo by to být podle toho, nakolik se který z nich podílel na rozbití okna. Tedy nejen kdo kopl míč, ale i nakolik se rodiče snažili škodě předejít. 
+      1. Dítě způsobí škodu jednáním podobným úmyslnému trestnému činu. *Například pokud by dvanáctileté dítě úmyslně zapálilo sklad.*
+
+      2. Dítě způsobí škodu a je to spravedlivé s ohledem na majetek dítěte a majetek poškozené osoby, aby za ni bylo odpovědné. *Například tehdy, pokud má dítě dostatek peněz a škodu může zaplatit z nich.*    
 
 
-      Je také možné, že Josefovi rodiče mají sjednáno pojištění odpovědnosti za škodu. Tedy smlouvu s pojišťovnou, že za ně v případě nějakého maléru zaplatí vzniknou škodu. V takovém případě by škodu mohla zaplatit za Josefa a jeho rodiče pojišťovna.
+      #### Změnila by se Josefova situace, pokud by mu bylo čtrnáct let?
+
+
+      U dítěte staršího třinácti let se posuzuje jeho rozumová a volní vyspělost. Tedy zda je dítě schopné posoudit následky svého jednání a ovládnout své jednání. Aby bylo dítě odpovědné za škodu, musí být splněny obě podmínky. 
+
+
+      Ve čtrnácti letech by si Josef měl uvědomovat, že kopnutý míč může rozbít okno. Stejně tak by si měl umět vybrat místo vhodné pro kopání, případně svou hru přizpůsobit okolí. Ve věku čtrnácti let by tedy Josef byl pravděpodobně odpovědný za škodu způsobenou rozbitím okna.
+
+
+      Spolu s Josefem by za škodu odpovídali i rodiče nebo jiní pečovatelé, pokud zanedbali svou povinnost dohlížet na Josefa. Josef a jeho rodiče by byli odpovědní společně a nerozdílně. To znamená, že soused může chtít uhradit škodu po kterémkoliv z nich. Josef s rodiči se pak musí dohodnout, jak se vzájemně vypořádají. Mělo by to být podle toho, nakolik se který z nich podílel na rozbití okna. Tedy nejen kdo kopl míč, ale i nakolik se rodiče snažili škodě předejít.
   - title: Nesu odpovědnost za škodu, kterou jsem způsobil/a při nehodě na své
       motorce?
-    perex: Napsal nám šestnáctiletý David. Jezdí rád na motorce. Hned v patnácti „si
-      udělal papíry“ a koupil motorku. Nedávno měl ale nehodu. Přehlédl červenou
-      na semaforu a narazil do projíždějícího auta. Auto zůstalo poškrábané a
-      jeho majitel chtěl zaplatit opravu. David se ptal, jestli jako nezletilý
-      odpovídá za škodu, kterou způsobil při dopravní nehodě.
+    perex: Šestnáctiletý David si hned v patnácti „udělal papíry“ a koupil motorku.
+      Nedávno měl ale nehodu. Přehlédl červenou na semaforu a narazil do
+      projíždějícího auta. Auto zůstalo poškrábané a jeho majitel chtěl zaplatit
+      opravu. David se ptal, jestli jako nezletilý odpovídá za škodu, kterou
+      způsobil při dopravní nehodě.
     body: >-
       David již má řidičák a může tak motorku řídit. Podle zákona tak odpovídá i
       za škodu, kterou způsobí při řízení. Tyto škody však zpravidla pokrývá
@@ -107,11 +116,11 @@ cases:
 
       > **Pozor:** Řídit se nesmí pod vlivem alkoholu ani jiných návykových látek. Porušení tohoto pravidla většinou znamená, že pojišťovna nezaplatí případnou škodu, nebo její část.
   - title: Mohu dlužit „za popelnice“, i když mi ještě nebylo 18 let?
-    perex: Napsala nám sedmnáctiletá Denisa, že slyšela, že se dříve stávalo, že
-      úřad požadoval uhrazení nezaplacených poplatků za komunální odpad také od
-      nezletilých, tedy dětí do 18 let věku. V nejzazších případech dokonce
-      došlo i na exekuce. Bála se, aby jí taková situace také nepotkala. Její
-      rodiče totiž dlouho tento poplatek nijak neřešili.
+    perex: Dříve stávalo, že úřad požadoval uhrazení nezaplacených poplatků za
+      komunální odpad také od nezletilých, tedy dětí do 18 let věku. V
+      nejzazších případech dokonce došlo i na exekuce. Sedmnáctiletá Denisa se
+      bála, aby jí taková situace také nepotkala. Její rodiče totiž dlouho tento
+      poplatek nijak neřešili.
     body: >-
       Pokud má obec zavedený místní poplatek za obecní systém odpadového
       hospodářství, platí bez výjimky, že nezaplacené poplatky za komunální
@@ -120,7 +129,7 @@ cases:
       zástupce).**
 
 
-      **Pozor** by sis ale měl/a dát, **pokud vlastníš byt, rodinný dům nebo letní chatu** (či jinou rekreační nemovitost). V obci mohou mít zavedený poplatek za odkládání komunálního odpadu z nemovité věci, který musíš platit. V **takovém případě nepřechází poplatková povinnost na rodiče (zákonné zástupce)**. Pokud v Tvé nemovitosti někdo bydlí, funguješ jako takový prostředník – musíš vybrat poplatek od osob, které v nemovitosti ubytováváš a zaplatit ho místnímu obecnímu úřadu. Pokud bys to neudělal/a, bude obecní úřad požadovat zaplacení po Tobě. 
+      **Pozor** by sis ale měl/a dát, **pokud vlastníš byt, rodinný dům nebo letní chatu** (či jinou rekreační nemovitost). V obci mohou mít zavedený poplatek za odkládání komunálního odpadu z nemovité věci, který musíš platit. V **takovém případě nepřechází poplatková povinnost na rodiče (zákonné zástupce)**. Pokud v Tvé nemovitosti někdo bydlí, funguješ jako takový prostředník – musíš vybrat poplatek od osob, které v nemovitosti ubytováváš a zaplatit ho místnímu obecnímu úřadu. Pokud bys to neudělal/a, bude obecní úřad požadovat zaplacení po tobě. 
 
 
       > Jaký poplatek mají v obci zavedený, najdeš na webu té dané obce nebo na webu [Sbírky předpisů územních samosprávných celků](https://sbirkapp.gov.cz/).
