@@ -9,10 +9,10 @@ cases:
     body: >-
       Nejlepší je platit včas. Když už dluh vznikne, je nejlepší snažit se s
       věřitelem dohodnout na splátkovém kalendáři. Vždy je lepší nenechat věc
-      dojít až k exekuci. S tou se Ti splácení dluhu o dost prodraží.
+      dojít až k exekuci. S tou se ti splácení dluhu o dost prodraží.
 
 
-      **Se samotnou exekucí Ti pomoci nemůžeme.** Nejsme oprávněni přímo prověřovat postup soudních exekutorů ani jejich komory. Můžeme jen prověřit postup Ministerstva spravedlnosti, případně předsedy soudu, kteří nad exekutory vykonávají státní dohled.
+      **Se samotnou exekucí ti pomoci nemůžeme.** Nejsme oprávněni přímo prověřovat postup soudních exekutorů ani jejich komory. Můžeme jen prověřit postup Ministerstva spravedlnosti, případně předsedy soudu, kteří nad exekutory vykonávají státní dohled.
 
 
       Aby mohlo dojít k exekuci, musí existovat tzv. exekuční titul.
@@ -23,7 +23,7 @@ cases:
       * Může se jednat také o rozhodčí nález, rozhodnutí správního orgánu či třeba notářský nebo exekutorský zápis se svolením k vykonatelnosti.
 
 
-      **Některá z těchto rozhodnutí mohou být vykonatelná, přestože jsi se o nich nikdy nedozvěděl/a.** Důvodem jsou speciální pravidla doručování (takzvané náhradní doručení), která se mohou uplatnit. Třeba když si nevyzvedáváš dopis na adrese svého trvalého pobytu, případně se na této adrese vůbec nezdržuješ a nenahlásil/a jsi ohlašovně (obecnímu úřadu v místě Tvého trvalého pobytu) adresu, na kterou Ti má dopisy přeposílat. 
+      **Některá z těchto rozhodnutí mohou být vykonatelná, přestože jsi se o nich nikdy nedozvěděl/a.** Důvodem jsou speciální pravidla doručování (takzvané náhradní doručení), která se mohou uplatnit. Třeba když si nevyzvedáváš dopis na adrese svého trvalého pobytu, případně se na této adrese vůbec nezdržuješ a nenahlásil/a jsi ohlašovně (obecnímu úřadu v místě tvého trvalého pobytu) adresu, na kterou ti má dopisy přeposílat. 
 
 
       Někteří dlužníci pak mají pocit, že na ně exekuce „padla“ jak blesk z čistého nebe. Pokud by ale při doručování skutečně došlo k chybě, můžeš se proti exekuci bránit. A to u soudního exekutora **návrhem na zastavení exekuce. Musíš ho ale podat do 30 dnů od doručení vyrozumění soudního exekutora o zahájení exekuce**.
@@ -38,9 +38,9 @@ cases:
       kopl a rozbil sousedovi míčem okno. Ptal se, jestli je odpovědný za škodu,
       kterou způsobil sousedovi.
     body: >-
-      Od července 2021 zákon chrání děti **do třinácti let**. Má se za to, že
-      většinou ještě nejsou zcela vyspělé a neuvědomují si následky svého
-      chování. Nejsou tak odpovědní za škodu, kterou způsobí. 
+      Od července 2021 zákon chrání děti **do 13 let**. Má se za to, že většinou
+      ještě nejsou zcela vyspělé a neuvědomují si následky svého chování. Nejsou
+      tak odpovědní za škodu, kterou způsobí. 
 
 
       #### Kdo tedy škodu zaplatí?
@@ -52,7 +52,7 @@ cases:
       Je také možné, že Josefovi rodiče nebo třeba organizátoři tábora mají sjednáno pojištění odpovědnosti za škodu. Tedy smlouvu s pojišťovnou, že za ně zaplatí vzniklou škodu v případě nějakého maléru. V tomto případě bude platit pojišťovna. 
 
 
-      #### Může být někdy za škodu odpovědné i dítě mladší třinácti let?
+      #### Může být někdy za škodu odpovědné i dítě mladší 13 let?
 
 
       **Ano, ale pouze ve výjimečných situacích.** Muselo by se jednat o jeden ze dvou případů.
@@ -63,13 +63,13 @@ cases:
       2. Dítě způsobí škodu a je to spravedlivé s ohledem na majetek dítěte a majetek poškozené osoby, aby za ni bylo odpovědné. *Například tehdy, pokud má dítě dostatek peněz a škodu může zaplatit z nich.*    
 
 
-      #### Změnila by se Josefova situace, pokud by mu bylo čtrnáct let?
+      #### Změnila by se Josefova situace, pokud by mu bylo 14 let?
 
 
-      U dítěte staršího třinácti let se posuzuje jeho rozumová a volní vyspělost. Tedy zda je dítě schopné posoudit následky svého jednání a ovládnout své jednání. Aby bylo dítě odpovědné za škodu, musí být splněny obě podmínky. 
+      U dítěte staršího 13 let se posuzuje jeho rozumová a volní vyspělost. Tedy zda je dítě schopné posoudit následky svého jednání a ovládnout své jednání. Aby bylo dítě odpovědné za škodu, musí být splněny obě podmínky. 
 
 
-      Ve čtrnácti letech by si Josef měl uvědomovat, že kopnutý míč může rozbít okno. Stejně tak by si měl umět vybrat místo vhodné pro kopání, případně svou hru přizpůsobit okolí. Ve věku čtrnácti let by tedy Josef byl pravděpodobně odpovědný za škodu způsobenou rozbitím okna.
+      Ve 14 letech by si Josef měl uvědomovat, že kopnutý míč může rozbít okno. Stejně tak by si měl umět vybrat místo vhodné pro kopání, případně svou hru přizpůsobit okolí. Ve věku 14 let by tedy Josef byl pravděpodobně odpovědný za škodu způsobenou rozbitím okna.
 
 
       Spolu s Josefem by za škodu odpovídali i rodiče nebo jiní pečovatelé, pokud zanedbali svou povinnost dohlížet na Josefa. Josef a jeho rodiče by byli odpovědní společně a nerozdílně. To znamená, že soused může chtít uhradit škodu po kterémkoliv z nich. Josef s rodiči se pak musí dohodnout, jak se vzájemně vypořádají. Mělo by to být podle toho, nakolik se který z nich podílel na rozbití okna. Tedy nejen kdo kopl míč, ale i nakolik se rodiče snažili škodě předejít.
