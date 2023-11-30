@@ -164,7 +164,7 @@ cases:
       Rodiče pak nemohou chtít, abys jim peníze zaplatil/a zpět.
 
 
-      Podrobné informace k oblasti exekucí přinášíme v [informačním letáku.](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf)
+      > Podrobné informace k oblasti exekucí přinášíme v [informačním letáku.](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf)
     title: Co se stane, když v dospělosti nezaplatím dluh z dětství?
     perex: Pokud věřitel (exekutor) **nemůže dluh vymoci po tobě (nemáš ho z čeho
       zaplatit)**, může ho požadovat po tvých rodičích. Ti jsou totiž tzv.
@@ -175,7 +175,7 @@ cases:
       osvobozen/a od placení zbývajících (dosud neuhrazených) dluhů.
 
 
-      Podrobné informace k oblasti oddlužení přinášíme v [informačním letáku](https://www.ochrance.cz/letaky/oddluzeni-i/oddluzeni-i.pdf).
+      > Podrobné informace k oblasti oddlužení přinášíme v [informačním letáku](https://www.ochrance.cz/letaky/oddluzeni-i/oddluzeni-i.pdf).
     title: Co mám dělat, když mám více dluhů z dětství a neuhradí je ani moji rodiče?
     perex: Pokud dluhy vznikly alespoň ze dvou třetin před dosažením tvých 18 let,
       **požádej o oddlužení**.
