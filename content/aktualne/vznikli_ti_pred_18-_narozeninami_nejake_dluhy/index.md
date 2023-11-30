@@ -37,7 +37,7 @@ Pokud dluhy vznikly alespoň ze dvou třetin před dosažením tvých 18 let, 
 
 Dluhů se po 3 letech zbavíš, pokud během této doby vynaložíš všechno úsilí, abys je uhradil/a. Pokud splníš tuto podmínku, budeš po 3 letech osvobozen/a od placení zbývajících (dosud neuhrazených) dluhů.
 
-### Co když mi dluhy vznikly až v dospělosti? 
+### Co když mi dluhy vznikly až v dospělosti?
 
 Nejlepší je platit včas. Když už dluh vznikne, je nejlepší snažit se s věřitelem dohodnout na splátkovém kalendáři. Vždy je lepší nenechat věc dojít až k exekuci. S tou se ti splácení dluhu o dost prodraží.
 
@@ -56,4 +56,4 @@ Někteří dlužníci pak mají pocit, že na ně exekuce „padla“ jak ble
 
 Můžeš to zjistit nahlédnutím do spisů z takzvaných nalézacích řízení i výkonu exekuce u okresního soudu podle svého bydliště. Úplné informace o průběhu exekuce získáš z exekučního spisu vedeného soudním exekutorem.
 
-> **Podrobné informace k oblasti [exekucí](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf) a [oddlužení](https://www.ochrance.cz/letaky/oddluzeni-i/oddluzeni-i.pdf) najdeš v našich informačních letácích.**
+> **Podrobné informace k [exekucím](https://www.ochrance.cz/letaky/exekuce/exekuce.pdf) a [oddlužení](https://www.ochrance.cz/letaky/oddluzeni-i/oddluzeni-i.pdf) najdeš v našich informačních letácích.**
