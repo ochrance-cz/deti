@@ -1,5 +1,5 @@
 ---
-title: Středoškoláci z Velkého Meziříčí pokračují ve svém tažení proti e-cigaretám
+title: Středoškoláci z Velkého Meziříčí pokračují v tažení proti e-cigaretám
 date: 2023-12-12T14:31:52.671Z
 perex: "Začalo to z kraje roku naší soutěží [Elevator: nápadem to
   začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Dnes už
