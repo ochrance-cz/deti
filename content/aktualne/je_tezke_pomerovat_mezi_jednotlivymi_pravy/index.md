@@ -14,7 +14,7 @@ perex: Na problémy s proporcionalitou neboli poměřováním vedle sebe stojíc
 
 ![](dsc_6230.jpg "Není jednoduché prosazovat názor, se kterým nejste zcela ztotožnění. I tuhle výzvu však brněnští středoškoláci zvládli skvěle.")
 
-![](dsc_6182.jpg "Formulovali argumenty, které měli \"hlavu i patu\". ")
+![](dsc_6182.jpg "Formulovali argumenty, které měly \"hlavu i patu\". ")
 
 ![](dsc_6223.jpg "Zvládli i pružně vyvracet tvrzení, se kterými přišla protistrana. ")
 
