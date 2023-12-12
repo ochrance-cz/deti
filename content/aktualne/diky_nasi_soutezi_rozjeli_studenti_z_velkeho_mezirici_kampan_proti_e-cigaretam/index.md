@@ -8,7 +8,7 @@ perex: "Gymnazisté z [Velkého Meziříčí](https://www.gvm.cz/cs) si všimli,
   začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/), kde se
   zařadil mezi nejlepší."
 ---
-Adéla, Aneta a Standa vytvořili plakát, na kterém informují své vrstevníky o nebezpečných látkách, které e-cigarety obsahují. Naplánovali jeho umístění ve Velkém Meziříčí tak, aby si ho všimlo co nejvíce dětí ve věku 12-15 let. V příštím školním roce chtějí k tématu uspořádat krátké interaktivní  přednášky pro studenty různých škol.
+Adéla, Iveta a Standa vytvořili plakát, na kterém informují své vrstevníky o nebezpečných látkách, které e-cigarety obsahují. Naplánovali jeho umístění ve Velkém Meziříčí tak, aby si ho všimlo co nejvíce dětí ve věku 12-15 let. V příštím školním roce chtějí k tématu uspořádat krátké interaktivní  přednášky pro studenty různých škol.
 
 ![Plakát vytvořený studenty. Je na něm velká modrá cigareta a nad ní nadpis "Víte, co vdechujete?" Okolo cigarety jsou vyjmenovány chemické látky, které e-cigareta obsahuje (nikotin, benzaldehyd, formaldehyd, glycerol, akrolein, propylenglykol), a nápisy, kde se využívají. ](plakat_vite_co_vdechujete_page-0001.jpg)
 
