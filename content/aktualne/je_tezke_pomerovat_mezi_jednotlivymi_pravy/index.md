@@ -23,6 +23,6 @@ Není jednoduché prosazovat názor, se kterým nejste zcela ztotožnění. I tu
 
 > Setkání (participační skupinu) jsme uspořádali v rámci projektu Posílení aktivit veřejného ochránce práv v ochraně lidských práv (směrem k ustavení Národní lidskoprávní instituce v ČR), číslo projektu LP-PDP3-001. Projekt je součástí Programu lidská práva financovaného z Norských fondů 2014-2021 prostřednictvím Ministerstva financí.
 
-**Připomínáme si tím mimo jiné výročí přijetí Úmluvy o právech dítěte. Tak koukni na [znění srozumitelné dětem](http://deti.ochrance.cz/umluva), které jsme připravili.**
+**Setkáním jsme si připomněli i výročí přijetí Úmluvy o právech dítěte. Tak koukni na [znění srozumitelné dětem](http://deti.ochrance.cz/umluva), které jsme připravili.**
 
 ![Na obrázku je dívka prohlížející si Úmluvu o právech dítěte ve znění srozumitelném dětem.](dsc_1406.jpg "Naše Úmluva o právech dítěte ve znění srozumitelném dětem je volně ke stažení z deti.ochrance.cz/umluva.")
