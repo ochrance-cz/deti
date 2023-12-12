@@ -10,11 +10,9 @@ Další středoškoláci si u nás vyzkoušeli, jak často může docházet ke 
 
 ![](dsc_6228.jpg "V simulovaném soudním řízení museli své názory přednést i obhájit. ")
 
-
-
 ![](dsc_6230.jpg "Není jednoduché prosazovat názor, se kterým nejste zcela ztotožnění. I tuhle výzvu však brněnští středoškoláci zvládli skvěle.")
 
-![](dsc_6182.jpg "Formulovali argumenty, které měly \"hlavu i patu\". ")
+![](dsc_6182.jpg "Formulovali argumenty, které měly hlavu i patu. ")
 
 ![](dsc_6223.jpg "Zvládli i pružně vyvracet tvrzení, se kterými přišla protistrana. ")
 
