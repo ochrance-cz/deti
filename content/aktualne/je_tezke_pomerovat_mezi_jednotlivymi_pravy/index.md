@@ -6,9 +6,9 @@ perex: Na problémy s proporcionalitou neboli poměřováním vedle sebe stojíc
   přednost, zasahujeme do druhého co nejméně. Už to ví i studenti z [Moravského
   gymnázia Brno](https://www.mgbrno.cz/)[.](https://www.instagram.com/mgbrno/)
 ---
+Další středoškoláci si u nás vyzkoušeli, jak často může docházet ke střetu práva na soukromí s právem sdílet informace. 
 
-
-![](dsc_6228.jpg "Další středoškoláci si u nás vyzkoušeli, jak často může docházet ke střetu práva na soukromí s právem sdílet informace. V simulovaném soudním řízení museli své názory přednést i obhájit. A dařilo se jim skvěle!")
+![](dsc_6228.jpg "V simulovaném soudním řízení museli své názory přednést i obhájit. ")
 
 
 
