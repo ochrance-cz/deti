@@ -1,9 +1,9 @@
 ---
 title: V Duchcově tráví děti přestávky po svém
 date: 2024-01-04T14:25:41.297Z
-perex: Přáli oživit přestávky mezi vyučováním. Chtěli poslouchat hudbu a mít
-  šanci si zahrát krátké společenské hry. Zpracovali plán, vše si vyjednali
-  s vedením školy, zajistili finance a své plány uvedli v realitu. Přestávky na
+perex: Přály si oživit přestávky mezi vyučováním. Chtěly poslouchat hudbu a mít
+  šanci si zahrát krátké společenské hry. Zpracovaly plán, vše si vyjednaly
+  s vedením školy, zajistily finance a své plány uvedly v realitu. Přestávky na
   [duchcovské základní
   škole](https://www.zssochora.cz/index.php?type=Post&id=518) teď vypadají
   trochu jinak.
@@ -12,11 +12,9 @@ Holky ze školního parlamentu se přihlásily do [naší soutěže](https://det
 
 ![Skupina pěti dívek prodávajících perníčky na vánočním jarmarku.](img_1791.jpg)
 
-Rozhodly se nakoupit společenské hry, které by se spolužáky mohli hrát na chodbách své základní školy. Na školní vánoční jarmark napekly vánoční perníčky. Díky jejich prodeji se jim podařilo vybrat 1 500 Kč. Mohly tak nakoupit tři sady stolního hokeje.
+Rozhodly se nakoupit společenské hry, které by se spolužáky mohli hrát na chodbách své základní školy. Na školní vánoční jarmark napekly vánoční perníčky. Díky jejich prodeji se jim podařilo vybrat 1 500 Kč. Mohly tak nakoupit tři sady stolního hokeje. Samotné parlamentářky jsou zodpovědné za půjčování her a starají se, aby byly stále v dobrém stavu.
 
 ![Skupinka chlapců hrající stolní fotbálek.](img_1904.jpg)
-
-Samotné parlamentářky jsou zodpovědné za půjčování her a starají se, aby byly stále v dobrém stavu.
 
 Vedle toho holky zjišťovaly, jestli je možné ze školního rozhlasu pouštět o přestávkách rádio. V první řadě narazily. Školní rozhlas byl poškozený. Na jejich podnět ho však vedení školy nechalo opravit.
 
