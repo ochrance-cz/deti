@@ -167,7 +167,7 @@ cases:
       * Pobírat rodičovský příspěvek můžeš až do vyčerpání celkové částky (u jednoho dítěte 350 000 Kč, u dvojčat či vícerčat 525 000 Kč), ale nejpozději do 3 let dítěte, případně do narození dalšího dítěte. 
 
 
-      **Co když znovu otěhotním a nestihnu vyčerpat celkovou částku rodičovského příspěvku do narození dalšího dítěte?** 
+      **Co když znovu otěhotním a nestihnu vyčerpat celkovou částku do narození dalšího dítěte?** 
 
 
       * Pokud ty nebo otec dítěte budete v době narození dítěte pracovat, Úřad práce ti jednorázově vyplatí zbývající část dávky.
