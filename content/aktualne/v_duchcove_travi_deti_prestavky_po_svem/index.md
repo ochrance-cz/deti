@@ -12,7 +12,7 @@ Holky ze školního parlamentu se přihlásily do [naší soutěže](https://det
 
 ![Skupina pěti dívek prodávajících perníčky na vánočním jarmarku.](img_1791.jpg)
 
-Rozhodly se nakoupit společenské hry, které by se spolužáky mohli hrát na chodbách své základní školy. Na školní vánoční jarmark napekly vánoční perníčky. Díky jejich prodeji se jim podařilo vybrat 1 500 Kč. Mohly tak nakoupit tři sady stolního hokeje. Samotné parlamentářky jsou zodpovědné za půjčování her a starají se, aby byly stále v dobrém stavu.
+Rozhodly se nakoupit společenské hry, které by mohly se spolužáky hrát na chodbách své základní školy. Na školní vánoční jarmark napekly vánoční perníčky. Díky jejich prodeji se jim podařilo vybrat 1 500 Kč. Mohly tak nakoupit tři sady stolního hokeje. Samotné parlamentářky jsou zodpovědné za půjčování her a starají se, aby byly stále v dobrém stavu.
 
 ![Skupinka chlapců hrající stolní fotbálek.](img_1904.jpg)
 
