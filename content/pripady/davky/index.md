@@ -150,7 +150,7 @@ cases:
       I jako nezletilý rodič máš automaticky část rodičovské odpovědnosti spočívající v povinnosti a práva péče o dítě. Ostatní složky rodičovské odpovědnosti (zastupování dítěte, správa jeho jmění) jsou pozastaveny až do nabytí plné svéprávnosti, tedy zpravidla do 18. narozenin. **Abys mohla jako nezletilá sama požádat o rodičovský příspěvek či porodné, musí ti být alespoň 16 let. V opačném případě za tebe musí požádat zákonný zástupce, nejčastěji rodič.**
 
 
-      **Kde musím požádat?** 
+      **Kde mohu požádat?** 
 
 
       Žádost se podává na [úřadu práce v místě tvého bydliště](https://www.uradprace.cz/web/cz/krajske-pobocky) (můžeš podat osobně, nebo poslat poštou). Je potřeba k tomu použít předepsaný formulář. Ten získáš buď přímo na úřadu práce, nebo si je můžeš stáhnout [zde](https://www.mpsv.cz/web/cz/-/zadost-o-rodicovsky-prispevek).
