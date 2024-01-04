@@ -41,10 +41,8 @@ Tvou stížnost posoudí právník nebo právnička, který/á bude mít tvůj p
 
 **Naše pomoc je bezplatná.**
 
-## Co by měla obsahovat stížnost adresovaná ombudsmanovi?
+## Co by měla tvá stížnost obsahovat?
 
-Ze stížnosti by mělo být jasné zejména:
-
-* tvé jméno, věk a jakýkoliv kontakt, přes který se s tebou můžeme spojit (může to být e-mail, poštovní adresa nebo telefon),
-* na koho si stěžuješ (uveď alespoň název úřadu, na který si stěžuješ, event. jiné instituce či osoby, se kterou jsi jednal),
-* jaký problém řešíš.
+* tvé jméno, věk a jakýkoliv kontakt, přes který se s tebou můžeme spojit (může to být e-mail, poštovní adresa nebo telefon)
+* na koho si stěžuješ (uveď alespoň název úřadu, na který si stěžuješ, event. jiné instituce či osoby, se kterou jsi jednal/a)
+* jaký problém řešíš
