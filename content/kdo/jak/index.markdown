@@ -39,7 +39,7 @@ Budeme respektovat způsob komunikace, který si vybereš.
 
 Tvou stížnost posoudí právník nebo právnička, který/á bude mít tvůj případ na starosti. Pokud bude potřeba, spojí se s tebou a společně doplníte další informace.
 
-**Pomoc veřejného ochránce práv (ombudsmana) je bezplatná.**
+**Naše pomoc je bezplatná.**
 
 ## Co by měla obsahovat stížnost adresovaná ombudsmanovi?
 
