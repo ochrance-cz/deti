@@ -39,7 +39,11 @@ Budeme respektovat způsob komunikace, který si vybereš.
 
 Tvou stížnost posoudí právník nebo právnička, který/á bude mít tvůj případ na starosti. Pokud bude potřeba, spojí se s tebou a společně doplníte další informace.
 
+Pokud potřebuješ, dej nám vědět a odpovíme ti v tvém mateřském jazyce nebo v Braillově písmu.
+
 **Naše pomoc je bezplatná.**
+
+
 
 ## Co by měla tvá stížnost obsahovat?
 
