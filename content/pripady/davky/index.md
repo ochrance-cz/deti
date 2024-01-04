@@ -153,7 +153,7 @@ cases:
       **Kde mohu požádat?** 
 
 
-      Žádost se podává na [úřadu práce v místě tvého bydliště](https://www.uradprace.cz/web/cz/krajske-pobocky) (můžeš podat osobně, poslat poštou, ne před aplikaci Jenda). Je potřeba k tomu použít předepsaný formulář. Ten získáš buď přímo na úřadu práce, nebo si je můžeš stáhnout [zde](https://www.mpsv.cz/web/cz/-/zadost-o-rodicovsky-prispevek).
+      Žádost se podává na [úřadu práce v místě tvého bydliště](https://www.uradprace.cz/web/cz/krajske-pobocky) (můžeš podat osobně, poslat poštou, nebo přes [aplikaci Jenda](https://jenda.mpsv.cz/)). Je potřeba k tomu použít předepsaný formulář. Ten získáš buď přímo na úřadu práce, stáhneš si ho [zde](https://www.mpsv.cz/web/cz/-/zadost-o-rodicovsky-prispevek) nebo tě povede aplikace.
 
 
       **Kolik dostanu a na jak dlouho?**
