@@ -37,21 +37,23 @@ cases:
       **Základní sleva na poplatníka**
 
 
-      * Máš možnost uplatnit si základní slevu na poplatníka. Tuto slevu si může uplatnit každý. Pro rok 2022 je výše slevy 30 840 Kč. To znamená, že Tvá celková daň z příjmů za celý rok 2022 může být snížena o tuto částku.
+      * Máš možnost uplatnit si základní slevu na poplatníka ve výši 30 840 Kč. Tuto slevu si může uplatnit každý. To znamená, že Tvá celková daň z příjmů za celý rok může být snížena o tuto částku.
 
       * Zaměstnavatelé zpravidla nabízejí při nástupu do práce podpis [tzv. růžového prohlášení](https://www.financnisprava.cz/assets/cs/prilohy/dt-upozorneni-mf-k-tiskopisum/5457_26.pdf) (prohlášení poplatníka daně z příjmů fyzických osob ze závislé činnosti). V tomto prohlášení můžeš vyplnit, že chceš slevu uplatnit. Zaměstnavatel Ti pak bude vyplácet mzdu, ve které Ti sníží zálohu na daň až o 2 570 Kč, což je výše slevy na poplatníka připadající na jeden měsíc.
 
-      * Pokud máš brigádu jen po část roku a nevyčerpáš proto celou slevu na poplatníka (tzn., že i přes uplatnění slevy stále platíš daň), můžeš do konce března následujícího roku podat daňové přiznání a uplatnit celou slevu, nebo můžeš svého zaměstnavatele do 15. února následujícího roku požádat o tzv. roční zúčtování daně a uplatnit si zbytek slevy na dani. Finanční úřad Ti pak vrátí přeplatek na dani, kterou si v průběhu roku zaplatil/a.
+      * Pokud máš brigádu jen po část roku a nevyčerpáš proto celou slevu na poplatníka (tzn., že i přes uplatnění slevy stále platíš daň), můžeš do konce března následujícího roku podat daňové přiznání a uplatnit celou slevu, nebo můžeš svého zaměstnavatele do 15. února následujícího roku požádat o tzv. roční zúčtování daně a uplatnit si zbytek slevy na dani. Finanční úřad Ti pak vrátí přeplatek na dani, kterou jsi v průběhu roku zaplatil/a.
 
       * Pozor! Pokud máš současně více zaměstnavatelů (více brigád), můžeš tzv. růžové prohlášení podepsat pouze u jednoho z nich. Jestliže máš navíc v průběhu roku více brigád současně, nemůžeš požádat o roční zúčtování daně. Pokud bys tedy chtěl/a v tomto případě uplatnit slevu na dani a požádat o vrácení přeplatku na dani, budeš muset podat daňové přiznání.
 
 
-      **Sleva na studenta**
+      **Sleva na studenta (naposledy půjde uplatnit v daňovém přiznání za rok 2023)**
 
 
-      * Pokud jsi mladší 26 let nebo studuješ v prezenční formě doktorský studijní program a je Ti méně než 28 let, pak si můžeš kromě základní slevy na poplatníka uplatnit také slevu na studenta ve výši 4 020 Kč za rok. Zaměstnavatel Ti pak bude zálohu na daň za každý měsíc snižovat o dalších 335 Kč.
+      * Pokud jsi mladší 26 let nebo studuješ v prezenční formě doktorský studijní program a je Ti méně než 28 let, pak si můžeš v daňovém přiznání za rok 2023 kromě základní slevy na poplatníka uplatnit také slevu na studenta ve výši 4 020 Kč za rok.
 
-      * Pro uplatnění slevy je potřeba, abys zaměstnavateli doložil/a aktuální potvrzení o studiu.
+      * Pro uplatnění slevy je potřeba, abys na finančním úřadě doložil/a potvrzení o studiu za rok 2023.
+
+      * **Od roku 2024 byla sleva na studenta zrušena. Nemůžeš ji proto uplatnit na příjmy, které získáš v roce 2024.** 
 
 
       ![]()
