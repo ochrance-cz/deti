@@ -18,4 +18,4 @@ Pravidelně se k nám vrací také nebrněnské školy. O svých zážitcích z 
 
 > ### **Náš tip:**
 >
-> **Co spojit návštěvu naší kanceláře s dalšími zajímavými místy v Brně? Můžete se inspirovat třeba u studentů z [Poličky](https://www.gympolicka.cz/aktuality/profesni-zsv-si-rozsirilo-obzory-na-exkurzi-v-brne/) nebo [Znojma](https://www.gpoa.cz/pro-studenty-a-rodice/ostatni-clanky-aktualniho-skolniho-roku/2306-exkurze-brno).**
+> **Co spojit návštěvu naší kanceláře s dalšími zajímavými místy v Brně? Můžeš se inspirovat třeba u studentů z [Poličky](https://www.gympolicka.cz/aktuality/profesni-zsv-si-rozsirilo-obzory-na-exkurzi-v-brne/) nebo [Znojma](https://www.gpoa.cz/pro-studenty-a-rodice/ostatni-clanky-aktualniho-skolniho-roku/2306-exkurze-brno).**
