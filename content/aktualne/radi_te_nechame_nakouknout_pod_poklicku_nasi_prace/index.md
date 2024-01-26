@@ -14,8 +14,8 @@ Pravidelně se k nám vrací také nebrněnské školy. O svých zážitcích z 
 
 ![Skupina 7 usmívajících se studentek jedoucí ve vlaku do Brna. ](ombudsman-1-1-scaled.jpg)
 
-> **Náš tip:**
->
-> **Co spojit návštěvu naší kanceláře s dalšími zajímavými místy v Brně. Můžete se inspirovat třeba u studentů z [Poličky](https://www.gympolicka.cz/aktuality/profesni-zsv-si-rozsirilo-obzory-na-exkurzi-v-brne/) nebo [Znojma](https://www.gpoa.cz/pro-studenty-a-rodice/ostatni-clanky-aktualniho-skolniho-roku/2306-exkurze-brno).** 
-
 ![Skupina cca 30 studentů spolu s ombudsmanem Stanislavem Křečkem v jeho kanceláři. ](ombudsman-2-scaled.jpg)
+
+> ### **Náš tip:**
+>
+> **Co spojit návštěvu naší kanceláře s dalšími zajímavými místy v Brně. Můžete se inspirovat třeba u studentů z [Poličky](https://www.gympolicka.cz/aktuality/profesni-zsv-si-rozsirilo-obzory-na-exkurzi-v-brne/) nebo [Znojma](https://www.gpoa.cz/pro-studenty-a-rodice/ostatni-clanky-aktualniho-skolniho-roku/2306-exkurze-brno).**
