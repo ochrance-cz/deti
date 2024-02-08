@@ -85,15 +85,16 @@ cases:
 
       Postup, jak nám poslat podnět, nalezneš popsaný [zde](jak-se-na-ochrance-obratit/). Je vhodné, pokud ke svému podnětu přiložíš kopii své žádosti o přezkum a výsledku přezkumu.
   - body: >-
-      Chybějící maturitní zkoušku budeš moct splnit v náhradním termínu.
-      Většinou ale až v dalším zkušebním období (typicky na podzim). Jen
-      výjimečně ji budeš moct dokončit ještě v probíhajícím zkušebním období.
+      **Co nejrychleji se omluv řediteli/ředitelce školy. Nejpozději však do 3
+      pracovních dnů od data konání zkoušky.**
+
+
+      Chybějící maturitní zkoušku budeš moct splnit v náhradním termínu. Většinou ale až v dalším zkušebním období (typicky na podzim). Jen výjimečně ji budeš moct dokončit ještě v probíhajícím zkušebním období.
 
 
       > Pozor: Například slohovky nebo didaktické testy budeš muset vždy psát až v následujícím zkušebním období. Slohovky totiž musí mít stejné zadání pro všechny maturanty dané školy i zkušebního období. Didaktické testy jsou stejné pro úplně všechny maturanty v jednom zkušebním období.
     title: Co se stane, když onemocním na maturitu?
-    perex: Co nejrychleji se omluv řediteli/ředitelce školy. Nejpozději však do 3
-      pracovních dnů od data konání zkoušky.
+    perex: ""
   - title: Musí mi škola umožnit ohřát si v jídelně vegetariánské obědy z domu?
     perex: Napsal nám otec, který se marně snažil přesvědčit ředitelku školky, aby
       umožnila jeho synům si ve školní jídelně ohřívat obědy, které by si
