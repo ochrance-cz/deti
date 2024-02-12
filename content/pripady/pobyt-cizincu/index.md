@@ -261,7 +261,7 @@ cases:
       Níže uvedené informace se ti budou hodit, pokud
 
       * jsi opustil/a svou zemi,
-      * možná potřebuješ pomoc a ochranu
+      * možná potřebuješ pomoc a ochranu,
       * a nejsi se svými rodiči nebo jinými příbuznými.
     body: >-
       ### Proč mi dali zástupce? Co dělá?
