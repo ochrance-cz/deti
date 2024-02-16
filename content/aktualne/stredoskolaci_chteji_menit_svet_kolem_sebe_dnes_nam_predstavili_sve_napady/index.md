@@ -18,7 +18,7 @@ perex: "Dnes k nám do Brna přijeli autoři sedmi nejlepších středoškolský
 
 Ocenění za důkladné zmapování tématu anketou si odnesla trojice studentů [gymnázia z Velkého Meziříčí](https://www.facebook.com/gymplvm). Ti si dali za cíl varovat své vrstevníky před riziky jednorázových e-cigaret. Z 290 vyplněných dotazníků například zjistili, že velká část oslovených sedmáků a deváťáků už má osobní zkušenost s kouřením e-cigaret.
 
-![](dsc_4115.jpg "Soutěžní tým přebírá ocenění od zástupce ombudsmana.")
+![Soutěžní tým přebírá ocenění od zástupce ombudsmana.](dsc_4115.jpg "Soutěžní tým přebírá ocenění od zástupce ombudsmana.")
 
 *„Všechny prezentace jasně potvrdily, že mladí lidé na prahu dospělosti dokáží přemýšlet o tom, co by se mělo v jejich okolí zlepšit. Já bych jim moc přál, aby se jim povedlo jejich projekty úspěšně dotáhnout do konce*,“ ocenil zástupce ombudsmana Vít Alexander Schorm.
 
