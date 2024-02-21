@@ -9,7 +9,7 @@ Pokud onemocníš na maturitu, měl/a by ses co nejrychleji (nejpozději do 3 pr
 
 Maturitní slohovky (stejně jako např. didaktické testy) skutečně nelze psát v „náhradním termínu“ ještě probíhajícího zkušebním období. Bylo by to nefér. Slohovky totiž musí mít jednotné zadání pro všechny na dané škole a v daném období (didaktické testy jsou stejné pro úplně všechny maturanty v daném období). Petrovi jsme tak nemohli pomoci.
 
-#### Díky nám však ministerstvo upozornilo vysoké školy!
+### Díky nám však ministerstvo upozornilo vysoké školy!
 
 Nemůžeme diktovat vysokým školám, kdy mají ukončit termín zápisů ke studiu. Neumožňuje nám to zákon. Proto jsme alespoň vyzvali ministerstvo školství, aby je upozornilo na tento problém a motivovalo je k hledání jiného řešení. **Ministerstvo to udělalo. Všechny vysoké školy tak teď vědí o podobných případech, jako byl ten Petrův. Věříme, že se je budou snažit zohlednit.**
 
