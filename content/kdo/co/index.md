@@ -8,4 +8,4 @@ title: Co se bude dít s mým případem?
 
 > Může se stát, že si nepřeješ, aby někdo věděl, že ses nám svěřil/a se svým problémem. Klidně nám to napiš. Budeme se snažit tvé přání respektovat. V případě, že by to nebylo možné, pokusíme se společně najít i pro tebe přijatelné řešení.
 
-![Graf zobrazující postup, jak ombudsman vyřizuje podněty.](schema.jpg "Život podnětu v kanceláři ombudsmana")
+![]()
