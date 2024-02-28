@@ -11,73 +11,73 @@ attachments: []
 ---
 **Než to všechno vypuklo:**
 
-![Konference pro děti - diskuze před zahájením](dsc_0178.jpg "Děti i dospělí diskutují v předsálí před zahájením konference")
+![Děti i dospělí diskutují v předsálí před zahájením konference](dsc_0178.jpg)
 
 **Vystavili jsme všechna díla, se kterými děti soutěžili o účast na konferenci:**
 
-![Konference pro děti - výstava soutěžních děl](dsc_0186.jpg "Dívka si prohlíží obrázky vystavené v předsálí konferenčního sálu")
+![Dívka si prohlíží obrázky vystavené v předsálí konferenčního sálu](dsc_0186.jpg)
 
-**Zahájení konference** – **děti se dozvěděli, co ombudsman a jeho zástupkyně dělají a kde mohou pomáhat:**
+**Zahájení konference** – **děti se dozvěděly, co ombudsman a jeho zástupkyně dělají a kde mohou pomáhat:**
 
-![Konference pro děti - zahájení](dsc_0289.jpg "Zahájení konference - děti sedí v sále a ombudsman a jeho zástupkyně v křesílkách")
+![Zahájení konference - děti sedí v sále a ombudsman a jeho zástupkyně v křesílkách](dsc_0289.jpg)
 
-![Konference pro děti - zahájení](dsc_0296.jpg "Zahájení konference - děti sedí v sále a sledují video")
+![Zahájení konference - děti sedí v sále a sledují video](dsc_0296.jpg)
 
-![Konference pro děti - zahájení](dsc_0310.jpg "Moderátorka představuje dětem lektory, kteří je následně prováděli")
+![Moderátorka v sále plném dětí představuje dětem lektory, kteří je následně prováděli](dsc_0310.jpg)
 
 **Po oficiálním zahájení čekal děti program v podobě drama lekce. Aktivně vymýšlely, jaké situace je trápí, kde mohou být více aktivní a na koho se v případě problémů mohou obracet. Zkusily si také vytvořit svého dětského ombudsmana a vyzkoušely si, jaké to je mu klást otázky.** 
 
-![Drama lekce](dsc_0338.jpg "Děti tvoří velký kruh a uprostřed stojí lektorka s dvěma chlapci.")
+![Děti tvoří velký kruh a uprostřed stojí lektorka s dvěma chlapci.](dsc_0338.jpg)
 
-![Drama lekce](dsc_0356.jpg "Děti tvoří velký kruh a poslouchají zadání lektorů.")
+![Děti tvoří velký kruh a poslouchají zadání lektorů.](dsc_0356.jpg)
 
-![Drama lekce](dsc_0362.jpg "Děti se rozdělují do menších skupin.")
+![Děti se rozdělují do menších skupin.](dsc_0362.jpg)
 
-![Drama lekce](dsc_0363.jpg "Děti ve skupině poslouchají lektora a natáčí je při tom kameraman.")
+![Děti ve skupině poslouchají lektora a natáčí je při tom kameraman.](dsc_0363.jpg)
 
 **Na konferenci jsme pozvali také poslankyně a poslance, zástupce z ministerstev a Výboru pro práva dítěte. Samostatně jsme s nimi diskutovali o potřebě zřídit dětského ombudsmana, který v České republice chybí.**
 
-![Jednání s politiky](dsc_0327.jpg "U stolu sedí ombudsman, jeho zástupkyně, právníci Kanceláře veřejného ochránce práv, poslankyně, zástupci ministerstev a Výboru pro práva dítěte.")
+![U stolu sedí ombudsman, jeho zástupkyně, právníci Kanceláře veřejného ochránce práv, poslankyně, zástupci ministerstev a Výboru pro práva dítěte.](dsc_0327.jpg)
 
-![Jednání s politiky](dsc_0328.jpg "U stolu sedí ombudsman, jeho zástupkyně, právníci Kanceláře veřejného ochránce práv, poslankyně, zástupci ministerstev a Výboru pro práva dítěte.")
+![U stolu sedí ombudsman, jeho zástupkyně, právníci Kanceláře veřejného ochránce práv, poslankyně, zástupci ministerstev a Výboru pro práva dítěte.](dsc_0328.jpg)
 
 **Samostatně jsme jednali také s učitelkami a učiteli, kteří děti doprovodili na konferenci. Nasdíleli jsme si tipy, jak s dětmi mluvit o ombudsmanovi a o důležitosti zapojení dětí do věcí, které se jich přímo dotýkají.** 
 
-![Jednání s učiteli](dsc_0378.jpg "U stolu sedí učitelky a učitelé s právničkami Kanceláře veřejného ochránce práv.")
+![U stolu sedí učitelky a učitelé s právničkami Kanceláře veřejného ochránce práv.](dsc_0378.jpg)
 
 **Děti se zapojily také do tiskové konference, na které jsme mimo jiné prezentovali, co vše děláme pro děti:**
 
-![Tiskový brífink](dsc_0403.jpg "Tisková mluvčí Kanceláře veřejného ochránce práv pokládá otázku slečně. Pozoruje je ombudsman, jeho zástupkyně a novináři. ")
+![Tisková mluvčí Kanceláře veřejného ochránce práv pokládá otázku slečně. Pozoruje je ombudsman, jeho zástupkyně a novináři. ](dsc_0403.jpg)
 
 **Všechny děti zaujaly ponožky pana ombudsmana:**
 
-![Tiskový brífink](dsc_0415.jpg "Ponožky pana ombudsmana Křečka. ")
+![Ponožky pana ombudsmana Křečka. Jsou barevné a mají na sobě obrázky křečků.](dsc_0415.jpg)
 
 **Hlavní částí konference byla diskuze dětí s ombudsmanem a jeho zástupkyní:**
 
-![Diskuze dětí s ombudsmanem a jeho zástupkyní](dsc_0537.jpg "Děti sedí v sále a diskutují s ombudsmanem a jeho zástupkyní.")
+![Děti sedí v sále a diskutují s ombudsmanem a jeho zástupkyní.](dsc_0537.jpg)
 
-![Diskuze dětí s ombudsmanem a jeho zástupkyní](dsc_0555.jpg "Děti pokládají otázky ombudsmanovi.")
+![Děti pokládají otázky ombudsmanovi.](dsc_0555.jpg)
 
-![Diskuze dětí s ombudsmanem a jeho zástupkyní](dsc_0564.jpg "Děti pokládají otázky ombudsmanovi.")
+![Děti pokládají otázky ombudsmanovi.](dsc_0564.jpg)
 
-![Diskuze dětí s ombudsmanem a jeho zástupkyní](dsc_0573.jpg "Děti pokládají otázky ombudsmanovi.")
+![Děti pokládají otázky ombudsmanovi.](dsc_0573.jpg)
 
 **Velký zájem byl i o skupinové fotky s ombudsmanem nebo o prohlídku jeho kanceláře:** 
 
-![Skupinové foto s ombudsmanem ](dsc_0503.jpg "Skupina dětí s ombudsmanem ")
+![Skupina dětí se fotí s ombudsmanem. ](dsc_0503.jpg)
 
-![Děti si v kanceláři ombudsmana prohlédly i jeho uměleckou tvorbu. ](dsc_0504.jpg "Skupina dětí s ombudsmanem prohlíží obraz na zdi v kanceláři ombudsmana")
+![Skupina dětí s ombudsmanem prohlíží obraz na zdi v kanceláři ombudsmana.](dsc_0504.jpg)
 
-![Skupinové foto s ombudsmanem ](dsc_0508.jpg "Skupina dětí s ombudsmanem ")
+![Skupinové foto dětí s ombudsmanem.](dsc_0508.jpg)
 
-![Skupinové foto s ombudsmanem ](dsc_0512.jpg "Skupina dětí s ombudsmanem ")
+![Skupinové foto dětí s ombudsmanem.](dsc_0512.jpg)
 
 **Na závěr konference jsme děti vzali na exkurzi nedalekého Ústavního soudu:**
 
-![Exkurze na Ústavní soud](dsc_0641.jpg "V plenární zasedací místnosti Ústavního soudu děti diskutují s představitelem Ústavního soudu.")
+![V plenární zasedací místnosti Ústavního soudu děti diskutují s představitelem Ústavního soudu.](dsc_0641.jpg)
 
-![Exkurze na Ústavní soud](dsc_0671.jpg "Děti se fotí u řečnického pultu Ústavního soudu.")
+![Děti se fotí u řečnického pultu Ústavního soudu.](dsc_0671.jpg)
 
 **Tiskovou zprávu o konferenci pro děti můžete zhlédnout také ve znakovém jazyce:**
 
