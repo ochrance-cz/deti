@@ -7,9 +7,9 @@ perex: Dvěma dětem z dětského domova se nelíbilo, že v prvních týdnech 
 ---
 {{< icon "nesouhlas.png" >}}
 
-Dětský domov jsme kritizovali, že plošně omezuje právo nově přijímaných dětí na vycházky. Vycházky lze totiž omezit jen v odůvodněných případech. 
+Dětský domov jsme kritizovali, že plošně omezuje právo nově přijímaných dětí na vycházky. Ty lze totiž omezit jen v odůvodněných případech. 
 
-Po dětském domově jsme chtěli, aby přehodnotil praxi, která dětem neumožňovala pohyb při vycházkách mimo území města. Toto pravidlo se nám nelíbilo zejména u dospívajících. Postrádalo smysl také u dětí, které běžně dojíždějí do škol mimo město. 
+Po dětském domově jsme také chtěli, aby přehodnotil praxi, která dětem neumožňovala pohyb při vycházkách mimo území města. Toto pravidlo se nám nelíbilo zejména u dospívajících. Postrádalo smysl také u dětí, které běžně dojíždějí do škol mimo město. 
 
 Ředitelka dětského domova přijala naše hodnocení pozitivně. 
 
