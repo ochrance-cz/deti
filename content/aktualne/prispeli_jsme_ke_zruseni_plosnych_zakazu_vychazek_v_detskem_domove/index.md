@@ -30,3 +30,5 @@ Po dětském domově jsme chtěli, aby přehodnotil praxi, která dětem neumož
 **Obdobně budou vychovatelé postupovat u povolování vycházek dětí za hranice města.**
 
 {{< /muze >}}
+
+> Ve [zprávě o našem šetření ](https://eso.ochrance.cz/Nalezene/Edit/12100)se dočteš, co vše jsme s ředitelkou dětského domova řešili.
