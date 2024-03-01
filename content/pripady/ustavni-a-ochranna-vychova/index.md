@@ -242,11 +242,9 @@ cases:
       Ředitelka dětského domova přijala naše hodnocení pozitivně.
 
 
-      1. **Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí.** 
+      1. **Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí.**
 
-      2. **Upozornila vychovatele dětského domova na povinnost co nejlépe poznat nově příchozí dítě a vyhodnotit možná rizika v souvislosti s vycházkami.** 
-
-      3. **Obdobně budou vychovatelé postupovat u povolování vycházek dětí za hranice města.**
+      2. **Po vychovatelích chce, aby co nejlépe poznali nově příchozí dítě a vyhodnotili možná rizika pro jeho volné vycházky ve městě i mimo něj.**
     title: Přispěli jsme ke zrušení plošných zákazů vycházek v dětském domově
     perex: Dvěma dětem z dětského domova se nelíbilo, že v prvních týdnech svého
       pobytu nemohly chodit ven bez doprovodu vychovatelů. Na vycházku
