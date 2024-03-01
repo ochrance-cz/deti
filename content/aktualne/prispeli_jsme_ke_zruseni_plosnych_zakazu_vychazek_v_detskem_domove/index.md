@@ -16,4 +16,4 @@ Po dětském domově jsme chtěli, aby přehodnotil praxi, která dětem neumož
 1. **Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí.**
 2. **Chce po vychovatelích dětského domova, aby co nejlépe poznali nově příchozí dítě a vyhodnotili možná rizika pro jejich volné vycházky ve městě i mimo něj.** 
 
-> Co všechno jsme s ředitelkou dětského domova řešili, se může dočíst ve [zprávě o našem šetření.](https://eso.ochrance.cz/Nalezene/Edit/12100)
+> Co všechno jsme s ředitelkou dětského domova řešili, se může dočíst ve [zprávě o šetření.](https://eso.ochrance.cz/Nalezene/Edit/12100)
