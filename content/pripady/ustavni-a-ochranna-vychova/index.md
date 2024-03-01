@@ -142,7 +142,7 @@ cases:
 
 
       Ředitel následně Evě nabídl možnost přestoupit mezi středními školami. Také udělil výtku za neplnění pracovních povinností sociální pracovnici domova, protože ta měla volbu Eviny střední školy na starost. Ředitel také rozeslal dopis všem rodičům dětí v dětském domově a nabídl jim intenzivnější spolupráci. Poučil i pracovníky zařízení, aby s rodiči i dětmi lépe komunikovali.
-  - title: Můžu se vrátit do dětského domova, když jsem z něho v 18 letech odešel?
+  - title: Mohu se vrátit do dětského domova, když jsem z něho v 18 letech odešel?
     perex: Obrátil se na nás osmnáctiletý Eda, který po dosažení zletilosti ještě
       chvíli dobrovolně pobýval v dětském domově (na základě smlouvy), následně
       z něj však odešel. Po několika týdnech si své rozhodnutí rozmyslel a chtěl
@@ -202,7 +202,7 @@ cases:
 
       V diagnostickém ústavu pracují s dětmi odborníci jako psychologové, speciální pedagogové, učitelé a vychovatelé. Ti všichni se na konci pobytu každého dítěte poradí a doporučí, co je podle nich pro dítě nejlepší.*
   - title: Mohou pro mě po příchodu do dětského domova platit jiná pravidla než pro
-      ostatní
+      ostatní?
     perex: Řešili jsme případ sedmnáctileté Žanety, kterou do dětského domova
       umístil soud. U rodičů být nemohla a s určenými poručníky být nechtěla. Po
       příchodu do dětského domova (první měsíc) musela odevzdat mobil a měla k
