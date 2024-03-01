@@ -3,7 +3,7 @@ title: Přispěli jsme ke zrušení plošných zákazů vycházek v dětském do
 date: 2024-03-01T14:01:34.326Z
 perex: Dvěma dětem z dětského domova se nelíbilo, že v prvních týdnech svého
   pobytu nemohly chodit ven bez doprovodu vychovatelů. Na vycházku za hranice
-  města pak nesmělo chodit žádné z dětí.
+  města pak nesmělo chodit žádné dítě.
 ---
 {{< icon "nesouhlas.png" >}}
 
