@@ -92,7 +92,7 @@ cases:
 
 
       V případě Anežky se jsme se zabývali přímo postupem ředitele a sociálního pracovníka OSPOD. Zjistili jsme, že nepostupovali správně. Nebyl žádný důvod nepovolit Anežce víkendy doma. Po našem zásahu tak mohla Anežka začít jezdit na víkendy a prázdniny opět domů.
-  - title: Můžu mít v dětském domově návštěvy kamarádů a příbuzných?
+  - title: Mohu mít v dětském domově návštěvy kamarádů a příbuzných?
     perex: Patnáctiletý Petr nám poslal e-mail, ve kterém psal, že mu ředitel
       dětského domova zakázal návštěvy příbuzných a kamarádů v domově. Petrovi
       se to nelíbilo.
@@ -113,12 +113,11 @@ cases:
 
 
       V případě Petra se nám podařilo řediteli vysvětlit, jaká jsou pravidla pro návštěvy a pro jejich zákaz či omezení. Ředitel přislíbil, že tato pravidla bude dodržovat.
-  - title: I dítě z dětského domova si může vybrat střední školu
-    perex: Obrátila se na nás patnáctiletá Eva z dětského domova s tím, že z
-      donucení dětského domova musí nastoupit na střední školu, na kterou
-      nechce. Jednak je škola od dětského domova daleko, takže bude muset bydlet
-      na internátu. A také chtěla chodit na stejnou školu, kterou navštěvuje i
-      její sestra.
+  - title: Mohu si vybrat střední školu, přestože žiju v dětském domově?
+    perex: Patnáctiletá Eva z dětského domova měla nastoupit na střední školu, na
+      kterou nechtěla. Donutil ji ředitel dětského domova. Na školu nechtěla,
+      protože by musela být na internátu. Také by nechodila na stejnou školu
+      jako její sestra.
     body: >-
       Dětský domov nemůže sám určovat, na jakou střední školu dítě půjde. Musí
       se aktivně snažit do volby vhodné střední školy zapojit nejen dítě, ale i
