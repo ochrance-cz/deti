@@ -232,6 +232,26 @@ cases:
 
 
       **Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](https://deti.ochrance.cz/kdo/jak/).**
+  - body: >-
+      Dětský domov jsme kritizovali, že plošně omezuje právo nově přijímaných
+      dětí na vycházky. Vycházky lze totiž omezit jen v odůvodněných případech.
+
+
+      Po dětském domově jsme chtěli, aby přehodnotil praxi, která dětem neumožňovala pohyb při vycházkách mimo území města. Toto pravidlo se nám nelíbilo zejména u dospívajících. Postrádalo smysl také u dětí, které běžně dojíždějí do škol mimo město.
+
+
+      Ředitelka dětského domova přijala naše hodnocení pozitivně.
+
+
+      1. **Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí.** 
+
+      2. **Upozornila vychovatele dětského domova na povinnost co nejlépe poznat nově příchozí dítě a vyhodnotit možná rizika v souvislosti s vycházkami.** 
+
+      3. **Obdobně budou vychovatelé postupovat u povolování vycházek dětí za hranice města.**
+    title: Přispěli jsme ke zrušení plošných zákazů vycházek v dětském domově
+    perex: Dvěma dětem z dětského domova se nelíbilo, že v prvních týdnech svého
+      pobytu nemohly chodit ven bez doprovodu vychovatelů. Na vycházku
+      za hranice města pak nesmělo chodit žádné z dětí.
   - title: Co jsou to Standardy kvality péče o děti v dětských domovech?
     perex: Máme za úkol kontrolovat, jak je s dětmi v dětských domovech a jiných
       zařízeních zacházeno, a proto nejen jezdíme na pravidelné preventivní
