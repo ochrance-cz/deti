@@ -14,7 +14,6 @@ Po dětském domově jsme chtěli, aby přehodnotil praxi, která dětem neumož
 Ředitelka dětského domova přijala naše hodnocení pozitivně. 
 
 1. **Zrušila plošný zákaz samostatných vycházek u nově přijímaných dětí.**
-2. **Upozornila vychovatele dětského domova na povinnost co nejlépe poznat nově příchozí dítě a vyhodnotit možná rizika v souvislosti s vycházkami.** 
-3. **Obdobně budou vychovatelé postupovat u povolování vycházek dětí za hranice města.**
+2. **Chce po vychovatelích dětského domova, aby co nejlépe poznali nově příchozí dítě a vyhodnotili možná rizika pro jejich volné vycházky ve městě i mimo něj.** 
 
 > Co všechno jsme s ředitelkou dětského domova řešili, se může dočíst ve [zprávě o našem šetření.](https://eso.ochrance.cz/Nalezene/Edit/12100)
