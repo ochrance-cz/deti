@@ -37,32 +37,27 @@ cases:
 
       > **Častěji než my chodí do jednotlivých zařízení pracovníci z obecních úřadů (orgánů sociálně-právní ochrany dětí, také označované jako OSPOD či "sociálka") a státní zástupci.** Je velmi důležité, aby při svých návštěvách mluvili s dětmi o samotě - bez přítomnosti dalších osob. Jejich úkolem je zjistit, jestli je v domově vše v pořádku, jestli se nedá něco zlepšit, jestli už nejsou podmínky pro návrat dítěte k jeho rodině. Měli by proto dětem na sebe nechat i kontakt (vizitku nebo informaci například na nástěnce), aby jim děti mohly napsat třeba e-mail.
   - title: Mohou mi pracovníci zařízení kontrolovat e-maily?
-    perex: Řešíme nejen konkrétní stížnosti nebo dotazy, ale také provádíme
-      preventivní návštěvy v zařízeních pro děti (dětské domovy, výchovné
-      ústavy…) a zjišťujeme, v jakých podmínkách děti žijí a zda zařízení
-      respektují všechna jejich práva. Při té příležitosti jsme narazili na
-      dotazy, jestli pracovníci zařízení mohou dětem kontrolovat e-maily.
-    body: >-
-      V jednom dětském domově se to stávalo, že si děti musely každý e-mail,
+    perex: V jednom dětském domově se to stávalo, že si děti musely každý e-mail,
       který chtěly odeslat, nejprve nechat zkontrolovat. Vedení domova to
       zdůvodňovalo tím, že vede děti k tomu, aby nepoužívaly sprostá slova, a
-      zabránilo domlouvání útěku. 
+      zabránilo domlouvání útěku.
+    body: >-
+      Děti si nám stěžovaly, že je to porušování soukromí. Nechtěly, aby si
+      pracovníci domova četli jejich (někdy i intimní) e-maily přátelům,
+      partnerům, rodině.
 
 
-      Děti si nám stěžovaly, že je to porušování soukromí, když si pracovníci čtou jejich (někdy i intimní) e-maily přátelům, partnerům, rodině.
+      Upozornili jsme vedení domova, že je nelegální kontrolovat e-mailovou poštu, a vyzvali ho, aby s takovou praxí přestalo. 
 
 
-      Upozornili jsme vedení domova, že je nelegální kontrolovat e-mailovou poštu. Vyzvali jsme vedení domova, aby s takovou praxí přestalo. 
-
-
-      > Úmluva o právech dítěte říká, že nikdo nesmí svévolně zasahovat do soukromého života, rodiny, domova a korespondence dítěte. Korespondencí se přitom dnes nemyslí jen klasická pošta, ale i e-maily, sms zprávy, vzkazy na Facebooku apod..
+      > [Úmluva o právech dítěte](https://deti.ochrance.cz/umluva) říká, že nikdo nesmí svévolně zasahovat do soukromého života, rodiny, domova a korespondence dítěte. Korespondencí se přitom dnes nemyslí jen klasická pošta, ale i e-maily, sms zprávy, vzkazy na sociálních sítích či chatech.
   - title: Vzali mě od rodičů, ale myslím si, že se problémy v rodině měly a mohly
       řešit jinak. Co se s tím dá dělat?
-    perex: Obrátil se na nás patnáctiletý Roman. Soud rozhodl, že bude lepší, když i
-      s mladšími sourozenci nebude dále žít s rodiči, ale v zařízení pro děti.
-      Důvodem bylo to, že si stěžoval sociálním pracovníkům, že má na něj matka
-      přehnané nároky - má příliš mnoho kroužků, matka mu často nadává a někdy
-      ho dokonce nepřiměřeně fyzicky trestá.
+    perex: Soud rozhodl, že bude lepší, když patnáctiletý Roman i s mladšími
+      sourozenci nebude dále žít s rodiči, ale v zařízení pro děti. Důvodem bylo
+      to, že si stěžoval sociálním pracovníkům, že na něm má matka přehnané
+      nároky (měl mnoho kroužků, matka mu často nadávala a někdy ho dokonce
+      nepřiměřeně fyzicky trestala).
     body: >-
       Roman si však nepřál odejít z rodiny. Už vůbec nechtěl, aby někdo zasáhl
       také do života jeho sourozenců, kterých se jednání matky až tolik
@@ -81,7 +76,7 @@ cases:
       rodičů.
     body: >-
       O povolení či zamítnutí propustky (někdy také označované jako dovolenky,
-      tj. pobytu mimo zařízení přes noc) ro**zhoduje ředitel/ka dětského
+      tj. pobytu mimo zařízení přes noc) **rozhoduje ředitel/ka dětského
       domova**. Před tím si musí vyžádat souhlas sociálního pracovníka/ sociální
       pracovnice OSPOD. 
 
