@@ -36,4 +36,4 @@ we-cannot:
 
 [Informační leták o působnosti ombudsmana](/media/verze_1.png) [](/media/letak_-_ombudsman_detem_cestina_.pdf)
 
-![](verze_1.png "Informační leták - je na něm logo ombudsmana, maskot, fotky a jména ombudsmana a jeho zástupce a kontakty na Kancelář ombudsmana.. ")
+![Informační leták - je na něm logo ombudsmana, maskot, fotky a jména ombudsmana a jeho zástupce a kontakty na Kancelář ombudsmana.](verze_1.png)
