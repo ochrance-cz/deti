@@ -13,7 +13,7 @@ videos:
   - video: https://youtu.be/oq3Tu4rzI54
   - video: https://youtube.com/shorts/hK4nwPgcj-Q?feature=share
 langs:
-  en: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__anglictina_.pdf
+  en: /media/letak_-_ombudsman_detem_-en_2024.pdf
   de: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf
   ru: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__rustina_-_anglicke_logo_.pdf
   rom: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__romstina_.pdf
