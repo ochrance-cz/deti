@@ -14,7 +14,7 @@ videos:
   - video: https://youtube.com/shorts/hK4nwPgcj-Q?feature=share
 langs:
   en: /media/letak_-_ombudsman_detem_-en_2024.pdf
-  de: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__nemcina_-_anglicke_logo_.pdf
+  de: /media/letak_-_ombudsman_detem_de_2024.pdf
   ru: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__rustina_-_anglicke_logo_.pdf
   rom: /media/letak_-_ombudsman_detem_ro_2024.pdf
 ---
