@@ -15,7 +15,7 @@ www.116006@bkb.cz
 
 ## Modrá linka
 
-608 902 410, 731 197 477 (nonstop, zpoplatněno dle Tvého aktuálního tarifu)
+608 902 410, 731 197 477 (nonstop, zpoplatněno dle tvého aktuálního tarifu)
 
 https://www.modralinka.cz/ 
 
@@ -23,7 +23,7 @@ https://www.modralinka.cz/
 
 ## Linka Anabell – řešení problémů souvisejících s poruchou příjmu potravy
 
-774 467 293 (pondělí 8-16 hod., úterý 10-18 hod., středa až pátek 8-16 hod., zpoplatněno dle Tvého aktuálního tarifu)\
+774 467 293 (pondělí 8-16 hod., úterý 10-18 hod., středa až pátek 8-16 hod., zpoplatněno dle tvého aktuálního tarifu)\
 www.anabell.cz
 
 ## Poradna při finanční tísni
@@ -33,12 +33,12 @@ www.financnitisen.cz
 
 ## Linka DKC pro problematiku rizik v kyberprostoru
 
-778 510 510 (nonstop, zpoplatněno dle Tvého aktuálního tarifu)\
+778 510 510 (nonstop, zpoplatněno dle tvého aktuálního tarifu)\
 www.ditekrize.cz
 
 ## Linka právní pomoci Nadace Naše dítě
 
-777 800 002 (pouze ve středu 14-18 hod., zpoplatněno dle Tvého aktuálního tarifu)\
+777 800 002 (pouze ve středu 14-18 hod., zpoplatněno dle tvého aktuálního tarifu)\
 právní poradenství z oblasti rodinného práva a péče o dítě
 www.nasedite.cz/linka-pravni-pomoci/
 
