@@ -3,7 +3,7 @@ title: Seznam linek důvěry
 ---
 ## Linka bezpečí
 
-116 111 (nonstop, zdarma pro děti a prezenčně studující do 25 let včetně)\
+116 111 (nonstop, zdarma pro děti a prezenčně studující do 26 let)\
 www.linkabezpeci.cz
 
 ## Linka pomoci obětem kriminality a domácího násilí
