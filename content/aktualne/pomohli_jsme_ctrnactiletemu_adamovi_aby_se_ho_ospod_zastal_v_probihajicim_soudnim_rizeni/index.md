@@ -1,7 +1,7 @@
 ---
 title: Pomohli jsme čtrnáctiletému Adamovi, aby se ho OSPOD zastal v
   probíhajícím soudním řízení
-date: 2024-05-15T15:20:05.022Z
+date: 2024-05-30T15:20:05.022Z
 perex: Nesouhlasí-li dostatečně rozumově vyspělé dítě s rozhodnutím soudu ve své
   věci, musí za něj kolizní opatrovník podat odvolání, není-li to jednoznačně v
   rozporu s jeho zájmy.
