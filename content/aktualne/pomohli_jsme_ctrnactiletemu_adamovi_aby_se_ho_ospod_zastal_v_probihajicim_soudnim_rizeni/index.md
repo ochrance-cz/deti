@@ -8,7 +8,7 @@ perex: Nesouhlasí-li dostatečně rozumově vyspělé dítě s rozhodnutím sou
 ---
 Adam se odmítal pravidelně stýkat se svým otcem bez přítomnosti někoho jiného. Vyčítá otci, že opustil rodinu a víc než dva roky se nezajímal o něj ani jeho mladšího bratra. Tento postoj zastává již pět let. Nic na něm nezměnila ani dlouhodobá spolupráce s různými odborníky a pravidelně probíhající styky v přítomnosti babičky. Naopak. 
 
-> **Adam uvedl, že „už má všeho dost a ať ho všichni nechají bejt“.** 
+> {{< icon "nesouhlas.png" >}} **Adam uvedl, že „už má všeho dost a ať ho všichni nechají bejt“.** 
 
 Soud přesto na žádost otce nařídil, že se musí s otcem stýkat bez přítomnosti babičky a nechat se vyšetřit u soudní znalkyně. Adama u soudu zastupoval OSPOD jako kolizní opatrovník. Přestože si myslel, že by soud již neměl chlapce nutit do další spolupráce s odborníky ani k pravidelnému kontaktu s otcem, proti jeho rozhodnutí se neodvolal.
 
