@@ -3,7 +3,7 @@ title: JUDr. Stanislav Křeček
 role: Veřejný ochránce práv (ombudsman)
 pic: vop.jpg
 ---
-Narodil se v roce 1938 v Praze. 
+Narodil se v roce 1938 v Praze. T
 
 Vystudoval průmyslovou školu geologickou, výtvarnou školu a Právnickou fakultu Univerzity Karlovy. Po jejím absolvování se stal soudním čekatelem u Městského soudu v Praze. 
 
