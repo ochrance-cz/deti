@@ -26,7 +26,7 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím. K tomu bude mít poradní orgán složený ze zástupců dětí.
 2. Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
 3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problémů.
-4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
+4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce, pokud zasáhly do práv dětí nebo byly v jejich věci nečinné. 
 5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích apod.).
 6. Měl by chránit děti před diskriminací.
 7. Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
