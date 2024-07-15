@@ -1,8 +1,19 @@
 ---
 title: Proč děti potřebují dětského ombudsmana?
-perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si
-  zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat
-  o prosazování jejich práva v individuálních případech i na systémové úrovni.
+perex: >-
+  <!--StartFragment-->
+
+
+  ```
+
+
+  ```
+
+
+  <!--EndFragment-->
+
+
+  Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat o prosazování jejich práva v individuálních případech i na systémové úrovni.
 ---
 **V Česku žije více než 2 miliony dětí.** 
 
