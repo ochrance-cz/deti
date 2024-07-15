@@ -1,7 +1,7 @@
 ---
 title: Proč děti potřebují dětského ombudsmana?
 perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si
-  zaslouží vyšší ochranu. Dětský ombudsman tu bude hlavně pro ně. Bude se starat
+  zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat
   o prosazování jejich práva v individuálních případech i na systémové úrovni.
 ---
 **V Česku žije více než 2 miliony dětí.** 
@@ -17,15 +17,15 @@ perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Prot
 * 30 % dospívajících dívek uvádí, že se více než jednou týdně cítí „na dně“. 
 * Čtvrtou nejčastější příčinou úmrtí osob ve věku 15–19 let je sebevražda. 
 
-S alarmujícími statistikami by bohužel šlo dále pokračovat. Pro ilustraci, s čím vším se děti u nás potýkají, ale tato čísla postačují. Potřebují někoho, který se bude starat jen o jejich práva.
+S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci, s čím vším se děti u nás potýkají, ale tato čísla postačují. Děti potřebují někoho, kdo se bude starat o jejich práva.
 
 > Zdroje: [Data o dětech](https://dataodetech.cz/display/22), [Ministerstvo práce a sociálních věcí,](https://www.mpsv.cz/statistiky-1) [Národní ústav duševního zdraví](https://dzda.cz/), [Český statistický úřad](https://csu.gov.cz/produkty/deti-se-zdravotnim-postizenim-a-osoby-se-zdravotnim-postizenim-zijici-mimo-soukrome-domacnosti-2017-2018), [Fakulta sociálních studií Masarykovy univerzity](https://irtis.muni.cz/media/3137006/eu_kids_online_report_2018_cz_main.pdf)
 
 ### Co by měl dělat dětský ombudsman?
 
-1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím (k tomu bude mít poradní orgán složený z dětí).
+1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím. K tomu bude mít poradní orgán složený ze zástupců dětí).
 2. Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
-3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problému.
+3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problémů.
 4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
 5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích).
 6. Měl by chránit děti před diskriminací.
@@ -41,7 +41,7 @@ Určitě ne. I když jsme v Kanceláři veřejného ochránce práv na dětskéh
 
 ### Kde bude dětský ombudsman sídlit? 
 
-Dětský ombudsman by měl sídlit **v Brně** ve společné kanceláři s veřejným ochráncem práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
+Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
 ### Pro koho tu dětský ombudsman bude?
 
@@ -53,4 +53,4 @@ Na dětského ombudsmana se budou moct obracet:
 
 ### Kdy začne dětský ombudsman pracovat?
 
-[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), kterou by měl být dětský ombudsman zřízen, je momentálně u poslanců. Ti ji schválili v květnu 2024 v prvním čtení a během června a července ji podpořili ve výborech. Počítají, že by mohla být účinná od ledna nebo července 2025.
+[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje dětského ombudsmana (slovy zákona **ochránce práv dětí**), je momentálně u poslanců. Ti ji schválili v květnu 2024 v prvním čtení a během června a července ji podpořili ve výborech. Počítají, že by mohla být účinná od ledna nebo července 2025.
