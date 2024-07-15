@@ -4,7 +4,7 @@ perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Prot
   zaslouží vyšší ochranu. Dětský ombudsman tu bude hlavně pro ně. Bude se starat
   o prosazování jejich práva v individuálních případech i na systémové úrovni.
 ---
-V Česku žije více než 2 miliony dětí. 
+**V Česku žije více než 2 miliony dětí.** 
 
 * 30 tisíc dětí žije mimo svůj domov. 
 * 8 800 dětí se nachází v dětských domovech či obdobných zařízeních. 
