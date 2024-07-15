@@ -1,5 +1,5 @@
 ---
-title: detskyombudsman
+title: Proč děti potřebují dětského ombudsmana?
 perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si
   zaslouží vyšší ochranu. Dětský ombudsman tu bude hlavně pro ně. Bude se starat
   o prosazování jejich práva v individuálních případech i na systémové úrovni.
@@ -15,23 +15,23 @@ V Česku žije více než 2 miliony dětí.
 * Čtvrtina dětí a dospívajících uvedla, že se v posledním roce alespoň jednou stala obětí agrese. 
 * 7 % dětské populace má zdravotní postižení. 
 * 30 % dospívajících dívek uvádí, že se více než jednou týdně cítí „na dně“. 
-* 4. nejčastější příčinou úmrtí osob ve věku 15–19 let je sebevražda. 
+* Čtvrtou nejčastější příčinou úmrtí osob ve věku 15–19 let je sebevražda. 
 
 S alarmujícími statistikami by bohužel šlo dále pokračovat. Pro ilustraci, s čím vším se děti u nás potýkají, ale tato čísla postačují. Potřebují někoho, který se bude starat jen o jejich práva.
 
-> Zdroje: [Data o dětech](<> https://dataodetech.cz/display/22>), [Ministerstvo práce a sociálních věcí,](https://www.mpsv.cz/statistiky-1) [Národní ústav duševního zdraví](https://dzda.cz/), [Český statistický úřad](https://csu.gov.cz/produkty/deti-se-zdravotnim-postizenim-a-osoby-se-zdravotnim-postizenim-zijici-mimo-soukrome-domacnosti-2017-2018), [Fakulta sociálních studií Masarykovy univerzity](https://irtis.muni.cz/media/3137006/eu_kids_online_report_2018_cz_main.pdf)
+> Zdroje: \[Data o dětech](<> https://dataodetech.cz/display/22>), [Ministerstvo práce a sociálních věcí,](https://www.mpsv.cz/statistiky-1) [Národní ústav duševního zdraví](https://dzda.cz/), [Český statistický úřad](https://csu.gov.cz/produkty/deti-se-zdravotnim-postizenim-a-osoby-se-zdravotnim-postizenim-zijici-mimo-soukrome-domacnosti-2017-2018), [Fakulta sociálních studií Masarykovy univerzity](https://irtis.muni.cz/media/3137006/eu_kids_online_report_2018_cz_main.pdf)
 
 ### Co by měl dělat dětský ombudsman?
 
-* Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím (k tomu bude mít poradní orgán složený z dětí).
-* Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
-* Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problému.
-* Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
-* Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích).
-* Měl by chránit děti před diskriminací.
-* Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
-* Měl by vzdělávat a šířit osvětu o právech dětí.
-* Měl by podat návrh na zahájení vybraných soudního řízení v případě ohrožení práv dítěte. 
+1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím (k tomu bude mít poradní orgán složený z dětí).
+2. Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
+3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problému.
+4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
+5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích).
+6. Měl by chránit děti před diskriminací.
+7. Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
+8. Měl by vzdělávat a šířit osvětu o právech dětí.
+9. Měl by podat návrh na zahájení vybraných soudního řízení v případě ohrožení práv dítěte. 
 
 Měl by toho dělat ještě mnohem více... 
 
@@ -42,9 +42,9 @@ Kde bude dětský ombudsman sídlit?
 
 Dětský ombudsman by měl sídlit v Brně ve společné kanceláři s veřejným ochráncem práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
-### Pro koho tu dětský ombudsman bude? 
+### Pro koho tu dětský ombudsman bude?
 
-Na dětského ombudsmana se budou moct obracet 
+Na dětského ombudsmana se budou moct obracet: 
 
 * všechny děti bez rozdílu věku, 
 * jejich blízcí, pokud budou namítat porušení práv dětí,
