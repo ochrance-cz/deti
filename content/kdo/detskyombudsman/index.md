@@ -23,7 +23,7 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 
 ### Co by měl dělat dětský ombudsman?
 
-1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím. K tomu bude mít poradní orgán složený ze zástupců dětí).
+1. Měl by naslouchat mladé generaci a její názory zprostředkovávat dalším institucím. K tomu bude mít poradní orgán složený ze zástupců dětí.
 2. Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
 3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problémů.
 4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
