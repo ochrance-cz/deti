@@ -27,7 +27,7 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 2. Měl by monitorovat naplňování práv dětí, provádět výzkumy a svými doporučeními upozorňovat zejména státní orgány na oblasti, v nichž dochází k nerespektování či porušování práv dětí. 
 3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problémů.
 4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce. 
-5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích).
+5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích apod.).
 6. Měl by chránit děti před diskriminací.
 7. Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
 8. Měl by vzdělávat a šířit osvětu o právech dětí.
