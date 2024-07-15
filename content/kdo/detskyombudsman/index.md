@@ -19,7 +19,7 @@ V Česku žije více než 2 miliony dětí.
 
 S alarmujícími statistikami by bohužel šlo dále pokračovat. Pro ilustraci, s čím vším se děti u nás potýkají, ale tato čísla postačují. Potřebují někoho, který se bude starat jen o jejich práva.
 
-> Zdroje: \[Data o dětech](<> https://dataodetech.cz/display/22>), [Ministerstvo práce a sociálních věcí,](https://www.mpsv.cz/statistiky-1) [Národní ústav duševního zdraví](https://dzda.cz/), [Český statistický úřad](https://csu.gov.cz/produkty/deti-se-zdravotnim-postizenim-a-osoby-se-zdravotnim-postizenim-zijici-mimo-soukrome-domacnosti-2017-2018), [Fakulta sociálních studií Masarykovy univerzity](https://irtis.muni.cz/media/3137006/eu_kids_online_report_2018_cz_main.pdf)
+> Zdroje: [Data o dětech](https://dataodetech.cz/display/22), [Ministerstvo práce a sociálních věcí,](https://www.mpsv.cz/statistiky-1) [Národní ústav duševního zdraví](https://dzda.cz/), [Český statistický úřad](https://csu.gov.cz/produkty/deti-se-zdravotnim-postizenim-a-osoby-se-zdravotnim-postizenim-zijici-mimo-soukrome-domacnosti-2017-2018), [Fakulta sociálních studií Masarykovy univerzity](https://irtis.muni.cz/media/3137006/eu_kids_online_report_2018_cz_main.pdf)
 
 ### Co by měl dělat dětský ombudsman?
 
@@ -38,9 +38,10 @@ Měl by toho dělat ještě mnohem více...
 ### Může toto všechno dětský ombudsman dělat sám?
 
 Určitě ne. I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana připraveni, ani sebešikovnější představitel všechny kompetence neutáhne sám. Potřebuje k tomu tým odborníků různých specializací, např. právníky, psychology, pedagogy či výzkumné pracovníky.
-Kde bude dětský ombudsman sídlit? 
 
-Dětský ombudsman by měl sídlit v Brně ve společné kanceláři s veřejným ochráncem práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
+### Kde bude dětský ombudsman sídlit? 
+
+Dětský ombudsman by měl sídlit **v Brně** ve společné kanceláři s veřejným ochráncem práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
 ### Pro koho tu dětský ombudsman bude?
 
