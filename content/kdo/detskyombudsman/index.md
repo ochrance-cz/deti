@@ -1,19 +1,8 @@
 ---
 title: Proč děti potřebují dětského ombudsmana?
-perex: >-
-  <!--StartFragment-->
-
-
-  ```
-
-
-  ```
-
-
-  <!--EndFragment-->
-
-
-  Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat o prosazování jejich práva v individuálních případech i na systémové úrovni.
+perex: Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si
+  zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat
+  o prosazování jejich práva v individuálních případech i na systémové úrovni.
 ---
 **V Česku žije více než 2 miliony dětí.** 
 
@@ -52,7 +41,7 @@ Měl by toho dělat ještě mnohem více...
 
 I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana připraveni, ani sebešikovnější představitel všechny kompetence neutáhne sám. Potřebuje k tomu tým odborníků různých specializací, např. právníky, psychology, pedagogy či výzkumné pracovníky.
 
-### Kde bude dětský ombudsman sídlit? 
+### Kde bude dětský ombudsman sídlit?
 
 Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
