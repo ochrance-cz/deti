@@ -301,3 +301,4 @@ Redirect 301 /umluva /media/umluva_o_pravech_ditete_web_pdf.pdf
 Redirect 301 /exkurze /kdo/nabidka_pro_skolni_kolektivy/
 
 Redirect 301 /dotaznik https://ec.europa.eu/eusurvey/runner/DO_11-15
+Redirect 301 /detskyombudsman /kdo/detskyombudsman/
