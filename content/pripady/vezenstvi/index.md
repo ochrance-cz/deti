@@ -83,5 +83,5 @@ cases:
       Odpovědi na jejich nejčastější dotazy jsme pro ně sepsali v informačním letáku [Věznice](https://www.ochrance.cz/letaky/veznice/veznice.pdf) a [Sborníku Vězeňství II](https://www.ochrance.cz/vystupy/edice-stanoviska/Sbornik_Vezenstvi_II.pdf). 
 
 
-      V letáku [Jsem máma/táta ve vězení](https://www.ochrance.cz/letaky/jsem_mama_tata_ve_vezeni/jsem-ma_ma-ta_ta-ve-ve_zeni_.pdf) pak samostatně odpovídáme na nejčastější otázky vězněných rodičů ohledně jejich kontaktu s dětmi.
+      V letáku [Jsem máma/táta ve vězení](https://www.ochrance.cz/letaky/jsem_mama_tata_ve_vezeni/jsem-mama-tata-ve-vezeni.pdf) pak samostatně odpovídáme na nejčastější otázky vězněných rodičů ohledně jejich kontaktu s dětmi.
 ---
