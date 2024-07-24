@@ -35,15 +35,15 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 
 Měl by toho dělat ještě mnohem více... 
 
+> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=RG2EenPQEuNrO6Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Může toto všechno dětský ombudsman dělat sám?
 
 **Určitě ne.** 
 
 I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana připraveni, ani sebešikovnější představitel všechny kompetence neutáhne sám. Potřebuje k tomu tým odborníků různých specializací, např. právníky, psychology, pedagogy či výzkumné pracovníky.
-
-> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
->
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=RG2EenPQEuNrO6Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Kde bude dětský ombudsman sídlit?
 
