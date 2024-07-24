@@ -41,6 +41,10 @@ Měl by toho dělat ještě mnohem více...
 
 I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana připraveni, ani sebešikovnější představitel všechny kompetence neutáhne sám. Potřebuje k tomu tým odborníků různých specializací, např. právníky, psychology, pedagogy či výzkumné pracovníky.
 
+> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
+>
+> https://youtu.be/jg2H1bFkzQE?si=1_2wYHxR_Vt79ezV
+
 ### Kde bude dětský ombudsman sídlit?
 
 Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
