@@ -35,10 +35,6 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 
 Měl by toho dělat ještě mnohem více... 
 
-> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
->
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=RG2EenPQEuNrO6Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Může toto všechno dětský ombudsman dělat sám?
 
 **Určitě ne.** 
@@ -60,3 +56,7 @@ Na dětského ombudsmana se budou moct obracet:
 ### Kdy začne dětský ombudsman pracovat?
 
 [Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), je momentálně u poslanců. Ti ji schválili v květnu 2024 v prvním čtení a během června a července ji podpořili ve výborech. Počítají, že by mohla být účinná **od ledna nebo července 2025**.
+
+> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=RG2EenPQEuNrO6Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
