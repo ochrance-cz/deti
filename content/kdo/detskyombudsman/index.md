@@ -59,7 +59,7 @@ Na dětského ombudsmana se budou moct obracet:
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIrdeK8_sA?si=JVvIMYopSzIHGf7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=WLmLsgJnF-wIf8Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
 > #### Pomůže dětský ombudsman? Ano, bude-li mít zkušenosti třeba z opatrovnických soudů, věří Richterová
 >
