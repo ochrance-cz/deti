@@ -59,8 +59,12 @@ Na dětského ombudsmana se budou moct obracet:
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
+> < iframe width = " 560 " height = " 315 " src = " https://www.youtube.com/embed/jg2H1bFkzQE?si=WLmLsgJnF-wIf8Zs " title = " Přehrávač videa YouTube " frameborder = " 0 " allow = " akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu " referrerpolicy = " strict-origin-when-cross-origin " allowfullscreen ></ iframe >
+>
 > #### Pomůže dětský ombudsman? Ano, bude-li mít zkušenosti třeba z opatrovnických soudů, věří poslankyně Richterová
 >
+> < iframe width = " 560 " height = " 315 " src = " https://www.youtube.com/embed/kRIrdeK8_sA?si=JVvIMYopSzIHGf7q " title = " Přehrávač videa YouTube " frameborder = " 0 " allow = " akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu " referrerpolicy = " strict-origin-when-cross-origin " allowfullscreen ></ iframe >
+>
 > #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová
-
-https://youtu.be/7pskO2pcKxw?si=wq-JRTZffIcS3Ws4
+>
+> < iframe width = " 560 " height = " 315 " src = " https://youtu.be/7pskO2pcKxw?si=wq-JRTZffIcS3Ws4 " title = " Přehrávač videa YouTube " frameborder = " 0 " allow = " akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu " referrerpolicy = " strict-origin-when-cross-origin " allowfullscreen ></ iframe >
