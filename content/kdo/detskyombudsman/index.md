@@ -65,6 +65,8 @@ Na dětského ombudsmana se budou moct obracet:
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIrdeK8_sA?si=JVvIMYopSzIHGf7q" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
-> #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová
+> #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová<!--StartFragment-->
 >
-> <iframe width="560" height="315" src="https://youtu.be/7pskO2pcKxw?si=wq-JRTZffIcS3Ws4" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/7pskO2pcKxw" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
+>
