@@ -35,6 +35,10 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 
 Měl by toho dělat ještě mnohem více... 
 
+> Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/HhdtlPyXKHo?si=7QvZ83D7n7Ea8Eok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Může toto všechno dětský ombudsman dělat sám?
 
 **Určitě ne.** 
@@ -57,16 +61,18 @@ Na dětského ombudsmana se budou moct obracet:
 
 [Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), je momentálně u poslanců. Ti ji schválili v květnu 2024 v prvním čtení a během června a července ji podpořili ve výborech. Počítají, že by mohla být účinná **od ledna nebo července 2025**.
 
-> #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
+> #### **Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun**
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=WLmLsgJnF-wIf8Zs" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=CV5_hl-eM7-sbMiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
 > #### Pomůže dětský ombudsman? Ano, bude-li mít zkušenosti třeba z opatrovnických soudů, věří poslankyně Richterová
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIrdeK8_sA?si=JVvIMYopSzIHGf7q" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIrdeK8_sA?si=udTpsqywt5-AbjvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
-> #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová<!--StartFragment-->
+> #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/7pskO2pcKxw" title="Přehrávač videa YouTube" frameborder="0" allow="akcelerometr; automatické přehrávání; zápis do schránky; šifrovaná média; gyroskop; obraz v obraze; sdílení webu" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/HhdtlPyXKHo?si=7QvZ83D7n7Ea8Eok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
+> #### Návrh na zřízení dětského ombudsmana je konečně v Poslanecké sněmovně, oceňuje poslankyně Válková
 >
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/10OFl6xokIo?si=dJW9X5ULGhIuMdXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
