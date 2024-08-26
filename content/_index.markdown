@@ -1,7 +1,7 @@
 ---
 title: Omdbudsman dětem a náctiletým
 videos:
-  - video: https://youtu.be/7pskO2pcKxw?si=RAJOuu0r94DRzIPs
+  - video: https://youtu.be/HhdtlPyXKHo?si=lqyXxeqRrtvTFKtu
   - video: https://youtu.be/iiw2OM4jDbA
   - video: https://youtu.be/8wPzjwGk72M
   - video: https://youtu.be/veYefeo2x8w?si=PSVjeZoA4XpiX1eg
