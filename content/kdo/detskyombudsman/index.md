@@ -76,3 +76,7 @@ Na dětského ombudsmana se budou moct obracet:
 > #### Návrh na zřízení dětského ombudsmana je konečně v Poslanecké sněmovně, oceňuje poslankyně Válková
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/10OFl6xokIo?si=dJW9X5ULGhIuMdXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
+> #### Když chceme veřejnému ochránci práv přidat další kompetence, určitě bude potřebovat víc lidí a peněz, jednoznačně míní soudkyně Evropského soudu pro lidská práva Šimáčková
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/_zuRwF4XuR0?si=F-RZsy8uQo1kj9B5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
