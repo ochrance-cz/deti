@@ -37,7 +37,7 @@ Měl by toho dělat ještě mnohem více...
 
 > #### Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/HhdtlPyXKHo?si=7QvZ83D7n7Ea8Eok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/HhdtlPyXKHo" >}}
 
 ### Může toto všechno dětský ombudsman dělat sám?
 
@@ -63,20 +63,20 @@ Na dětského ombudsmana se budou moct obracet:
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/jg2H1bFkzQE?si=CV5_hl-eM7-sbMiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/jg2H1bFkzQE" >}}
 >
 > #### Pomůže dětský ombudsman? Ano, bude-li mít zkušenosti třeba z opatrovnických soudů, věří poslankyně Richterová
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIrdeK8_sA?si=udTpsqywt5-AbjvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/kRIrdeK8_sA" >}}
 >
 > #### Dětský ombudsman nemůže být na ochranu dětí sám, potřebuje tým lidí a finanční zázemí, uvádí předsedkyně Výboru pro práva dítěte Petrová
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/7pskO2pcKxw?si=kGirm-xK4seryp8u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/7pskO2pcKxw" >}}
 >
 > #### Návrh na zřízení dětského ombudsmana je konečně v Poslanecké sněmovně, oceňuje poslankyně Válková
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/10OFl6xokIo?si=dJW9X5ULGhIuMdXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/10OFl6xokIo" >}}
 >
 > #### Když chceme veřejnému ochránci práv přidat další kompetence, určitě bude potřebovat víc lidí a peněz, jednoznačně míní soudkyně Evropského soudu pro lidská práva Šimáčková
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/_zuRwF4XuR0?si=F-RZsy8uQo1kj9B5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {{< youtube "https://youtu.be/_zuRwF4XuR0" >}}
