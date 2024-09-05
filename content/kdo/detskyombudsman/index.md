@@ -80,3 +80,7 @@ Na dětského ombudsmana se budou moct obracet:
 > #### Když chceme veřejnému ochránci práv přidat další kompetence, určitě bude potřebovat víc lidí a peněz, jednoznačně míní soudkyně Evropského soudu pro lidská práva Šimáčková
 >
 > {{< youtube "https://youtu.be/_zuRwF4XuR0" >}}
+>
+> #### Česká republika potřebuje dětského ombudsmana či ombudsmanku, uvádí vládní zmocněnkyně pro lidská práva Šimáčková Laurenčíková
+>
+> {{< youtube "https://youtu.be/j-WYP8PIBI8?si=LUCn5m32dCWykDPI" >}}
