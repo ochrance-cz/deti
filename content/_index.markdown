@@ -6,7 +6,6 @@ videos:
   - video: https://youtu.be/HhdtlPyXKHo?si=nT1iXkcWNA42hcbt
   - video: https://youtu.be/iiw2OM4jDbA
   - video: https://youtu.be/8wPzjwGk72M
-  - video: https://youtu.be/veYefeo2x8w?si=PSVjeZoA4XpiX1eg
   - video: https://youtu.be/AvfLU3p3G8s
   - video: https://youtu.be/BfMYDjRmHJE
   - video: https://youtu.be/eD2FpvShaz8
@@ -14,7 +13,6 @@ videos:
   - video: https://youtu.be/GiTQycQaZgM
   - video: https://youtu.be/OcKbyR5Nzp0
   - video: https://youtu.be/oq3Tu4rzI54
-  - video: https://youtube.com/shorts/hK4nwPgcj-Q?feature=share
 langs:
   en: /media/letak_-_ombudsman_detem_-en_2024.pdf
   de: /media/letak_-_ombudsman_detem_de_2024.pdf
