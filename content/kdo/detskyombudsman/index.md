@@ -84,3 +84,9 @@ Na dětského ombudsmana se budou moct obracet:
 > #### Česká republika potřebuje dětského ombudsmana či ombudsmanku, uvádí vládní zmocněnkyně pro lidská práva Šimáčková Laurenčíková
 >
 > {{< youtube "https://youtu.be/j-WYP8PIBI8?si=LUCn5m32dCWykDPI" >}}
+>
+> #### Dětský ombudsman bude hlasem v těch případech, kdy dospělí odmítli naslouchat, myslí si poslankyně Zajíčková
+>
+> {{< youtube "https://youtu.be/oJn8kZsfeHU?si=r6WSRZ8KaEUtIdpE" >}}
+>
+>
