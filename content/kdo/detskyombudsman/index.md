@@ -89,4 +89,6 @@ Na dětského ombudsmana se budou moct obracet:
 >
 > {{< youtube "https://youtu.be/oJn8kZsfeHU?si=r6WSRZ8KaEUtIdpE" >}}
 >
+> #### Dnešní děti jsou budoucí dospělí, jejich současnost je budoucností nás všech, vysvětluje soudce Beneš, proč je potřeba dětský ombudsman
 >
+> {{< youtube "https://youtu.be/f3WHe2DZCXk?si=PJB09U-qXfgZDdic" >}}
