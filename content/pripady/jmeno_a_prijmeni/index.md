@@ -22,7 +22,7 @@ cases:
       #### Co s tím lze dělat?
 
 
-      Veronika nemůže sama podat žádost o změnu svého příjmení zpět na příjmení původní. **Může ale požádat rodiče, aby na matrice podali žádost za ni.** Budou však muset zaplatit správní poplatek ve výši 100 Kč.
+      Veronika nemůže sama podat žádost o změnu svého příjmení zpět na příjmení původní. **Může ale požádat rodiče, aby na matrice podali žádost za ni.** Budou však muset zaplatit správní poplatek ve výši 300 Kč (do roku 2023 to bylo 100 Kč).
   - title: Mohu nést nepočeštěné příjmení svých předků?
     perex: Sedmnáctiletý Radek u nás hledal radu a pomoc, jak si bezplatně vymoci
       navrácení původního příjmení, které měli jeho předci. Radek zjistil, že
@@ -41,7 +41,7 @@ cases:
       > **Ale pozor!** S opravami by měli souhlasit všichni, jichž se zápisy týkají. Po opravě rodných a oddacích listů si totiž budou muset vyřídit nové doklady (občanku, pas, řidičák nebo nejrůznější průkazky). 
 
 
-      Radek by se mohl domoct příjmení po svém pradědovi, i pokud by jeho příbuzní se změnou nesouhlasili. Může na matrice **požádat o povolení změny příjmení za snížený správní poplatek**, neboť jeho současné příjmení úřady dříve zkomolily. Stálo by ho to však **100 Kč**.
+      Radek by se mohl domoct příjmení po svém pradědovi, i pokud by jeho příbuzní se změnou nesouhlasili. Může na matrice **požádat o povolení změny příjmení. Bude ho stát ale 3 000 Kč.** (Do roku 2023 se platil pouze snížený poplatek 100 Kč.)
   - body: >-
       Tento postup vyplývá Úmluvy o právech dítěte. Podle té má dítě, které je
       schopno formulovat vlastní názory, právo tyto názory svobodně vyjadřovat
