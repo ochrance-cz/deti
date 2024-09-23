@@ -65,7 +65,7 @@ Na dětského ombudsmana se budou moct obracet:
 * během června a července 2024 podpořili ve výborech,
 * v září 2024 schválili ve druhém čtení. 
 
-Zbývá tedy ještě projednání v poslanecké sněmovně ve třetím čtení a v Senátu, následně zbývá podepsání prezidentem republiky. 
+Zbývá tedy ještě projednání poslanci ve třetím čtení, následně se návrh přesune do Senátu a prezidentovi. 
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
