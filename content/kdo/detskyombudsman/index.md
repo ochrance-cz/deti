@@ -98,3 +98,7 @@ Zbývá tedy ještě projednání poslanci ve třetím čtení, následně se n�
 > #### Dnešní děti jsou budoucí dospělí, jejich současnost je budoucností nás všech, vysvětluje soudce Beneš, proč je potřeba dětský ombudsman
 >
 > {{< youtube "https://youtu.be/f3WHe2DZCXk?si=PJB09U-qXfgZDdic" >}}
+>
+> #### Dětský ombudsman by měl být člověk empatický. Někdo, komu můžou děti věřit, míní poslynkyně Jílková
+>
+> {{< youtube "https://youtu.be/avVefhjg7_4?si=NPDuckfH2JylN0EP" >}}
