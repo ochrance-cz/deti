@@ -102,3 +102,7 @@ Zbývá tedy ještě projednání poslanci ve třetím čtení, následně se n�
 > #### Dětský ombudsman by měl být člověk empatický. Někdo, komu můžou děti věřit, míní poslynkyně Jílková
 >
 > {{< youtube "https://youtu.be/avVefhjg7_4?si=NPDuckfH2JylN0EP" >}}
+>
+> #### Je důležité zastávat se práv dětí, proto podporujeme vznik dětského ombudsmana, říká poslankyně Pivoňka Vaňková
+>
+> {{< youtube "https://youtu.be/NFqtC1_LqQs?si=FUEa6RxOJORGefj6" >}}
