@@ -1,11 +1,11 @@
 ---
-title: Petr se nebál nám napsat. Díky němu teď mohou mít u sebe mobily i ostatní
-  děti v jeho dětské domově
+title: Nebál se nám napsat. Díky němu teď mohou mít u sebe mobily i ostatní děti
+  v jeho dětské domově
 draft: false
 date: 2024-10-02T15:22:56.440Z
-perex: O pomoc nás požádal chlapec žijícím v dětském domově. Ptal se, zda bychom
-  nemohli změnit, že u sebe nemůže mít mobil a dostává ho jen za odměnu. A nám
-  se to povedlo!
+perex: O pomoc nás požádal Petr - chlapec žijícím v dětském domově. Ptal se, zda
+  bychom nemohli změnit, že u sebe nemůže mít mobil a dostává ho jen za odměnu.
+  A nám se to povedlo!
 ---
 Dětský domov jsme navštívili a zjistili jsme, že problém není jen u Petra. I ostatní děti nám potvrdily, že mobily u sebe mohou mít jen hodinu denně a nelíbí se jim to. 
 
