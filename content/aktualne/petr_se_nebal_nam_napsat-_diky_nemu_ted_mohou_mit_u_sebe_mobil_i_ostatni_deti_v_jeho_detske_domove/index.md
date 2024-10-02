@@ -1,7 +1,7 @@
 ---
 title: Petr se nebál nám napsat. Díky němu teď mohou mít u sebe mobily i ostatní
   děti v jeho dětské domově
-draft: true
+draft: false
 date: 2024-10-02T15:22:56.440Z
 perex: O pomoc nás požádal chlapec žijícím v dětském domově. Ptal se, zda bychom
   nemohli změnit, že u sebe nemůže mít mobil a dostává ho jen za odměnu. A nám
