@@ -8,7 +8,9 @@ perex: O pomoc nás požádal Petr - chlapec žijícím v dětském domově. Pta
 ---
 Dětský domov jsme navštívili a zjistili jsme, že problém není jen u Petra. I ostatní děti nám potvrdily, že mohou mít  u sebe mobily jen hodinu denně a nelíbí se jim to. 
 
-Upozornili jsme proto ředitelku dětského domova, že ona ani vychovatelé nemohou brát dětem mobily, pokud pro to není vážný důvod. **Děti by měly mít možnost mít u sebe mobily, ale neměly by je používat třeba v době, kdy si dělají úkoly do školy, mají společné aktivity nebo třeba během nočního klidu.**
+Upozornili jsme proto ředitelku dětského domova, že ona ani vychovatelé nemohou brát dětem mobily, pokud pro to není vážný důvod. 
+
+{{< icon "mobil.svg" >}}**Děti by měly mít možnost mít u sebe mobily, ale neměly by je používat třeba v době, kdy si dělají úkoly do školy, mají společné aktivity nebo třeba během nočního klidu.**
 
 Ředitelka dětského domova po nějaké době naše výtky přijala. Zároveň slíbila, že mobily už děti budou moct mít u sebe skoro bez omezení. Petra jsme přesto požádali, aby se nám znovu ozval, pokud by tomu tak nebylo. 
 
