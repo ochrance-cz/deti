@@ -6,7 +6,7 @@ perex: O pomoc nás požádal Petr, který žije v dětském domově. Ptal se, z
   bychom nemohli změnit, že u sebe nemůže mít mobil a dostává ho jen za odměnu.
   A nám se to povedlo!
 ---
-Dětský domov jsme navštívili. Při návštěvě jsme se zaměřili i na mnoho dalších věcí. Petrově námitce jsme museli dát zapravdu. I ostatní děti totiž potvrdily, že se jim nelíbí, že u sebe mohou mít mobily jen hodinu denně.
+Dětský domov jsme navštívili. Při návštěvě jsme se zaměřili i na mnoho dalších věcí. Petrově námitce jsme museli dát za pravdu. I ostatní děti totiž potvrdily, že se jim nelíbí, že u sebe mohou mít mobily jen hodinu denně.
 
 {{< icon "mobil.svg" >}}Upozornili jsme proto ředitelku dětského domova, že ona ani vychovatelé nemohou brát dětem mobily, pokud pro to není vážný důvod. **Děti by měly mít možnost mít u sebe mobily, ale neměly by je používat třeba v době, kdy si dělají úkoly do školy, mají společné aktivity nebo třeba během nočního klidu.**
 
