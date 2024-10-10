@@ -18,7 +18,9 @@ Zhruba dvouhodinový program, během kterého:
 * školní kolektivy či jiné zájmové skupiny dětí,
 * šesťáky a starší.
 
-> Sídlo máme pouze v Brně, takže i exkurze probíhají pouze [v Brně na adrese Údolní 39](https://www.ochrance.cz/kontakt/).
+> Sídlo máme pouze v Brně, takže i exkurze probíhají pouze [v Brně na adrese Údolní 39](https://www.ochrance.cz/kontakt/). 
+>
+> **POZOR:** Kolem naší budovy se aktuálně kope! [Jak to ovlivňuje přístupu?](https://kopemezabrno.cz/uzavirky-a-omezeni/udolni-usek-mezi-husovou-a-jirikovskeho/)
 
 ![Ombudsman ukazuje dětem obraz ve své kanceláři](dsc_0505.jpg "Tento obraz mi namaloval slon! říká ombudsman dětem na exkurzi.")
 
