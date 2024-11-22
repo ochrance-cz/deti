@@ -1,5 +1,5 @@
 ---
-title: I letos bubnujeme, aby byl tvůj čas slyšen!
+title: I letos bubnujeme, aby byl tvůj hlas slyšen!
 date: 2024-11-19T17:58:49.024Z
 perex: Násilí nepatří do výchovy a života dětí! Proto i letos v naší Kanceláři
   bubnujme na podporu dětí, které jsou jím ohroženy. A nejsme sami!
