@@ -1,6 +1,6 @@
 ---
 title: I letos bubnujeme, aby byl tvůj hlas slyšen!
-date: 2024-11-22T18:06:32.920Z
+date: 2024-11-19T18:06:32.920Z
 perex: Násilí nepatří do výchovy a života dětí! Proto i letos v naší Kanceláři
   bubnujme na podporu dětí, které jsou jím ohroženy. A nejsme sami!
   Do Bubnovačky se letos zapojilo 100 000 lidí. 100 000 hlasů, to už je pořádná
