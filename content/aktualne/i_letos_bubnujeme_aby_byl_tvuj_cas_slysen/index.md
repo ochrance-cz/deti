@@ -1,10 +1,10 @@
 ---
 title: I letos bubnujeme, aby byl tvůj čas slyšen!
 date: 2024-11-19T17:58:49.024Z
-perex: Násilí nepatří do výchovy a do života dětí! Proto i letos u nás v
-  Kanceláři bubnujme na podporu dětí, které jsou jím ohroženy. A nejsme sami!
+perex: Násilí nepatří do výchovy a života dětí! Proto i letos v naší Kanceláři
+  bubnujme na podporu dětí, které jsou jím ohroženy. A nejsme sami!
   Do Bubnovačky se letos zapojilo 100 000 lidí. 100 000 hlasů, to už je pořádná
-  síla! Děkujeme [LOCICE — centru pro děti ohrožené domácím
+  síla! Děkujeme centru [LOCIKA — centru pro děti ohrožené domácím
   násilím](https://www.centrumlocika.cz/), že upozorňuje na téma násilí
   v rodinách a chráníte zájmy dětí.
 ---
