@@ -8,9 +8,7 @@ perex: Násilí nepatří do výchovy a života dětí! Proto i letos v naší 
   násilím](https://www.centrumlocika.cz/), že upozorňuje na téma násilí
   v rodinách a chráníte zájmy dětí.
 ---
-<iframe width="560" height="315" src="https://youtube.com/shorts/O9hYE_ie3JY?si=m1PYB6IGTLLaCNF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O9hYE_ie3JY?si=1ONOIQTesK5CCK63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A připomínáme...
 
