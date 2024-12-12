@@ -48,8 +48,12 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Unpack tar into place and link fileadmin
-        uses: garygrossgarten/github-action-ssh@release
+        uses: appleboy/ssh-action@v1.2.0
         with:
+          host: ${{ secrets.SSH_HOSTNAME }}
+          username: ${{ secrets.SSH_USERNAME }}
+          port: ${{ secrets.SSH_PORT }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
           command: |
             cd /home/ochrance/public_html
             mkdir deti-new
@@ -57,6 +61,3 @@ jobs:
             mv deti deti-old
             mv deti-new deti
             rm -rf deti-old
-          host: ${{ secrets.SSH_HOSTNAME }}
-          username: ${{ secrets.SSH_USERNAME }}
-          privateKey: ${{ secrets.SSH_PRIVATE_KEY }}
