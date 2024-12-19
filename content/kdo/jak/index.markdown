@@ -23,7 +23,7 @@ contact:
     desc: |-
       Přijď nám to říct osobně do naší kanceláře na Údolní 39 v Brně 
 
-      (každý všední den mezi 8:00 a 16:00 hod.)
+      (každé pondělí nebo středu mezi 8:00 a 16:00 hod.)
   - title: Telefon
     icon: mobil.svg
     desc: |-
