@@ -21,7 +21,7 @@ contact:
   - title: Osobně
     icon: vikend.svg
     desc: |-
-      Přijď nám to říct osobně do naší kanceláře na Údolní 39 v Brně 
+      Přijď nám to říct osobně do naší kanceláře na Údolní 39 v Brně.
 
       (každé pondělí nebo středu mezi 8:00 a 16:00 hod.)
   - title: Telefon
