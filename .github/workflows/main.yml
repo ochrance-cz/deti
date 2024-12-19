@@ -54,7 +54,7 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          command: |
+          script: |
             cd /home/ochrance/public_html
             mkdir deti-new
             tar -xf deti.tar.gz -C ./deti-new --strip-components=2
