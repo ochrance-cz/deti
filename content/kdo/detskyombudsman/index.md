@@ -49,8 +49,6 @@ I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana 
 
 Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
-
-
 > #### Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
 >
 > {{< youtube "https://youtu.be/HhdtlPyXKHo" >}}
@@ -76,8 +74,6 @@ Na dětského ombudsmana se budou moct obracet:
 * leden 2025: schválení poslanci ve třetím čtení
 
 Zbývá tedy ještě projednání Senátem a předání prezidentovi. 
-
-![Záznam obrazovky stream přenosu z jednacího sálu Poslanecké sněmovny během v okamžiku schválení novely zákona ve třetím čtení. ](do_ps_cr.jpg)
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
