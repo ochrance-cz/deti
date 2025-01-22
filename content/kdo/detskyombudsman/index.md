@@ -63,7 +63,7 @@ Na dětského ombudsmana se budou moct obracet:
 
 ### Kdy začne dětský ombudsman pracovat?
 
-[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), míří do Senátu. Aktuálně předpokládá (v důsledku schválení pozměňovacího návrhu poslanci), že účinnost nabude (tedy dětský ombudsman vznikne) **od 1. července 2025.** 
+[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), míří do Senátu. Aktuálně předpokládá, že účinnost nabude (tedy dětský ombudsman vznikne) **od 1. července 2025.** 
 
 **Jak dosud probíhalo projednávání novely?** 
 
