@@ -35,9 +35,9 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 
 Měl by toho dělat ještě mnohem více... 
 
-> #### Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
+> #### Když děti ztratí zastání aneb S čím pomůže dětský ombudsman?
 >
-> {{< youtube "https://youtu.be/HhdtlPyXKHo" >}}
+> {{< youtube "https://youtu.be/IQQEUWUAq40?si=l2vty-Ei4rVpJtK8" >}}
 
 ### Může toto všechno dětský ombudsman dělat sám?
 
@@ -49,6 +49,12 @@ I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana 
 
 Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
+
+
+> #### Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
+>
+> {{< youtube "https://youtu.be/HhdtlPyXKHo" >}}
+
 ### Pro koho tu dětský ombudsman bude?
 
 Na dětského ombudsmana se budou moct obracet: 
@@ -59,13 +65,19 @@ Na dětského ombudsmana se budou moct obracet:
 
 ### Kdy začne dětský ombudsman pracovat?
 
-[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), je momentálně u poslanců. Zatím navrhují, aby nabyla účinnosti (tedy dětský ombudsman vznikl) **od ledna nebo července 2025.** Poslanci novelu:
+[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), míří do Senátu. Aktuálně předpokládá (v důsledku schválení pozměňovacího návrhu poslanci), že účinnost nabude (tedy dětský ombudsman vznikne) **od 1. července 2025.** 
 
-* v květnu 2024 schválili v prvním čtení, 
-* během června a července 2024 podpořili ve výborech,
-* v září 2024 schválili ve druhém čtení. 
+**Jak dosud probíhalo projednávání novely?** 
 
-Zbývá tedy ještě projednání poslanci ve třetím čtení, následně se návrh přesune do Senátu a prezidentovi. 
+* duben 2024: schválení Vládou
+* květen 2024: schválení poslanci v prvním čtení
+* červen a červenec 2024: podpora v poslaneckých výborech
+* září 2024: schválení poslanci ve druhém čtení
+* leden 2025: schválení poslanci ve třetím čtení
+
+Zbývá tedy ještě projednání Senátem a předání prezidentovi. 
+
+![Záznam obrazovky stream přenosu z jednacího sálu Poslanecké sněmovny během v okamžiku schválení novely zákona ve třetím čtení. ](do_ps_cr.jpg)
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
