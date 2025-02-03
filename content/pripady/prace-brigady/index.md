@@ -46,14 +46,7 @@ cases:
       * Pozor! Pokud máš současně více zaměstnavatelů (více brigád), můžeš tzv. růžové prohlášení podepsat pouze u jednoho z nich. Jestliže máš navíc v průběhu roku více brigád současně, nemůžeš požádat o roční zúčtování daně. Pokud bys tedy chtěl/a v tomto případě uplatnit slevu na dani a požádat o vrácení přeplatku na dani, budeš muset podat daňové přiznání.
 
 
-      **Sleva na studenta (naposledy půjde uplatnit v daňovém přiznání za rok 2023)**
-
-
-      * Pokud jsi mladší 26 let nebo studuješ v prezenční formě doktorský studijní program a je Ti méně než 28 let, pak si můžeš v daňovém přiznání za rok 2023 kromě základní slevy na poplatníka uplatnit také slevu na studenta ve výši 4 020 Kč za rok.
-
-      * Pro uplatnění slevy je potřeba, abys na finančním úřadě doložil/a potvrzení o studiu za rok 2023.
-
-      * **Od roku 2024 byla sleva na studenta zrušena. Nemůžeš ji proto uplatnit na příjmy, které získáš v roce 2024.** 
+      > **Pozor: Sleva na studenta byla zrušena. Naposledy šla uplatnit v daňovém přiznání za rok 2023.** 
 
 
       ![]()
