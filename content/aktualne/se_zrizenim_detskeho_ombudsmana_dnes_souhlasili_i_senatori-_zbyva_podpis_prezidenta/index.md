@@ -17,5 +17,3 @@ perex: Senátem dnes prošla novela zákona, která od 1. července 2025 může 
 > * září 2024: schválení poslanci ve druhém čtení
 > * leden 2025: schválení poslanci ve třetím čtení
 > * únor 2025: schválení senátory
->
-> Zbývá tedy už jen podpis prezidenta.
