@@ -1,7 +1,14 @@
 @include medium {
   ._news {
-    max-width: 80vw;
+    display: block;
+    padding: 0;
+
+    // max-width: 80vw;
     @include grid(repeat(3, 1fr));
+
+    li::before {
+      display: none;
+    }
 
     &.single-col {
       max-width: 40rem;
