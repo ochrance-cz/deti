@@ -13,12 +13,12 @@ Dětský ombudsman bude sídlit v naší Kanceláři. Ta se oficiálně přejmen
 
 ### Úkonem dětského ombudsmana bude prosazovat práva dětí v jednotlivých případech i na systémové úrovni
 
-Děti tak konečně získají svého zástupce, který bude jejich práva hájit komplexně. Bude totiž:
+Děti  konečně získají svého zástupce, který bude jejich práva hájit komplexně. Bude totiž:
 
-* šetřit individuální stížnosti – ty mu budou moci poslat jak samotné děti, tak dospělí upozorňující na zásah do práv dětí
-* monitorovat naplňování práv dětí v různých oblastech života a své poznatky prosazovat – za tímto účelem bude provádět výzkumy, vydávat doporučení, připomínkovat právní předpisy apod. 
-* mít možnost vstoupit do vybraných soudních řízení nebo navrhnout jejich zahájení
-* skrze poradní orgán složený z dětí naslouchat mladé generaci a její názory zprostředkovávat dalším institucím
+* **šetřit individuální stížnosti** – ty mu budou moci poslat jak samotné děti, tak dospělí upozorňující na zásah do práv dětí,
+* **monitorovat naplňování práv dětí v různých oblastech života a prosazovat tyto poznatky** – za tímto účelem bude provádět výzkumy, vydávat doporučení, připomínkovat právní předpisy apod.,
+* mít možnost **vstoupit do vybraných soudních řízení nebo navrhnout jejich zahájení,**
+* skrze **poradní orgán** složený z dětí naslouchat mladé generaci a její názory zprostředkovávat dalším institucím.
 
 ### **Kdo se může stát dětským ombudsmanem?**
 
@@ -28,11 +28,11 @@ Při výběhu by poslancům měla pomáhat hodnotící komise. V ní musí mít 
 
 > Dětským ombudsmanem pak může být pouze osoba, u které se dá předpokládat, že má znalosti, zkušenosti a morální vlastnosti k řádnému zastávání funkce. Musí také splnit následující kritéria:
 >
-> * státní občanství České republiky;
-> * svéprávnost;
-> * bezúhonnost;
-> * věk nejméně 35 let;
-> * ukončené vysokoškolské vzdělání získané studiem v magisterském studijním programu v oblasti práva;
+> * státní občanství České republiky,
+> * svéprávnost,
+> * bezúhonnost,
+> * věk nejméně 35 let,
+> * ukončené vysokoškolské vzdělání získané studiem v magisterském studijním programu v oblasti práva,
 > * nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let.
 
 ### Novela rozšíří také mandát ombudsmana (veřejného ochránce práv)
