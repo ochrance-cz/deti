@@ -28,10 +28,9 @@ S alarmujícími statistikami by šlo bohužel dále pokračovat. Pro ilustraci,
 3. Měl by dětem rychle, účinně a srozumitelně poradit, jak dál postupovat při řešení jejich problémů.
 4. Měl by prošetřovat stížnosti dětí a jejich blízkých na úřady a další vybrané instituce, pokud zasáhly do práv dětí nebo byly v jejich věci nečinné. 
 5. Měl by dohlížet na dodržování práv dětí v zařízeních (např. v dětských domovech, diagnostických a výchovných ústavech, psychiatrických nemocnicích apod.).
-6. Měl by chránit děti před diskriminací.
-7. Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
-8. Měl by vzdělávat a šířit osvětu o právech dětí.
-9. Měl by podat návrh na zahájení vybraných soudního řízení v případě ohrožení práv dítěte. 
+6. Měl by připomínkovat právní předpisy a další dokumenty týkající se práv dětí.
+7. Měl by vzdělávat a šířit osvětu o právech dětí.
+8. Měl by podat návrh na zahájení vybraných soudního řízení v případě ohrožení práv dítěte. 
 
 Měl by toho dělat ještě mnohem více... 
 
@@ -47,7 +46,7 @@ I když jsme v Kanceláři veřejného ochránce práv na dětského ombudsmana 
 
 ### Kde bude dětský ombudsman sídlit?
 
-Dětský ombudsman by měl sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
+Dětský ombudsman bude sídlit **v Brně** a využívat zázemí a pracovníky Kanceláře veřejného ochránce práv. Na úkoly spojené s jeho činností se proto už delší dobu chystáme. 
 
 > #### Ombudsman Křeček: Vítáme, že by měl být dětský ombudsman zřízen v Kanceláři veřejného ochránce práv
 >
@@ -63,17 +62,17 @@ Na dětského ombudsmana se budou moct obracet:
 
 ### Kdy začne dětský ombudsman pracovat?
 
-[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**), míří do Senátu. Aktuálně předpokládá, že účinnost nabude (tedy dětský ombudsman vznikne) **od 1. července 2025.** 
+[Novela zákona o veřejném ochránci práv](https://www.psp.cz/sqw/historie.sqw?o=9&T=688), která zřizuje i dětského ombudsmana (slovy zákona **ochránce práv dětí**) bude účinná (tedy dětský ombudsman vznikne) **od 1. července 2025.** 
 
-**Jak dosud probíhalo projednávání novely?** 
+**Jak probíhalo projednávání novely?** 
 
 * duben 2024: schválení Vládou
 * květen 2024: schválení poslanci v prvním čtení
 * červen a červenec 2024: podpora v poslaneckých výborech
 * září 2024: schválení poslanci ve druhém čtení
 * leden 2025: schválení poslanci ve třetím čtení
-
-Zbývá tedy ještě projednání Senátem a předání prezidentovi. 
+* únor 2025: podpora v senátních výborech a schválení senátory
+* březen 2025: podpis prezidentem
 
 > #### Smutné dětské příběhy? Díky dětskému ombudsmanovi by jich mohlo být méně, říká ministr Šalomoun
 >
