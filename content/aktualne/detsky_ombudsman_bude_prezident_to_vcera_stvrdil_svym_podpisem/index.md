@@ -24,7 +24,7 @@ Děti  konečně získají svého zástupce, který bude jejich práva hájit ko
 
 Dětského ombudsmana musí zvolit poslanci. Kandidáty jim budou navrhovat prezident, senátoři a orgán složený z představitelů vysokých škol. 
 
-Při výběru by poslancům měla pomáhat hodnotící komise. V ní musí mít zastoupení děti starší 15 let a organizace zastupující zájmy dětí. 
+Při výběru by poslancům měla pomáhat hodnotící komise. V ní musí být i děti starší 15 let a organizace zastupující zájmy dětí. 
 
 > Dětským ombudsmanem se může stát pouze osoba, u které se dá předpokládat, že má znalosti, zkušenosti a morální vlastnosti k řádnému zastávání funkce. Musí také:
 >
