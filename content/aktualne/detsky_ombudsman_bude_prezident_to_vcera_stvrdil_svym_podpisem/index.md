@@ -18,7 +18,7 @@ Dětský ombudsman bude sídlit v naší Kanceláři. Ta se oficiálně přejmen
 Děti  konečně získají svého zástupce, který bude jejich práva hájit komplexně. Bude totiž:
 
 * **šetřit individuální stížnosti** – ty mu budou moci poslat jak samotné děti, tak dospělí upozorňující na zásah do práv dětí,
-* **monitorovat naplňování práv dětí v různých oblastech života a prosazovat tyto poznatky** – za tímto účelem bude provádět výzkumy, vydávat doporučení, připomínkovat právní předpisy apod.,
+* **monitorovat naplňování práv dětí** v různých oblastech života a prosazovat tyto poznatky – za tímto účelem bude provádět výzkumy, vydávat doporučení, připomínkovat právní předpisy apod.,
 * mít možnost **vstoupit do vybraných soudních řízení** nebo navrhnout jejich zahájení,
 * **vzdělávat** a šířit **osvětu** o právech dětí,
 * skrze poradní orgán složený z dětí **naslouchat** mladé generaci a její názory zprostředkovávat dalším institucím.
