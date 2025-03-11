@@ -3,7 +3,13 @@ title: Nabídka pro školní kolektivy
 perex: Chceš vědět, jak to vypadá u nás v kanceláři a dozvědět se víc o tom, co
   a jak děláme? Chceš položit otázku přímo ombudsmanovi nebo jeho zástupci?
 ---
-**Domluv se se svým učitelem nebo svou učitelkou a napište nám na deti@ochrance.cz.** Domluvíme se na konkrétním termínu, kdy nás můžeš navštívit i se svými spolužáky a spolužačkami.
+**Domluv se se svým učitelem nebo svou učitelkou a napište nám na deti@ochrance.cz.** Ideálně rovnou uveďte:
+
+* termíny (dny a čas), které by se vám hodily (budeme se snažit vám vyjít vstříc, ne vždy je to ale možné), 
+* kolik by vás přijelo (rozdělíme si vás do skupin maximálně po třiceti; v jeden čas zvládněme pracovat maximálně se dvěma skupinami zároveň),
+* kdo by přijel (z jaké jste školy, který ročník, obor studia nebo že jste například studentský parlament), 
+* má-li někdo z vás jakékoliv speciální potřeby (např. se pohybuje na vozíku, špatně vidí, nemluví perfektně česky,...), 
+* e-mail a telefon na někoho, s kým se můžeme domluvit.
 
 ### Co nabízíme?
 
