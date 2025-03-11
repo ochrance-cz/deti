@@ -26,14 +26,14 @@ Dětského ombudsmana musí zvolit poslanci. Kandidáty jim budou navrhovat prez
 
 Při výběhu by poslancům měla pomáhat hodnotící komise. V ní musí mít zastoupení děti starší 15 let a organizace zastupující zájmy dětí. 
 
-Dětským ombudsmanem pak může být pouze osoba, u které se dá předpokládat, že má znalosti, zkušenosti a morální vlastnosti k řádnému zastávání funkce. Musí také splnit následující kritéria:
-
-* státní občanství České republiky;
-* svéprávnost;
-* bezúhonnost;
-* věk nejméně 35 let;
-* ukončené vysokoškolské vzdělání získané studiem v magisterském studijním programu v oblasti práva;
-* nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let.
+> Dětským ombudsmanem pak může být pouze osoba, u které se dá předpokládat, že má znalosti, zkušenosti a morální vlastnosti k řádnému zastávání funkce. Musí také splnit následující kritéria:
+>
+> * státní občanství České republiky;
+> * svéprávnost;
+> * bezúhonnost;
+> * věk nejméně 35 let;
+> * ukončené vysokoškolské vzdělání získané studiem v magisterském studijním programu v oblasti práva;
+> * nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let.
 
 ### Novela rozšíří také mandát ombudsmana (veřejného ochránce práv)
 
