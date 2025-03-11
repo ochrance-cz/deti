@@ -9,7 +9,7 @@ perex: Uplynul téměř rok od chvíle, kdy vláda předložila sněmovně náv
 ---
 ### Veřejný ochránce práv = ombudsman, ochránce práv dětí = dětský ombudsman
 
-Dětský ombudsman bude sídlit v naší Kanceláři. Ta se oficiálně přejmenuje na **Kancelář veřejného ochránce práv a ochránce práv dětí**. Oba ombudsmani však budou působit nezávisle. Oba budou mít však společného zástupce. 
+Dětský ombudsman bude sídlit v naší Kanceláři. Ta se oficiálně přejmenuje na **Kancelář veřejného ochránce práv a ochránce práv dětí**. Oba ombudsmani budou mít společného zástupce, působit ale budou nezávisle. 
 
 ### Úkonem dětského ombudsmana bude prosazovat práva dětí v jednotlivých případech i na systémové úrovni
 
