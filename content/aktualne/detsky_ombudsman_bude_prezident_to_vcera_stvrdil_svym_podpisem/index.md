@@ -32,7 +32,7 @@ Při výběhu by poslancům měla pomáhat hodnotící komise. V ní musí mít 
 > * být svéprávný,
 > * být bezúhonný,
 > * mít nejméně 35 let,
-> * mít vysokoškolské (magisterské) právní vzdělání ,
+> * mít vysokoškolské (magisterské) právní vzdělání,
 > * mít nejméně 5 let praxe v oblasti ochrany práv dětí v období předchozích 10 let.
 
 ### Novela rozšíří také mandát ombudsmana (veřejného ochránce práv)
