@@ -17,7 +17,7 @@ Děti  konečně získají svého zástupce, který bude jejich práva hájit ko
 
 * **šetřit individuální stížnosti** – ty mu budou moci poslat jak samotné děti, tak dospělí upozorňující na zásah do práv dětí,
 * **monitorovat naplňování práv dětí v různých oblastech života a prosazovat tyto poznatky** – za tímto účelem bude provádět výzkumy, vydávat doporučení, připomínkovat právní předpisy apod.,
-* mít možnost **vstoupit do vybraných soudních řízení nebo navrhnout jejich zahájení,**
+* mít možnost **vstoupit do vybraných soudních řízení n**ebo navrhnout jejich zahájení**,**
 * skrze **poradní orgán** složený z dětí naslouchat mladé generaci a její názory zprostředkovávat dalším institucím.
 
 ### **Kdo se může stát dětským ombudsmanem?**
