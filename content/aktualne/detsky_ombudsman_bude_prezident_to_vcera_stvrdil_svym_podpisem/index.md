@@ -37,4 +37,4 @@ Při výběhu by poslancům měla pomáhat hodnotící komise. V ní musí mít 
 
 ### Novela rozšíří také mandát ombudsmana (veřejného ochránce práv)
 
-Vedle zřízení dětského ombudsmana přináší stejná novela zákona také rozšíření mandátu ombudsmana. Nově bude také tzv. národní lidskoprávní institucí. Jejím cílem bude chránit a prosazovat lidská práva v Česku. [Co to konkrétně znamená? ](https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/)
+Vedle zřízení dětského ombudsmana přináší stejná novela zákona také rozšíření mandátu ombudsmana. Vedle stávajících povinností se tak nově stane tzv. národní lidskoprávní institucí. Jejím cílem bude chránit a prosazovat lidská práva v Česku. [Co to konkrétně znamená? ](https://www.ochrance.cz/dokument/co_je_to_narodni_lidskopravni_instituce_a_proc_ji_v_cesku_potrebujeme/)
