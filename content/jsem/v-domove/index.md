@@ -1,6 +1,6 @@
 ---
 title: Jsem v dětském domově nebo výchovném ústavu
-perex: >-
+perex: >
   Odpovíme na nejčastější otázky dětí v zařízeních. Popíšeme, co můžeš dělat,
   když se Ti nelíbí, jak s Tebou v zařízení zacházejí. Dozvíš se, s čím Ti
   pomůže ombudsman a jak mu můžeš napsat.
