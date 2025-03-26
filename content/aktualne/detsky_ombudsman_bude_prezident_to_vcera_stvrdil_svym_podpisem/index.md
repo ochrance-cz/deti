@@ -7,6 +7,8 @@ perex: Uplynul téměř rok od chvíle, kdy vláda předložila sněmovně náv
   bude zvolen její představitel, povinnosti bude vykonávat zástupce ombudsmana
   Vít Alexander Schorm.
 ---
+![Obrázek tlampače a z něj se linoucí bubliny s nápisem "Dětský ombudsman bude!". Pod bublinou je pak nápis "od 1. července 2025, deti.ochrance.cz"](detsky_ombudsmna_bude.jpg)
+
 Dětský ombudsman bude sídlit v naší Kanceláři. Ta se oficiálně přejmenuje na **Kancelář veřejného ochránce práv a ochránce práv dětí**. Oba ombudsmani budou mít společného zástupce, působit ale budou nezávisle. 
 
 > veřejný ochránce práv = ombudsman
