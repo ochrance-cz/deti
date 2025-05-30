@@ -25,6 +25,6 @@ Zajímavé je, že mnoho dětí považuje za významný problém své generace t
 
 ![Infografika, která shrnuje pět nejčastějších témat, které uváděla dotazovaná skupina dětí (11-15 let), a pět nejčastějších témat, které ve výzkumu uváděli teenageři a mladí dospělí (15-25 let).](top_5_problemy_deti.jpg)
 
-## Co si o tom myslí zástupce ombudsmana, který bude dočasně zastupovat i dětského ombudsmana?
+### Co si o tom myslí zástupce ombudsmana, který bude dočasně zastupovat i dětského ombudsmana?
 
 *„Většinu problémů mladé generace není snadné vyřešit. Je však důležité, že je umí přesvědčivě popsat. Na nás dospělých pak je, abychom děti a mladé nejen vyslyšeli, ale také je zapojili do hledání nejvhodnějšího řešení. To je jeden z důvodů, proč dětský ombudsman bude zřizovat svůj poradní orgán složený z dětí. Stejně tak vítám iniciativy řady ministerstev, která pozvolna usilují o zapojení dětí a mladých lidí do svých činností, například v podobě zřizování panelů pro mládež.“*
