@@ -1,29 +1,23 @@
 ---
 title: Práce a brigády
 cases:
-  - title: Od kolika let můžu chodit na brigády a jaké odvody budu platit?
-    perex: Obrátila se na nás čtrnáctiletá Zuzana se stížností na postup firmy, u
-      níž měla zájem o letní brigádu a která ji nepřijala z důvodu nízkého věku.
+  - title: Od kolika let můžu chodit na brigády?
+    perex: Od léta 2025 je to možné už od 14 let. Nově nemusíš mít ani ukončenou
+      povinnou školní docházku. Splnit však musíš přísné podmínky.
     body: >-
-      Nemohli jsme přímo zkontrolovat firmu, zda postupuje správně. Na to nemáme
-      kompetence. Ale informovali jsme Zuzanu, že pracovní smlouvu (či některou
-      z dohod v rámci brigády) by mohla uzavřít až po dosažení patnácti let věku
-      (nastoupit do práce může však nejdříve po ukončení povinné školní
-      docházky).
+      * Pracovat můžeš pouze v době letních prázdnin.
 
+      * Musíš mít souhlas zákonného zástupce (nejčastěji rodiče).
 
-      Patnáctiletý student si tedy může sjednat brigádu nebo i pracovní smlouvu bez souhlasu rodiče (např. ale tzv. dohodu o hmotné odpovědnosti lze uzavřít nejdříve v den, kdy dosáhne osmnácti let věku). Firma tedy postupovala správně, když Zuzanu do práce nepřijala.
+      * Můžeš dělat pouze lehké práce, které neohrozí Tvé zdraví a vzdělávání (např. táborový vedoucí, pomoc v obchodě či restauraci, roznos letáků apod.).
 
+      * Můžeš pracovat maximálně 7 hodin denně.
 
-      Pokud jde o samotnou brigádu, tato je vykonávána na základě dohody o provedení práce nebo dohody o pracovní činnosti. Jaké jsou v tom rozdíly?
+      * Tvá týdenní pracovní doba nesmí přesáhnout 35 hodin.
 
+      * Nesmíš pracovat v noci.
 
-      * **Dohoda o provedení práce** se sjednává na práci o max. rozsahu 300 hodin v kalendářním roce.  Pokud zaměstnanec vydělá méně než 10 000,- Kč měsíčně, není povinen platit ani zdravotní pojištění, ani sociální pojištění. Výplata podléhá „jen“ srážkové dani ve výši 15 %. Tento typ dohody je pro studentské brigády nejčastější. 
-
-      * U **dohody o pracovní činnosti** může být překročen rozsah 300 hodin v kalendářním roce, avšak maximálně přípustný počet odpracovaných hodin je nejvýše polovina běžné týdenní pracovní doby (tedy 20 hodin za týden). Zdravotní, sociální a nemocenské pojištění platí zaměstnanec i zaměstnavatel z odměny od 3 500,- Kč za měsíc.
-
-
-      **V obou případech je důležité, že dohody musí být uzavřeny písemně a podepisuje jí vždy ten, kdo ji uzavírá. U brigád mladistvých tak není nutný podpis či schválení jejich rodičů.**
+      * Před zahájením práce Tě musí zaměstnavatel poslat na lékařskou prohlídku.
   - title: Mám jako student na brigádě nárok na nižší daň z příjmů?
     perex: Odpovídali jsme na dotaz osmnáctiletého Erika. Dotazoval se nás, zda musí
       z letní brigády skutečně odvádět daň a zda nemůže uplatnit nějakou slevu
