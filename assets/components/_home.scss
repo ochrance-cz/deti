@@ -1,9 +1,8 @@
 ._home {
-  max-width: $max-content-width;
   margin: 0 0 4rem;
 
   @include medium {
-    padding: 0 1rem;
+    padding: 0rem;
     margin: 4rem auto;
   }
 
@@ -11,47 +10,42 @@
     display: none;
   }
 
+  @include medium {
+    .news {
+      margin-top: -8rem;
+      padding-top: 4rem;
+      background-color: $white;
+      border-top-left-radius: 100% 4rem;
+      border-top-right-radius: 100% 4rem;
+
+      h2,
+      ul {
+        max-width: $max-content-width;
+        margin: 1rem auto;
+      }
+    }
+  }
+
   .home-grid {
+    background-color: $gray;
+
     @include small-only {
       .intro-text-wrapper {
         position: relative;
         padding-top: 0.1rem;
 
-        &::before {
-          content: " ";
-          display: block;
+        margin-top: auto;
 
-          width: 40vw;
-          height: 75vw;
-          float: right;
+        // font-weight: 600;
+        color: $secondary;
+        margin: auto;
+        align-self: center;
+        max-width: 20em;
+        padding: 1rem;
 
-          background-image: url(/images/skejtak.png);
-          background-repeat: no-repeat;
-          background-size: contain;
-          background-position: 0% 50%;
-        }
-
-        &::after {
-          content: " ";
-          display: block;
-          position: absolute;
-          top: 3vw;
-          left: 0;
-          right: 0;
-          width: 50vw;
-          height: 45vw;
-
-          background-image: url(/images/segra.png);
-          background-repeat: no-repeat;
-          background-size: contain;
-          background-position: 100% 50%;
-        }
-
-        .intro-text {
-          margin-top: 50vw;
-          background: $primary;
-          padding: 1rem;
-          color: $white;
+        p {
+          font-size: 110%;
+          text-align: center;
         }
       }
     }
@@ -59,76 +53,37 @@
     @include medium {
       display: grid;
       grid-template-columns: 1fr 1fr;
+      padding-bottom: 10rem;
       margin-bottom: 3rem;
 
       .intro-text-wrapper {
         position: relative;
         display: flex;
-        flex-flow: row;
-
-        &::before {
-          content: " ";
-          display: block;
-          position: absolute;
-          top: -20px;
-          bottom: -80px;
-          left: -50px;
-          width: 300px;
-          transform: translateY(-30px);
-
-          background-image: url(/images/skejtak.png);
-          background-repeat: no-repeat;
-          background-size: contain;
-          background-position: 0% 50%;
-        }
 
         .intro-text {
           margin-top: auto;
-          background: $primary;
-          color: $white;
-          padding: 1rem 1rem 1rem 140px;
+
+          // font-weight: 600;
+          color: $secondary;
+          margin: auto;
+          align-self: center;
+          max-width: 20em;
+          padding: 1rem;
 
           p {
-            display: inline;
+            font-size: 110%;
+            text-align: center;
           }
 
-          &::after {
-            content: " ";
-            display: block;
-            position: absolute;
-            top: -40px;
-            bottom: 45%;
-            left: 0;
-            right: 0;
-            width: 100%;
-
-            background-image: url(/images/segra.png);
-            background-repeat: no-repeat;
-            background-size: contain;
-            background-position: 70% 50%;
-          }
-
-          box-shadow: 30vw 0 0 $primary, 45vw 0 0 $primary, 60vw 0 0 $primary;
+          // box-shadow: 30vw 0 0 $primary, 45vw 0 0 $primary, 60vw 0 0 $primary;
         }
       }
     }
 
     @media only screen and (min-width: $max-content-width + 150px) {
       .intro-text-wrapper {
-        &::before {
-          top: -20px;
-          bottom: -80px;
-          left: -100px;
-        }
-
         .intro-text {
           padding-left: 100px;
-
-          &::after {
-            top: -50px;
-            bottom: 45%;
-            background-position: 60% 50%;
-          }
         }
       }
     }
@@ -204,12 +159,19 @@
 
         span {
           display: inline-block;
-          padding: 0 0.25rem;
-          color: $gray;
+          padding: 0;
+          font-size: 8px;
+          line-height: 1em;
+          color: $white;
           cursor: pointer;
+
+          aspect-ratio: 1;
+          border: 4px solid $secondary;
+          border-radius: 100px;
 
           &.selected {
             color: $secondary;
+            background-color: $secondary;
           }
         }
       }

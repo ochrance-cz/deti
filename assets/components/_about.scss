@@ -22,16 +22,16 @@
   }
 
   .facts {
-    background: $secondary;
+    background: $primary;
     padding: 2rem;
-    border-radius: 0.5rem;
-    margin: 0 -2rem;
+    margin: 1rem -1rem;
 
     ul {
       margin: 2rem 0 0;
 
       li::before {
-        background-image: url(/images/arrow-right-white.svg);
+        content: "•";
+        color: $white;
       }
     }
 

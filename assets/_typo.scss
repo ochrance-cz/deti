@@ -138,7 +138,6 @@ p {
 
 blockquote,
 .perex {
-  background: $gray;
   margin: 0rem 0 2rem;
   padding: 1rem 2rem;
 
@@ -325,27 +324,21 @@ blockquote {
 
 main ul {
   list-style: none;
-  padding-left: 3rem;
+  padding-left: 1.2rem;
 
   li {
-    margin: 0 0 0.5rem 0;
+    margin: 0;
     min-height: 2.5rem;
     position: relative;
 
     &::before {
-      --size: 2rem;
+      --size: 0.5rem;
 
-      width: var(--size);
-      height: var(--size);
-
-      background-image: url(/images/arrow-right.svg);
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: 50% 50%;
+      // width: var(--size);
+      // height: var(--size);
 
       content: " ";
       color: $primary;
-      font-size: 1.5rem;
       font-weight: bold;
       transform: rotate(-5deg);
 

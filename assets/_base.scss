@@ -50,14 +50,18 @@ figure {
 }
 
 main > article {
-  max-width: $max-content-width;
-  margin: 0 auto;
-  padding: 0 1rem;
+  max-width: 38rem;
+  margin: 3rem auto;
+  padding: 1rem;
+  background: $white;
+  border-radius: 29px;
+  box-shadow: 0px 4px 12px 0px hsla(0, 0%, 0%, 0.25);
 
   h1 {
     position: relative;
     color: $primary;
     max-width: 50rem;
+    text-align: center;
     margin: 3rem auto 2rem;
 
     &::after {
@@ -69,27 +73,12 @@ main > article {
       @include medium {
         display: block;
         position: absolute;
-
-        left: -60px;
-        bottom: -55px;
-        width: 100px;
-        height: 70px;
-        background-image: url(/images/arrow-title.svg);
       }
     }
 
     @include small-only {
       margin-top: 0;
       padding-right: 50px;
-
-      &::after {
-        position: static;
-        display: inline-block;
-        vertical-align: top;
-        width: 100px;
-        height: 70px;
-        background-image: url(/images/arrow-enter.svg);
-      }
     }
   }
 
@@ -135,25 +124,26 @@ main img {
   overflow: hidden;
 }
 
-.more-link {
-  display: inline-block;
-
-  font-weight: bold;
+@mixin button {
+  background-color: $primary;
+  color: white;
+  border-radius: 4px;
   text-decoration: none;
-
-  background-image: url(/images/arrow-more.svg);
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: contain;
-
-  color: $white;
-  padding: 0 3rem 0 2rem;
-  height: 4rem;
-  line-height: 4rem;
+  padding: 1rem 1.2rem;
+  box-shadow: 0px 2px 2px 0px hsla(0, 0%, 0%, 0.25);
 
   &:hover {
-    color: $secondary;
+    color: white;
+    background-color: $primary-bright;
   }
+}
+
+.more-link {
+  @include button;
+
+  display: block;
+  width: fit-content;
+  margin: 2rem auto;
 }
 
 main img {

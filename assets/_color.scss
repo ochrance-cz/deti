@@ -1,8 +1,8 @@
-$primary: #64338c;
-$secondary: #39bdc8;
+$primary: hsla(206, 98%, 42%, 1);
+$secondary: hsla(329, 85%, 43%, 1);
 
-$primary-bright: #64338c;
-$secondary-bright: #39bdc8;
+$primary-bright: brighten($primary, 30);
+$secondary-bright: brighten($secondary, 30);
 
 $white: #ffffff;
 $black: #000000;
@@ -10,3 +10,10 @@ $gray: #f2f2f2;
 
 $border-gray: #b8b8b8;
 $border-green: #39bdc8;
+
+h1,
+h2,
+h3,
+h4 {
+  color: $primary;
+}

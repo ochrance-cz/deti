@@ -75,10 +75,8 @@
     </script>
   </div>
 
-
-
-  <section>
-    <h2 class="title-with-arrow">Co se právě děje?</h2>
+  <section class="news">
+    <h2>Co se právě děje?</h2>
 
     {{ $news := where (where .Site.Pages "Section" "aktualne") "Kind" "page" }}
 

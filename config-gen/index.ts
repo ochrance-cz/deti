@@ -211,7 +211,7 @@ const kdoCustom = files("Speciální „Kdo je…“", "kdo-custom", [
 ]);
 
 const kdo = folderCollection(
-  "Kdo je to ombudsman",
+  "O nás",
   "kdo",
   "o ombudsmanovi",
   {
