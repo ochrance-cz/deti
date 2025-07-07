@@ -9,6 +9,11 @@ body {
   background: $white;
 }
 
+body {
+  background-image: url(images/faces.png);
+  background-attachment: fixed;
+}
+
 figure {
   padding: 0;
   margin: 0;
@@ -83,8 +88,8 @@ main > article {
   }
 
   .text-content {
-    max-width: 38rem;
-    margin: 0 auto;
+    // max-width: calc(38rem - 2rem);
+    margin: 0 1rem;
   }
 }
 

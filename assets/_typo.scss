@@ -164,20 +164,20 @@ main a {
   &[href$=".doc"]::after,
   &[href$=".docx"]::after,
   &[href$=".odt"]::after {
-    content: "PDF";
+    // content: "PDF";
 
-    color: $white;
-    font-weight: normal;
-    display: inline-block;
-    white-space: nowrap;
-    background: $primary-bright;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    padding: 0.1rem 0.8rem;
-    border-radius: 1rem;
-    margin: 0 0.25em;
-    vertical-align: top;
-    text-indent: 0;
+    // color: $white;
+    // font-weight: normal;
+    // display: inline-block;
+    // white-space: nowrap;
+    // background: $primary-bright;
+    // font-size: 0.8rem;
+    // text-transform: uppercase;
+    // padding: 0.1rem 0.8rem;
+    // border-radius: 1rem;
+    // margin: 0 0.25em;
+    // vertical-align: top;
+    // text-indent: 0;
   }
 
   &[href$=".doc"]::after {
@@ -350,18 +350,22 @@ main ul {
 
   &._we-can {
     li {
+      margin: 1rem 0;
+
       &::before {
-        @include fa-icon($fa-var-check, $primary);
         position: absolute;
         transform: none;
-        background: none;
 
-        --size: 2rem;
+        background-image: url(images/check.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+
+        --size: 1.5rem;
 
         width: var(--size);
         height: var(--size);
         font-size: var(--size);
-        margin-top: -0.5rem;
+        margin-top: 0;
         margin-left: 0.05rem;
       }
     }
@@ -369,19 +373,23 @@ main ul {
 
   &._we-cannot {
     li {
+      margin: 1rem 0;
+
       &::before {
-        @include fa-icon($fa-var-times, $secondary);
         position: absolute;
         transform: none;
-        background: none;
 
-        --size: 2.2rem;
+        background-image: url(images/cross.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+
+        --size: 1.5rem;
 
         width: var(--size);
         height: var(--size);
         font-size: var(--size);
-        margin-top: -0.5rem;
-        margin-left: 0.25rem;
+        margin-top: 0;
+        margin-left: 0.05rem;
       }
     }
   }

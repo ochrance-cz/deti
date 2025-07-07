@@ -44,10 +44,47 @@
           {{ end }}
         </div>
       </div>
+      </div>
 
       <div class="facts">
         {{ partial "md-block.html" (dict "content" .Params.facts "context" $) }}
       </div>
+
+      <div class="text-content">
+        <div>
+       {{ with .GetPage "/kdo/cim-se-zabyva" }}
+        <h2>{{ .Title }} </h2> 
+        {{ partial "md-block.html" (dict "content" (trim .Params.perex "\n") "context" $) }}
+    
+        {{ partial "md-block.html" (dict "content" (index .Params "we-can-title") "context" $) }}
+
+        {{ with (index .Params "we-can") }}
+          
+
+          <ul class="_we-can">
+            {{ range .  }}
+              <li>{{ .text }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+          {{ partial "md-block.html" (dict "content" (index .Params "we-cannot-title") "context" $) }}
+
+        {{ with (index .Params "we-cannot") }}
+          
+
+          <ul class="_we-cannot">
+            {{ range .  }}
+              <li>{{ .text }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+        {{ partial "md-block.html" (dict "content" .RawContent "context" $) }}
+       {{ end }}
+      </div>
+      </div></div>
+
 
       <ul class="_link-list">
         {{ with .GetPage "/kdo/cim-se-zabyva" }}

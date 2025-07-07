@@ -3,7 +3,28 @@
   <article>
   	<h1>{{ .Title }}</h1>
 
+    
+
     <div class="text-content">
+      {{ with .GetPage "/kdo/jak" }}
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.perex }}</p>
+        {{ with .Params.contact }}
+          <ul class="_contact">
+            {{ range . }}
+              <li>
+                <img class="contact-icon" src="/images/domov/{{ .icon }}">
+                <p><strong>{{ .title }}</strong></p>
+                {{ partial "md-block.html" (dict "content" .desc "context" $) }}
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+        {{ .Content }}
+      {{ end }}
+      </div>
+
+
       {{ with .Params.perex }}
         <div class="perex">{{ partial "md-block.html" (dict "content" (trim . "\n") "context" $) }}</div>
       {{ end }}
@@ -16,7 +37,7 @@
 
       {{ .Content }}
 
-      {{ with .Params.linky }}
+      <!--  {{ with .Params.linky }}
         <div class="perex">
           {{ partial "md-block.html" (dict "content" . "context" $) }}
         </div>
@@ -26,10 +47,25 @@
         {{ range .Pages }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
-      </ul>
+      </ul> -->
     </div>
+
+    <div class="text-content">
+     <h2>Jsem v zařízení nebo v nemocnici</h2>
+    {{ $jsem := where (where .Site.Pages "Section" "jsem") "Kind" "page" }}
+  
+    {{ range $jsem }}
+      <h3>{{ .Title }}</h3>
+      {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
+    {{ end }}
+    </div>
+
   </article>
 
+  
+  
+ 
+  
 
 </main>
 {{ end }}

@@ -32,9 +32,11 @@ contact:
       (každý všední den mezi 8:00 a 16:00 hod.)
   - title: Český znakový jazyk
     icon: soukromi.svg
-    desc: Pokud potřebuješ, pošli nám své video v českém znakovém jazyce. Znakovat
+    desc:
+      Pokud potřebuješ, pošli nám své video v českém znakovém jazyce. Znakovat
       můžeš i při osobním setkání.
 ---
+
 Budeme respektovat způsob komunikace, který si vybereš.
 
 Tvou stížnost posoudí právník nebo právnička, který/á bude mít tvůj případ na starosti. Pokud bude potřeba, spojí se s tebou a společně doplníte další informace.
@@ -43,10 +45,12 @@ Pokud potřebuješ, dej nám vědět a odpovíme ti v tvém mateřském jazyce n
 
 **Naše pomoc je bezplatná.**
 
-
+<div class="blue-block">
 
 ## Co by měla tvá stížnost obsahovat?
 
-* tvé jméno, věk a jakýkoliv kontakt, přes který se s tebou můžeme spojit (může to být e-mail, poštovní adresa nebo telefon)
-* na koho si stěžuješ (uveď alespoň název úřadu, na který si stěžuješ, event. jiné instituce či osoby, se kterou jsi jednal/a)
-* jaký problém řešíš
+- tvé jméno, věk a jakýkoliv kontakt, přes který se s tebou můžeme spojit (může to být e-mail, poštovní adresa nebo telefon)
+- na koho si stěžuješ (uveď alespoň název úřadu, na který si stěžuješ, event. jiné instituce či osoby, se kterou jsi jednal/a)
+- jaký problém řešíš
+
+</div>

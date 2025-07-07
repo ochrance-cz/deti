@@ -4,8 +4,8 @@ backend:
 locale: cs
 media_folder: content/media
 public_folder: /media
-site_domain: 'https://deti.ochrance.cz/'
-display_url: 'https://deti.ochrance.cz/'
+site_domain: "https://deti.ochrance.cz/"
+display_url: "https://deti.ochrance.cz/"
 slug:
   encoding: ascii
   clean_accents: true
@@ -117,7 +117,7 @@ collections:
                 name: link
                 required: false
                 widget: string
-        media_folder: ''
+        media_folder: ""
       - label: Nevíš si rady?
         name: pomoc
         file: content/pomoc/_index.markdown
@@ -210,9 +210,9 @@ collections:
       - label: Řetezec v adrese
         name: slug
         required: false
-        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        hint: "Pouze číslice, písmena anglické abecedy, spojovník a podtržítko."
         pattern:
-          - '^[a-z0-9-_]+$'
+          - "^[a-z0-9-_]+$"
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
             abecedy, spojovník a podtržítko.
@@ -277,13 +277,13 @@ collections:
             required: false
             widget: string
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
     sortable_fields:
       - date
       - commit_date
-    summary: '{{day}}. {{month}}. {{year}}: {{title}}'
+    summary: "{{day}}. {{month}}. {{year}}: {{title}}"
   - name: kdo-custom
     label: Speciální „Kdo je…“
     editor:
@@ -359,7 +359,7 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ''
+        media_folder: ""
       - label: Profil zástupce
         name: zastupce
         file: content/kdo/zastupce/index.markdown
@@ -391,7 +391,7 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ''
+        media_folder: ""
       - label: Jak kontaktovat
         name: kontakt
         file: content/kdo/jak/index.markdown
@@ -578,9 +578,9 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ''
+        media_folder: ""
   - name: o ombudsmanovi
-    label: Kdo je to ombudsman
+    label: O nás
     label_singular: kdo
     folder: content/kdo
     extension: md
@@ -623,9 +623,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
   - name: pomoc
     label: Hledám pomoc
     label_singular: pomoc
@@ -670,9 +670,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
   - name: jsem
     label: Jsem v zařízení
     label_singular: zařízení
@@ -727,9 +727,9 @@ collections:
             required: false
             widget: markdown
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
   - name: pripady
     label: Případy
     label_singular: oblast
@@ -787,6 +787,6 @@ collections:
             required: false
             widget: markdown
     create: true
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
