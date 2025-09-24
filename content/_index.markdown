@@ -1,18 +1,7 @@
 ---
 title: Ombudsman dětem a náctiletým
 videos:
-  - video: https://youtu.be/iiw2OM4jDbA
-  - video: https://youtu.be/NFqtC1_LqQs?si=FUEa6RxOJORGefj6
-  - video: https://youtu.be/_zuRwF4XuR0?si=1mz8XnG3tTwzHP4n
-  - video: https://youtu.be/HhdtlPyXKHo?si=nT1iXkcWNA42hcbt
-  - video: https://youtu.be/8wPzjwGk72M
-  - video: https://youtu.be/AvfLU3p3G8s
-  - video: https://youtu.be/BfMYDjRmHJE
-  - video: https://youtu.be/eD2FpvShaz8
-  - video: https://youtu.be/JjmnpspcfJM
-  - video: https://youtu.be/GiTQycQaZgM
-  - video: https://youtu.be/OcKbyR5Nzp0
-  - video: https://youtu.be/oq3Tu4rzI54
+  - video: https://youtu.be/RrXC-KMc6t4?si=QkB1PKeEAwfEtV5p
 langs:
   en: /media/letak_-_ombudsman_detem_-en_2024.pdf
   de: /media/letak_-_ombudsman_detem_de_2024.pdf
