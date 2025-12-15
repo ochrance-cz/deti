@@ -1,0 +1,144 @@
+._site-header {
+  ul {
+    margin: 0;
+    padding: 0;
+
+    a {
+      color: $white;
+    }
+  }
+
+  ul.stripe {
+    color: $white;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    height: 6rem;
+
+    gap: 1rem;
+    align-items: center;
+
+    @include small-only {
+      & > li {
+        display: inline-block;
+        margin: 0;
+      }
+    }
+
+    li.root-link {
+      display: block;
+      flex-grow: 1;
+      flex-shrink: 1;
+      height: 100%;
+
+      &::before {
+        display: none;
+      }
+
+      a {
+        display: block;
+        height: 100%;
+        width: auto;
+      }
+
+      img {
+        width: auto;
+        height: 100%;
+        object-position: 0% 0%;
+        object-fit: contain;
+      }
+
+      @include small-only {
+        img {
+          display: block;
+          max-width: 40vw;
+          vertical-align: middle;
+        }
+      }
+    }
+
+    @include medium {
+      max-width: $max-content-width;
+
+      & > li {
+        display: block;
+        margin: 0;
+        padding: 0;
+
+        a {
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+
+  .buttons {
+    box-sizing: border-box;
+    position: relative;
+
+    @include small-only {
+      padding: 1.5rem 1rem;
+    }
+
+    @include medium {
+      padding: 3rem 1rem 0;
+      margin: 0 auto 0;
+      max-width: $max-content-width;
+      display: flex;
+    }
+
+    a {
+      display: inline;
+      font-weight: bold;
+      text-decoration: none;
+
+      background: $primary;
+      border-radius: 3px;
+      padding: 0.7rem 0;
+
+      @include small-only {
+        box-shadow:
+          1rem 0 0 $primary,
+          -1rem 0 0 $primary,
+          1rem 3px 3px rgba(0, 0, 0, 0.1);
+        line-height: 2rem;
+        width: 100%;
+      }
+
+      @include medium {
+        display: block;
+        text-align: center;
+      }
+    }
+
+    li {
+      flex: 1 1 auto;
+      display: block;
+
+      margin: 0 0.75rem 0 0;
+      transform-origin: 50% 50%;
+      will-change: transform;
+      transition: 0.2s ease-out;
+
+      @include small-only {
+        padding: 0 1rem;
+        margin: 0 0 1.5rem;
+      }
+
+      @include medium {
+        a {
+          padding: 1rem;
+          @include font-size-s;
+        }
+
+        &:last-child {
+          margin: 0;
+        }
+      }
+    }
+  }
+}

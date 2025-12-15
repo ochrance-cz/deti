@@ -27,4 +27,4 @@ dítěte z péče rodičů a jeho dalším setkáním s rodiči způsobena také
 komunikací mezi vyjmenovanými subjekty. Tento postup není správný a ombudsmanka
 jej kritizovala.
 
-Pokud by ses dostal/a do stejné situace, můžeš ombudsmance napsat například prostřednictvím e-mailu [deti@ochrance.cz](mailto:deti@ochrance.cz)  - podrobnosti [zde](https://deti.ochrance.cz/kdo/jak/).
+Pokud by ses dostal/a do stejné situace, můžeš ombudsmance napsat například prostřednictvím e-mailu [deti@ochrance.cz](mailto:deti@ochrance.cz)  - podrobnosti [zde](https://deti.ochrance.cz/o-nas/jak/).

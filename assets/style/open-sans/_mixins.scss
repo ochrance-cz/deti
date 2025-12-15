@@ -1,0 +1,6 @@
+@mixin fontdef($OpenSansPath, $OpenSansVersion, $FontType:"Regular") {
+  src:  url('#{$OpenSansPath}/#{$FontType}/OpenSans-#{$FontType}.eot');
+  src:  url('#{$OpenSansPath}/#{$FontType}/OpenSans-#{$FontType}.eot?#iefix') format('embedded-opentype'),
+        url('#{$OpenSansPath}/#{$FontType}/OpenSans-#{$FontType}.woff') format('woff'),
+        url('#{$OpenSansPath}/#{$FontType}/OpenSans-#{$FontType}.ttf') format('truetype');
+}

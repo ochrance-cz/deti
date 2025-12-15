@@ -20,5 +20,5 @@ Je pro nás důležité, aby se každé dítě mohlo zapojit do dění kolem seb
 **Proto i my chceme znát Tvůj názor a dát Ti prostor s námi diskutovat o čemkoliv, co se Tě týká.** 
 
 * Sleduj odpolední část naší konference pro děti. Bude probíhat ve středu 15. června 2022. Můžeš nám i položit jakoukoliv otázku, a to prostřednictvím e-mailu deti@ochrance.cz. O jejich zodpovězení se pokusíme v čase 13:15 - 14:45 hod. během streamované diskuze ombudsmana a jeho zástupkyně s dětmi, které se osobně zúčastní konference. 
-* Řešíš problém, se kterým si nevíš rady? [Koukni](https://deti.ochrance.cz/pripady/), zda jsme něco podobného už nepomohli vyřešit někomu před Tebou. A pokud odpověď nenajdeš, [ozvi se nám](https://deti.ochrance.cz/kdo/jak/). Poradíme Ti, co a jak dělat. 
+* Řešíš problém, se kterým si nevíš rady? [Koukni](https://deti.ochrance.cz/pripady/), zda jsme něco podobného už nepomohli vyřešit někomu před Tebou. A pokud odpověď nenajdeš, [ozvi se nám](https://deti.ochrance.cz/o-nas/jak/). Poradíme Ti, co a jak dělat. 
 * Chceš vidět, jak to u nás v kanceláři vypadá? Dozvědět se spolu se spolužáky a spolužačkami víc o tom, co děláme a proč to děláme? Domluv to se svým učitelem nebo učitelkou a napište nám e-mail na deti@ochrance.cz. Vymyslíme nějaký termín.

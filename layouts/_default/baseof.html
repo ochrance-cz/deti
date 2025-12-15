@@ -5,8 +5,8 @@
   <title>{{ .Title }}</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  {{ $style := resources.Get "style.scss" | toCSS | minify | fingerprint }}
+
+  {{ $style := resources.Get "style/style.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
   <link rel="stylesheet" href="https://use.typekit.net/tly6rvv.css">
@@ -17,35 +17,7 @@
 <body>
   {{ partial "alert-strip.html" . }}
 
-  <nav class="main _site-header">
-    <div class="_backdrop header">
-      <ul class="stripe">
-        <li class="root-link">
-          <a href="{{ .Site.BaseURL }}">
-            <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Úvodní strana" aria-label="Úvodní strana">
-          </a>
-        </li>
-
-        {{ $langs := (.GetPage "/").Params.langs }}
-
-        {{ partial "menu-item.html" (dict "lang" "en" "link" $langs.en "permalink" .RelPermalink "text" "English") }}
-        {{ partial "menu-item.html" (dict "lang" "de" "link" $langs.de "permalink" .RelPermalink "text" "Deutsch") }}
-        {{ partial "menu-item.html" (dict "lang" "rom" "link" $langs.rom "permalink" .RelPermalink "text" "Romanes") }}
-        {{ partial "menu-item.html" (dict "lang" "ru" "link" $langs.ru "permalink" .RelPermalink "text" "По-рýсски") }}
-      </ul>
-    </div>
-
-    <div class="small-search" role="search">
-      {{ partial "search.html" . }}
-    </div>
-
-    <ul class="buttons">
-      {{ partial "menu-item.html" (dict "link" "/kdo/" "permalink" .RelPermalink "text" "O nás") }}
-      {{ partial "menu-item.html" (dict "link" "/pomoc/" "permalink" .RelPermalink "text" "Hledám pomoc") }}
-      {{ partial "menu-item.html" (dict "link" "/pripady/" "permalink" .RelPermalink "text" "Nevím si rady s…") }}
-      {{ partial "menu-item.html" (dict "link" "/jsem/" "permalink" .RelPermalink "text" "Výstupy") }}
-    </ul>
-  </nav>
+  {{ partial "header.html" . }}h
 
   {{ block "main" . }}{{ end }}
 

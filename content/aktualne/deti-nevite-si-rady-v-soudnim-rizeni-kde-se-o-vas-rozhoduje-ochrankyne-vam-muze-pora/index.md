@@ -12,4 +12,4 @@ Ochránkyně dětem vysvětlila, co je čeká v soudním řízení, že jejich n
 
 Nedávno nám přišel děkovný dopis, kde děti píší: *„… soud konečně rozhodl, jsme konečně s tatínkem. Jsme s bráškou moc rádi, že to tak dopadlo. Taťka nás má moc rád, stará se o nás a nikdy nám neubližuje, jako občas mamka.“* Děti dále píší, že sociální pracovnice navrhovala, aby soud svěřil děti do péče tátovi. Na závěr uvádějí: *„Chceme Vám z celého srdce poděkovat za pomoc. Kdyby to nebylo tak daleko, přijeli bychom a poděkovali osobně. Jsme moc rádi, že jste nám pomohli.“*
 
-Jestli máte, děti, podobný problém, [napište nám](https://deti.ochrance.cz/kdo/jak/).
+Jestli máte, děti, podobný problém, [napište nám](https://deti.ochrance.cz/o-nas/jak/).

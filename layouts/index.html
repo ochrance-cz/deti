@@ -1,4 +1,4 @@
-{{ define "main" }}	
+{{ define "main" }}
 <main class="_home">
   <h1>{{.Title}}</h1>
 
@@ -11,7 +11,7 @@
     <div class="video-carousel">
       <div class="videos">
         {{ range .Params.videos }}
-          <iframe width="100%" height="250" src="https://www.youtube.com/embed/{{ .video | replaceRE "^.+/" "" }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" enablejsapi="1" allowfullscreen></iframe>
+          <iframe width="100%" height="400" src="https://www.youtube.com/embed/{{ .video | replaceRE "^.+/" "" }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" enablejsapi="1" allowfullscreen></iframe>
         {{ end }}
       </div>
       <a href="#" id="prev">{{ i18n "prev" }}</a>

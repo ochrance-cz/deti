@@ -29,7 +29,7 @@ Takové chování také není v pořádku. Své kamarády a kamarádky v tom nen
 
 ## Co mám dělat, když mě nebo kamarády nepustí do kina/obchodu/bazénu kvůli naší národnosti? Nebo když nás v restauraci nebudou chtít obsloužit, protože jsme cizinci?
 
-Podle českých zákonů se k Tobě nemůže nikdo chovat jinak (odlišně a méně příznivě) jen kvůli tomu, že mluvíš jiným jazykem nebo máš jinou národnost. Pokud se Ti něco takového v životě přihodí, je dobré se pokusit to slušně vyřešit na místě. Když to nepomůže, můžeš napsat [České obchodní inspekci](https://www.coi.cz/podatelna/) nebo napsat [nám](https://deti.ochrance.cz/kdo/jak/).
+Podle českých zákonů se k Tobě nemůže nikdo chovat jinak (odlišně a méně příznivě) jen kvůli tomu, že mluvíš jiným jazykem nebo máš jinou národnost. Pokud se Ti něco takového v životě přihodí, je dobré se pokusit to slušně vyřešit na místě. Když to nepomůže, můžeš napsat [České obchodní inspekci](https://www.coi.cz/podatelna/) nebo napsat [nám](https://deti.ochrance.cz/o-nas/jak/).
 
 ## Co mám dělat, když mám strach, že mi někdo ublíží, protože jsem jiné národnosti?
 

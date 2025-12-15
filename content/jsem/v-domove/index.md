@@ -161,7 +161,7 @@ questions:
 
       * zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD (měli by Tě v zařízení pravidelně navštěvovat) nebo
 
-      * zavolat nebo napsat [nám](https://deti.ochrance.cz/kdo/jak/).
+      * zavolat nebo napsat [nám](https://deti.ochrance.cz/o-nas/jak/).
   - title: Jak napsat ombudsmanovi?
     icon: napsat.svg
     desc: >-

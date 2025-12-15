@@ -56,7 +56,7 @@ ses na nás obrátil).
 **Jak vás mohu kontaktovat?** 
 
 Postup je shodný jako při podání
-podnětu. Podrobný popis nalezneš [zde](https://deti.ochrance.cz/kdo/jak/).
+podnětu. Podrobný popis nalezneš [zde](https://deti.ochrance.cz/o-nas/jak/).
 
 **Za jak dlouho a jak mi odpovíte
 na mé žádosti související se zpracováváním mých osobních údajů?** 

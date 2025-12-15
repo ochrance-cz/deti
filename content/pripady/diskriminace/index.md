@@ -32,7 +32,7 @@ cases:
       Pomoc obětem diskriminace poskytuje ze zákona ombudsman. Není na to ale sám, ve většině oblastí popsaných v předchozím odstavci jsou ještě jiné instituce, co mohou pomoci (např. Oblastní inspektoráty práce, Česká školní inspekce, Česká obchodní inspekce apod.). A vždy je také možné se obrátit na soud.
 
 
-      **Pokud ses ale Ty osobně nebo někdo z Tvého okolí dostal do situace, kdy mohlo jít o diskriminaci, neboj se zeptat a věc řešit. [Napiš nám](https://deti.ochrance.cz/kdo/jak/)** – **dáme Ti vědět, co je možné udělat. Nezavírej oči před diskriminací, jednou se může týkat i Tebe.** 
+      **Pokud ses ale Ty osobně nebo někdo z Tvého okolí dostal do situace, kdy mohlo jít o diskriminaci, neboj se zeptat a věc řešit. [Napiš nám](https://deti.ochrance.cz/o-nas/jak/)** – **dáme Ti vědět, co je možné udělat. Nezavírej oči před diskriminací, jednou se může týkat i Tebe.** 
 
 
       Více informací nalezneš také [zde](https://www.ochrance.cz/pusobnost/rovne-zachazeni-a-diskriminace/).
@@ -124,7 +124,7 @@ cases:
       Nejlepším řešením je domluva, i když to někdy bývá těžké. Pokud by se žádná dohoda nepodařila, můžeš se obrátit na [Českou školní inspekci](https://csicr.cz/cz/Clanky/Jak-podavat-stiznosti). Možná by Ti mohla pomoci, protože se školnímu stravování dlouhodobě věnuje a může kontrolovat, zda školy a domovy mládeže neporušují právní předpisy (včetně zákazu diskriminace).
 
 
-      Pokud ani Česká školní inspekce nepomůže, napiš [nám](https://deti.ochrance.cz/kdo/jak/). Můžeme posoudit, zda v Tvém konkrétním případě nedošlo k diskriminaci. Naše závěry pak můžeš použít jak pro jednání se školou, tak pro případné podání žaloby.
+      Pokud ani Česká školní inspekce nepomůže, napiš [nám](https://deti.ochrance.cz/o-nas/jak/). Můžeme posoudit, zda v Tvém konkrétním případě nedošlo k diskriminaci. Naše závěry pak můžeš použít jak pro jednání se školou, tak pro případné podání žaloby.
   - title: Podmínka 18 let pro zřízení datové schránky není diskriminační
     perex: Ještě Ti nebylo 18 let a pokoušel/a ses zřídit si datovou schránku? Nešlo
       Ti to? Myslíš si, že je to diskriminační? Se stejným problémem se na nás

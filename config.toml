@@ -1,12 +1,12 @@
 baseURL = "https://deti.ochrance.cz/"
 defaultContentLanguage = "cs"
-title = "Ombudsman dětem a náctiletým"
+title = "Dětský ombudsman — ochránce práv dětí"
 
 [outputs]
 home = ["HTML", "RSS", "htaccess"]
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 [outputFormats.htaccess]
 baseName = ""

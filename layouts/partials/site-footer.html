@@ -1,20 +1,35 @@
 <div class="_backdrop footer">
   <footer class="_site-footer">
     <div class="cols">
+      <!-- <form>
+        <h2>{{ i18n "stay-informed" }}</h2>
+
+        <p>{{ i18n "subscribe" }}</p>
+        <div class="newsletter-wrapper">
+          <input type="email" placeholder="jmeno@email.cz">
+          <input type="submit" value="Přihlásit se">
+        </div>
+        {{ with .GetPage "/" }}
+          <p class="_typo--small">{{ .Params.consent | markdownify }}</p>
+        {{ end }}
+      </form> -->
+
       <section>
-        <h2>Neboj se a napiš nebo zavolej</h2>
-        <ul>
+        <h2>Neboj se na nás obrátit</h2>
+        <ul class="footer-contact">
           <li>
             <span class="email-label">E-mail: </span>
             <a href="mailto:{{ (.GetPage "/kontakt").Params.email }}">{{ (.GetPage "/kontakt").Params.email }}</a>
-            <span class="hide-on-small">|</span>
-            <span class="disclaimer">Tento e-mail je určen pouze dětem a náctiletým</span>
+            <br>
+            <small class="disclaimer">Tento e-mail je určen pouze dětem a náctiletým</small>
           </li>
 
           <li>
             <span class="phone-label">Telefon: </span>
             <span class="phone">{{ (.GetPage "/kontakt").Params.phone }}</span>
           </li>
+
+          <li><a class="about-us-link" href="/o-nas/">O nás</a></li>
         </ul>
       </section>
 
@@ -27,37 +42,53 @@
           </li>
 
           <li>
-            <span class="twitter-label">Twitter: </span>
+            <span class="twitter-label">X: </span>
             <a href="https://twitter.com/ochranceprav">@ochranceprav</a>
           </li>
+
           <li>
             <span class="instagram-label">Instagram: </span>
             <a href="https://www.instagram.com/verejny.ochrance.prav">verejny.ochrance.prav</a>
           </li>
+
+          <li>
+            <span class="linkedin-label">LinkedIn: </span>
+            <a href="https://www.linkedin.com/company/veřejný-ochránce-práv">Veřejný ochránce práv</a>
+          </li>
+
           <li>
             <span class="youtube-label">Youtube: </span>
             <a href="https://www.youtube.com/channel/UCdWvuDhPr0GVH1mlSbWnNjQ">Ombudsman</a>
           </li>
+
+        </ul>
+      </section>
+
+      <section class="stay-in-touch">
+        <h2>Ostatní</h2>
+
+        <ul>
+          <li><a href="https://www.ochrance.cz">www.ochrance.cz</a></li>
+          <li><a href="https://www.ochrance.cz/provoz/volna-mista-a-staze/">Volná místa a stáže</a></li>
+          <li><a href="/o-nas/nabidka_pro_skolni_kolektivy/">Nabídka	pro školní kolektivy</a></li>
+          <li><a href="/media/umluva_o_pravech_ditete_web_pdf.pdf">Úmluva o právech dítěte ve srozumitelném čtení</a></li>
+          <li><a href="/o-nas/ochrana_tvych_osobnich_udaju/">Ochrana tvých osobních údajů</a></li>
         </ul>
       </section>
     </div>
     <hr>
     <div class="bottom-line">
-      <p>&copy; {{ now.Format "2006" }} Kancelář veřejného ochránce práv
+      <p>&copy; {{ now.Format "2006" }} Kancelář veřejného ochránce práv a ochránce práv dětí
         <a href="https://www.toplist.cz" style="margin-top: -20px;" id="toplist"></a>
-          <script language="JavaScript" type="text/javascript" charset="utf-8">
-            document.getElementById('toplist').innerHTML = ('<img src="https://toplist.cz/dot.asp?id=30867&http='+ encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+'&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />'); </script>
+        <script language="JavaScript" type="text/javascript" charset="utf-8">
+          document.getElementById('toplist').innerHTML = ('<img src="https://toplist.cz/dot.asp?id=30867&http='+ encodeURIComponent(document.referrer)+'&t='+encodeURIComponent(document.title)+'&l='+encodeURIComponent(document.URL)+'&wi='+encodeURIComponent(window.screen.width)+'&he='+encodeURIComponent(window.screen.height)+'&cd='+encodeURIComponent(window.screen.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist">');</script>
           <noscript><img src="https://toplist.cz/dot.asp?id=30867&njs=1" border="0" alt="TOPlist" width="1" height="1" /></noscript>
       </p>
       <p class="a11y">
-          <span class="mobile-p">Jsme přístupní</span> <a href="https://www.ochrance.cz/pristupnost/"
-  class="icon-link"><span class="movement">lidem s pohybovým
-  znevýhodněním,</span> <span class="seeing">lidem se zrakovým
-  znevýhodněním,</span> <span class="hearing">lidem se sluchovým
-  znevýhodněním,</span></a> <span class="mobile-p">i lidem s jinými <a
-  href="https://www.ochrance.cz/pristupnost/">speciálními potřebami.</a>
-        </span>
+        {{ with .GetPage "/" }}
+          {{ .Params.accessibility | markdownify }}
+        {{ end }}
       </p>
-   </div>
+    </div>
   </footer>
 </div>

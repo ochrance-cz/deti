@@ -4,7 +4,7 @@ draft: true
 date: 2023-05-19T11:43:34.686Z
 perex: "Dnes nám představuje své plány hned sedm středoškolských týmů zapojených
   do soutěže [Elevator: nápadem to
-  začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Chceme je
+  začíná](https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/). Chceme je
   podpořit, aby své projekty dotáhly a změnily věci, které je trápí v jejich
   okolí."
 ---

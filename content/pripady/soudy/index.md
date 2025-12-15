@@ -18,7 +18,7 @@ cases:
       důvody. 
 
 
-      > **Pokud řízení trvá dlouho a máš pocit, že se nic neděje, můžeš i Ty podat stížnost na průtahy v řízení. Průtahem je dlouhá doba mezi jednotlivými úkony soudu, ke které není důvod. K sepsání stížnosti můžeš využít formulář, který najdeš [zde](https://www.ochrance.cz/letaky/stiznost-na-prutahy/formular_stiznosti-na-prutahy-v-soudnim-rizeni.pdf). Předseda nebo předsedkyně soudu musí na stížnost odpovědět do 30 dnů. Pokud na stížnost neodpoví, nebo pokud nebudeš s odpovědí spokojen/a, [napiš nám to](https://deti.ochrance.cz/kdo/jak/). Pokusím se Ti pomoci.**
+      > **Pokud řízení trvá dlouho a máš pocit, že se nic neděje, můžeš i Ty podat stížnost na průtahy v řízení. Průtahem je dlouhá doba mezi jednotlivými úkony soudu, ke které není důvod. K sepsání stížnosti můžeš využít formulář, který najdeš [zde](https://www.ochrance.cz/letaky/stiznost-na-prutahy/formular_stiznosti-na-prutahy-v-soudnim-rizeni.pdf). Předseda nebo předsedkyně soudu musí na stížnost odpovědět do 30 dnů. Pokud na stížnost neodpoví, nebo pokud nebudeš s odpovědí spokojen/a, [napiš nám to](https://deti.ochrance.cz/o-nas/jak/). Pokusím se Ti pomoci.**
 
 
       Petrovi jsme situaci vysvětili a pomohli mu s formulací stížnosti. Tu předseda soudu vyřídil. Podle něj ale k průtahům v řízení nedocházelo. Připustil, že řízení trvalo dlouho, ale vysvětlil mu, že to nebylo chybou soudu. Soudu se totiž nedařilo otci doručit žalobu.
@@ -44,7 +44,7 @@ cases:
       Stížnost musí do 2 měsíců posoudit předseda či předsedkyně daného soudu. Ověří přitom, zda chování soudce bylo opravdu nevhodné. Každý člověk totiž může vnímat chování jinak. Úkolem předsedy soudu je tak posoudit, zda to, co se Ti na postupu soudce či soudkyně nelíbilo, bylo opravdu ze strany soudce nevhodné. Pokud zjistí, že se soudce nebo soudkyně chovali nevhodně, musí přijmout opatření, aby se to příště neopakovalo. Může například věc se soudcem projednat, nebo mu třeba uložit důtku.
 
 
-      **Pokud by se Ti nelíbilo, jak předseda či předsedkyně soudu Tvou stížnost vyřídili, napiš [nám](https://deti.ochrance.cz/kdo/jak/). Můžeme to s nimi řešit.**
+      **Pokud by se Ti nelíbilo, jak předseda či předsedkyně soudu Tvou stížnost vyřídili, napiš [nám](https://deti.ochrance.cz/o-nas/jak/). Můžeme to s nimi řešit.**
     perex: Patnáctileté Evě se nelíbilo, jakým způsobem s ní mluvil soudce předtím,
       než rozhodl, jak často se má vídat s mámou, se kterou nežije. Zdálo se jí,
       že zpochybňoval její názor, často ji přerušoval, a když mluvil, takřka

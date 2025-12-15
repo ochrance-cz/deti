@@ -33,4 +33,4 @@ Nejlepším řešením je domluvit se, i když to někdy bývá těžké. Zkus p
 
 Pokud by se žádná dohoda nepodařila, můžeš se s rodiči obrátit na [Českou školní inspekci](https://www.csicr.cz/cz/Poradna-QL/Poradna/Jak-podavat-stiznosti,-podnety,-petice/Stiznosti,-podnety,-petice). Možná by Ti mohla pomoci, protože se školnímu stravování dlouhodobě věnuje a může kontrolovat, zda školy a domovy mládeže neporušují právní předpisy (včetně zákazu diskriminace).
 
-Taky **můžeš znovu [napsat nám](https://deti.ochrance.cz/kdo/jak/)** , kdybys byl přijat na školu s domovem mládeže, kde by Ti odmítali zajistit dietní stravování. Ochránkyně by pak mohla takový domov mládeže oslovit a prošetřit, jestli se nedopouští diskriminace. Ochránkyně ale nemůže škole nebo domovu mládeže vaření dietního jídla nařídit.
+Taky **můžeš znovu [napsat nám](https://deti.ochrance.cz/o-nas/jak/)** , kdybys byl přijat na školu s domovem mládeže, kde by Ti odmítali zajistit dietní stravování. Ochránkyně by pak mohla takový domov mládeže oslovit a prošetřit, jestli se nedopouští diskriminace. Ochránkyně ale nemůže škole nebo domovu mládeže vaření dietního jídla nařídit.

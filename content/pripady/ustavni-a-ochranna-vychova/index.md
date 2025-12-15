@@ -225,7 +225,7 @@ cases:
       Občas se však setkáváme s případy, kdy zařízení nově příchozím dětem automaticky zakazuje přijímat návštěvy blízkých, chodit na volné vycházky, telefonovat, mít u sebe vlastní mobil či používat internet. To však nelze! Omezení těchto práv je možné jen z vážných důvodů a je-li to v zájmu dítěte. O některých dokonce musí rozhodnout soud. 
 
 
-      **Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](https://deti.ochrance.cz/kdo/jak/).**
+      **Pokud by ses s něčím takovým setkal/a, neboj se ozvat. Můžeš zavolat nebo napsat sociálním pracovníkům/pracovnicím OSPOD. Ti by tě měli v zařízení pravidelně navštěvovat. Stejně tak můžeš kontaktovat [nás](https://deti.ochrance.cz/o-nas/jak/).**
   - body: >-
       Dětský domov jsme kritizovali, že plošně omezuje právo nově přijímaných
       dětí na vycházky. Vycházky lze totiž omezit jen v odůvodněných případech.

@@ -5,7 +5,7 @@ perex: "Gymnazisté z [Velkého Meziříčí](https://www.gvm.cz/cs) si všimli,
   řada jejich mladších spolužáků a sourozenců experimentuje s e-cigaretami a
   podobnými produkty. Vytvořili proto osvětovou kampaň o jejích škodlivosti.
   Projekt zároveň přihlásili do naší soutěže [Elevator: nápadem to
-  začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/), kde se
+  začíná](https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/), kde se
   zařadil mezi nejlepší."
 ---
 Adéla, Iveta a Standa vytvořili plakát, na kterém informují své vrstevníky o nebezpečných látkách, které e-cigarety obsahují. Naplánovali jeho umístění ve Velkém Meziříčí tak, aby si ho všimlo co nejvíce dětí ve věku 12-15 let. V příštím školním roce chtějí k tématu uspořádat krátké interaktivní  přednášky pro studenty různých škol.

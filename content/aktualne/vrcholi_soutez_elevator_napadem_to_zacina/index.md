@@ -6,7 +6,7 @@ perex: V pátek 19. května 2023 se do naší kanceláře sjedou středoškolá
   České republiky. Budou prezentovat projekty, kterými chtějí změnit své okolí.
   Setkání bude moderovat vysokoškolák Štěpán.
 ---
-Své nápady představí sedm nejlepších středoškolských týmů přihlášených do soutěže [Elevator: nápadem to začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Tu jsme vyhlásili ve spolupráci s [Centrem podpory podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky](https://www.lipka.cz/).
+Své nápady představí sedm nejlepších středoškolských týmů přihlášených do soutěže [Elevator: nápadem to začíná](https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/). Tu jsme vyhlásili ve spolupráci s [Centrem podpory podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky](https://www.lipka.cz/).
 
 Studenti chtějí například prosadit vybudování nové cyklostezky, zlepšit bezpečnost dopravy nedaleko jejich školy nebo šířit mezi mladšími spolužáky osvětu o škodlivosti e-cigaret. Jeden z tymů se zaměří na zlepšení finanční gramotnosti seniorů a dětí v jejich obci. To je rovněž jedno z témat, na jehož nedostatečnou pozornost ve školách nás upozorňovali děti v rámci [podzimní soutěže pro základní školy](https://deti.ochrance.cz/aktualne/zkusme_to_zmenit/).
 

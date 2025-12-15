@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+<main>
+  <article class="_about">
+  	<h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      <div class="perex">
+        {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
+      </div>
+
+      <div class="people">
+        <div>
+          {{ with .GetPage "/o-nas/ombudsman" }}
+            {{ $res := .Resources }}
+            {{ with .Params.pic }}
+              {{ $pic := $res.GetMatch . }}
+              {{ with $pic }}
+                <div class="img-wrapper">
+                  <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
+                </div>
+              {{ end }}
+            {{ end }}
+
+            <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
+            <p>{{ .Params.role }}</p>
+          {{ end }}
+        </div>
+
+        <div>
+          {{ with .GetPage "/o-nas/zastupce" }}
+            {{ $res := .Resources }}
+            {{ with .Params.pic }}
+              {{ $pic := $res.GetMatch . }}
+              {{ with $pic }}
+                <div class="img-wrapper">
+                  <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
+                </div>
+              {{ end }}
+            {{ end }}
+
+            <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
+            <p>{{ .Params.role }}</p>
+          {{ end }}
+        </div>
+      </div>
+      </div>
+
+      <div class="facts">
+        {{ partial "md-block.html" (dict "content" .Params.facts "context" $) }}
+      </div>
+
+      <div class="text-content">
+        <div>
+       {{ with .GetPage "/o-nas/cim-se-zabyva" }}
+        <h2>{{ .Title }} </h2>
+        {{ partial "md-block.html" (dict "content" (trim .Params.perex "\n") "context" $) }}
+
+        {{ partial "md-block.html" (dict "content" (index .Params "we-can-title") "context" $) }}
+
+        {{ with (index .Params "we-can") }}
+
+
+          <ul class="_we-can">
+            {{ range .  }}
+              <li>{{ .text }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+          {{ partial "md-block.html" (dict "content" (index .Params "we-cannot-title") "context" $) }}
+
+        {{ with (index .Params "we-cannot") }}
+
+
+          <ul class="_we-cannot">
+            {{ range .  }}
+              <li>{{ .text }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+        {{ partial "md-block.html" (dict "content" .RawContent "context" $) }}
+       {{ end }}
+      </div>
+      </div></div>
+
+
+      <ul class="_link-list">
+        {{ with .GetPage "/o-nas/cim-se-zabyva" }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+
+        {{ with .GetPage "/o-nas/jak" }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+
+        {{ with .GetPage "/o-nas/co" }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+
+        {{ with .GetPage "/o-nas/desatero" }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+
+        {{ range .Pages }}
+          {{ if not (in (slice "/o-nas/co/" "/o-nas/cim-se-zabyva/" "/o-nas/desatero/" "/o-nas/jak/" "/o-nas/ombudsman/" "/o-nas/zastupce/") .RelPermalink) }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </article>
+
+</main>
+{{ end }}

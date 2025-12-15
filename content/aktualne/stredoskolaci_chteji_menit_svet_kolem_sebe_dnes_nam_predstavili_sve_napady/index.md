@@ -3,7 +3,7 @@ title: Středoškoláci chtějí měnit svět kolem sebe, dnes nám představili
 date: 2023-05-19T13:35:54.239Z
 perex: "Dnes k nám do Brna přijeli autoři sedmi nejlepších středoškolských
   projektů přihlášených do naší soutěže [Elevator: nápadem to
-  začíná](https://deti.ochrance.cz/kdo/elevator_napadem_to_zacina/). Tu jsme
+  začíná](https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/). Tu jsme
   vyhlásili ve spolupráci s [Centrem podpory
   podnikavost](https://www.podnikavamysl.cz/cz/) z brněnské [Lipky.](https://ww\
   w.lipka.cz/) Studenti měli příležitost konzultovat projekty s právníky naší

@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<main>
+  <article class="_vystupy">
+    <h1>{{ .Title }}</h1>
+  </article>
+
+  <ul class="_vystupy">
+    {{ range .Params.links }}
+      <li><a href="{{ .link }}">{{ .title }}</a></li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

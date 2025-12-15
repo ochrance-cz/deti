@@ -3,13 +3,13 @@
   <article>
   	<h1>{{ .Title }}</h1>
 
-    
+
 
     <div class="text-content">
-      {{ with .GetPage "/kdo/jak" }}
+      {{ with .Params.howto }}
         <h2>{{ .Title }}</h2>
-        <p>{{ .Params.perex }}</p>
-        {{ with .Params.contact }}
+        <p>{{ .perex }}</p>
+        {{ with .contact }}
           <ul class="_contact">
             {{ range . }}
               <li>
@@ -20,7 +20,7 @@
             {{ end }}
           </ul>
         {{ end }}
-        {{ .Content }}
+        {{ partial "md-block.html" (dict "content" .reqs "context" $) }}
       {{ end }}
       </div>
 
@@ -35,7 +35,7 @@
         </p>
       {{ end }}
 
-      {{ .Content }}
+
 
       <!--  {{ with .Params.linky }}
         <div class="perex">
@@ -53,7 +53,7 @@
     <div class="text-content">
      <h2>Jsem v zařízení nebo v nemocnici</h2>
     {{ $jsem := where (where .Site.Pages "Section" "jsem") "Kind" "page" }}
-  
+
     {{ range $jsem }}
       <h3>{{ .Title }}</h3>
       {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
@@ -62,10 +62,10 @@
 
   </article>
 
-  
-  
- 
-  
+
+
+
+
 
 </main>
 {{ end }}

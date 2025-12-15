@@ -1,0 +1,31 @@
+<nav class="main _site-header">
+  <div class="_backdrop header">
+    <ul class="stripe">
+      <li class="root-link">
+        <a href="{{ .Site.BaseURL }}">
+          <img class="logo" src="{{ .Site.BaseURL }}{{ "/images/logo.svg" }}" width="200" alt="Úvodní strana" aria-label="Úvodní strana">
+        </a>
+      </li>
+
+
+      {{ range (where (where (.Site.Pages.ByParam "lang") "Section" "intl") "Kind" "page") }}
+        {{ partial "menu-item.html" (dict "lang" .Params.lang "link" .Params.pdf "text" (upper .Params.lang) "title" .Params.language) }}
+      {{ end }}
+
+      <li class="small-search" role="search">
+        {{ partial "search.html" . }}
+      </li>
+
+      {{ with .GetPage "/pro-media/" }}
+        {{ partial "menu-item.html" (dict "link" .RelPermalink "text" .Title) }}
+      {{ end }}
+    </ul>
+  </div>
+
+  <ul class="buttons">
+    {{ partial "menu-item.html" (dict "link" "/o-nas/" "permalink" .RelPermalink "text" "O nás") }}
+    {{ partial "menu-item.html" (dict "link" "/pomoc/" "permalink" .RelPermalink "text" "Hledám pomoc") }}
+    {{ partial "menu-item.html" (dict "link" "/pripady/" "permalink" .RelPermalink "text" "Nevím si rady s…") }}
+    {{ partial "menu-item.html" (dict "link" "/vystupy/" "permalink" .RelPermalink "text" "Výstupy") }}
+  </ul>
+</nav>

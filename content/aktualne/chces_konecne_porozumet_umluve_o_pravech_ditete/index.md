@@ -14,7 +14,7 @@ attachments:
 
 **Úmluvu o právech dítěte jsme přepsali tak, aby jí rozuměl každý. Výrazně jsme její znění zjednodušili a doplnili o ilustrace sedmnáctiletého Vojty.** 
 
-Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf) můžeš volně šířit mezi kamarády a kamarádky. Pokud bys ji chtěl/a mít ve své domácí knihovně, můžeš si o ni [napsat](https://deti.ochrance.cz/kdo/jak/). My Ti ji rádi pošleme.
+Posuďte sami, zda se nám to povedlo. Naši [Úmluvu ve znění srozumitelném dětem](/media/umluva_o_pravech_ditete_web_pdf.pdf) můžeš volně šířit mezi kamarády a kamarádky. Pokud bys ji chtěl/a mít ve své domácí knihovně, můžeš si o ni [napsat](https://deti.ochrance.cz/o-nas/jak/). My Ti ji rádi pošleme.
 
 ![Na stole leží několik výtisků Úmluvy o právech dítěte ve znění srozumitelném dětem a jeden výtisk drží dívka.](dsc_1406.jpg "Úmluva o právech dítěte ve znění srozumitelném dětem - vydala Kancelář veřejného ochránce práv.")
 

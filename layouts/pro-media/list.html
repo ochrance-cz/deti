@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<main>
+  <article class="_about">
+  	<h1>{{ .Title }}</h1>
+
+    <div class="media">
+
+
+      <h2>Fotografie představitelů</h2>
+
+      <ul>
+        {{ with .GetPage "/o-nas/ombudsman" }}
+          {{ $res := .Resources }}
+          {{ $name := .Title }}
+          {{ with .Params.pic }}
+            {{ $pic := $res.GetMatch . }}
+            {{ with $pic }}
+              <li><a href="{{ $pic.Permalink }}">{{ $name }}</a></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ with .GetPage "/o-nas/zastupce" }}
+          {{ $res := .Resources }}
+          {{ $name := .Title }}
+          {{ with .Params.pic }}
+            {{ $pic := $res.GetMatch . }}
+            {{ with $pic }}
+              <li><a href="{{ $pic.Permalink }}">{{ $name }}</a></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
+
+      {{ .Content }}
+    </div>
+  </article>
+
+
+  <div class="_home">
+
+  <section class="news tz">
+    <h2>Tiskové zprávy</h2>
+
+    {{ $news := where (where .Site.Pages "Section" "tz") "Kind" "page" }}
+
+    <ul class="_news">
+      {{ range first 3 $news }}
+        {{ partial "news-preview.html" (dict "preview" . "context" $) }}
+      {{ end }}
+    </ul>
+
+    <p><a class="more-link" href="{{ (.GetPage "/tz").Permalink }}">Další tiskové zprávy</a></p>
+  </section>
+  </div>
+{{ end }}

@@ -139,7 +139,7 @@ cases:
       Pokud by se Ti i přes nové znění zákona nepodařilo získat sirotčí důchod po zemřelém rodiči, doporučujeme Ti obrátit se na ministra práce a sociálních věcí a **požádat ho o odstranění tvrdosti zákona**. Ministr totiž může chybějící dobu důchodového pojištění prominout. A Tobě by pak mohl být sirotčí důchod přiznán. Je to ale jen na ministrovi, jak o Tvé žádosti rozhodne.
 
 
-      **Pokud Ti nebyl sirotčí důchod přiznán, ale Ty jsi přesvědčen/a, že by měl, můžeš se obrátit na [nás](https://deti.ochrance.cz/kdo/jak/).** Můžeme ověřit, zda Česká správa sociálního zabezpečení postupovala v Tvém případě v souladu se zákonem. Někdy se třeba stává, že úřad špatně zhodnotí, jak dlouho Tvůj zesnulý rodič pracoval. Kvůli tomu Ti pak důchod nepřizná, což je špatně.    
+      **Pokud Ti nebyl sirotčí důchod přiznán, ale Ty jsi přesvědčen/a, že by měl, můžeš se obrátit na [nás](https://deti.ochrance.cz/o-nas/jak/).** Můžeme ověřit, zda Česká správa sociálního zabezpečení postupovala v Tvém případě v souladu se zákonem. Někdy se třeba stává, že úřad špatně zhodnotí, jak dlouho Tvůj zesnulý rodič pracoval. Kvůli tomu Ti pak důchod nepřizná, což je špatně.    
 
 
       > Podrobnosti o sirotčích důchodech nalezneš na [stránkách České správy sociálního zabezpečení](https://www.cssz.cz/sirotci-duchod).
@@ -187,7 +187,7 @@ cases:
       Žádost se stejně jako u rodičovského příspěvku podává na [předepsaném formuláři](https://www.mpsv.cz/web/cz/-/zadost-o-porodne) na úřadu práce.
 
 
-      **Nebudeš-li si s něčím vědět rady, neváhej se zeptat pracovníků či pracovnic na úřadu práce. Poradí ti. V případě problémů napiš klidně i [nám](https://deti.ochrance.cz/kdo/jak/).**
+      **Nebudeš-li si s něčím vědět rady, neváhej se zeptat pracovníků či pracovnic na úřadu práce. Poradí ti. V případě problémů napiš klidně i [nám](https://deti.ochrance.cz/o-nas/jak/).**
     perex: Napsala nám sedmnáctiletá Petra, která očekává za měsíc narození syna.
       Ptala se, zda má nárok na rodičovský příspěvek, případně porodné.
     title: Kdy můžu jako nezletilá matka dostat rodičovský příspěvek či porodné?

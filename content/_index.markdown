@@ -2,11 +2,13 @@
 title: Ombudsman dětem a náctiletým
 videos:
   - video: https://youtu.be/RrXC-KMc6t4?si=QkB1PKeEAwfEtV5p
-langs:
-  en: /media/letak_-_ombudsman_detem_-en_2024.pdf
-  de: /media/letak_-_ombudsman_detem_de_2024.pdf
-  ru: https://www.ochrance.cz/uploads-deti/user_upload/Prilohy/ombudsman_detem/Letak_-_Ombudsman_detem__rustina_-_anglicke_logo_.pdf
-  rom: /media/letak_-_ombudsman_detem_ro_2024.pdf
+accessibility: |
+  <span class="mobile-p">Jsme přístupní</span> <a href="https://www.ochrance.cz/pristupnost/"
+  class="icon-link"><span class="movement">lidem s pohybovým
+  znevýhodněním,</span> <span class="seeing">lidem se zrakovým
+  znevýhodněním,</span> <span class="hearing">lidem se sluchovým
+  znevýhodněním,</span></a> <span class="mobile-p">i lidem s jinými <a
+  href="https://www.ochrance.cz/pristupnost/">speciálními potřebami.</a>
 ---
 
 Ať už tě na tyto stránky přivedla zvědavost nebo problémy, které tě trápí, věříme, že tady najdeš pomoc nebo alespoň radu. Skoro každý problém má řešení. Když ti někdo pomůže s jeho hledáním, jde to snáze.
