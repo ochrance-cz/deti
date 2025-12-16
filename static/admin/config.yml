@@ -1,11 +1,13 @@
+local_backend: true
+
 backend:
   name: git-gateway
   branch: main
 locale: cs
 media_folder: content/media
 public_folder: /media
-site_domain: "https://deti.ochrance.cz/"
-display_url: "https://deti.ochrance.cz/"
+site_domain: 'https://deti.ochrance.cz/'
+display_url: 'https://deti.ochrance.cz/'
 slug:
   encoding: ascii
   clean_accents: true
@@ -31,27 +33,6 @@ collections:
             fields:
               - label: Odkaz (youtu.be)
                 name: video
-                required: false
-                widget: string
-          - widget: object
-            label: PDF s jazykovými variantami
-            name: langs
-            required: false
-            fields:
-              - label: PDF v angličtině
-                name: en
-                required: false
-                widget: string
-              - label: PDF v němčině
-                name: de
-                required: false
-                widget: string
-              - label: PDF v romštině
-                name: rom
-                required: false
-                widget: string
-              - label: PDF v ruštině
-                name: ru
                 required: false
                 widget: string
           - editor_components:
@@ -117,7 +98,7 @@ collections:
                 name: link
                 required: false
                 widget: string
-        media_folder: ""
+        media_folder: ''
       - label: Nevíš si rady?
         name: pomoc
         file: content/pomoc/_index.markdown
@@ -125,38 +106,102 @@ collections:
           - label: Titulek
             name: title
             widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
+          - widget: object
+            label: Kontakt
+            name: howto
             required: false
-            widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
+            fields:
+              - label: Titulek
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Perex
+                name: perex
+                required: false
+                widget: markdown
+              - label: Možnosti kontaktu
+                name: contact
+                required: false
+                label_singular: položka
+                widget: list
+                fields:
+                  - label: Název
+                    name: title
+                    widget: string
+                  - &ref_0
+                    label: Ikona
+                    name: icon
+                    required: false
+                    widget: select
+                    options:
+                      - proc.svg
+                      - jak-dlouho.svg
+                      - vzali-me.svg
+                      - prisnejsi.svg
+                      - vikend.svg
+                      - navstevy.svg
+                      - sam-ven.svg
+                      - alkohol.svg
+                      - mobil.svg
+                      - wifi.svg
+                      - kontrolovat.svg
+                      - zamykat.svg
+                      - soukromi.svg
+                      - ss.svg
+                      - kapesne.svg
+                      - vyzdobit.svg
+                      - pujcovani.svg
+                      - vzhled.svg
+                      - 18.svg
+                      - nelibi.svg
+                      - napsat.svg
+                      - soud.png
+                      - lecba.png
+                      - nemocnice.png
+                      - nesouhlas.png
+                  - editor_components:
+                      - image
+                    buttons:
+                      - bold
+                      - italic
+                      - link
+                      - heading-two
+                      - heading-three
+                      - heading-four
+                      - quote
+                      - bulleted-list
+                      - numbered-list
+                    label: Popis
+                    name: desc
+                    required: false
+                    widget: markdown
+              - editor_components:
+                  - image
+                buttons:
+                  - bold
+                  - italic
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Text
+                name: reqs
+                required: false
+                widget: markdown
           - editor_components:
               - image
             buttons:
@@ -210,9 +255,9 @@ collections:
       - label: Řetezec v adrese
         name: slug
         required: false
-        hint: "Pouze číslice, písmena anglické abecedy, spojovník a podtržítko."
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
         pattern:
-          - "^[a-z0-9-_]+$"
+          - '^[a-z0-9-_]+$'
           - >-
             Řetezec v adrese může obsahovat pouze číslice, písmena anglické
             abecedy, spojovník a podtržítko.
@@ -277,21 +322,105 @@ collections:
             required: false
             widget: string
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
     sortable_fields:
       - date
       - commit_date
-    summary: "{{day}}. {{month}}. {{year}}: {{title}}"
-  - name: kdo-custom
-    label: Speciální „Kdo je…“
+    summary: '{{day}}. {{month}}. {{year}}: {{title}}'
+  - name: tz
+    label: Tiskové zprávy
+    label_singular: tisková zpráva
+    folder: content/tz
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Řetezec v adrese
+        name: slug
+        required: false
+        hint: 'Pouze číslice, písmena anglické abecedy, spojovník a podtržítko.'
+        pattern:
+          - '^[a-z0-9-_]+$'
+          - >-
+            Řetezec v adrese může obsahovat pouze číslice, písmena anglické
+            abecedy, spojovník a podtržítko.
+        widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
+      - label: Datum publikování
+        name: date
+        required: false
+        widget: datetime
+        date_format: DD.MM.YYYY
+        time_format: false
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Perex
+        name: perex
+        required: false
+        widget: markdown
+      - editor_components:
+          - image
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text
+        name: body
+        required: false
+        widget: markdown
+      - label: Přílohy
+        name: attachments
+        required: false
+        label_singular: Příloha
+        widget: list
+        fields:
+          - label: Název přílohy
+            name: title
+            widget: string
+          - label: Soubor
+            name: file
+            required: false
+            widget: file
+          - label: Odkaz
+            name: link
+            required: false
+            widget: string
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: o-nas-custom
+    label: Speciální „O nás“
     editor:
       preview: false
     files:
       - label: O ombudsmanovi
-        name: kdo
-        file: content/kdo/_index.markdown
+        name: o-nas
+        file: content/o-nas/_index.markdown
         fields:
           - label: Titulek
             name: title
@@ -330,7 +459,7 @@ collections:
             widget: markdown
       - label: Profil ombudsmana
         name: ombudsman
-        file: content/kdo/ombudsman/index.markdown
+        file: content/o-nas/ombudsman/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -359,10 +488,10 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ""
+        media_folder: ''
       - label: Profil zástupce
         name: zastupce
-        file: content/kdo/zastupce/index.markdown
+        file: content/o-nas/zastupce/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -391,105 +520,10 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ""
-      - label: Jak kontaktovat
-        name: kontakt
-        file: content/kdo/jak/index.markdown
-        fields:
-          - label: Titulek
-            name: title
-            widget: string
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Perex
-            name: perex
-            required: false
-            widget: markdown
-          - label: Možnosti kontaktu
-            name: contact
-            required: false
-            label_singular: položka
-            widget: list
-            fields:
-              - label: Název
-                name: title
-                widget: string
-              - &ref_0
-                label: Ikona
-                name: icon
-                required: false
-                widget: select
-                options:
-                  - proc.svg
-                  - jak-dlouho.svg
-                  - vzali-me.svg
-                  - prisnejsi.svg
-                  - vikend.svg
-                  - navstevy.svg
-                  - sam-ven.svg
-                  - alkohol.svg
-                  - mobil.svg
-                  - wifi.svg
-                  - kontrolovat.svg
-                  - zamykat.svg
-                  - soukromi.svg
-                  - ss.svg
-                  - kapesne.svg
-                  - vyzdobit.svg
-                  - pujcovani.svg
-                  - vzhled.svg
-                  - 18.svg
-                  - nelibi.svg
-                  - napsat.svg
-                  - soud.png
-                  - lecba.png
-                  - nemocnice.png
-                  - nesouhlas.png
-              - editor_components:
-                  - image
-                buttons:
-                  - bold
-                  - italic
-                  - link
-                  - heading-two
-                  - heading-three
-                  - heading-four
-                  - quote
-                  - bulleted-list
-                  - numbered-list
-                label: Popis
-                name: desc
-                required: false
-                widget: markdown
-          - editor_components:
-              - image
-            buttons:
-              - bold
-              - italic
-              - link
-              - heading-two
-              - heading-three
-              - heading-four
-              - quote
-              - bulleted-list
-              - numbered-list
-            label: Text
-            name: body
-            required: false
-            widget: markdown
+        media_folder: ''
       - label: Čím se zabývá
         name: cim-se-zabyva
-        file: content/kdo/cim-se-zabyva/index.markdown
+        file: content/o-nas/cim-se-zabyva/index.markdown
         fields:
           - label: Titulek
             name: title
@@ -578,11 +612,11 @@ collections:
             name: body
             required: false
             widget: markdown
-        media_folder: ""
+        media_folder: ''
   - name: o ombudsmanovi
     label: O nás
-    label_singular: kdo
-    folder: content/kdo
+    label_singular: o-nas
+    folder: content/o-nas
     extension: md
     editor:
       preview: false
@@ -623,9 +657,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: pomoc
     label: Hledám pomoc
     label_singular: pomoc
@@ -670,9 +704,9 @@ collections:
         required: false
         widget: markdown
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: jsem
     label: Jsem v zařízení
     label_singular: zařízení
@@ -727,9 +761,9 @@ collections:
             required: false
             widget: markdown
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
   - name: pripady
     label: Případy
     label_singular: oblast
@@ -787,6 +821,33 @@ collections:
             required: false
             widget: markdown
     create: true
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+  - name: překlad
+    label: Cizojazyčné
+    label_singular: intl
+    folder: content/intl
+    extension: md
+    editor:
+      preview: false
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Jazyk
+        name: language
+        required: false
+        widget: string
+      - label: ISO zkratka
+        name: lang
+        required: false
+        widget: string
+      - label: PDF leták
+        name: pdf
+        required: false
+        widget: file
+    create: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''

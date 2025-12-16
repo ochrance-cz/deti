@@ -1,51 +1,56 @@
 <!doctype html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-  <style>
-    [data-slate-editor] { -webkit-user-modify: read-write !important; }
-  </style>
-  <script>
-    let entriesSort = localStorage.getItem('netlify-cms.entries.sort');
-
-    if (entriesSort) {
-      let data = JSON.parse(entriesSort);
-
-      if (!data.aktualne) {
-        data.aktualne = {
-          "commit_date": {
-            "key":"commit_date",
-            "direction":"Descending",
-            "index":0
-          }
-        }
-
-        localStorage.setItem('netlify-cms.entries.sort', JSON.stringify(data))
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <style>
+      [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
       }
-    } else {
-      localStorage.setItem('netlify-cms.entries.sort', JSON.stringify({
-        "pages": {
-          "commit_date": {
-            "key":"commit_date",
-            "direction":"Ascending",
-            "index":0
-          }
-        },
-        "aktualne": {
-          "date": {
-            "key":"date",
-            "direction":"Descending",
-            "index":0
-          }
+    </style>
+    <script>
+      let entriesSort = localStorage.getItem('decap-cms.entries.sort');
+
+      if (entriesSort) {
+        let data = JSON.parse(entriesSort);
+
+        if (!data.aktualne) {
+          data.aktualne = {
+            commit_date: {
+              key: 'commit_date',
+              direction: 'Descending',
+              index: 0,
+            },
+          };
+
+          localStorage.setItem('decap-cms.entries.sort', JSON.stringify(data));
         }
-      }))
-    }
-</script>
-</head>
-<body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="./netlify-cms/dist/netlify-cms.js"></script>
-</body>
+      } else {
+        localStorage.setItem(
+          'decap-cms.entries.sort',
+          JSON.stringify({
+            pages: {
+              commit_date: {
+                key: 'commit_date',
+                direction: 'Ascending',
+                index: 0,
+              },
+            },
+            aktualne: {
+              date: {
+                key: 'date',
+                direction: 'Descending',
+                index: 0,
+              },
+            },
+          }),
+        );
+      }
+    </script>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="./decap-cms/dist/decap-cms.js"></script>
+  </body>
 </html>
