@@ -1,5 +1,6 @@
 ---
 title: Přejeme ti krásné Vánoce!
+slug: prejeme-ti-krasne-vanoce
 date: 17.12.2025
 perex: Takové, kdy máš čas na pohádky, smích a cukroví (i když možná rychle
   zmizí). A kdy je spravedlnost jednoduchá – třeba když se dělí poslední
