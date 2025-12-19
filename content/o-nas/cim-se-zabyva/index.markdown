@@ -2,7 +2,7 @@
 title: Čím se zabýváme
 perex: Ombudsman kontroluje činnost úřadů. To znamená, že prošetřuje, jestli
   úřady postupují správně a jednají včas.
-we-can-title: "**Můžeme** pomoci například, když:"
+we-can-title: '**Můžeme** pomoci například, když:'
 we-can:
   - text: si myslíš, že ti sociální pracovník/ice OSPOD nepomáhá nebo ti nenaslouchá,
   - text: soudní řízení trvá dlouho,
@@ -10,7 +10,7 @@ we-can:
   - text:
       ve škole tebe nebo tvoje kamarády šikanují a škola ani školní inspekce s
       tím nic nedělají,
-  - text: "tě nepřijali do školy,  "
+  - text: 'tě nepřijali do školy,  '
   - text:
       v dětském domově je neobvykle přísný režim, vychovatelé nebo ostatní děti
       se k Tobě nechovají dobře (dochází k šikaně) apod.,
@@ -19,9 +19,9 @@ we-can:
       stavební úřad neřeší špatný stav budovy tvé školy nebo že soused staví bez
       povolení,
   - text: úřady neřeší odstranění nelegální skládky odpadů nedaleko tvého bydliště,
-  - text: "nemůžeš jet na tábor, protože rodiče nemají peníze a úřad vám odmítá
-      přispět. "
-we-cannot-title: "**Nemůžeme** ale pomoci například, když:"
+  - text: 'nemůžeš jet na tábor, protože rodiče nemají peníze a úřad vám odmítá
+      přispět. '
+we-cannot-title: '**Nemůžeme** ale pomoci například, když:'
 we-cannot:
   - text:
       chceš změnit rozhodnutí soudu (v tomto případě je třeba věc řešit jinak,
@@ -41,7 +41,3 @@ Přispívá i k ochraně osob před diskriminací. Znamená to, že může pomoc
 Ombudsman také systematicky monitoruje práva osob se zdravotním postižením a nucené návraty lidí, kteří pobývali neoprávněně na území České republiky.
 
 ## Odkazy
-
-[O kanceláři veřejného ochránce práv](https://www.ochrance.cz/o-nas/#:~:text=Provoz%20Kanceláře,-veřejného%20ochránce%20práv)
-
-[Informační leták o působnosti ombudsmana](/media/verze_1.png) [](/media/letak_-_ombudsman_detem_cestina_.pdf)

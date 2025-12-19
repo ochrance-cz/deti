@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ochrance/deti#readme",
   "dependencies": {
+    "decap-cms": "^3.9.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^13.0.2",
     "slug": "^8.2.3"

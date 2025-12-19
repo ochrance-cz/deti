@@ -139,9 +139,11 @@ p {
 
 blockquote,
 .perex {
-  // margin: 0rem 0 2rem;
-  // padding: 1rem 0 0;
-  font-weight: bold;
+  margin: 0rem 0 2rem;
+  padding: 2rem;
+  // font-weight: bold;
+  background: #dbebfa;
+  border-radius: 1rem;
 
   p:first-child {
     margin-top: 0;
@@ -325,7 +327,7 @@ blockquote {
 }
 
 main ul {
-  list-style: none;
+  // list-style: none;
   padding-left: 1.2rem;
 
   li {
