@@ -1,5 +1,3 @@
-local_backend: true
-
 backend:
   name: git-gateway
   branch: main
@@ -11,7 +9,7 @@ display_url: 'https://deti.ochrance.cz/'
 slug:
   encoding: ascii
   clean_accents: true
-  sanitize_replacement: _
+  sanitize_replacement: '-'
 collections:
   - name: pages
     label: Stránky
@@ -269,9 +267,10 @@ collections:
       - label: Datum publikování
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
+        time_format: 'HH:mm'
+        date_format: YYYY-MM-DD
       - editor_components:
           - image
         buttons:
@@ -357,9 +356,10 @@ collections:
       - label: Datum publikování
         name: date
         required: false
+        default: '{{now}}'
         widget: datetime
-        date_format: DD.MM.YYYY
-        time_format: false
+        time_format: 'HH:mm'
+        date_format: YYYY-MM-DD
       - editor_components:
           - image
         buttons:
