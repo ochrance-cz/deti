@@ -1,7 +1,7 @@
 ---
 title: Jak to vypadalo na naší konferenci?
 draft: false
-date: 2022-06-21T08:46:12.475Z
+date: 2022-06-21T08:46:12
 perex: Minulý týden přijeli k nám do Brna výherci naší nedávné
   [soutěže](https://deti.ochrance.cz/o-nas/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/).
   Přes 90 dětí a jejich učitelé z celé České republiky. A bylo to skvělé!

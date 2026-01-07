@@ -1,6 +1,6 @@
 ---
 title: Zápis do 1. třídy by měl být férový a pro děti přátelský
-date: 2016-01-15T12:00:00.000Z
+date: 2016-01-15T12:00:00
 perex: >-
   Dnes začínají zápisy do prvních tříd. Pro děti je to mnohdy jejich první
   seznámení se školou, do které budou v dalších letech chodit. Aby bylo toto

@@ -1,6 +1,6 @@
 ---
 title: Mezinárodní den životního prostředí
-date: 2021-06-05T12:00:00.000Z
+date: 2021-06-05T12:00:00
 
 perex: >-
   Pátý červnový den si připomínáme Mezinárodní den životního prostředí. Jak se

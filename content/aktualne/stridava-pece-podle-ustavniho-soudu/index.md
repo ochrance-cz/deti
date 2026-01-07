@@ -1,6 +1,6 @@
 ---
 title: Střídavá péče podle Ústavního soudu
-date: 2015-03-23T12:00:00.000Z
+date: 2015-03-23T12:00:00
 perex: >-
   Dne 22.1.2015 se Ústavní soud znovu zabýval problematikou střídavé péče rodičů
   o dítě po jejich rozvodu či rozchodu. Velmi detailně popsal podmínky, za

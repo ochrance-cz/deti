@@ -1,6 +1,6 @@
 ---
 title: Ani kvůli Koroňáku by děti neměly zůstávat v nemocnicích samy
-date: 2020-04-29T12:00:00.000Z
+date: 2020-04-29T12:00:00
 perex: Děti mají právo, aby s nimi v nemocnici pobývali i jejich rodiče. Toto
   právo nemocnice nemůže nepřiměřeně omezit nebo zakázat ani v dnešní
   „koronavirové“ době.

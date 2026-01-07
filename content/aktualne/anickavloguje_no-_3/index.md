@@ -1,6 +1,6 @@
 ---
 title: "#AničkaVloguje no. 3"
-date: 2022-06-22T12:14:27.347Z
+date: 2022-06-22T12:14:27
 perex: Vadí někomu, že jsi holka, nebo kluk? Nebo že jsi z jiné země nebo že
   chodíš do kostela? What??? Jsme v 21. století! Vlogerka Anička u nás
   zjišťovala, zda to nemůže být diskriminace.

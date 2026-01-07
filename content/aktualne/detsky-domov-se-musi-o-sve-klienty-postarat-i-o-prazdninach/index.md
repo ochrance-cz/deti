@@ -1,6 +1,6 @@
 ---
 title: Dětský domov se musí o své klienty postarat i o prázdninách
-date: 2015-02-09T12:00:00.000Z
+date: 2015-02-09T12:00:00
 perex: >-
   Pokud se ředitelé rozhodnou dětský domov po dobu školních prázdnin uzavřít a
   dětem zařídí pobyt mimo zařízení, musí se postarat také o mladé lidi, kteří v

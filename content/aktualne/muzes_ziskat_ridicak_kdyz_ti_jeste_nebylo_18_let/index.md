@@ -1,6 +1,6 @@
 ---
 title: Můžeš získat řidičák, když Ti ještě nebylo 18 let?
-date: 2022-06-06T11:10:06.743Z
+date: 2022-06-06T11:10:06
 perex: Ano, ale jen pro některé skupiny motorových vozidel. Třeba pro menší
   motorky a čtyřkolky, silnější elektrické koloběžky nebo traktor.
 ---

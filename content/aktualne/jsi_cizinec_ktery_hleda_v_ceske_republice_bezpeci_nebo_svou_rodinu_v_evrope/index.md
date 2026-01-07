@@ -1,6 +1,6 @@
 ---
 title: "Jsi cizinec a v České republice hledáš bezpečí nebo svou rodinu v Evropě? "
-date: 2024-02-12T16:02:09.617Z
+date: 2024-02-12T16:02:09
 perex: Co můžeš dělat jako nezletilý cizinec, který do České republiky přišel
   sám? Pomůže ti někdo najít členy rodiny, kteří žijí v Evropě? Odpovědi nejenom
   na tyto otázky jsme sepsali hned v několika jazycích.

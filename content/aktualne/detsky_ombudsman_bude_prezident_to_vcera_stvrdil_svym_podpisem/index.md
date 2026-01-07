@@ -1,6 +1,6 @@
 ---
 title: Dětský ombudsman bude! Prezident to včera stvrdil svým podpisem
-date: 2025-03-11T11:04:04.372Z
+date: 2025-03-11T11:04:04
 perex: Uplynul téměř rok od chvíle, kdy vláda předložila sněmovně návrh novely
   zákona o veřejném ochránci práv. Nyní je definitivně zpečetěna podpisem
   prezidenta. Od 1. července 2025 tak vznikne instituce dětského ombudsmana. Než

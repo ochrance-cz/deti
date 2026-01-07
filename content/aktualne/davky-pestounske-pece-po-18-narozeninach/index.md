@@ -1,6 +1,6 @@
 ---
 title: Dávky pěstounské péče po 18. narozeninách
-date: 2015-10-27T12:00:00.000Z
+date: 2015-10-27T12:00:00
 perex: >-
   Blíží se ti 18. narozeniny a žiješ v pěstounské rodině? Potom je možné, že ti
   po dosažení zletilosti zanikne nárok na dávku pěstounské péče - příspěvek na

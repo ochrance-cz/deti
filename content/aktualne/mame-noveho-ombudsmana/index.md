@@ -1,6 +1,6 @@
 ---
 title: Máme nového ombudsmana
-date: 2020-02-27T12:00:00.000Z
+date: 2020-02-27T12:00:00
 perex: >-
   Novým ombudsmanem se stal Stanislav Křeček. Minulý týden převzal úřad od
   dosavadní ombudsmanky Anny Šabatové, které skončil mandát.

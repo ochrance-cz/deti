@@ -1,7 +1,7 @@
 ---
 title: Chceš konečně porozumět Úmluvě o právech dítěte?
 draft: false
-date: 2022-09-01T08:20:23.837Z
+date: 2022-09-01T08:20:23
 perex: Začíná nový školní rok a my jsme připravili dárek pro všechny děti.
   Vydáváme Úmluvu o právech dítěte ve znění srozumitelném dětem s autorskými
   dětskými ilustracemi.

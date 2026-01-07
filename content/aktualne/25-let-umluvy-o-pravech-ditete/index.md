@@ -1,6 +1,6 @@
 ---
 title: 25 let Úmluvy o právech dítěte
-date: 2014-11-18T12:00:00.000Z
+date: 2014-11-18T12:00:00
 perex: Dne 20.11.1989 byla Valným shromážděním OSN přijata Úmluva o právech
   dítěte, dnes tedy slaví 25 let.  V České republice platí od 6.2.1991.
 ---

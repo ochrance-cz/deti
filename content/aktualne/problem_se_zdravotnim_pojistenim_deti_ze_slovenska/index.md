@@ -1,6 +1,6 @@
 ---
 title: Problém se zdravotním pojištěním dětí ze Slovenska
-date: 2022-04-08T12:50:32.566Z
+date: 2022-04-08T12:50:32
 perex: Obrátily se na nás děti původně ze Slovenska. Pečoval o ně jejich strýc v
   České republice, který zároveň žádal u soudu o jejich svěření do pěstounské
   péče. Rodiče dětí na Slovensku nepracovali a děti tak nebyly na Slovensku

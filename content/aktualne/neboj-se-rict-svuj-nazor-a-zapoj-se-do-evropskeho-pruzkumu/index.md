@@ -1,6 +1,6 @@
 ---
 title: Neboj se říct svůj názor a zapoj se do evropského průzkumu
-date: 2019-06-04T12:00:00.000Z
+date: 2019-06-04T12:00:00
 
 perex: ''
 

@@ -2,7 +2,7 @@
 title: Se zřízením dětského ombudsmana dnes souhlasili senátoři. Zbývá jen
   podpis prezidenta!
 draft: false
-date: 2025-02-26T16:33:11.950Z
+date: 2025-02-26T16:33:11
 perex: Už jen podpis prezidenta stačí k tomu, abychom mohli Česku gratulovat ke
   zřízení dětského ombudsmana. Senátem dnes prošla novela zákona, díky které by
   mohl začít pracovat od 1. července 2025. Kdo se stane prvním českým dětským

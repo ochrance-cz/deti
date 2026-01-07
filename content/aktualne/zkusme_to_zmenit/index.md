@@ -1,6 +1,6 @@
 ---
 title: Zkusme to změnit!
-date: 2022-12-08T13:51:51.415Z
+date: 2022-12-08T13:51:51
 perex: Děti volají po lepším jídle ve školách a výuce finanční gramotnosti.
   Podaří se jim to zajistit? Za naší podpory to zkusí vlastními silami!
 ---

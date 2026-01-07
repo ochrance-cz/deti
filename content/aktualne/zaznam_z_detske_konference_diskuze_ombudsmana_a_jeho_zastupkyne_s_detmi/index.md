@@ -1,6 +1,6 @@
 ---
 title: Záznam z dětské konference – diskuze ombudsmana a jeho zástupkyně s dětmi
-date: 2022-08-22T13:38:34.996Z
+date: 2022-08-22T13:38:34
 perex: Nemohli jste být při tom? Tak se podívejte a poslechněte si, jak
   probíhala diskuze ombudsmana a jeho zástupkyně s dětmi, které k nám přijely na
   konferenci. Děti dostaly prostor zeptat se na vše, co je zajímalo.

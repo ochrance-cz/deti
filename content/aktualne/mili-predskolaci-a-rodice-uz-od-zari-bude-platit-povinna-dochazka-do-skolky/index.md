@@ -1,6 +1,6 @@
 ---
 title: Milí předškoláci a rodiče, už od září bude platit povinná docházka do školky
-date: 2017-03-10T12:00:00.000Z
+date: 2017-03-10T12:00:00
 perex: >-
   Možná už víte, že od nového školního roku, tedy od k 1. září 2017, bude pro
   děti, které dovrší pěti let, povinná školka. Podle školského zákona totiž

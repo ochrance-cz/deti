@@ -1,6 +1,6 @@
 ---
 title: I když žiješ u pěstounů, můžeš se vídat s rodiči a blízkými
-date: 2021-01-20T12:00:00.000Z
+date: 2021-01-20T12:00:00
 perex: Žiješ u pěstounů? A vídáš se pravidelně se všemi, které máš rád/a a na
   kterých ti záleží? S rodiči, sourozenci, babičkou a dědou nebo třeba tetou z
   dětského domova, kde jsi dřív žil/a? Pokud ano, je to super. My se však někdy

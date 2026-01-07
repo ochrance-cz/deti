@@ -1,6 +1,6 @@
 ---
 title: Právo dítěte na vhodnou sociální službu
-date: 2015-04-28T12:00:00.000Z
+date: 2015-04-28T12:00:00
 perex: >-
   Nejvyšší správní soud se v rozsudku sp. zn. 4 Ads 134/2014 zastal dětí se
   zdravotním postižením a uznal jejich právo na přístup k soudu ve věci

@@ -1,6 +1,6 @@
 ---
 title: Změnit školu nebo studovaný obor můžeš i v průběhu školního roku
-date: 2023-10-17T08:42:01.231Z
+date: 2023-10-17T08:42:01
 perex: Zjistil/a jsi, že obor, který studuješ, není pro tebe "to pravé
   ořechové"? Nelíbí se ti na internátu a raději bys studoval/a blíž domovu?
   Chtěl/a bys na jinou školu, ale nevíš, jak to udělat?

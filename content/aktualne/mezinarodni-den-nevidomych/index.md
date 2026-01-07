@@ -1,6 +1,6 @@
 ---
 title: Mezinárodní den nevidomých
-date: 2015-11-13T12:00:00.000Z
+date: 2015-11-13T12:00:00
 perex: >-
   Vždy 13. listopadu se slaví mezinárodní den nevidomých. Dokážete si
   představit, že byste otevřeli oči a nic neviděli? Pracovníci z Kanceláře

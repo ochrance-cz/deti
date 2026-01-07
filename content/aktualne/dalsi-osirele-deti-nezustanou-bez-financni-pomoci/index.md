@@ -1,6 +1,6 @@
 ---
 title: Další osiřelé děti nezůstanou bez finanční pomoci
-date: 2018-03-01T12:00:00.000Z
+date: 2018-03-01T12:00:00
 perex: >-
   Od 1. února 2018 mohou sirotčí důchod získat i děti, kterým dosud nebyl
   přiznán, protože jejich zemřelý rodič nebyl potřebně dlouho důchodově

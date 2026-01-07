@@ -1,6 +1,6 @@
 ---
 title: Přezkum maturitních zkoušek – ministerstvo školství by mělo změnit svou praxi
-date: 2018-07-26T12:00:00.000Z
+date: 2018-07-26T12:00:00
 perex: Ombudsmanka opakovaně upozornila na nezákonnou praxi ministerstva
   školství, mládeže a tělovýchovy při přezkumech výsledků maturitních zkoušek.
   Vláda teď dala ministerstvu za úkol upravit své postupy tak, aby byly v

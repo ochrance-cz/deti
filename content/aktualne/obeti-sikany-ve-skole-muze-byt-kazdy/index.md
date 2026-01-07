@@ -1,6 +1,6 @@
 ---
 title: Obětí šikany ve škole může být každý
-date: 2018-09-08T12:00:00.000Z
+date: 2018-09-08T12:00:00
 perex: Bojíš se vrátit do školní lavice mezi spolužáky? Zesměšňují tě spolužáci,
   ničí ti věci, berou svačinu, bijí tě nebo tě natáčí a pak na internetu videa
   komentují? Můžeš být obětí šikany.

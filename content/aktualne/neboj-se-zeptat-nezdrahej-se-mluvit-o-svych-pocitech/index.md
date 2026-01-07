@@ -1,6 +1,6 @@
 ---
 title: Neboj se zeptat! Nezdráhej se mluvit o svých pocitech!
-date: 2022-02-28T12:00:00.000Z
+date: 2022-02-28T12:00:00
 perex: >-
   Na Ukrajině je válka! Mluví o tom v televizi, ve škole, mluví o tom i doma a
   taky kamarádi. Vyskakuje to na sociálních sítích.

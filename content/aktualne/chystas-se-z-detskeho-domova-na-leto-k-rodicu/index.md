@@ -1,6 +1,6 @@
 ---
 title: Chystáš se z dětského domova na léto k rodičů?
-date: 2020-07-15T12:00:00.000Z
+date: 2020-07-15T12:00:00
 perex: Víš, že když jsi doma, nemají rodiče dost peněz na jídlo a tvé další potřeby?
 ---
 

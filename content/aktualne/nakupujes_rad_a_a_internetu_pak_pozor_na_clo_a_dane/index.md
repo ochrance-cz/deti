@@ -1,6 +1,6 @@
 ---
 title: Nakupuješ rád/a a internetu? Pak pozor na clo a daně!
-date: 2022-05-26T11:18:29.357Z
+date: 2022-05-26T11:18:29
 perex: Internet je takřka nekonečný, a tak si občas nemusíš ani všimnout, že
   zboží, které si přes něj kupuješ, k Tobě putuje třeba přes půl světa. Pocítit
   to ale můžeš na konečné ceně, zejména při nákupu zboží ze zemí mimo Evropskou

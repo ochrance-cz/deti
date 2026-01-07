@@ -1,6 +1,6 @@
 ---
 title: Může se střetávat právo na soukromí s právem na sdílení informací?
-date: 2023-11-13T13:19:54.940Z
+date: 2023-11-13T13:19:54
 perex: Co vše můžeme sdílet o sobě a svých blízkých a kde už se dostáváme do
   střetu s právem na soukromí? Mohou rodiče rozhodovat za dospívající děti?
   Můžeme prolomit tajemství, pokud chceme pomoci kamarádce v nouzi? A mohou mít

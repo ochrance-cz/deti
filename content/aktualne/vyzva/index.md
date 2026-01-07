@@ -1,6 +1,6 @@
 ---
 title: Výzva
-date: 2022-03-02T12:00:00.000Z
+date: 2022-03-02T12:00:00
 perex: >-
   Chceš být součástí unikátní konference pro mladé a diskutovat s ombudsmanem a
   jeho zástupkyní? Zapoj se do soutěže "Jak pomáhá ombudsman dětem".

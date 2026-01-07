@@ -1,6 +1,6 @@
 ---
 title: Každé dítě má právo na vzdělání, kvalitní život a patří do naší společnosti.
-date: 2023-09-05T12:17:19.438Z
+date: 2023-09-05T12:17:19
 perex: Podporujeme různé aktivity, které pomáhají dětem s postižením se kvalitně
   vzdělávat a zapojovat do běžného života.
 attachments: []

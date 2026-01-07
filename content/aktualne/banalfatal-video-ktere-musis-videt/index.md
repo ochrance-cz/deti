@@ -1,6 +1,6 @@
 ---
 title: BanalFatal – video, které musíš vidět!
-date: 2020-06-26T12:00:00.000Z
+date: 2020-06-26T12:00:00
 
 perex: >-
   Prázdniny se nezadržitelně blíží. Všichni se těšíme k vodě, na kolo nebo na

@@ -1,6 +1,6 @@
 ---
 title: Pošta už vydá zásilky i dětem mladším 15 let
-date: 2015-12-16T12:00:00.000Z
+date: 2015-12-16T12:00:00
 perex: >-
   Změnit pravidla pomohl čtrnáctiletý kluk, který si stěžoval ombudsmanovi, že
   mu pošta odmítla vydat balíček, který si objednal, byl adresován jemu a on se

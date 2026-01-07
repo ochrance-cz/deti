@@ -3,7 +3,7 @@ title: Jak pomáháme dětem? Podíváme si o tom v novém dílu podcastu Na ká
   ombudsmanem.
 slug: ""
 draft: false
-date: 2022-11-16T07:39:48.549Z
+date: 2022-11-16T07:39:48
 perex: Posloucháš rád/a podcasty? Pak nevynechej Na kávu s ombudsmanem o tom, co
   děláme pro děti. Ptala se patnáctiletá Anička.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ombudsmanka má novou zástupkyni
-date: 2019-12-09T12:00:00.000Z
+date: 2019-12-09T12:00:00
 
 perex: >-
   Novou zástupkyní ombudsmanky se stala Mgr. Monika Šimůnková. Dnes poprvé

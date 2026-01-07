@@ -1,6 +1,6 @@
 ---
 title: Je třeba držet děti za ruku při přecházení silnice přes přechod pro chodce?
-date: 2016-02-18T12:00:00.000Z
+date: 2016-02-18T12:00:00
 perex: >-
   Ústavní soud se v prosinci zabýval odpovědností rodičů za děti při pohybu na
   ulici a při přecházení silnice v místě přechodu pro chodce. Dospěl k závěru,

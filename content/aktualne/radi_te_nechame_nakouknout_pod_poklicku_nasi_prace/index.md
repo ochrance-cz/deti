@@ -1,6 +1,6 @@
 ---
 title: Rádi tě necháme nakouknout "pod pokličku" naší práce
-date: 2024-01-26T09:10:49.219Z
+date: 2024-01-26T09:10:49
 perex: Velmi nás těší pozitivní reakce, které dostáváme od školních kolektivů na
   naše exkurze. Ještě jsi u nás nebyl/a? Dohodni se se třídou a
   [napište](https://deti.ochrance.cz/o-nas/nabidka_pro_skolni_kolektivy/).

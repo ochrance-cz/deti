@@ -1,6 +1,6 @@
 ---
 title: Diskriminace dětí se zdravotním postižením v Itálii
-date: 2015-05-07T12:00:00.000Z
+date: 2015-05-07T12:00:00
 perex: >-
   Italský Nejvyšší soud v listopadu 2014 zdůraznil důležitost asistentů pedagoga
   při vzdělávání dětí se zdravotním postižením, když rozhodl, že omezení

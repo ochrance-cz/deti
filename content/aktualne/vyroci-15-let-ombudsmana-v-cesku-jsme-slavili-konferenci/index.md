@@ -1,6 +1,6 @@
 ---
 title: "Výročí 15 let ombudsmana v Česku jsme slavili konferencí "
-date: 2015-03-31T12:00:00.000Z
+date: 2015-03-31T12:00:00
 perex: >-
   Ve dnech 26.3. a 27.3.2015 probíhala v sídle ombudsmanky v Brně konference k
   patnáctiletému výročí fungování Kanceláře ombudsmana v České republice.

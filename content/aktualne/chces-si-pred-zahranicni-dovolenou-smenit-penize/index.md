@@ -1,6 +1,6 @@
 ---
 title: Chceš si před zahraniční dovolenou směnit peníze?
-date: 2020-07-10T12:00:00.000Z
+date: 2020-07-10T12:00:00
 perex: Přinášíme tipy, jak se nenapálit.
 ---
 

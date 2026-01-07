@@ -1,6 +1,6 @@
 ---
 title: Děti, pomozte nám vyzdobit Galerijní tramvaj a zapojte se do soutěže!
-date: 2022-01-06T12:00:00.000Z
+date: 2022-01-06T12:00:00
 perex: >-
   V březnu bude v Brně jezdit "ombudsmanská tramvaj", ve které představíme, jak
   ombudsman pomáhá dětem. Abychom měli tramvaj krásnou, prosíme děti o pomoc s

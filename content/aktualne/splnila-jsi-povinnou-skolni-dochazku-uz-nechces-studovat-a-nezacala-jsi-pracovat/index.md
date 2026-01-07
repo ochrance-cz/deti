@@ -1,7 +1,7 @@
 ---
 title: Splnil/a jsi povinnou školní docházku, už nechceš studovat a nezačal/a
   jsi pracovat?
-date: 2020-07-03T12:00:00.000Z
+date: 2020-07-03T12:00:00
 perex: Nezapomeň se zaevidovat na úřadu práce.
 ---
 Pomohou ti najít vhodnou práci, případně můžeš požádat o rekvalifikaci. Před nějakou dobou jsme to poradili také Magdě – koukni [zde](https://deti.ochrance.cz/aktualne/i-kdyz-jeste-nejsi-plnoletya-muzes-se-zaevidovat-na-uradu-prace-i-se-rekvalifikovat/)).

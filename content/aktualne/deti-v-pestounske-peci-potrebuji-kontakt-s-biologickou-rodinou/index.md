@@ -1,6 +1,6 @@
 ---
 title: Děti v pěstounské péči potřebují kontakt s biologickou rodinou
-date: 2019-09-25T12:00:00.000Z
+date: 2019-09-25T12:00:00
 
 perex: >-
   Dnes a zítra probíhá v Kanceláři veřejného ochránce práv pod záštitou

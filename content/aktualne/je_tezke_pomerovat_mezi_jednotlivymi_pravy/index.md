@@ -1,6 +1,6 @@
 ---
 title: "Je těžké poměřovat mezi jednotlivými právy? "
-date: 2023-12-12T10:05:35.205Z
+date: 2023-12-12T10:05:35
 perex: Na problémy s proporcionalitou neboli poměřováním vedle sebe stojících
   práv můžete narazit poměrně často. Co je důležité? Pokud jedno právo dostane
   přednost, zasahujeme do druhého co nejméně. Už to ví i studenti z [Moravského

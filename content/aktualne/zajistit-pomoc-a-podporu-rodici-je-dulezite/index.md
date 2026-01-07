@@ -1,6 +1,6 @@
 ---
 title: Zajistit pomoc a podporu rodiči je důležité
-date: 2019-09-19T12:00:00.000Z
+date: 2019-09-19T12:00:00
 
 perex: >-
   Ombudsmanka se zabývala případem devítiletého Adama, který se se svou matkou

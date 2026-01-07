@@ -1,6 +1,6 @@
 ---
 title: Připravujeme pro vás video
-date: 2020-09-08T12:00:00.000Z
+date: 2020-09-08T12:00:00
 perex: >-
   Co dělá ombudsman? Jak se na něj můžeš obrátit? Kdy a jak ti pomůže? A co o
   něm vědí jiné děti?

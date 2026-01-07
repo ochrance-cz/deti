@@ -1,6 +1,6 @@
 ---
 title: Monitorování práv lidí se zdravotním postižením
-date: 2018-01-23T12:00:00.000Z
+date: 2018-01-23T12:00:00
 perex: >-
   Od 1.1.2018 má ombudsman další působnost. Nově se zabývá také právy osob se
   zdravotním  postižením.

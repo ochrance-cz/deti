@@ -1,6 +1,6 @@
 ---
 title: Mladý zdravotník
-date: 2020-08-07T12:00:00.000Z
+date: 2020-08-07T12:00:00
 perex: >-
   Zranil/a ses během léta? Nebo někdo v tvém okolí? A věděl/a jsi, co a jak
   dělat?

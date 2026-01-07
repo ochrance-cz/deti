@@ -1,6 +1,6 @@
 ---
 title: Na práva dětí nesmí stát zapomínat ani během krize
-date: 2020-12-04T12:00:00.000Z
+date: 2020-12-04T12:00:00
 perex: >-
   Upozorňuje na to Výbor pro práva dítěte, ve kterém působí i Monika Šimůnková,
   zástupkyně ombudsmana.

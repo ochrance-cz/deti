@@ -1,7 +1,7 @@
 ---
 title: Středoškoláci, nepropásněte přihlášení do naší soutěže!
 slug: ""
-date: 2023-02-07T09:02:28.606Z
+date: 2023-02-07T09:02:28
 perex: "**Už jen do soboty** se můžete přihlásit do naší soutěže pro
   středoškoláky a středoškolačky Elevator - nápadem to začíná. Všechny potřebné
   informace najdete na

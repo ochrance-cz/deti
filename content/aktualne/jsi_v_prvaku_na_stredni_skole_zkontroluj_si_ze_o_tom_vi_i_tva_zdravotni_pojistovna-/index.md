@@ -2,7 +2,7 @@
 title: Jsi v prváku na střední škole? Zkontroluj si, že o tom ví i Tvá zdravotní
   pojišťovna.
 slug: zdravotni_pojisteni_stredoskolaku
-date: 2022-11-10T09:07:45.184Z
+date: 2022-11-10T09:07:45
 perex: Začátek studia na střední škole musíš nahlásit zdravotní pojišťovně.
   Nespoléhej se, že to udělá škola. Musí to oznámit Tví rodiče, nebo Ty
   sám/sama.

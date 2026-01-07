@@ -2,7 +2,7 @@
 title: >-
   Slováci přijali zákon o komisaři pro děti a komisaři pro osoby se zdravotním
   postižením
-date: 2015-11-26T12:00:00.000Z
+date: 2015-11-26T12:00:00
 perex: >-
   Dne 25.9.2015 přijala Národní rada Slovenské republiky zákon o komisaři pro
   děti a komisaři pro osoby se zdravotním postižením. Zajímá Tě, co bude komisař

@@ -1,6 +1,6 @@
 ---
 title: Návštěvy rodičů v zařízeních pro děti během koronavirové epidemie
-date: 2020-03-20T12:00:00.000Z
+date: 2020-03-20T12:00:00
 
 perex: >-
   Jsi v dětském domově, výchovném či diagnostickém ústavu a vychovatelé ti

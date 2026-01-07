@@ -1,6 +1,6 @@
 ---
 title: Koroňák není kamarád!
-date: 2020-04-02T12:00:00.000Z
+date: 2020-04-02T12:00:00
 perex: >-
   Co to vlastně ten koronavirus je? A máme se ho bát? Přinášíme několik tipů na
   to, kde hledat informace a nenudit se u toho.

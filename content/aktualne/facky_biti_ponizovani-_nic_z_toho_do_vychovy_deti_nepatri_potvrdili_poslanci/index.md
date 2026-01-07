@@ -1,6 +1,6 @@
 ---
 title: Facky, bití, ponižování. Nic z toho do výchovy dětí nepatří, potvrdili poslanci
-date: 2025-05-28T18:20:19.101Z
+date: 2025-05-28T18:20:19
 perex: Fyzické tresty dětí nejsou přijatelné. Máme radost, že se na tom konečně
   shodli i poslanci. Do Senátu poslali novelu zákona, která ukládá rodičům
   povinnost zajistit dětem výchovu bez tělesného trestání a duševního strádání.

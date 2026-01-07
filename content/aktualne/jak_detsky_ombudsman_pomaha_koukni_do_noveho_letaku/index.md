@@ -1,6 +1,6 @@
 ---
 title: Jak dětský ombudsman pomáhá? Koukni do nového letáku
-date: 2025-07-16T07:00:49.477Z
+date: 2025-07-16T07:00:49
 perex: Práva a hlas dětí v Česku 1. července posílila nová instituce – dětský
   ombudsman. Kdo je dětský ombudsman? Jak pomáhá a koho kontroluje? A s čím
   naopak nemůže pomoct? Vše se dozvíš v novém letáku.

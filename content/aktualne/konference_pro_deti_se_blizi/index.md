@@ -1,7 +1,7 @@
 ---
 title: Konference pro děti se blíží
 draft: false
-date: 2022-05-13T06:52:29.678Z
+date: 2022-05-13T06:52:29
 perex: Už od nás víš, že na 15. června 2022 chystáme něco velkého *–* **naši
   první konferenci pro děti** **Jak ombudsman pomáhá dětem**! A zájem je o ni
   veliký.

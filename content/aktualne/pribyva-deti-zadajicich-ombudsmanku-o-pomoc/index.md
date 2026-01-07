@@ -1,6 +1,6 @@
 ---
 title: Přibývá dětí žádajících ombudsmanku o pomoc
-date: 2016-06-01T12:00:00.000Z
+date: 2016-06-01T12:00:00
 perex: >-
   Děti jsou mnohdy okolnostmi nuceny řešit problémy, s nimiž by si nevěděla rady
   ani řada dospělých. Pomoc a radu pak hledají u veřejné ochránkyně práv, která

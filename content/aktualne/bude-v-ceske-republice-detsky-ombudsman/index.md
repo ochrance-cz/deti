@@ -1,6 +1,6 @@
 ---
 title: Bude v České republice dětský ombudsman?
-date: 2017-05-31T12:00:00.000Z
+date: 2017-05-31T12:00:00
 perex: >-
   Včera proběhlo velké jednání organizované ministrem pro lidská práva Janem
   Chvojkou k možnostem zřízení institutu dětského ombudsmana.

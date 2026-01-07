@@ -1,6 +1,6 @@
 ---
 title: Zpráva OSN o diskriminace dětí se zdravotním postižením v České republice
-date: 2015-06-29T12:00:00.000Z
+date: 2015-06-29T12:00:00
 perex: >-
   Výbor OSN vydal 17.4.2015 svou první zprávu o dodržování Úmluvy o právech osob
   se zdravotním v České republice. Některé body se týkají i situace dětí se

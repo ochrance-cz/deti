@@ -1,6 +1,6 @@
 ---
 title: Právo na informace mají i děti
-date: 2020-03-02T12:00:00.000Z
+date: 2020-03-02T12:00:00
 
 perex: >-
   Zajímáš se o veřejné a politické dětí v tvém okolí? Připravuješ seminárku či

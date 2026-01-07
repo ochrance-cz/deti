@@ -1,6 +1,6 @@
 ---
 title: Chtěl/a bys jet na tábor, ale rodiče na to nemají peníze?
-date: 2020-07-13T12:00:00.000Z
+date: 2020-07-13T12:00:00
 perex: Mohou existovat jiná řešení...
 ---
 

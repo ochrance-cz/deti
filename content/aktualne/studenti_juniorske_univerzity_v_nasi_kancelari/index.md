@@ -1,6 +1,6 @@
 ---
 title: Juniorská univerzita v naší Kanceláři
-date: 2025-06-02T06:04:22.861Z
+date: 2025-06-02T06:04:22
 perex: Předposlední květnový týden probíhala v naší Kanceláři část výuky
   juniorské univerzity [MjUNI](https://mjuni.cz). Nasajte atmosféru tohoto
 ---

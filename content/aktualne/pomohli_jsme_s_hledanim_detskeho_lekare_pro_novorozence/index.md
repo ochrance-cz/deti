@@ -1,7 +1,7 @@
 ---
 title: Pomohli jsme s hledáním dětského lékaře pro novorozence
 draft: false
-date: 2022-04-20T14:01:25.990Z
+date: 2022-04-20T14:01:25
 perex: Obrátila se na nás maminka, která marně hledala dětského lékaře či
   lékařku pro svou několika měsíční dceru. Všichni ji však odmítali z důvodu
   naplněné kapacity. Maminka se správně obrátila i na zdravotní pojišťovnu, aby

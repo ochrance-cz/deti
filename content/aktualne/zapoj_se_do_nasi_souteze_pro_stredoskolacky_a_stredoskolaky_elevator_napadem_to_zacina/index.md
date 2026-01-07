@@ -1,7 +1,7 @@
 ---
 title: "Zapoj se do naší soutěže pro středoškolačky a středoškoláky – Elevator:
   nápadem to začíná"
-date: 2023-01-05T12:38:37.807Z
+date: 2023-01-05T12:38:37
 perex: Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste
   schopni to změnit? Navrhněte projekt a pojďte do toho!
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anička zjišťovala, co ombudsman zmůže ve škole
-date: 2022-06-30T11:50:03.199Z
+date: 2022-06-30T11:50:03
 perex: Co myslíš, jak moc může ombudsman ovlivnit život ve Tvé škole? Může třeba
   ovlivnit množství písemek nebo řešit šikanu? Podívej se na další Aniččino
   video.

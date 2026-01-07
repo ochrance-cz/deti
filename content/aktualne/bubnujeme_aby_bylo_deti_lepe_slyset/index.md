@@ -1,7 +1,7 @@
 ---
 title: Bubnujeme, aby bylo děti lépe slyšet!
 draft: false
-date: 2022-11-18T08:17:16.666Z
+date: 2022-11-18T08:17:16
 perex: Násilí na dětech je kolem nás, i když ho často nevnímáme nebo nevidíme.
   **Nechceme hlas dětí bagatelizovat, přehlížet a vnímat jako něco, co se nás
   netýká.**

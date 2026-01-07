@@ -1,6 +1,6 @@
 ---
 title: 40 dětí loni žádalo ombudsmanku o radu a pomoc
-date: 2018-04-11T12:00:00.000Z
+date: 2018-04-11T12:00:00
 perex: ""
 ---
 

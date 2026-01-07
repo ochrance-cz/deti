@@ -1,6 +1,6 @@
 ---
 title: "Práva lidí s postižením v #AničkaVloguje"
-date: 2022-09-02T07:40:00.011Z
+date: 2022-09-02T07:40:00
 perex: "Víte, že ombudsman vydává vysvědčení? Tušíte, co všechno se skrývá pod
   slovem *přístupnost* a co znamená zkratka *CRPD*? Anička z #AničkaVloguje to
   už ví!"

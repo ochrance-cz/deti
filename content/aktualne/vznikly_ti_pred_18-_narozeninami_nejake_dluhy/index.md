@@ -1,6 +1,6 @@
 ---
 title: Vznikly ti před 18. narozeninami nějaké dluhy?
-date: 2023-11-30T14:28:08.326Z
+date: 2023-11-30T14:28:08
 perex: Musíš dluhy splatit? Neměli by platit i tví rodiče? A co nastane, když
   dluhy nesplatíte? Připravili jsme odpovědi na nejčastější otázky mladých
   dlužníků.

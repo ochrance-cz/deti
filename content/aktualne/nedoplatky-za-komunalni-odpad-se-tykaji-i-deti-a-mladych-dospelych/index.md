@@ -1,6 +1,6 @@
 ---
 title: Nedoplatky za komunální odpad se týkají i dětí a mladých dospělých
-date: 2015-07-02T12:00:00.000Z
+date: 2015-07-02T12:00:00
 perex: Je vám 17 let a máte zablokovaný bankovní účet z důvodu dluhu na poplatku
   za komunální odpad? Nebo vám už bylo 18 let a městský úřad po vás takovýto
   dluh vymáhá? Obezřetnosti není nikdy dost a vždy je dobré mít dostatek

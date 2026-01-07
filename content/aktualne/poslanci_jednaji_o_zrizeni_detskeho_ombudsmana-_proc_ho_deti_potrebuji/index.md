@@ -1,6 +1,6 @@
 ---
 title: Poslanci jednají o zřízení dětského ombudsmana. Proč ho děti potřebují?
-date: 2024-07-15T13:46:36.075Z
+date: 2024-07-15T13:46:36
 perex: Dětského ombudsmana v Česku zatím nemáme. Některé z jeho úkolů zatím
   vykonáváme my, na jiné se zatím cíleně nikdo nezaměřuje. **Proč by bylo dobré,
   aby se to změnilo?**

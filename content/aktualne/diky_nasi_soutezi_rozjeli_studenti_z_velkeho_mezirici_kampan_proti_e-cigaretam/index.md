@@ -1,6 +1,6 @@
 ---
 title: Studenti z Velkého Meziříčí rozjeli kampaň proti e-cigaretám
-date: 2023-07-17T11:05:46.776Z
+date: 2023-07-17T11:05:46
 perex: "Gymnazisté z [Velkého Meziříčí](https://www.gvm.cz/cs) si všimli, že
   řada jejich mladších spolužáků a sourozenců experimentuje s e-cigaretami a
   podobnými produkty. Vytvořili proto osvětovou kampaň o jejích škodlivosti.

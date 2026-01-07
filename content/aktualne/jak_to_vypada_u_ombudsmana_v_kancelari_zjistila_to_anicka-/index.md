@@ -1,6 +1,6 @@
 ---
 title: Jak to vypadá u ombudsmana v kanceláři? Zjistila to Anička.
-date: 2022-09-16T07:47:19.273Z
+date: 2022-09-16T07:47:19
 perex: \#AničkaVloguje se probojovala až k ombudsmanovi. Pojď se podívat, jakou
   má kancelář, a poslechni si, na co se ho Anička zeptala. A víte, kam ombudsman
   musel letět?

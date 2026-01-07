@@ -1,6 +1,6 @@
 ---
 title: Slovenské referendum o rodině se koná se 7.2.2015
-date: 2015-02-02T12:00:00.000Z
+date: 2015-02-02T12:00:00
 perex: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Návrat k rodinné tradici. Kluk chtěl "vrátit" příjmení po předcích.
-date: 2022-09-22T06:47:32.712Z
+date: 2022-09-22T06:47:32
 perex: Sedmnáctiletý Radek u nás hledal radu a pomoc, jak si bezplatně vymoci
   navrácení původního příjmení, které měli jeho předci. Radek zjistil, že jeho
   praděd měl německé příjmení. To bylo po druhé světové válce v matrikách

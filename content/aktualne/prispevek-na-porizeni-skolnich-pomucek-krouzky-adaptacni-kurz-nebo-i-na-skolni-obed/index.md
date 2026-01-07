@@ -2,7 +2,7 @@
 title: >-
   Příspěvek na pořízení školních pomůcek, kroužky, adaptační kurz nebo i na
   školní obědy?
-date: 2019-08-27T12:00:00.000Z
+date: 2019-08-27T12:00:00
 perex: >-
   Rád/a bys jela na adaptační kurz či chodil/a do kroužku nebo si pořídil/a
   novou aktovku, ale tvoji rodiče na to nemají dostatek peněz?

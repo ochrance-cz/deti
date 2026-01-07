@@ -1,6 +1,6 @@
 ---
 title: Jste na facebooku? Potom jste možné oběti zneužití.
-date: 2016-06-30T12:00:00.000Z
+date: 2016-06-30T12:00:00
 perex: >-
   Víte, že kromě oloupení v přeplněné MHD nebo obtěžování v noci na ulici vám
   dnes hrozí ještě jiné, mnohdy daleko závažnější riziko? Riziko, které není z

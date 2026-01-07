@@ -1,6 +1,6 @@
 ---
 title: Zkoušky k řidičskému oprávnění se mohou opět skládat i v autoškolách
-date: 2015-07-28T12:00:00.000Z
+date: 2015-07-28T12:00:00
 perex: >-
   Zástupce ombudsmanky řešil zajímavou stížnost. Obrátila se na něj autoškola v
   souvislosti se zkouškami odborné způsobilosti žadatelů o řidičské oprávnění.

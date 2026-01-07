@@ -1,7 +1,7 @@
 ---
 title: Hrozně rád bys jel/a na tábor, ale rodiče na něj nemají dost peněz? Může
   pomoci stát.
-date: 2022-07-12T11:58:20.041Z
+date: 2022-07-12T11:58:20
 perex: Začaly prázdniny a spousta Tvých kamarádů a kamarádek odjela na tábory.
   Ty bys chtěl/a taky jet, ale podle vašich je to moc drahé?
 ---

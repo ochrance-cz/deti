@@ -1,7 +1,7 @@
 ---
 title: I když ještě nejsi plnoletý/á, můžeš se zaevidovat na úřadu práce i se
   rekvalifikovat
-date: 2020-01-07T12:00:00.000Z
+date: 2020-01-07T12:00:00
 perex: Ochránkyně se nedávno setkala s tím, že úřad práce nechtěl poslat na
   rekvalifikační kurz uchazečku o zaměstnání, protože ještě neměla 18 let. To je
   špatný přístup.

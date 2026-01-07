@@ -1,6 +1,6 @@
 ---
 title: Chybou úřadů rodiny nezískaly peníze
-date: 2019-12-09T12:00:00.000Z
+date: 2019-12-09T12:00:00
 
 perex: >-
   Ombudsmance se v nedávné době podařilo pomoci hned dvěma rodinám, které chybou

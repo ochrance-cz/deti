@@ -1,6 +1,6 @@
 ---
 title: Na České televizi můžete sledovat pohádky ve znakovém jazyce
-date: 2018-11-06T12:00:00.000Z
+date: 2018-11-06T12:00:00
 perex: >-
   Moc se nám líbí, že Déčko České televize v rámci přístupnosti pořadů myslí i
   na nejmenší se sluchovým postižením. Stejným pohádkám a příběhům tak rozumí

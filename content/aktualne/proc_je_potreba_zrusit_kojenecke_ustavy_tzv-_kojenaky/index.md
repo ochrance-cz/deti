@@ -1,7 +1,7 @@
 ---
 title: Proč je potřeba zrušit kojenecké ústavy (tzv. „kojeňáky“)?
 slug: ""
-date: 2024-05-15T15:22:22.969Z
+date: 2024-05-15T15:22:22
 perex: Spolu s dalšími odborníky to vysvětlujeme v nových videích.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tfdIKMz-eNI?si=TOuN80yYb8FIRjWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

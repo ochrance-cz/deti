@@ -1,6 +1,6 @@
 ---
 title: Pro dětského ombudsmana jsme zvolili modrou barvu
-date: 2025-09-24T07:13:24.846Z
+date: 2025-09-24T07:13:24
 perex: Modrá jako symbolika spolehlivosti, důvěry, bezpečí, klidu a otevřenosti
   bude dětského ombudsmana provázet při komunikaci na webu, sociálních sítích i
   v dalších výstupech.

@@ -2,7 +2,7 @@
 title: >-
   Regulační poplatky za pobyt dítěte v nemocnici se mají vymáhat jen po
   rodičích
-date: 2015-10-14T12:00:00.000Z
+date: 2015-10-14T12:00:00
 perex: >-
   Ústavní soud řešil nedávno zajímavý případ. Nemocnice totiž vymáhala dlužnou
   částku 1.020,-Kč za pobyt dítěte v nemocnici přímo po dítěti. Ústavní soud

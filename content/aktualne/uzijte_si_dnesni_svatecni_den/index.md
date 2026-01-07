@@ -1,7 +1,7 @@
 ---
 title: Užijte si dnešní sváteční den!
 draft: false
-date: 2023-06-01T07:35:57.775Z
+date: 2023-06-01T07:35:57
 perex: Vytáhněte své blízké na zmrzlinu, do parku nebo na koupaliště. Oslavte
   den dětí podle svého.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diskriminace napříč Evropou
-date: 2015-05-11T12:00:00.000Z
+date: 2015-05-11T12:00:00
 perex: >-
   Ombudsman v České republice poskytuje pomoc obětem diskriminace. Každý stát
   Evropské unie má speciální instituci, která se prosazování rovného zacházení

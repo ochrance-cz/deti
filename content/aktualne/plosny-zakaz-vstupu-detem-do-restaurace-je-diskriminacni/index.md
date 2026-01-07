@@ -1,6 +1,6 @@
 ---
 title: Plošný zákaz vstupu dětem do restaurace je diskriminační
-date: 2015-03-09T12:00:00.000Z
+date: 2015-03-09T12:00:00
 perex: >-
   Nejvyšší správní soud dal svým rozsudkem za pravdu České obchodní inspekci,
   která uložila provozovateli restaurace pokutu za to, že zakazoval vstup do

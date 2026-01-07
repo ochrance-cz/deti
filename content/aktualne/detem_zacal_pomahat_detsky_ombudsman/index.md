@@ -1,6 +1,6 @@
 ---
 title: "Dětem začal pomáhat dětský ombudsman! "
-date: 2025-07-01T06:32:52.468Z
+date: 2025-07-01T06:32:52
 perex: Od dnešního dne najdou děti právní ochranu pod křídly dětského
   ombudsmana. Obracet se na něj můžou děti přímo, nepotřebují  dospělého
   prostředníka. Než ho Poslanecká sněmovna zvolí, bude jeho práci dělat zástupce

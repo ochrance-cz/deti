@@ -1,6 +1,6 @@
 ---
 title: "Příručka WebWeWant pro teegenary "
-date: 2015-07-09T12:00:00.000Z
+date: 2015-07-09T12:00:00
 perex: Jak říká jedno lehce upravené české přísloví „internet je dobrý sluha,
   ale zlý pán“. Proto vznikla zajímavá příručka pro teenagery, kde se dozvíte
   cenné informace například o závaznosti smluvních podmínek, které určitě běžně

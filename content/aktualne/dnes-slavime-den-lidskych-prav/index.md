@@ -1,6 +1,6 @@
 ---
 title: Dnes slavíme Den lidských práv
-date: 2020-12-10T12:00:00.000Z
+date: 2020-12-10T12:00:00
 perex: >-
   Slaví se na počest přijetí Všeobecné deklarace lidských práv. O toho uplynulo
   už 72 let.

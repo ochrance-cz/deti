@@ -2,7 +2,7 @@
 title: Na brigádu už od 14 let! Od 1. června je to možné, i když ještě nemáš
   ukončenou povinnou školní docházku
 draft: false
-date: 2025-06-13T19:07:40.205Z
+date: 2025-06-13T19:07:40
 perex: Novinkou tohoto léta je změna zákoníku práce a občanského zákoníku. Děti
   od 14 let mohou nově během letních prázdnin pracovat. A to i v případě, že
   ještě neukončily povinnou školní docházku.

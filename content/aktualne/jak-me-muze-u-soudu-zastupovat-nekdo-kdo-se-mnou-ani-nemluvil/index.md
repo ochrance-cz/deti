@@ -1,6 +1,6 @@
 ---
 title: „Jak mě může u soudu zastupovat někdo, kdo se mnou ani nemluvil?“
-date: 2019-10-24T12:00:00.000Z
+date: 2019-10-24T12:00:00
 perex: >-
   Ombudsmanka se zabývala případem Lenky, jejíž rodiče se hádali o výživné.
   Protože se nemohli dohodnout, musel o výši výživného rozhodovat soud. A

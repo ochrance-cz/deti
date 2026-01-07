@@ -1,6 +1,6 @@
 ---
 title: Většina dětí by si přála méně tlaku a více podpory, vyplynulo z našeho výzkumu
-date: 2025-05-29T18:30:44.519Z
+date: 2025-05-29T18:30:44
 perex: "Téměř 300 dětí a mladých lidí ve věku 11–25 let se podělilo v rámci
   našeho výzkumu o názor na to, co mladou generaci nejvíce tíží. I když věkový
   rozptyl mezi nejmladšími a nejstaršími dotazovanými byl značný, na dvou

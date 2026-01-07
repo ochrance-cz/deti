@@ -1,6 +1,6 @@
 ---
 title: Zápisy do prvních tříd
-date: 2015-01-16T12:00:00.000Z
+date: 2015-01-16T12:00:00
 perex: Ředitelé školy musí do první třídy přijmout všechny děti, které přijdou k
   zápisu, pokud splňují podmínku věku pro školní docházku, mají trvalé bydliště
   ve spádové oblasti školy a pokud to kapacita školy dovolí. Žádná jiná kritéria

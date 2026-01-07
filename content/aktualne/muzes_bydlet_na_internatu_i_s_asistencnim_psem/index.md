@@ -1,6 +1,6 @@
 ---
 title: Můžeš bydlet na internátu i s asistenčním psem?
-date: 2022-04-27T07:12:02.100Z
+date: 2022-04-27T07:12:02
 perex: Nedávno se na nás obrátila Ema, která kvůli svému onemocnění potřebovala
   asistenčního psa. Ten jí bude pomáhat zvládat každodenní život, který jí
   přináší různé těžkosti. Nevěděla, jestli s ní asistenční pes bude moci bydlet

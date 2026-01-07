@@ -1,7 +1,7 @@
 ---
 title: Dnešním Dnem dětí zahajujeme měsíc, který bude hlavně o Vás!
 draft: false
-date: 2022-06-01T19:15:36.821Z
+date: 2022-06-01T19:15:36
 perex: Během června se naše kancelář otevírá plně dětem. Čeká nás [konference
   pro děti](https://deti.ochrance.cz/aktualne/konference_pro_deti_se_blizi/),
   mnoho exkurzí pro školní kolektivy, představíme nová videa pro děti i výstavu

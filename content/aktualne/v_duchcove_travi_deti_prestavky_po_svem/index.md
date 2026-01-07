@@ -1,6 +1,6 @@
 ---
 title: V Duchcově tráví děti přestávky po svém
-date: 2024-01-04T14:25:41.297Z
+date: 2024-01-04T14:25:41
 perex: Přály si oživit přestávky mezi vyučováním. Chtěly poslouchat hudbu a mít
   šanci si zahrát krátké společenské hry. Zpracovaly plán, vše si vyjednaly
   s vedením školy, zajistily finance a své plány uvedly v realitu. Přestávky na

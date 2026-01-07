@@ -1,7 +1,7 @@
 ---
 title: Stovky dětí se speciálními vzdělávacími potřebami se neobejdou bez
   druhého pedagoga, osud tohoto podpůrného opatření je ale nejistý
-date: 2024-09-06T10:48:25.103Z
+date: 2024-09-06T10:48:25
 perex: Nelíbí se nám, že ministerstvo navrhuje zrušení jednoho z podpůrných
   opatření pro děti se speciálními vzdělávacími potřebami – využití dalšího
   pedagoga. Voláme proto po diskuzi o připravované změně školského zákona.

@@ -1,6 +1,6 @@
 ---
 title: Návrat do dětského domova?
-date: 2017-03-02T12:00:00.000Z
+date: 2017-03-02T12:00:00
 perex: >-
   Obrátil se na nás osmnáctiletý chlapec, který po dosažení zletilosti ještě
   chvíli pobýval v dětském domově (na základě smlouvy), následně z něj však

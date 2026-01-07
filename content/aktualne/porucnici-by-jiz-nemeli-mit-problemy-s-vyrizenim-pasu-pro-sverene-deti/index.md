@@ -1,6 +1,6 @@
 ---
 title: Poručníci by již neměli mít problémy s vyřízením pasů pro svěřené děti
-date: 2019-04-01T12:00:00.000Z
+date: 2019-04-01T12:00:00
 perex: >-
   Jsi v péči poručníků a měl/a jsi problém s vydáním pasu? Již by se to nemělo
   stávat.

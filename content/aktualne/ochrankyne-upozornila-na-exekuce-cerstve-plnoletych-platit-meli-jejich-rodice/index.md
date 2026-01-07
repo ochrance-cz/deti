@@ -2,7 +2,7 @@
 title: >-
   Ochránkyně upozornila na exekuce čerstvě plnoletých. Platit měli jejich
   rodiče.
-date: 2015-07-08T12:00:00.000Z
+date: 2015-07-08T12:00:00
 perex: >-
   Místo oslavy 18. narozenin čekají na některé čerstvě zletilé jen exekuce. A to
   proto, že jejich rodiče na ně uzavřeli smlouvy například s mobilními operátory

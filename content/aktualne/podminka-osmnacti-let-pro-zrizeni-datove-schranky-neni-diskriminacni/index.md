@@ -1,6 +1,6 @@
 ---
 title: Podmínka osmnácti let pro zřízení datové schránky není diskriminační
-date: 2019-04-24T12:00:00.000Z
+date: 2019-04-24T12:00:00
 perex: >-
   Ještě ti nebylo osmnáct a pokoušel/a ses zřídit si datovou schránku? Nešlo ti
   to? Myslíš si, že je to diskriminační?

@@ -1,6 +1,6 @@
 ---
 title: I dítě z dětského domova si může vybrat střední školu
-date: 2017-11-23T12:00:00.000Z
+date: 2017-11-23T12:00:00
 perex: >-
   Dětský domov nemůže sám určovat, na jakou střední školu dítě půjde. Musí se
   aktivně snažit do volby vhodné střední školy zapojit nejen dítě, ale i jeho

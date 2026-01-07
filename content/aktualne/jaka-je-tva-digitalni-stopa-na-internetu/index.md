@@ -1,6 +1,6 @@
 ---
 title: Jaká je tvá digitální stopa na internetu?
-date: 2019-10-08T12:00:00.000Z
+date: 2019-10-08T12:00:00
 perex: >-
   Kyberšikana, ochrana soukromí na internetu a sexting jsou hlavními tématy
   nového on-line kurzu Digitální stopa. Kurz je primárně určen žákům 5. a 6.

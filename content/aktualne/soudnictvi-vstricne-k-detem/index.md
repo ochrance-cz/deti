@@ -1,6 +1,6 @@
 ---
 title: Soudnictví vstřícné k dětem
-date: 2016-12-05T12:00:00.000Z
+date: 2016-12-05T12:00:00
 perex: >-
   Konflikty rodičů, rozchody i rozvody, jsou běžnou součástí našeho života.
   Můžeme si přát, aby tomu tak nebylo, ale skutečnost nezměníme. Rádi bychom ale

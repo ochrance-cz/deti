@@ -1,7 +1,7 @@
 ---
 title: Po příchodu do dětského domova by pro tebe neměla platit jiná pravidla
   než pro ostatní
-date: 2019-05-23T12:00:00.000Z
+date: 2019-05-23T12:00:00
 perex: Nedávno ombudsmanka řešila případ sedmnáctileté Žanety, kterou do
   dětského domova umístil soud. U rodičů být nemohla a s určenými poručníky být
   nechtěla. Po příchodu do dětského domova (první měsíc) Žaneta musela odevzdat

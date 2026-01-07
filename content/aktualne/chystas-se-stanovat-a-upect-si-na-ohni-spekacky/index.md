@@ -1,6 +1,6 @@
 ---
 title: "Chystáš se stanovat a upéct si na ohni špekáčky? "
-date: 2020-07-22T12:00:00.000Z
+date: 2020-07-22T12:00:00
 perex: Dej si pozor, ne všude je to povoleno.
 ---
 

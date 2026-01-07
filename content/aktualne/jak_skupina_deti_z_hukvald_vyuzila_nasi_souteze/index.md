@@ -1,6 +1,6 @@
 ---
 title: "Jak děti z Hukvald využily naší soutěže? "
-date: 2023-05-05T11:16:13.923Z
+date: 2023-05-05T11:16:13
 perex: Chtěly mít možnost si ve škole koupit svačinu, jako tomu bylo před
   pandemií COVID-19. A zkusily pro to udělat opravdu hodně. I když se jim
   nepodařilo obnovit provoz školního bufetu, odnáší si aktivní skupinka z

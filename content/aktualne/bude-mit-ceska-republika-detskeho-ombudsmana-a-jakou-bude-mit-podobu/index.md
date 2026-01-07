@@ -1,6 +1,6 @@
 ---
 title: Bude mít Česká republika dětského ombudsmana a jakou bude mít podobu?
-date: 2020-07-04T12:00:00.000Z
+date: 2020-07-04T12:00:00
 perex: >-
   O tom aktuálně probíhá debata. Vláda a následně všichni zákonodárci se budou
   zabývat návrhem zákona o zřízení ochránce práv dětí. Ombudsman Stanislav

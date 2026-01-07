@@ -1,6 +1,6 @@
 ---
 title: Učíme se český znakový jazyk
-date: 2016-08-12T12:00:00.000Z
+date: 2016-08-12T12:00:00
 perex: >-
   Skupina 7 právníků a právniček se rozhodla na konci léta proniknout do základů
   českého znakového jazyka. Pod vedením lektorek z České unie neslyšících v Brně

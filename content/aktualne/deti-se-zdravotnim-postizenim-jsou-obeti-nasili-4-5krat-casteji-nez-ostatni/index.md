@@ -1,6 +1,6 @@
 ---
 title: Děti se zdravotním postižením jsou obětí násilí 4-5krát častěji než ostatní
-date: 2015-12-14T12:00:00.000Z
+date: 2015-12-14T12:00:00
 perex: >-
   Světový den osob se zdravotním postižením si každoročně připomínáme 3.
   prosince. A právě při této příležitosti organizovala Agentura Evropské unie

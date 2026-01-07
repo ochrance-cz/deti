@@ -1,6 +1,6 @@
 ---
 title: Perličky z práce ombudsmanky
-date: 2019-12-05T12:00:00.000Z
+date: 2019-12-05T12:00:00
 perex: >-
   Na ombudsmanku se většinou obrací lidé s vážnými problémy, které je každodenně
   omezují a trápí. Občas se však objeví i spíše zábavné perličky…

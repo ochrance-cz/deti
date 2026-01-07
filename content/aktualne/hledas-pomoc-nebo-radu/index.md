@@ -1,6 +1,6 @@
 ---
 title: Hledáš pomoc nebo radu?
-date: 2020-03-10T12:00:00.000Z
+date: 2020-03-10T12:00:00
 perex: >-
   Doma to neklape? Bojíš se chodit do školy? Rodiče tě bijí? Buď silný/á a najdi
   pomoc!

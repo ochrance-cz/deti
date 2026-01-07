@@ -1,6 +1,6 @@
 ---
 title: Šťastné a veselé!
-date: 2021-12-20T12:00:00.000Z
+date: 2021-12-20T12:00:00
 perex: Přejeme Vám klidné Vánoce a nový rok naplněný zdravím a radostí ze života.
 ---
 

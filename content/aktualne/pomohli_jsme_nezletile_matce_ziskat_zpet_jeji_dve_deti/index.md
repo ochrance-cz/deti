@@ -1,6 +1,6 @@
 ---
 title: Pomohli jsme nezletilé matce získat zpět její dvě děti
-date: 2023-12-04T14:00:37.721Z
+date: 2023-12-04T14:00:37
 perex: Dívka se na nás obrátila v situaci, kdy pobývala v dětském diagnostickém
   ústavu zaměřeném mj. na práci s nezletilými matkami. Chtěla totiž získat zpět
   do péče své dvě děti. Plán, který podporoval i OSPOD, však následně začali

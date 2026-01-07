@@ -1,6 +1,6 @@
 ---
 title: Odložená maturitní slohovka ti může znepříjemnit nástup na vysokou školu
-date: 2024-02-08T11:31:15.208Z
+date: 2024-02-08T11:31:15
 perex: Maturita se ti může neplánovaně protáhnout i kvůli krátkodobé nemoci.
   Maturovat sice lze v náhradním termínu, ten ale většinou dostaneš až v dalším
   zkušebním období, typicky na podzim.

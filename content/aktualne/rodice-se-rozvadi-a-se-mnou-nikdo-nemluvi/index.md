@@ -1,6 +1,6 @@
 ---
 title: Rodiče se rozvádí a se mnou nikdo nemluví
-date: 2018-10-16T12:00:00.000Z
+date: 2018-10-16T12:00:00
 
 perex: >-
   Mají sociální pracovníci a pracovnice OSPOD povinnost mluvit i s malými dětmi,

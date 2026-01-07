@@ -1,6 +1,6 @@
 ---
 title: Před 14 lety byl zvolen první ombudsman
-date: 2014-12-12T12:00:00.000Z
+date: 2014-12-12T12:00:00
 perex: >-
   Dne 12.12.2000 byl zvolen první český ombudsman, kterým se stal JUDr. Otakar
   Motejl.  Funkci vykonával od 18.12.2000, kdy složil poprvé "ombudsmanský" slib

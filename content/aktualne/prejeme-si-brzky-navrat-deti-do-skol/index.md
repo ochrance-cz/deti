@@ -1,6 +1,6 @@
 ---
 title: Přejeme si brzký návrat dětí do škol
-date: 2021-03-05T12:00:00.000Z
+date: 2021-03-05T12:00:00
 perex: Školy jsou kvůli epidemii stále zavřené a většina dětí se tak musí už
   několik měsíců učit doma. Svoje spolužáky a učitele vídají jen přes obrazovky.
   Pro děti je to náročné období. Zvlášť když některé z nich nemají doma dost
