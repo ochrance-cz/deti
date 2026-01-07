@@ -1,9 +1,7 @@
 ---
-title: "Víš, že 18. prosinec je Mezinárodním dnem migrantů? Příběhy některých z
-  nich představí komiksy "
-date: 18.12.2025
-perex: Dnes je Mezinárodní den migrantů. Den, který nám připomíná, jak velkou
-  odvahu někdy vyžaduje opustit vše známé.
+title: Víš, že 18. prosinec je Mezinárodním dnem migrantů? Příběhy některých z nich představí komiksy
+date: 2025-12-18T12:00:00
+perex: Dnes je Mezinárodní den migrantů. Den, který nám připomíná, jak velkou odvahu někdy vyžaduje opustit vše známé.
 ---
 Děti z tvého sousedství, tvoje lékařka, řidič autobusu, který tě třeba vozí do školy... možná právě oni k nám přišli ze zahraničí. Lidé, které potkáváš a potřebuješ každý den.
 
