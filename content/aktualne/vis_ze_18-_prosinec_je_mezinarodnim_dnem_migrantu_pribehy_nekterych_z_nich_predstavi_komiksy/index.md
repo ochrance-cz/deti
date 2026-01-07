@@ -1,7 +1,6 @@
 ---
-title: "Víš, že 18. prosinec je Mezinárodním dnem migrantů? Příběhy některých z
-  nich představí komiksy "
-date: 18.12.2025
+title: Víš, že 18. prosinec je Mezinárodním dnem migrantů? Příběhy některých z nich představí komiksy
+date: 2025-12-18T12:00:00
 ---
 Dnes je Mezinárodní den migrantů.
 
