@@ -356,7 +356,7 @@ save('./static/admin/config.yml', {
   slug: {
     encoding: 'ascii',
     clean_accents: true,
-    sanitize_replacement: '_',
+    sanitize_replacement: '-',
   },
   collections: [
     pages,

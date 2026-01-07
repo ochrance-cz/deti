@@ -553,5 +553,5 @@ const findDuplicates = (arr: string[]) =>
 export const save = (path: string, config: object) => {
   const yaml = stringify(config);
   const encoder = new TextEncoder();
-  Deno.writeFile(path, encoder.encode('local_backend: true\n\n' + yaml));
+  Deno.writeFile(path, encoder.encode(yaml));
 };
