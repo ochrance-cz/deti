@@ -14,16 +14,14 @@ Někteří z těchto lidí však v nové zemi místo pomoci čelí vykořisťov�
 
 Společně s organizací [La Strada ](https://www.strada.cz/hledam-informace/) je nyní budeme šířit mezi děti ohrožené vykořisťováním. 
 
-**Kdo je to migrant?**
-
-Člověk, kteří pobývá mimo zemi svého původu déle než jeden rok. Důvody, proč lidé odcházejí ze své země, můžou být různé: špatné životní podmínky, přírodní  katastrofa, snaha najít lepší práci, studium ...
-
-Chceš se dozvědět víc? Podívej se, co tomto tématu [říkají  naši kolegové](https://www.ochrance.cz/aktualne/pravnici_ombudsmana_ve_svem_videu_ukazuji_jak_je_to_s_migraci_v_cesku/) nebo si přečti informace na stránkách [Člověka  v tísni](https://www.clovekvtisni.cz/co-delame/migrace-v-souvislostech/migrace-pod-lupou).
-
-**Chceš zjistit podrobnosti o tom, co je to vykořisťování?**
-
-Podívej se na náš [leták](https://www.ochrance.cz/letaky/vykoristovani/vykoristovani.pdf).
-
-
+> **Kdo je to migrant?**
+>
+> Člověk, kteří pobývá mimo zemi svého původu déle než jeden rok. Důvody, proč lidé odcházejí ze své země, můžou být různé: špatné životní podmínky, přírodní  katastrofa, snaha najít lepší práci, studium ...
+>
+> Chceš se dozvědět víc? Podívej se, co tomto tématu [říkají  naši kolegové](https://www.ochrance.cz/aktualne/pravnici_ombudsmana_ve_svem_videu_ukazuji_jak_je_to_s_migraci_v_cesku/) nebo si přečti informace na stránkách [Člověka  v tísni](https://www.clovekvtisni.cz/co-delame/migrace-v-souvislostech/migrace-pod-lupou).
+>
+> **Chceš zjistit podrobnosti o tom, co je to vykořisťování?**
+>
+> Podívej se na náš [leták](https://www.ochrance.cz/letaky/vykoristovani/vykoristovani.pdf).
 
 ![Komiksy „Může se to týkat i tebe“ v různých jazykových mutacích. ](18_12_dnes_je_mezinarodni_den_migrantu.jpeg)
