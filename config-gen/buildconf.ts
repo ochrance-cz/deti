@@ -316,11 +316,15 @@ interface DatetimeWidget extends BaseWidget {
   widget: 'datetime';
   date_format: string | boolean;
   time_format: string | boolean;
+  default: string;
+  date_format: string;
+  time_format?: string;
 }
 
 interface DatetimeOptions extends Options {
   date_format?: string | boolean;
   time_format?: string | boolean;
+  use_time?: true;
 }
 
 export const datetime = (
@@ -330,6 +334,7 @@ export const datetime = (
 ): DatetimeWidget => {
   const w: DatetimeWidget = {
     ...base(name, label, options),
+    default: '{{now}}',
     widget: 'datetime' as const,
     date_format:
       options && options.date_format !== undefined
@@ -339,7 +344,12 @@ export const datetime = (
       options && options.time_format !== undefined
         ? options.time_format
         : 'HH:mm',
+    date_format: 'YYYY-MM-DD',
   };
+
+  if (options?.use_time) {
+    w.time_format = 'HH:mm:ssZZ';
+  }
 
   return w;
 };
