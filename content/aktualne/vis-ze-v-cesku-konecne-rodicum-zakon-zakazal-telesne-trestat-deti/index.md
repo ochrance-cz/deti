@@ -1,6 +1,6 @@
 ---
 title: "Víš, že v Česku konečně rodičům zákon zakázal tělesně trestat děti? "
-date: 2026-01-08T12:14
+date: 2026-01-08T12:14:00
 perex: Rodiče musí své děti vychovávat bez tělesných trestů. Zdá se ti to
   samozřejmé? Nám také. Přesto toto pravidlo do českých zákonů výslovně
   vstoupilo teprve na začátku letošního roku.
