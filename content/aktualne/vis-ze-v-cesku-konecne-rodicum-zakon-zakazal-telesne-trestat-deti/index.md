@@ -14,16 +14,12 @@ Rodiče mají povinnost pečovat o dítě bez tělesného trestání, ale také 
 
 **Zažíváš doma násilí? Neboj se nám ozvat**
 
-* * 1.   e-mailem: 
-
-       [deti@ochrance.cz ](mailto:deti@ochrance.cz%20)
-
-
-        prostřednictvím 
-
-       [online portálu](https://portal.ochrance.cz/Default/Show?ReturnUrl=%2f)
-
-
-        telefonicky: 542 542 888 (v pracovní dny od 8:00 do 16:00)
-        osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně
-        dopisem na stejnou adresu
+> E-mailem: [deti@ochrance.cz](mailto:deti@ochrance.cz) 
+>
+> Prostřednictvím [online portálu](https://portal.ochrance.cz)
+>
+> Telefonicky: 542 542 888 (v pracovní dny od 8:00 do 16:00)
+>
+> Osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně
+>
+> Dopisem na stejnou adresu
