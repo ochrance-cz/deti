@@ -139,7 +139,7 @@ p {
 
 blockquote,
 .perex {
-  margin: 0rem 0 2rem;
+  margin: -1rem 0 2rem;
   padding: 2rem;
   // font-weight: bold;
   background: #dbebfa;
@@ -243,12 +243,18 @@ blockquote {
     left: -1rem;
   }
 
+  h2:first-child,
+  h3:first-child,
   p:first-child {
     margin-top: 0;
   }
 
+  ul:last-child,
+  figure:last-child,
+  ul:last-child > li:last-child,
   p:last-child {
     margin-bottom: 0;
+    min-height: 0;
   }
 
   &.quotes {

@@ -26,6 +26,13 @@ figure {
   }
 }
 
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
 .title-with-arrow {
   display: inline-block;
   position: relative;
@@ -53,6 +60,8 @@ figure {
 .details {
   @include font-size-s;
   font-weight: bold;
+
+  margin: -1rem 0 2rem;
 }
 
 main > article {
@@ -90,6 +99,11 @@ main > article {
   .text-content {
     // max-width: calc(38rem - 2rem);
     margin: 0 1rem;
+
+    img {
+      border-radius: 4px;
+      overflow: hidden;
+    }
   }
 }
 
