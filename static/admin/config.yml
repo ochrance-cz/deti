@@ -269,7 +269,7 @@ collections:
         required: false
         default: '{{now}}'
         widget: datetime
-        time_format: 'HH:mm'
+        time_format: 'HH:mm:ssZZ'
         date_format: YYYY-MM-DD
       - editor_components:
           - image
@@ -358,7 +358,7 @@ collections:
         required: false
         default: '{{now}}'
         widget: datetime
-        time_format: 'HH:mm'
+        time_format: 'HH:mm:ssZZ'
         date_format: YYYY-MM-DD
       - editor_components:
           - image

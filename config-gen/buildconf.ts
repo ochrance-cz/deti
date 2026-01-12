@@ -343,7 +343,7 @@ export const datetime = (
     time_format:
       options && options.time_format !== undefined
         ? options.time_format
-        : 'HH:mm',
+        : 'HH:mm:ssZZ',
     date_format: 'YYYY-MM-DD',
   };
 
