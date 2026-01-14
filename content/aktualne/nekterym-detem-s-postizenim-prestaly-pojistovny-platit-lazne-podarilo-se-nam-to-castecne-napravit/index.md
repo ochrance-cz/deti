@@ -1,7 +1,7 @@
 ---
 title: Některým dětem s postižením přestaly pojišťovny platit lázně. Podařilo se
   nám to částečně napravit
-date: 2025-11-05T14:51:00Z
+date: 2025-11-05T12:00:00Z
 perex: Kvůli tomu, že Ministerstvo zdravotnictví změnilo pravidla, neplatí
   pojišťovna některým dětem s postižením lázně. Jde o děti, které mají kvůli
   vážné nervové nemoci (například dětské mozkové obrně) potíže udržet moč a
