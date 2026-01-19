@@ -1,7 +1,7 @@
 ---
 title: Některým dětem s postižením přestaly pojišťovny platit lázně. Podařilo se
   nám to částečně napravit
-date: 2025-11-05T12:00:00.000Z
+date: 2025-11-05T12:00:00
 perex: Kvůli tomu, že Ministerstvo zdravotnictví změnilo pravidla, neplatí
   pojišťovna některým dětem s postižením lázně.
 ---
