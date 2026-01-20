@@ -1,7 +1,7 @@
 ---
 title: Nabídka pro školní kolektivy
 perex: Chceš vědět, jak to vypadá u nás v kanceláři a dozvědět se víc o tom, co
-  a jak děláme? Chceš položit otázku přímo ombudsmanovi nebo jeho zástupci?
+  a jak děláme? Chceš položit otázku přímo dětskému ombudsmanovi?
 ---
 **Domluv se se svým učitelem nebo svou učitelkou a napište nám na deti@ochrance.cz.** Ideálně rovnou uveďte:
 
@@ -17,7 +17,7 @@ Zhruba dvouhodinový program, během kterého:
 
 * vás na příkladech seznámíme s tím, co děláme,
 * ukážeme vám zákoutí naší budovy (kde pracujeme, kde se vzděláváme, kde relaxujeme, kde chováme včely i kde řádí "naše děti") a 
-* budete se moci zeptat ombudsmana nebo jeho zástupce na cokoliv, co vás zajímá. 
+* budete se moci zeptat dětského ombudsmana na cokoliv, co vás zajímá. 
 
 ### Pro koho?
 
@@ -25,8 +25,6 @@ Zhruba dvouhodinový program, během kterého:
 * šesťáky a starší.
 
 > Sídlo máme pouze v Brně, takže i exkurze probíhají pouze [v Brně na adrese Údolní 39](https://www.ochrance.cz/kontakt/). 
->
->
 
 ![Děti diskutují s ombudsmanem v jeho kanceláři.  ](dsc_1287.jpg "Děti na exkurzi diskutují s ombudsmanem v jeho kanceláři.")
 
