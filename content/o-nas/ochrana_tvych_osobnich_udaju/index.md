@@ -20,14 +20,14 @@ perex: Co děláme s tvými osobními údaji (jako je jméno, příjmení, telef
 
 #### Chráníme je:
 
-* používají je jen lidé z Kanceláře ombudsmana, pokud se s tebou potřebují spojit nebo pomáhají řešit tvůj případ.
+* používají je jen lidé z Kanceláře ombudsmana a dětského ombudsmana, pokud se s tebou potřebují spojit nebo pomáhají řešit tvůj případ.
 
 #### **Hlídáme je a nesmíme je jen tak někomu dát:**
 
 * tvé osobní údaje můžeme předat, jen pokud
 
 1. to musíme udělat, abychom vyřešili tvůj případ (úřadům, zařízením a dalším osobám, které můžeme kontrolovat),
-2. nám to přikazuje zákon a souhlasí s tím ombudsman (státním orgánům, třeba soudu nebo policii),
+2. nám to přikazuje zákon a souhlasí s tím dětský ombudsman (státním orgánům, třeba soudu nebo policii),
 3. nás někdo kontroluje.
 
 ### Jak zjistíš, které údaje o tobě máme, proč a jak dlouho je budeme mít?
