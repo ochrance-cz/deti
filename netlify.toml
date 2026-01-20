@@ -1,11 +1,11 @@
 [build]
-  publish = "public"
-  command = "npm i && npm run build:app"
+publish = "public"
+command = "npm i && npm run build:app"
 
 [context.production.environment]
-  HUGO_VERSION = "0.105.0"
+HUGO_VERSION = "0.125.1"
 
 [[redirects]]
-  from = "/*"
-  to = "/error/404/"
-  status = 404
+from = "/*"
+to = "/error/404/"
+status = 404
