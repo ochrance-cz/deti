@@ -1,7 +1,7 @@
 ---
 title: "Spousta dětí, které se pohybují na vozíku, si nemůže zvolit školu podle
   svého "
-date: 2025-11-19T14:36:00
+date: 2025-11-19T14:36:00+0100
 perex: Některé děti či mladí lidé si nemohou vybrat, co a kde chtějí studovat.
   Stačí, aby byly na vozíku. Pak se může stát, že se nedostanou do školy, kam by
   si přáli chodit – třeba kvůli schodům.
