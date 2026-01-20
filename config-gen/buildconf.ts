@@ -314,16 +314,12 @@ export const select = (
 
 interface DatetimeWidget extends BaseWidget {
   widget: 'datetime';
-  date_format: string | boolean;
-  time_format: string | boolean;
   default: string;
   date_format: string;
   time_format?: string;
 }
 
 interface DatetimeOptions extends Options {
-  date_format?: string | boolean;
-  time_format?: string | boolean;
   use_time?: true;
 }
 
@@ -336,19 +332,11 @@ export const datetime = (
     ...base(name, label, options),
     default: '{{now}}',
     widget: 'datetime' as const,
-    date_format:
-      options && options.date_format !== undefined
-        ? options.date_format
-        : 'DD.MM.YYYY',
-    time_format:
-      options && options.time_format !== undefined
-        ? options.time_format
-        : 'HH:mm:ssZZ',
     date_format: 'YYYY-MM-DD',
   };
 
   if (options?.use_time) {
-    w.time_format = 'HH:mm:ssZZ';
+    w.time_format = 'HH:mm:ss';
   }
 
   return w;
