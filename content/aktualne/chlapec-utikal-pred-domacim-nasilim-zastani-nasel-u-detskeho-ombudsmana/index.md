@@ -9,13 +9,13 @@ Proto uteče od něj a od mámy  k babičce. Nechce ale, aby tím všechno sko
 
 A tak to oznámí na úřadě OSPOD a taky na policii. Čeká, že mu pomůžou. Jenže místo pomoci přijde zklamání.
 
-
-**Co je to OSPOD?** 
-
-OSPOD je zkratka pro Orgán sociálně-právní ochrany dětí. Zní to složitě? Tak si to pojďme vysvětlit. 
-
-Jde o úřad, kde pracují lidé, kteří mají za úkol pomáhat dětem a chránit je. Třeba když doma není bezpečno nebo jsou jinak ohrožené. 
-
+>
+> **Co je to OSPOD?** 
+>
+> OSPOD je zkratka pro Orgán sociálně-právní ochrany dětí. Zní to složitě? Tak si to pojďme vysvětlit. 
+>
+> Jde o úřad, kde pracují lidé, kteří mají za úkol pomáhat dětem a chránit je. Třeba když doma není bezpečno nebo jsou jinak ohrožené. 
+>
 > Za ohrožené jsou považovány třeba děti, které:
 >
 > * přišly o rodiče, nebo se o ně rodiče nestarají    
