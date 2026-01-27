@@ -1,6 +1,6 @@
 ---
 title: Už pozítří se bude rozdávat vysvědčení. Máš z něj obavy? Přečti si pár
-  rad, co s tím.
+  rad, co s tím
 date: 2026-01-27T13:26:00
 perex: Nedopadlo vysvědčení podle tvých představ? Nebo podle představ rodičů?
   Známky nejsou všechno.
