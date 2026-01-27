@@ -1,6 +1,7 @@
 baseURL = "https://deti.ochrance.cz/"
 defaultContentLanguage = "cs"
 title = "Dětský ombudsman — ochránce práv dětí"
+timeZone = "Europe/Prague"
 
 [outputs]
 home = ["HTML", "RSS", "htaccess"]
