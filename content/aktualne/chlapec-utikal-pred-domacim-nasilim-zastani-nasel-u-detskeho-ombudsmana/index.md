@@ -27,6 +27,6 @@ A tak to oznámí na úřadě OSPOD a taky na policii. Čeká, že mu pomůžou.
 
 Nabídli jsme mu také pomoc při jednání s policií, která ho neměla odmítnout. Chlapec se ale rozhodl jinak. Řekl si, že to zkusí ještě jednou sám. Půjde na policii znovu – a tentokrát se nenechá odbýt. 
 
-Potýkáš se s násilím v rodině? Ozvi se nám. 
+**Potýkáš se s násilím v rodině?**  
 
 ![Neboj se nám ozvat. emailem: deti@ochrance.cz; prostřednictvím online portálu; telefonicky: 542 542 888 (v pracovní dny od 8:00 do 16:00); osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně; dopisem na stejnou adresu; můžeš se na nás obrátit i ve znakovém jazyce](kontakty-do.png)
