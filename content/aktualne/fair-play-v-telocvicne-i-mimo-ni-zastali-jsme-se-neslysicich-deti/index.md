@@ -14,10 +14,6 @@ Ombudsman to vysvětlil organizátorům kurzu a ti své rozhodnutí změnili.
 
 Chceš se dozvědět víc o tom, co je to diskriminace? Podívej se na [podrobnější vysvětlení a příklady](https://deti.ochrance.cz/pripady/diskriminace/).
 
-
-
 Dostal/a ses do situace, kdy se mohlo jednat o diskriminaci? 
 
 ![Neboj se nám ozvat. emailem: deti@ochrance.cz; prostřednictvím online portálu; telefonicky: 542 542 888 (v pracovní dny od 8:00 do 16:00); osobně v pondělí a ve středu od 8:00 do 16:00 na Údolní 39, 602 00 v Brně; dopisem na stejnou adresu; můžeš se na nás obrátit i ve znakovém jazyce](kontakty-do.png)
-
-*
