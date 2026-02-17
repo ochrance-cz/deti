@@ -9,6 +9,6 @@ Tři kandidáti dnes představí své priority na veřejném slyšení v Poslane
 
 Buďte u toho!
 
-* Sedmnáctého února 2026 | 15:00
+* sedmnáctého února 2026 | 15:00
 * v místnosti č. 205 v budově Poslanecké sněmovny
 * online na https://videoarchiv.psp.cz/playa.php?cast=5040
