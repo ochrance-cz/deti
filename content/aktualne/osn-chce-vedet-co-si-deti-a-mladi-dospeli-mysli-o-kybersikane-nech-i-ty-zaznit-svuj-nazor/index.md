@@ -11,12 +11,13 @@ perex: >-
 Kdo se může zapojit:
 
 * Děti, teenageři, mladí dospělí.
-* Učitelé, vedoucí, trenéři - pomozte dětem zapojit se!
+
+
 
 O anketě:
 
 * Nezjišťuje přímé zkušenosti dětí s kyberšikanou.
 * Je anonymní.
 * Je určena pouze dětem a mládeži.
-* Lze ji vyplnit v rodných jazycích dětí.
+* Můžeš ji  vyplnit ve svém rodném jazyce.
 * Je otevřena do 28. února.
