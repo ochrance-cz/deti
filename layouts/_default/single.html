@@ -6,15 +6,17 @@
     <div class="text-content">
       {{ with .Params.perex }}
         <div class="perex">
+          {{ with $.Params.date }}
+            <p class="details">
+              {{ partial "date.html" (dict "date" . "months" $.Site.Data.mesice) }}
+            </p>
+          {{ end }}
+
           {{ partial "md-block.html" (dict "content" (trim . "\n") "context" $) }}
         </div>
       {{ end }}
 
-      {{ with .Params.date }}
-        <p class="details">
-          {{ partial "date.html" (dict "date" . "months" $.Site.Data.mesice) }}
-        </p>
-      {{ end }}
+
 
     	{{ .Content }}
 

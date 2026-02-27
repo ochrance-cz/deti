@@ -11,17 +11,26 @@
   ul.stripe {
     color: $white;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 2rem 1rem;
     display: flex;
-    height: 6rem;
+    height: 8rem;
 
     gap: 1rem;
     align-items: center;
 
     @include small-only {
+      display: grid;
+      grid-template-columns: repeat(6, auto);
+      height: auto;
+
       & > li {
         display: inline-block;
         margin: 0;
+        white-space: nowrap;
+
+        &:first-child {
+          grid-column: 1 / -1;
+        }
       }
     }
 
@@ -51,8 +60,18 @@
       @include small-only {
         img {
           display: block;
-          max-width: 40vw;
+          width: 70vw;
           vertical-align: middle;
+        }
+      }
+    }
+
+    & > li {
+      & > a {
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
         }
       }
     }
@@ -64,14 +83,6 @@
         display: block;
         margin: 0;
         padding: 0;
-
-        a {
-          text-decoration: none;
-
-          &:hover {
-            text-decoration: underline;
-          }
-        }
       }
     }
   }
@@ -79,9 +90,19 @@
   .buttons {
     box-sizing: border-box;
     position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr;
+
+    a {
+      white-space: nowrap;
+    }
 
     @include small-only {
       padding: 1.5rem 1rem;
+      gap: 1.5rem 2rem;
+      margin: 0 1rem;
     }
 
     @include medium {
@@ -97,7 +118,7 @@
       text-decoration: none;
 
       background: $primary;
-      border-radius: 3px;
+      border-radius: var(--radius-tiny);
       padding: 0.7rem 0;
 
       @include small-only {
@@ -116,7 +137,7 @@
     }
 
     li {
-      flex: 1 1 auto;
+      // flex: 1 1 auto;
       display: block;
 
       margin: 0 0.75rem 0 0;
@@ -125,11 +146,12 @@
       transition: 0.2s ease-out;
 
       @include small-only {
-        padding: 0 1rem;
-        margin: 0 0 1.5rem;
+        flex-grow: 0;
       }
 
       @include medium {
+        flex: 1 1 auto;
+
         a {
           padding: 1rem;
           @include font-size-s;

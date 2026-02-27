@@ -8,7 +8,6 @@
     .disclaimer {
       @include font-size-s;
       display: block;
-      padding-left: 2.75rem;
     }
   }
 
@@ -162,7 +161,7 @@
       background: $white;
       line-height: 2rem;
       text-align: center;
-      border-radius: 1rem;
+      border-radius: var(--radius-inner);
     }
   }
 

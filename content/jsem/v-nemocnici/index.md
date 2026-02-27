@@ -3,10 +3,7 @@ title: Jsem v psychiatrické nemocnici (léčebně)
 perex: >-
   Ahoj holky, ahoj kluci, čtěte dál, pokud se stane, že se léčíte na
   psychiatrii a potřebujete informace o souhlasu s pobytem a léčbou. Dozvíte
-  se, jaká práva v tomto ohledu máte.
-
-
-  Ke stažení také [zde](/media/letak_-_dite_na_psychiatrii_s_nf.pdf).
+  se, jaká práva v tomto ohledu máte. Tyto informace si můžete stáhnout také [jako PDF pro tisk](/media/letak_-_dite_na_psychiatrii_s_nf.pdf).
 questions:
   - title: Souhlas s pobytem
     icon: nemocnice.png

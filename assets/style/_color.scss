@@ -11,9 +11,12 @@ $gray: #f2f2f2;
 $border-gray: #b8b8b8;
 $border-green: #39bdc8;
 
-h1,
+h1 {
+  color: $primary;
+}
+
 h2,
 h3,
 h4 {
-  color: $primary;
+  color: #555;
 }

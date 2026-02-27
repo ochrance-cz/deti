@@ -8,6 +8,11 @@
   .details {
     margin: 2rem 0 0;
     grid-row: 1;
+    color: black;
+
+    &::after {
+      content: '';
+    }
   }
 
   h2,

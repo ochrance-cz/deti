@@ -14,7 +14,7 @@
     min-width: 2rem;
     min-height: auto;
     border: 1px solid transparent;
-    border-radius: 1rem;
+    border-radius: var(--radius-inner);
 
     &::before {
       display: none;

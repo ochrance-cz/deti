@@ -3,8 +3,6 @@
   <article>
   	<h1>{{ .Title }}</h1>
 
-
-
     <div class="text-content">
       {{ with .Params.howto }}
         <h2>{{ .Title }}</h2>
@@ -50,13 +48,27 @@
 
     <div class="text-content">
      <h2>Jsem v zařízení nebo v nemocnici</h2>
-    {{ $jsem := where (where .Site.Pages "Section" "jsem") "Kind" "page" }}
+      {{ $jsem := where (where .Site.Pages "Section" "jsem") "Kind" "page" }}
 
-    {{ range $jsem }}
-      <h3>{{ .Title }}</h3>
-      {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
-    {{ end }}
+      <ul class="_link-list">
+        {{ range $jsem }}
+          <li>
+            <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+            <div class="detail">{{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}</div>
+          </li>
+        {{ end }}
+      </ul>
+
+
+      <h2>Další informace</h2>
+      <ul class="_link-list">
+        <li><a href="./linky/">Seznam linek důvěry</a></li>
+        <li><a href="./odkazy/">Další odkazy</a> — srozumitelně podaná Úmluva o právech dítěte, webové projekty o právech dětí, a další informace</li>
+      </ul>
     </div>
+
+
+
 
   </article>
 

@@ -8,6 +8,7 @@
 
     @include small-only {
       top: 1.3rem;
+      margin-right: 0;
     }
 
     font-family: 'Open Sans', sans-serif;
@@ -19,7 +20,7 @@
     display: block;
     margin: 0;
     border: 2px solid $primary;
-    border-radius: 4px;
+    border-radius: var(--radius-tiny);
     background: white;
     color: $primary;
   }
@@ -55,6 +56,11 @@
   max-width: $max-content-width;
   margin: 0 auto;
   z-index: 9999;
+
+  @include small-only {
+    width: min-content;
+    padding: 0;
+  }
 
   #search {
     margin: 0;

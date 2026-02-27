@@ -9,8 +9,8 @@
         {{ partial "md-block.html" (dict "content" .Params.perex "context" $) }}
       </div>
 
-      <div class="people">
-        <div>
+      <div class="person">
+
           {{ with .GetPage "/o-nas/ombudsman" }}
             {{ $res := .Resources }}
             {{ with .Params.pic }}
@@ -22,28 +22,12 @@
               {{ end }}
             {{ end }}
 
-            <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
-            <p>{{ .Params.role }}</p>
+            <div>
+              <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
+              <p>{{ .Params.role }}</p>
+            </div>
           {{ end }}
-        </div>
 
-        <div>
-          {{ with .GetPage "/o-nas/zastupce" }}
-            {{ $res := .Resources }}
-            {{ with .Params.pic }}
-              {{ $pic := $res.GetMatch . }}
-              {{ with $pic }}
-                <div class="img-wrapper">
-                  <img src="{{ ($pic.Resize "600x").Permalink }}" alt="" aria-hidden="true">
-                </div>
-              {{ end }}
-            {{ end }}
-
-            <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
-            <p>{{ .Params.role }}</p>
-          {{ end }}
-        </div>
-      </div>
       </div>
 
       <div class="facts">

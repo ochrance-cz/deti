@@ -1,5 +1,4 @@
 ._home {
-  background-color: $gray;
   margin: 0 0 4rem;
 
   @include medium {
@@ -15,15 +14,22 @@
     display: none;
   }
 
-  @include medium {
-    .news {
-      margin-top: -8rem;
-      padding-top: 4rem;
-      padding-bottom: 4rem;
+  .news {
+    @include small-only {
+      background: white;
+      padding: 2rem 1rem;
+    }
+
+    @include medium {
+      padding-top: 2rem;
+      padding-bottom: 1rem;
       background-color: $white;
-      border-top-left-radius: 100% 4rem;
-      border-top-right-radius: 100% 4rem;
-      margin-bottom: 0;
+      margin: 4rem 0 6rem;
+      box-shadow: 0 0 14px rgba(0, 0, 0, 0.1);
+
+      .more-link {
+        margin-bottom: 0;
+      }
 
       &.tz {
         margin-top: -4rem;
@@ -38,17 +44,20 @@
       & h2,
       ul {
         max-width: $max-content-width;
+        padding: 0 1rem;
         margin: 1rem auto;
       }
     }
   }
 
   .home-grid {
-    background-color: $gray;
+    // background-color: $gray;
     max-width: 1100px;
     margin: 0 auto;
 
     @include small-only {
+      margin-bottom: 6rem;
+
       .intro-text-wrapper {
         position: relative;
         padding-top: 0.1rem;
@@ -62,6 +71,11 @@
         max-width: 20em;
         padding: 1rem;
 
+        background: radial-gradient(
+          rgba(255, 255, 255, 1) 0%,
+          rgba(255, 255, 255, 0) 100%
+        );
+
         p {
           font-size: 110%;
           text-align: center;
@@ -72,8 +86,7 @@
     @include medium {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      padding: 0 2rem 10rem;
-      margin-bottom: 3rem;
+      padding: 0 1rem;
 
       .intro-text-wrapper {
         position: relative;
@@ -86,12 +99,18 @@
           color: $secondary;
           margin: auto;
           align-self: center;
-          max-width: 20em;
-          padding: 1rem;
+          // max-width: 20em;
+          padding: 1rem 5rem 1rem 0;
+
+          background: radial-gradient(
+            rgba(255, 255, 255, 1) 0%,
+            rgba(255, 255, 255, 0) 100%
+          );
 
           p {
-            font-size: 110%;
-            text-align: center;
+            font-size: 140%;
+            text-wrap: balance;
+            // text-align: center;
           }
 
           // box-shadow: 30vw 0 0 $primary, 45vw 0 0 $primary, 60vw 0 0 $primary;

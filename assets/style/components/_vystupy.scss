@@ -1,8 +1,7 @@
 ul._vystupy {
-  margin: 0 auto;
   max-width: var(--narrow-layout);
 
-  margin: 3rem auto 0;
+  margin: 0 auto 2rem;
   padding: 0;
 
   display: grid;
@@ -17,21 +16,33 @@ ul._vystupy {
     list-style-type: none;
     display: flex;
     flex-direction: column;
-    background: $primary;
+    border: 1px solid $primary;
     justify-content: space-around;
     min-height: 6rem;
+    border-radius: var(--radius-tiny);
+    margin: 0;
+    padding: 0;
 
     a {
       display: block;
       padding: 1rem;
 
-      color: white;
+      // color: white;
+      color: $primary;
 
       text-wrap: balance;
       text-align: center;
       font-size: 110%;
       font-weight: bold;
       text-decoration: none;
+    }
+
+    &:hover {
+      background-color: $primary;
+
+      a {
+        color: white;
+      }
     }
   }
 }

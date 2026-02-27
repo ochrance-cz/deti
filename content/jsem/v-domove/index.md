@@ -3,17 +3,12 @@ title: Jsem v dětském domově nebo výchovném ústavu
 perex: >-
   Odpovíme na nejčastější otázky dětí v zařízeních. Popíšeme, co můžeš dělat,
   když se Ti nelíbí, jak s Tebou v zařízení zacházejí. Dozvíš se, s čím Ti
-  pomůže ombudsman a jak mu můžeš napsat.
-
-
-  Ke stažení také [zde](/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.pdf).
-
-
-  ![  ](4273273b1a0c4ffcba0e09090a6b9794-0001.jpg "informační leták pro děti z dětských domovů")
+  pomůže ombudsman a jak mu můžeš napsat. Všechny informace si můžeš stáhnout také [jako PDF k vytištění](/media/jsem_v_dd_nebo_vu-prezentace_na_web_prezentace.pdf).
 questions:
   - title: Proč jsem v domově nebo v ústavu?
     icon: proc.svg
-    desc: Protože o tom rozhodl soud. Uložil ti ústavní nebo ochrannou výchovu nebo
+    desc:
+      Protože o tom rozhodl soud. Uložil ti ústavní nebo ochrannou výchovu nebo
       jde jen o dočasné řešení, než soud rozhodne, co dál. Soud by Tě neměl vzít
       z rodiny jen proto, že nemáte kde bydlet nebo nemáte peníze.
   - title: Jak dlouho tady budu?
@@ -112,12 +107,14 @@ questions:
       skříňku). Starší děti by měly mít možnost zamykat si pokoj.
   - title: Mám právo na soukromí na záchodě a ve sprše?
     icon: soukromi.svg
-    desc: Čím starší děti, tím víc soukromí potřebují. Toalety a koupelny by se měly
+    desc:
+      Čím starší děti, tím víc soukromí potřebují. Toalety a koupelny by se měly
       dát zamykat. Větší koupelny se sprchovými kouty by měly mít závěsy nebo
       matná skla.
   - title: Mohu si vybrat střední školu?
     icon: ss.svg
-    desc: Ano, ale musejí s tím souhlasit rodiče. Přihlášku ke studiu podepisuješ Ty
+    desc:
+      Ano, ale musejí s tím souhlasit rodiče. Přihlášku ke studiu podepisuješ Ty
       a ve většině případů Tví rodiče. Ředitel/ka zařízení za Tebe nemůže vybrat
       školu.
   - title: Mohu kapesné utratit, za co chci?
@@ -127,7 +124,8 @@ questions:
       účtenky.
   - title: Mohu si vyzdobit pokoj?
     icon: vyzdobit.svg
-    desc: Ano. Zařízení je Tvým domovem, proto si ombudsman myslí, že bys měl/a mít
+    desc:
+      Ano. Zařízení je Tvým domovem, proto si ombudsman myslí, že bys měl/a mít
       možnost vyzdobit si pokoj podle sebe – vylepit plakát, donést si věci z
       domu.
   - title: Mohou nám zakázat půjčovat si mezi sebou oblečení nebo jiné věci?
