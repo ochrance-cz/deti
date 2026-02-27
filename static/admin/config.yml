@@ -266,6 +266,26 @@ collections:
             name: mediakit
             required: false
             widget: file
+      - label: Výstupy
+        name: vystupy
+        file: content/vystupy/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - label: Sekce
+            name: links
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Název
+                name: title
+                widget: string
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
   - name: aktualne
     label: Aktuálně
     label_singular: aktualita

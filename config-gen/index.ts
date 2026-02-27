@@ -152,6 +152,13 @@ const pages = files('Stránky', 'pages', [
     'content/pro-media/_index.markdown',
     [title('Titulek'), markdown('Obsah', 'body'), file('Mediakit', 'mediakit')],
   ),
+  fileCollection('Výstupy', 'vystupy', 'content/vystupy/_index.markdown', [
+    title('Titulek'),
+    list('Sekce', 'sekce', 'links', [
+      string('Název', 'title'),
+      string('Odkaz', 'link'),
+    ]),
+  ]),
 ]);
 
 const kdoCustom = files('Speciální „O nás“', 'o-nas-custom', [
