@@ -146,6 +146,12 @@ const pages = files('Stránky', 'pages', [
     title('Titulek'),
     markdown('Perex', 'perex'),
   ]),
+  fileCollection(
+    'Pro média',
+    'pro-media',
+    'content/pro-media/_index.markdown',
+    [title('Titulek'), markdown('Obsah', 'body'), file('Mediakit', 'mediakit')],
+  ),
 ]);
 
 const kdoCustom = files('Speciální „O nás“', 'o-nas-custom', [

@@ -239,6 +239,33 @@ collections:
             name: perex
             required: false
             widget: markdown
+      - label: Pro média
+        name: pro-media
+        file: content/pro-media/_index.markdown
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Obsah
+            name: body
+            required: false
+            widget: markdown
+          - label: Mediakit
+            name: mediakit
+            required: false
+            widget: file
   - name: aktualne
     label: Aktuálně
     label_singular: aktualita
