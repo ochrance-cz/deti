@@ -282,10 +282,19 @@ collections:
               - label: Název
                 name: title
                 widget: string
-              - label: Odkaz
-                name: link
+              - label: Odkazy
+                name: items
                 required: false
-                widget: string
+                label_singular: odkaz
+                widget: list
+                fields:
+                  - label: Název
+                    name: title
+                    widget: string
+                  - label: Odkaz
+                    name: link
+                    required: false
+                    widget: string
   - name: aktualne
     label: Aktuálně
     label_singular: aktualita

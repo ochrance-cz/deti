@@ -156,7 +156,10 @@ const pages = files('Stránky', 'pages', [
     title('Titulek'),
     list('Sekce', 'sekce', 'links', [
       string('Název', 'title'),
-      string('Odkaz', 'link'),
+      list('Odkazy', 'odkaz', 'items', [
+        string('Název', 'title'),
+        string('Odkaz', 'link'),
+      ]),
     ]),
   ]),
 ]);
