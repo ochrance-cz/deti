@@ -92,7 +92,8 @@
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 0.2rem;
+    line-height: 1.5rem;
     grid-template-columns: 1fr 1fr;
 
     a {
@@ -101,12 +102,13 @@
 
     @include small-only {
       padding: 1.5rem 1rem;
-      gap: 1.5rem 2rem;
+      gap: 0.25rem 1.5rem;
+      flex-wrap: wrap;
       margin: 0 1rem;
     }
 
     @include medium {
-      padding: 3rem 1rem 0;
+      padding: 0 1rem;
       margin: 0 auto 0;
       max-width: $max-content-width;
       display: flex;
@@ -114,20 +116,47 @@
 
     a {
       display: inline;
-      font-weight: bold;
+
       text-decoration: none;
 
-      background: $primary;
-      border-radius: var(--radius-tiny);
+      background: linear-gradient(to bottom, #0259a4, $primary 30%);
+      border-radius: 0 0 var(--radius-tiny) var(--radius-tiny);
       padding: 0.7rem 0;
+      filter: grayscale(10%) brightness(1.2);
+
+      &[href$='/hledat/']::before {
+        display: inline-block;
+        content: '';
+        margin-top: -0.3rem;
+        width: 1.5rem;
+        height: 1.5rem;
+        padding-right: 0.1rem;
+        vertical-align: middle;
+        background-image: url(/images/search.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+
+      &:hover {
+        filter: grayscale(50%) brightness(1.2);
+      }
+
+      &.selected {
+        font-weight: bold;
+        padding-top: 1.5rem;
+        filter: grayscale(0);
+      }
 
       @include small-only {
+        padding: 0.5rem 0.25rem !important;
+        border-radius: var(--radius-tiny);
+        background: $primary;
         box-shadow:
           1rem 0 0 $primary,
           -1rem 0 0 $primary,
           1rem 3px 3px rgba(0, 0, 0, 0.1);
         line-height: 2rem;
-        width: 100%;
+        // width: 100%;
       }
 
       @include medium {
@@ -140,13 +169,14 @@
       // flex: 1 1 auto;
       display: block;
 
-      margin: 0 0.75rem 0 0;
+      margin: 0;
       transform-origin: 50% 50%;
       will-change: transform;
       transition: 0.2s ease-out;
 
       @include small-only {
         flex-grow: 0;
+        margin: 0.5rem !important;
       }
 
       @include medium {
