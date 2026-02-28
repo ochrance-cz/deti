@@ -3,7 +3,7 @@ name: deploy to production
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * 1-5"
+    - cron: '0 8 * * 1-5'
   push:
     branches:
       - main
@@ -20,19 +20,22 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.105.0"
+          hugo-version: '0.105.0'
           extended: true
 
       - name: Setup node
         uses: actions/setup-node@v2
         with:
-          node-version: "14"
+          node-version: '14'
 
       - name: Install deps
         run: npm install
 
       - name: Build
         run: hugo
+
+      - name: Build
+        run: npx pagefind --site "public"
 
       - name: Compress build
         run: tar -zcf deti.tar.gz ./public
