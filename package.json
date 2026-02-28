@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:search": "node generate-search-index.js",
-    "build:app": "npm run build:search && hugo",
+    "build:app": "hugo && npx pagefind --site \"public\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:admin": "deno run --no-check --allow-write ./config-gen/index.ts"
   },
@@ -20,9 +19,9 @@
   },
   "homepage": "https://github.com/ochrance/deti#readme",
   "dependencies": {
-    "decap-cms": "^3.9.0",
+    "decap-cms": "^3.10.1",
     "js-yaml": "^4.1.0",
-    "markdown-it": "^13.0.2",
+    "pagefind": "^1.4.0",
     "slug": "^8.2.3"
   }
 }
