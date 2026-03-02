@@ -1,6 +1,5 @@
 ---
-title: Proč měl chlapec z výchovného ústavu omezený přístup k mobilu? Bylo to
-  fér, nebo ne?
+title: Proč výchovný ústav omezil chlapci přístup k mobilu? Bylo to fér, nebo ne?
 date: 2026-03-02T09:38:00
 perex: Jak moc je pro tebe mobil důležitý? Můžeš se díky němu rychle spojit s
   blízkými – zavolat rodičům nebo napsat kamarádům. To je prostě někdy potřeba.
