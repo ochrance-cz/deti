@@ -1,5 +1,6 @@
 ---
 title: Pro média
+mediakit: /media/sada-log-detskeho-ombudsmana.zip
 ---
 
 ## Kontaktní informace pro média
