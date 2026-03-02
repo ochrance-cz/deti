@@ -1,6 +1,6 @@
 ---
-title: Nespravedlnost, nebo péče o zdraví teenagera? Prověřili jsme omezený
-  přístup k používání mobilu ve výchovném ústavu
+title: Nespravedlnost, nebo péče o zdraví teenagera? Zjišťovali jsme, proč
+  jednomu chlapci z výchovného ústavu omezili mobil
 date: 2026-03-02T09:38:00
 perex: Jak moc je pro tebe mobil důležitý? Můžeš se díky němu rychle spojit s
   blízkými – zavolat rodičům nebo napsat kamarádům, když něco potřebuješ. A to
