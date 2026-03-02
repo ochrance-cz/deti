@@ -3,9 +3,9 @@ title: Proč měl chlapec z výchovného ústavu omezený přístup k mobilu? By
   fér, nebo ne?
 date: 2026-03-02T09:38:00
 perex: Jak moc je pro tebe mobil důležitý? Můžeš se díky němu rychle spojit s
-  blízkými – zavolat rodičům nebo napsat kamarádům, když něco potřebuješ. A to
-  je prostě někdy potřeba. A jasně, mobil je i zábava. Ale všeho moc může i
-  škodit. A to platí i pro telefony.
+  blízkými – zavolat rodičům nebo napsat kamarádům. A to je prostě někdy
+  potřeba. A jasně, mobil je i zábava. Ale všeho moc může i škodit. A to platí i
+  pro telefony.
 ---
 Zabývali jsme se případem dospívajícího kluka z výchovném ústavu – to je místo pro mladé lidi se závažnými problémy v chování. Tenhle kluk si stěžoval, že mu vychovatelé často berou mobil a on si tak nemůže psát ani volat s blízkými. Chlapec bral jako nespravedlnost, že telefon musí během  vyučování a pak na noc odevzdat. Ostatní děti si přitom mobil nechat mohly. Proto nám o tom napsal.
 
