@@ -1,6 +1,6 @@
 ---
 title: "Chceš vědět víc o místech, kde žijí lidé omezení na svobodě? Přijď se
-  inspirovat dokumentem, diskutovat s jeho režisérkou i bývalými vězni "
+  podívat na dokument, diskutovat s jeho režisérkou i bývalými vězni "
 date: 2026-03-04T14:21:00
 perex: "Jak probíhá život ve vězení? A jak se vede těm, kteří se dostanou na
   svobodu? Letošní Noc práva se bude věnovat tématu: jak se žije lidem omezeným
