@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:app": "hugo && npx pagefind --site \"public\"",
+    "build:app": "hugo && npm run build:index",
+    "build:index": "npx pagefind --site \"public\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:admin": "deno run --no-check --allow-write ./config-gen/index.ts"
   },
