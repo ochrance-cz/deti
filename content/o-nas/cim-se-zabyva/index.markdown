@@ -33,5 +33,3 @@ Dětský ombudsman také preventivně navštěvuje a kontroluje zařízení, jak
 Přispívá i k ochraně osob před diskriminací. Znamená to, že může pomoci v případě, kdy někdo zachází s jiným člověkem hůř jen kvůli jeho věku, barvě pleti, národnosti, náboženství nebo pohlaví.
 
 Dětský ombudsman také systematicky monitoruje práva osob se zdravotním postižením a nucené návraty lidí, kteří pobývali neoprávněně na území České republiky.
-
-## Odkazy
