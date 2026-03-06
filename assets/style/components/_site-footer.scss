@@ -128,8 +128,10 @@
   }
 
   .disclaimer {
+    display: block;
     margin-left: 2.75rem;
     text-wrap: balance;
+    text-indent: 0;
   }
 
   .about-us-link {
