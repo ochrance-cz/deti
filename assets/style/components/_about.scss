@@ -24,16 +24,11 @@
 
   .facts {
     background: $primary;
-    padding: 2rem;
-    margin: 2rem -2rem;
-
-    @include small-only {
-      padding: 2rem 1rem;
-      margin: 2rem -1rem;
-    }
+    padding: var(--art-padding);
+    margin: 2rem calc(-1 * var(--art-padding));
 
     ul {
-      margin: 2rem 0;
+      margin: 2rem 0 0;
 
       li {
         list-style-type: none;

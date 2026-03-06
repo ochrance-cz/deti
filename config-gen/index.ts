@@ -169,6 +169,10 @@ const kdoCustom = files('Speciální „O nás“', 'o-nas-custom', [
     title('Titulek'),
     markdown('Perex', 'perex'),
     markdown('Fakta', 'facts'),
+    list('Odkazy', 'odkaz', 'links', [
+      string('Popis', 'title'),
+      string('Odkaz', 'link'),
+    ]),
   ]),
   fileCollection(
     'Profil ombudsmana',

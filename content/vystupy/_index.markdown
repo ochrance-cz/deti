@@ -1,26 +1,18 @@
 ---
 title: Výstupy
 links:
-  - title: ""
+  - title: ''
     items:
-      - title: Vzdělávací akce
-        link: https://www.ochrance.cz/vzdelavaci-akce/
-      - title: Nabídka pro školní kolektivy
+      - title: Vzdělávací akce a nabídka pro školní kolektivy
         link: /o-nas/nabidka_pro_skolni_kolektivy/
-      - title: Spolupráce s dětmi
-        link: /spoluprace-s-detmi/
-  - title: ""
-    items:
+      - title: Spolupráce s dětmi a poradní orgán
+        link: https://www.ochrance.cz/vystupy/poradni-organ-crpd/
       - title: Výzkumy a doporučení
         link: https://www.ochrance.cz/vystupy/vyzkumy/
-      - title: Publikace
+      - title: Publikace a výroční zprávy
         link: https://www.ochrance.cz/vystupy/publikace/
-      - title: Výroční zprávy
-        link: https://www.ochrance.cz/vystupy/vyrocni-zprava/
       - title: Evidence stanovisek ombudsmana
         link: https://eso.ochrance.cz
-      - title: Poradní orgán
-        link: https://www.ochrance.cz/vystupy/poradni-organ-crpd/
       - title: Pro média
         link: /pro-media/
 ---

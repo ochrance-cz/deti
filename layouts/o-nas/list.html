@@ -71,31 +71,9 @@
 
 
       <ul class="_link-list">
-
-        <li><a href="https://www.ochrance.cz/o-nas/#:~:text=Provoz%20Kanceláře,-veřejného%20ochránce%20práv">O kanceláři veřejného ochránce práv</a></li>
-        <li><a href="/media/verze_1.png">Informační leták o působnosti ombudsmana</a></li>
-
-        {{ with .GetPage "/o-nas/cim-se-zabyva" }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-
-        {{ with .GetPage "/o-nas/jak" }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-
-        {{ with .GetPage "/o-nas/co" }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-
-        {{ with .GetPage "/o-nas/desatero" }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-
-        {{ range .Pages }}
-          {{ if not (in (slice "/o-nas/co/" "/o-nas/cim-se-zabyva/" "/o-nas/desatero/" "/o-nas/jak/" "/o-nas/ombudsman/" "/o-nas/zastupce/") .RelPermalink) }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ range .Params.links }}
+            <li><a href="{{ .link }}">{{ .title }}</a></li>
           {{ end }}
-        {{ end }}
       </ul>
     </div>
   </article>

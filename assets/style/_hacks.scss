@@ -4,14 +4,14 @@
 
 .blue-block {
   background: $primary;
-  padding: 2rem;
-  margin: 2rem -2rem;
+  padding: var(--art-padding);
+  margin: 2rem calc(-1 * var(--art-padding));
 
   ul {
     margin: 2rem 0 0;
 
     li::before {
-      content: "•";
+      content: '•';
       color: $white;
     }
   }

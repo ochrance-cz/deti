@@ -46,9 +46,9 @@
   "workspace": {
     "packageJson": {
       "dependencies": [
-        "npm:decap-cms@^3.9.0",
+        "npm:decap-cms@^3.10.1",
         "npm:js-yaml@^4.1.0",
-        "npm:markdown-it@^13.0.2",
+        "npm:pagefind@^1.4.0",
         "npm:slug@^8.2.3"
       ]
     }

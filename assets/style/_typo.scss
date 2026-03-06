@@ -104,11 +104,12 @@ h2 {
 }
 
 h2 {
+  color: $primary;
   @include font-size-xl;
   margin: 3rem 0 1rem;
 
   @include medium {
-    margin: 4rem 0 1rem;
+    margin: 3rem 0 1rem;
   }
 }
 
@@ -142,9 +143,8 @@ p {
   line-height: 1.4;
 }
 
-blockquote,
 .perex {
-  font-weight: bold;
+  font-size: 130%;
   margin-bottom: 2rem;
 
   p:first-child {
@@ -219,10 +219,11 @@ hr {
 }
 
 blockquote {
-  margin: 0 0 2.5rem;
+  margin: 2rem 0;
+  padding: 2rem;
 
-  border-radius: var(--radius-tiny);
-  // padding: 1rem;
+  background: $primary-bright;
+  border-radius: var(--radius-inner);
 
   footer {
     font-style: normal;
@@ -342,7 +343,6 @@ main ul {
       content: ' ';
       color: $primary;
       font-weight: bold;
-      transform: rotate(-5deg);
 
       position: absolute;
       left: calc(-1 * var(--size) - 10px);

@@ -1,3 +1,4 @@
+local_backend: true
 backend:
   name: git-gateway
   branch: main
@@ -513,6 +514,19 @@ collections:
             name: facts
             required: false
             widget: markdown
+          - label: Odkazy
+            name: links
+            required: false
+            label_singular: odkaz
+            widget: list
+            fields:
+              - label: Popis
+                name: title
+                widget: string
+              - label: Odkaz
+                name: link
+                required: false
+                widget: string
       - label: Profil ombudsmana
         name: ombudsman
         file: content/o-nas/ombudsman/index.markdown

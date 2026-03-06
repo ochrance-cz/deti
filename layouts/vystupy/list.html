@@ -9,7 +9,7 @@
       <div class="lists">
       {{ range .Params.links }}
         <div class="list-wrapper">
-          <h2>{{ .title }}</h2>
+          {{ if ne .title "" }}<h2>{{ .title }}</h2>{{ end }}
 
           <ul class="_vystupy">
             {{ range .items }}

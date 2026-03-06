@@ -22,6 +22,7 @@
 
     gap: 1rem;
     align-items: center;
+    justify-content: space-between;
 
     @include small-only {
       display: grid;
@@ -41,7 +42,6 @@
 
     li.root-link {
       display: block;
-      flex-grow: 1;
       flex-shrink: 1;
       height: 100%;
 
@@ -123,7 +123,7 @@
       display: inline;
       text-decoration: none;
 
-      background: linear-gradient(to bottom, #0259a4, $primary 30%);
+      background: $primary;
       border-radius: 0 0 var(--radius-tiny) var(--radius-tiny);
       padding: 1.2rem 0 0.7rem;
       filter: grayscale(10%) brightness(1.2);
@@ -176,9 +176,6 @@
       will-change: transform;
       transition: 0.2s ease-out;
       line-height: 2rem;
-
-      transform-origin: 0% 0%;
-      transform: rotate(-3deg);
 
       @include small-only {
         flex-grow: 0;

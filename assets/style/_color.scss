@@ -1,8 +1,7 @@
 $primary: hsla(206, 98%, 42%, 1);
 $secondary: hsla(329, 85%, 43%, 1);
 
-$primary-bright: brighten($primary, 30);
-$secondary-bright: brighten($secondary, 30);
+$primary-bright: lighten($primary, 50%);
 
 $white: #ffffff;
 $black: #000000;
