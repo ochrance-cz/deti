@@ -10,4 +10,4 @@ mediakit: /media/sada-log-detskeho-ombudsmana.zip
 
 ## Logo ke stažení
 
-*   ![](/media/do_logo.png)
+![logo dětského ombudsmana - křídlo v kolečku s textem dětský ombudsman, ochránce práv dětí](/media/do_logo.png)
