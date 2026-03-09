@@ -1,14 +1,20 @@
+main ul._news {
+  li {
+    padding: 0;
+  }
+
+  li::before {
+    display: none;
+  }
+}
+
 @include medium {
   main ul._news {
     display: block;
-    padding: 0;
-
-    // max-width: 80vw;
+    padding: 0 1rem;
+    margin: 2rem auto;
+    max-width: 1100px;
     @include grid(repeat(3, 1fr));
-
-    li::before {
-      display: none;
-    }
 
     &.single-col {
       max-width: 40rem;
