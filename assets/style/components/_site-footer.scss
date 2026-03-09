@@ -33,6 +33,9 @@
   }
 
   ul {
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
     padding: 0;
 
     li {
@@ -49,7 +52,6 @@
     }
 
     li {
-      white-space: nowrap;
       margin: 0;
     }
 
@@ -73,7 +75,9 @@
   }
 
   a {
+    display: block;
     color: $white;
+    text-wrap: balance;
 
     &.icon-link {
       text-decoration: none;
@@ -129,9 +133,9 @@
 
   .disclaimer {
     display: block;
-    margin-left: 2.75rem;
     text-wrap: balance;
     text-indent: 0;
+    margin-top: 0.25rem;
   }
 
   .about-us-link {
@@ -139,16 +143,27 @@
     margin-left: 2.75rem;
   }
 
+  li:has(span[class$='label']) {
+    position: relative;
+    padding: 0.25rem 0 0 2.75rem;
+    line-height: 1.5;
+    min-height: 2rem;
+  }
+
   .phone-label,
   .email-label,
+  .form-label,
   .facebook-label,
   .instagram-label,
   .youtube-label,
   .twitter-label,
   .linkedin-label {
-    display: inline-block;
+    display: block;
     width: 2.5rem;
     height: 2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
     overflow: hidden;
     white-space: nowrap;
     box-sizing: border-box;
@@ -165,6 +180,13 @@
       text-align: center;
       border-radius: var(--radius-inner);
     }
+  }
+
+  .form-label::before {
+    @include fa-icon($fa-var-pen-square);
+    width: 2rem;
+    top: 0;
+    margin-right: 1rem;
   }
 
   .facebook-label::before {
