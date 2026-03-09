@@ -75,7 +75,7 @@
   }
 
   a {
-    display: block;
+    display: inline-block;
     color: $white;
     text-wrap: balance;
 
@@ -148,6 +148,10 @@
     padding: 0.25rem 0 0 2.75rem;
     line-height: 1.5;
     min-height: 2rem;
+
+    a  {
+      display: block;
+    }
   }
 
   .phone-label,
@@ -269,7 +273,7 @@
     }
 
     @include medium {
-      @include grid(auto auto);
+      @include grid(1fr 2fr);
       align-items: center;
 
       p {
