@@ -12,4 +12,4 @@ Skupina poslanců navrhla změnu školského zákona, která by zavedla zákaz p
 
 *„Pokud chceme řešit používání mobilních telefonů ve školách, je potřeba postup dobře promyslet. A hlavně naslouchat i dětem, kterých se změny týkají,“* uvedl zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm. Podle něj by děti měly mít možnost vyjádřit svůj názor vždy, když se rozhoduje o věcech, které ovlivní jejich každodenní život. Pokud stát chce zavést celostátní pravidla pro používání mobilů ve školách, měl by si k tématu vyžádat širší odborné posouzení. A především by měl do tvorby pravidel zapojit děti samotné.
 
-Zástupce ombudsmana a dětského ombudsmana vládě doporučil, aby s návrhem nesouhlasila.
+Zástupce ombudsmana a dětského ombudsmana vládě doporučil, aby s návrhem nesouhlasila. Vláda 9. března vydala k návrhu nesouhlasné stanovisko. V něm zaznívaly argumenty podobné těm, které předložil zástupce ombudsmana a dětského ombudsmana.
