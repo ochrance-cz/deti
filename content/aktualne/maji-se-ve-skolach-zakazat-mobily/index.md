@@ -13,3 +13,5 @@ Důležité je také to, že se zatím nikdo neptal nikoho z vás – tedy žák
 V návrhu se také počítá s tím, že učitel může dítěti mobil odebrat. Podle nás je ale potřeba s věcmi, které patří dětem, zacházet opatrně. Bylo by lepší, kdyby vás učitel jen vyzval, abyste mobil vypnuli a odložili ho na určené místo ve třídě.
 
 Pokud by stát chtěl zavést stejná pravidla pro všechny školy, mělo by tomu předcházet důkladné odborné posouzení a také širší veřejná debata.
+
+Podobně jako my se na to podívala i vláda, která se změnou zákona nesouhlasila.
