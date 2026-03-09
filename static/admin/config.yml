@@ -290,6 +290,27 @@ collections:
             name: mediakit
             required: false
             widget: file
+          - label: Galerie
+            name: gallery
+            required: false
+            label_singular: Obrázek
+            widget: list
+            fields:
+              - label: Obrázek
+                name: pic
+                required: false
+                widget: image
+              - label: Titulek obrázku
+                name: caption
+                required: false
+                hint: Titulek viditelný pod obrázkem.
+                widget: string
+              - label: Popis obrázku
+                name: desc
+                hint: >-
+                  Popis slouží ke zpřístupnění obrazového obsahu v textové
+                  formě.
+                widget: string
       - label: Výstupy
         name: vystupy
         file: content/vystupy/_index.markdown

@@ -71,17 +71,22 @@ const slug = (required: boolean = false) =>
     required: required,
   });
 
+const createFigFields = () => [
+  image('Obrázek', 'pic'),
+  string('Titulek obrázku', 'caption', {
+    hint: 'Titulek viditelný pod obrázkem.',
+  }),
+  string('Popis obrázku', 'desc', {
+    hint: 'Popis slouží ke zpřístupnění obrazového obsahu v textové formě.',
+    required: true,
+  }),
+];
+
 const fig = (title: string, name: string) =>
-  object(title, name, [
-    image('Obrázek', 'pic'),
-    string('Titulek obrázku', 'caption', {
-      hint: 'Titulek viditelný pod obrázkem.',
-    }),
-    string('Popis obrázku', 'desc', {
-      hint: 'Popis slouží ke zpřístupnění obrazového obsahu v textové formě.',
-      required: true,
-    }),
-  ]);
+  object(title, name, createFigFields());
+
+const gallery = (title: string = 'Galerie', name: string = 'gallery') =>
+  list(title, 'Obrázek', name, createFigFields());
 
 const attached = (
   listTitle: string = 'Přílohy',
@@ -150,7 +155,12 @@ const pages = files('Stránky', 'pages', [
     'Pro média',
     'pro-media',
     'content/pro-media/_index.markdown',
-    [title('Titulek'), markdown('Obsah', 'body'), file('Mediakit', 'mediakit')],
+    [
+      title('Titulek'),
+      markdown('Obsah', 'body'),
+      file('Mediakit', 'mediakit'),
+      gallery(),
+    ],
   ),
   fileCollection('Výstupy', 'vystupy', 'content/vystupy/_index.markdown', [
     title('Titulek'),
