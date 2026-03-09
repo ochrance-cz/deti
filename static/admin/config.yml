@@ -1,4 +1,3 @@
-local_backend: true
 backend:
   name: git-gateway
   branch: main
@@ -36,9 +35,12 @@ collections:
                 widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -63,9 +65,12 @@ collections:
             widget: boolean
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -115,9 +120,12 @@ collections:
                 widget: string
               - editor_components:
                   - image
+                  - fancy-list
+                  - youtube
                 buttons:
                   - bold
                   - italic
+                  - strikethrough
                   - link
                   - heading-two
                   - heading-three
@@ -171,9 +179,12 @@ collections:
                       - nesouhlas.png
                   - editor_components:
                       - image
+                      - fancy-list
+                      - youtube
                     buttons:
                       - bold
                       - italic
+                      - strikethrough
                       - link
                       - heading-two
                       - heading-three
@@ -187,9 +198,12 @@ collections:
                     widget: markdown
               - editor_components:
                   - image
+                  - fancy-list
+                  - youtube
                 buttons:
                   - bold
                   - italic
+                  - strikethrough
                   - link
                   - heading-two
                   - heading-three
@@ -203,9 +217,12 @@ collections:
                 widget: markdown
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -226,9 +243,12 @@ collections:
             widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -249,9 +269,12 @@ collections:
             widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -330,9 +353,12 @@ collections:
         time_format: 'HH:mm:ss'
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -346,9 +372,12 @@ collections:
         widget: markdown
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -419,9 +448,12 @@ collections:
         time_format: 'HH:mm:ss'
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -435,9 +467,12 @@ collections:
         widget: markdown
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -484,9 +519,12 @@ collections:
             widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -500,9 +538,12 @@ collections:
             widget: markdown
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -544,9 +585,12 @@ collections:
             widget: image
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -576,9 +620,12 @@ collections:
             widget: image
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -600,9 +647,12 @@ collections:
             widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -616,9 +666,12 @@ collections:
             widget: markdown
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -642,9 +695,12 @@ collections:
                 widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -668,9 +724,12 @@ collections:
                 widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -696,9 +755,12 @@ collections:
         widget: string
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -712,9 +774,12 @@ collections:
         widget: markdown
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -743,9 +808,12 @@ collections:
         widget: string
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -759,9 +827,12 @@ collections:
         widget: markdown
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -790,9 +861,12 @@ collections:
         widget: string
       - editor_components:
           - image
+          - fancy-list
+          - youtube
         buttons:
           - bold
           - italic
+          - strikethrough
           - link
           - heading-two
           - heading-three
@@ -816,9 +890,12 @@ collections:
           - *ref_0
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -860,9 +937,12 @@ collections:
             widget: string
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three
@@ -876,9 +956,12 @@ collections:
             widget: markdown
           - editor_components:
               - image
+              - fancy-list
+              - youtube
             buttons:
               - bold
               - italic
+              - strikethrough
               - link
               - heading-two
               - heading-three

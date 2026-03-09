@@ -132,7 +132,7 @@ h4 {
   @include font-size-l;
   margin-bottom: 0.5rem;
   margin-top: 2rem;
-  color: #888;
+  color: $primary;
 }
 
 h5 {
@@ -207,8 +207,7 @@ h3 a {
   }
 }
 
-ol,
-ul {
+ol {
   padding-left: 1.3rem;
 }
 
@@ -327,79 +326,58 @@ blockquote {
 }
 
 main ul {
-  // list-style: none;
-  padding-left: 1.2rem;
+  display: flex;
+  flex-flow: column;
+  gap: 1rem;
+  padding-left: 0;
 
   li {
-    margin: 0 0 0.5rem 0;
     position: relative;
+    margin: 0;
+    list-style-type: none;
+    padding-left: 2.2rem;
 
     &::before {
-      --size: 0.75rem;
-
-      // width: var(--size);
-      // height: var(--size);
-
-      content: ' ';
-      color: $primary;
-      font-weight: bold;
-
+      display: block;
+      content: '';
       position: absolute;
-      left: calc(-1 * var(--size) - 10px);
-      top: 0;
+      left: 0rem;
+      transform: none;
+
+      background-image: url(/images/dot-blue.svg);
+      background-position: center;
+      background-repeat: no-repeat;
+
+      --size: 1.5rem;
+
+      width: var(--size);
+      height: var(--size);
+      font-size: var(--size);
+      margin-top: 0;
+      margin-left: 0.05rem;
     }
   }
 
-  &._we-can {
-    padding-left: 2.2rem;
-
-    li {
-      margin: 1rem 0;
-      list-style-type: none;
-
-      &::before {
-        position: absolute;
-        transform: none;
-
-        background-image: url(/images/check.svg);
-        background-position: center;
-        background-repeat: no-repeat;
-
-        --size: 1.5rem;
-
-        width: var(--size);
-        height: var(--size);
-        font-size: var(--size);
-        margin-top: 0;
-        margin-left: 0.05rem;
-      }
-    }
+  &._we-can li::before,
+  &.checkmarks li::before {
+    background-image: url(/images/check.svg);
   }
 
-  &._we-cannot {
-    padding-left: 2.2rem;
+  &._we-cannot li::before,
+  &.crosses li::before {
+    background-image: url(/images/cross.svg);
+  }
 
-    li {
-      margin: 1rem 0;
-      list-style-type: none;
+  &.dots-pink li::before {
+    background-image: url(/images/dot-pink.svg);
+  }
 
-      &::before {
-        position: absolute;
-        transform: none;
+  &.arrows-blue li::before {
+    background-image: url(/images/arrow-right-blue.svg);
+  }
 
-        background-image: url(/images/cross.svg);
-        background-position: center;
-        background-repeat: no-repeat;
-
-        --size: 1.5rem;
-
-        width: var(--size);
-        height: var(--size);
-        font-size: var(--size);
-        margin-top: 0;
-        margin-left: 0.05rem;
-      }
-    }
+  &.arrows-pink li::before {
+    background-image: url(/images/arrow-right-pink.svg);
   }
 }
 

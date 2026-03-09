@@ -7,13 +7,8 @@
   padding: var(--art-padding);
   margin: 2rem calc(-1 * var(--art-padding));
 
-  ul {
-    margin: 2rem 0 0;
-
-    li::before {
-      content: '•';
-      color: $white;
-    }
+  ul li:before {
+    background-image: url(/images/arrow-right-white.svg);
   }
 
   h2,
@@ -22,5 +17,14 @@
   a {
     margin: 0.5rem 0;
     color: $white;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  ul,
+  ul li:last-child {
+    margin-bottom: 0;
   }
 }

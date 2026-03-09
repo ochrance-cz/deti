@@ -52,5 +52,79 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="./decap-cms/dist/decap-cms.js"></script>
+
+    <script>
+      CMS.registerEditorComponent({
+        id: 'youtube',
+        label: 'Youtube video',
+        fields: [
+          {
+            name: 'identifier',
+            label: 'Youtube odkaz nebo identifikátor',
+            widget: 'string',
+            hint: 'Odkaz na video jako např. https://www.youtube.com/watch?v=dQw4w9WgXcQ anebo identifikátor, jako např. **dQw4w9WgXcQ**',
+          },
+        ],
+        pattern: /^\{\{< youtube "(.*?)" >\}\}$/ms,
+        fromBlock: function (match) {
+          return {
+            identifier: match[1],
+          };
+        },
+        toBlock: function (data) {
+          return `{{< youtube "${data.identifier}" >}}`;
+        },
+        toPreview: function (data) {
+          return ``;
+        },
+      });
+
+      CMS.registerEditorComponent({
+        id: 'fancy-list',
+        label: 'Formátovaný seznam',
+        fields: [
+          {
+            name: 'format',
+            label: 'Formát',
+            widget: 'select',
+            options: [
+              { label: 'Tečky, modré', value: 'dots-blue' },
+              { label: 'Tečky, růžové', value: 'dots-pink' },
+
+              { label: 'Šipky, modré', value: 'arrows-blue' },
+              { label: 'Šipky, růžové', value: 'arrows-pink' },
+
+              { label: 'Fajfky', value: 'checkmarks' },
+              { label: 'Křížky', value: 'crosses' },
+            ],
+          },
+          {
+            name: 'contents',
+            label: 'Contents',
+            widget: 'markdown',
+          },
+        ],
+        pattern:
+          /^\{\{< fancy-list format="(.*?)" >\}\}(.*?)\{\{< \/fancy-list >\}\}$/ms,
+        fromBlock: function (match) {
+          return {
+            format: match[1],
+            contents: match[2],
+          };
+        },
+        toBlock: function (data) {
+          return `{{< fancy-list format="${data.format}" >}}\n\n${data.contents}\n\n{{< /fancy-list >}}`;
+        },
+        toPreview: function (data) {
+          return `
+      <ul class="fancy-list ${data.format}">
+
+        ${data.contents}
+
+      </ul>
+      `;
+        },
+      });
+    </script>
   </body>
 </html>

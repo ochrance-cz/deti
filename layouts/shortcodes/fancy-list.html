@@ -1,0 +1,2 @@
+
+{{ .Inner | $.Page.RenderString | replaceRE "<ul>" (print "<ul class=\"_fancy-list " (.Get "format")  "\">") | safeHTML }}

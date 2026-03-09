@@ -114,10 +114,11 @@ export const markdown = (
   options?: Options,
 ): MarkdownWidget => {
   const w = {
-    editor_components: ['image'],
+    editor_components: ['image', 'fancy-list', 'youtube'],
     buttons: [
       'bold',
       'italic',
+      'strikethrough',
       'link',
       'heading-two',
       'heading-three',

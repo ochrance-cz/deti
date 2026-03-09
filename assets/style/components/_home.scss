@@ -40,12 +40,14 @@
         }
       }
 
-      & h2,
-      ul {
+      & h2 {
+        // ul {
         max-width: $max-content-width;
         padding: 0 1rem;
         margin: 1rem auto;
       }
+
+      // UL
     }
   }
 

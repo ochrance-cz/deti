@@ -27,25 +27,25 @@
     padding: var(--art-padding);
     margin: 2rem calc(-1 * var(--art-padding));
 
-    ul {
-      margin: 2rem 0 0;
+    h2 {
+      margin-top: 0;
+    }
 
-      li {
-        list-style-type: none;
-      }
+    ul,
+    li:last-child {
+      margin-bottom: 0;
+    }
 
-      li::before {
-        content: '•';
-        color: $white;
-      }
+    ul li::before {
+      background-image: url(/images/dot-white.svg);
     }
 
     h2,
-    p,
-    li,
-    a {
-      margin: 0.5rem 0;
-      color: $white;
+    ul,
+    ul a {
+      color: white;
     }
+
+    // UL
   }
 }
