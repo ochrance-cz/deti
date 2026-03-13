@@ -340,6 +340,219 @@ collections:
                     name: link
                     required: false
                     widget: string
+      - label: Vzdělávací akce a nabídka pro školní kolektivy
+        name: akce-a-skoly
+        file: content/vystupy/akce-a-skoly.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+              - fancy-list
+              - youtube
+            buttons:
+              - bold
+              - italic
+              - strikethrough
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - label: Sekce
+            name: links
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Název sekce
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                  - fancy-list
+                  - youtube
+                buttons:
+                  - bold
+                  - italic
+                  - strikethrough
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis sekce
+                name: perex
+                required: false
+                widget: markdown
+              - label: Odkazy
+                name: links
+                required: false
+                label_singular: odkaz
+                widget: list
+                fields:
+                  - label: Text odkazu
+                    name: title
+                    widget: string
+                  - label: Odkaz
+                    name: link
+                    required: false
+                    widget: string
+                  - label: Popis odkazu
+                    name: description
+                    required: false
+                    widget: string
+      - label: Publikace a výroční zprávy
+        name: publikace-a-vz
+        file: content/vystupy/publikace-a-vz.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+              - fancy-list
+              - youtube
+            buttons:
+              - bold
+              - italic
+              - strikethrough
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - label: Sekce
+            name: links
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Název sekce
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                  - fancy-list
+                  - youtube
+                buttons:
+                  - bold
+                  - italic
+                  - strikethrough
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis sekce
+                name: perex
+                required: false
+                widget: markdown
+              - label: Odkazy
+                name: links
+                required: false
+                label_singular: odkaz
+                widget: list
+                fields:
+                  - label: Text odkazu
+                    name: title
+                    widget: string
+                  - label: Odkaz
+                    name: link
+                    required: false
+                    widget: string
+                  - label: Popis odkazu
+                    name: description
+                    required: false
+                    widget: string
+      - label: Výzkumy a doporučení
+        name: vyzkumy-a-doporuceni
+        file: content/vystupy/vyzkumy-a-doporuceni.md
+        fields:
+          - label: Titulek
+            name: title
+            widget: string
+          - editor_components:
+              - image
+              - fancy-list
+              - youtube
+            buttons:
+              - bold
+              - italic
+              - strikethrough
+              - link
+              - heading-two
+              - heading-three
+              - heading-four
+              - quote
+              - bulleted-list
+              - numbered-list
+            label: Perex
+            name: perex
+            required: false
+            widget: markdown
+          - label: Sekce
+            name: links
+            required: false
+            label_singular: sekce
+            widget: list
+            fields:
+              - label: Název sekce
+                name: title
+                widget: string
+              - editor_components:
+                  - image
+                  - fancy-list
+                  - youtube
+                buttons:
+                  - bold
+                  - italic
+                  - strikethrough
+                  - link
+                  - heading-two
+                  - heading-three
+                  - heading-four
+                  - quote
+                  - bulleted-list
+                  - numbered-list
+                label: Popis sekce
+                name: perex
+                required: false
+                widget: markdown
+              - label: Odkazy
+                name: links
+                required: false
+                label_singular: odkaz
+                widget: list
+                fields:
+                  - label: Text odkazu
+                    name: title
+                    widget: string
+                  - label: Odkaz
+                    name: link
+                    required: false
+                    widget: string
+                  - label: Popis odkazu
+                    name: description
+                    required: false
+                    widget: string
   - name: aktualne
     label: Aktuálně
     label_singular: aktualita
@@ -1017,6 +1230,25 @@ collections:
         name: lang
         required: false
         widget: string
+      - editor_components:
+          - image
+          - fancy-list
+          - youtube
+        buttons:
+          - bold
+          - italic
+          - strikethrough
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+        label: Text stránky
+        name: body
+        required: false
+        widget: markdown
       - label: PDF leták
         name: pdf
         required: false
