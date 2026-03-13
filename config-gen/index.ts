@@ -277,6 +277,7 @@ const intl = folderCollection(
   },
   [
     title('Titulek'),
+    boolean('Uložit jako draft', 'draft'),
     string('Jazyk', 'language'),
     string('ISO zkratka', 'lang'),
     markdown('Text stránky', 'body'),

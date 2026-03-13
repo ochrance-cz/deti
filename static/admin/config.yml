@@ -1222,6 +1222,10 @@ collections:
       - label: Titulek
         name: title
         widget: string
+      - label: Uložit jako draft
+        name: draft
+        required: false
+        widget: boolean
       - label: Jazyk
         name: language
         required: false
