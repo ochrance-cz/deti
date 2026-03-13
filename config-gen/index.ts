@@ -105,6 +105,20 @@ const links = (title: string, name: string = 'links') => {
   ]);
 };
 
+const pageDirectoryItems = (titile: string, name: string, path: string) => [
+  title('Titulek'),
+  markdown('Perex', 'perex'),
+  list('Sekce', 'sekce', 'links', [
+    string('Název sekce', 'title'),
+    markdown('Popis sekce', 'perex'),
+    list('Odkazy', 'odkaz', 'links', [
+      string('Text odkazu', 'title'),
+      string('Odkaz', 'link'),
+      string('Popis odkazu', 'description'),
+    ]),
+  ]),
+];
+
 const pages = files('Stránky', 'pages', [
   fileCollection('Homepage', 'home', 'content/_index.markdown', [
     title('Titulek'),
@@ -172,6 +186,24 @@ const pages = files('Stránky', 'pages', [
       ]),
     ]),
   ]),
+  fileCollection(
+    'Vzdělávací akce a nabídka pro školní kolektivy',
+    'akce-a-skoly',
+    'content/vystupy/akce-a-skoly.md',
+    pageDirectoryItems(),
+  ),
+  fileCollection(
+    'Publikace a výroční zprávy',
+    'publikace-a-vz',
+    'content/vystupy/publikace-a-vz.md',
+    pageDirectoryItems(),
+  ),
+  fileCollection(
+    'Výzkumy a doporučení',
+    'vyzkumy-a-doporuceni',
+    'content/vystupy/vyzkumy-a-doporuceni.md',
+    pageDirectoryItems(),
+  ),
 ]);
 
 const kdoCustom = files('Speciální „O nás“', 'o-nas-custom', [
@@ -247,6 +279,7 @@ const intl = folderCollection(
     title('Titulek'),
     string('Jazyk', 'language'),
     string('ISO zkratka', 'lang'),
+    markdown('Text stránky', 'body'),
     file('PDF leták', 'pdf'),
   ],
 );
