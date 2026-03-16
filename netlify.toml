@@ -6,6 +6,11 @@ command = "npm i && npm run build:app"
 HUGO_VERSION = "0.125.1"
 
 [[redirects]]
+from = "https://ochrance-deti.netlify.app/*"
+to = "https://cms-deti.ochrance.cz/:splat"
+status = 301
+
+[[redirects]]
 from = "/*"
 to = "/error/404/"
 status = 404
