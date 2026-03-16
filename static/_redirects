@@ -1,1 +1,3 @@
+https://ochrance-deti.netlify.app/* https://cms-deti.ochrance.cz/:splat 301!
+/* /err/404.html 404
 /kdo/* /o-nas/:splat 301!
