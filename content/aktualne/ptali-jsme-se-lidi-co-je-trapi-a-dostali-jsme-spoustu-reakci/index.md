@@ -3,7 +3,7 @@ title: Čemu by se měl nejvíc věnovat ombudsman a dětský ombudsman?
 date: 2026-03-24T13:22:00
 perex: Koncem minulého roku jsme hledali jsme problémy, kterým by se podle
   veřejnosti měl věnovat ombudsman a dětský ombudsman. A tak jsme zveřejnili
-  výzvu, díky které se nám řada lidí rozhodla ozvat.
+  výzvu. Díky ní se nám ozvala spousta lidí.
 ---
 Někteří nám psali o závažných věcech – třeba o podmínkách v dětských domovech, o domácím násilí nebo o duševním zdraví. 
 
