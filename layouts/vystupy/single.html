@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main>
+  <article>
+    <h1>{{ .Title }}</h1>
+
+    <div class="text-content">
+      {{ range .Params.links }}
+        <h2>{{ .title }}</h2>
+
+        {{ with .perex }}
+          {{ partial "md-block.html" (dict "content" . "context" $) }}
+        {{ end }}
+
+        <ul class="_link-list">
+            {{ range .links }}
+              <li><a href="{{ .link }}">{{ .title }}</a></li>
+            {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </article>
+</main>
+{{ end }}

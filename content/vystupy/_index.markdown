@@ -8,9 +8,9 @@ links:
       - title: Spolupráce s dětmi a poradní orgán
         link: https://www.ochrance.cz/vystupy/poradni-organ-crpd/
       - title: Výzkumy a doporučení
-        link: https://www.ochrance.cz/vystupy/vyzkumy/
+        link: /vystupy/vyzkumy-a-doporuceni/
       - title: Publikace a výroční zprávy
-        link: https://www.ochrance.cz/vystupy/publikace/
+        link: /vystupy/publikace-a-vz/
       - title: Evidence stanovisek ombudsmana
         link: https://eso.ochrance.cz
       - title: Pro média

@@ -342,7 +342,7 @@ collections:
                     widget: string
       - label: Vzdělávací akce a nabídka pro školní kolektivy
         name: akce-a-skoly
-        file: content/vystupy/akce-a-skoly.md
+        file: content/vystupy/akce-a-skoly/index.md
         fields:
           - label: Titulek
             name: title
@@ -413,7 +413,7 @@ collections:
                     widget: string
       - label: Publikace a výroční zprávy
         name: publikace-a-vz
-        file: content/vystupy/publikace-a-vz.md
+        file: content/vystupy/publikace-a-vz/index.md
         fields:
           - label: Titulek
             name: title
@@ -484,7 +484,7 @@ collections:
                     widget: string
       - label: Výzkumy a doporučení
         name: vyzkumy-a-doporuceni
-        file: content/vystupy/vyzkumy-a-doporuceni.md
+        file: content/vystupy/vyzkumy-a-doporuceni/index.md
         fields:
           - label: Titulek
             name: title

@@ -189,19 +189,19 @@ const pages = files('Stránky', 'pages', [
   fileCollection(
     'Vzdělávací akce a nabídka pro školní kolektivy',
     'akce-a-skoly',
-    'content/vystupy/akce-a-skoly.md',
+    'content/vystupy/akce-a-skoly/index.md',
     pageDirectoryItems(),
   ),
   fileCollection(
     'Publikace a výroční zprávy',
     'publikace-a-vz',
-    'content/vystupy/publikace-a-vz.md',
+    'content/vystupy/publikace-a-vz/index.md',
     pageDirectoryItems(),
   ),
   fileCollection(
     'Výzkumy a doporučení',
     'vyzkumy-a-doporuceni',
-    'content/vystupy/vyzkumy-a-doporuceni.md',
+    'content/vystupy/vyzkumy-a-doporuceni/index.md',
     pageDirectoryItems(),
   ),
 ]);
