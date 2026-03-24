@@ -7,7 +7,7 @@ perex: Koncem minulého roku jsme hledali problémy, kterým by se měl věnovat
 ---
 Někteří nám psali o závažných věcech – třeba o podmínkách v dětských domovech, o domácím násilí nebo o duševním zdraví. 
 
-Každou odpověď jsme si pečlivě přečetli. Teď je předáváme ombudsmanovi a dětskému ombudsmanovi. Ti budou zvažovat:
+Každou odpověď jsme si pečlivě přečetli. Teď je předáme ombudsmanovi a dětskému ombudsmanovi. Ti budou zvažovat:
 
 * jak důležitý problém je,
 * jestli s ním můžeme dobře pomoci,
