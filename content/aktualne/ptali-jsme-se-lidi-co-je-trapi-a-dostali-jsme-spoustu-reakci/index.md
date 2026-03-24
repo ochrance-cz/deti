@@ -1,5 +1,6 @@
 ---
-title: Čemu se má nejvíc věnovat ombudsman? Zajímaly nás odpovědi všech lidí
+title: Čemu se má nejvíc věnovat ombudsman? Zajímaly nás odpovědi každého, kdo
+  se chtěl zapojit
 date: 2026-03-24T13:22:00
 perex: Koncem minulého roku jsme hledali jsme problémy, kterým by se podle
   veřejnosti měl věnovat ombudsman a dětský ombudsman. A tak jsme zveřejnili
