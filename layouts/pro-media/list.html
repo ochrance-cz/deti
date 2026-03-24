@@ -35,6 +35,11 @@
 
       {{ .Content }}
     </div>
+
+    {{ with .Params.gallery }}
+        <h2>Fotografie ke stažení</h2>
+        {{ partial "gallery.html" (dict "items" .) }}
+    {{ end }}
   </article>
 
 

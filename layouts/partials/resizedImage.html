@@ -1,0 +1,19 @@
+{{- $path := .path -}}
+{{- $width := .width -}}
+{{- $alt := .alt -}}
+
+{{- $clean := strings.TrimPrefix "/" $path -}}
+{{- $parts := split $clean "/" -}}
+
+{{- $filename := index $parts (sub (len $parts) 1) -}}
+{{- $pagePath := delimit (first (sub (len $parts) 1) $parts) "/" -}}
+
+{{- $page := site.GetPage $pagePath -}}
+
+{{- with $page }}
+  {{- with .Resources.GetMatch $filename }}
+    {{ with .Resize (print $width "x") }}
+      <img src="{{ .RelPermalink }}" alt="{{ $alt }}">
+    {{ end }}
+  {{- end }}
+{{- end }}

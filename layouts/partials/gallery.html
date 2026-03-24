@@ -1,0 +1,32 @@
+{{ $id := now.UnixNano | md5 | truncate 10 "" }}
+<div class="_gallery">
+  <label class="close">
+    <input type="radio" name="gallery-{{ $id }}" value="hidden" checked aria-label="Zavřít">
+    ╳
+  </label>
+  <ul>
+    {{ $len := len .items }}
+    {{ range $index, $element := .items }}
+      <li>
+        {{ if ne $index 0 }}
+          <label class="prev" for="photo-{{ $id }}-{{ sub $index 1 }}" aria-label="Předchozí obrázek">
+            <img alt="Předchozí obrázek" src="/images/arrow-left.svg">
+          </label>
+        {{ end }}
+        {{ if ne (add $index 1) $len }}
+          <label class="next" for="photo-{{ $id }}-{{ add $index 1 }}" aria-label="Následující obrázek">
+            <img alt="Následující obrázek" src="/images/arrow-right.svg">
+          </label>
+        {{ end }}
+        <label class="thumb">
+          <input type="radio" name="gallery-{{ $id }}" id="photo-{{ $id }}-{{ $index }}" alt="{{ .desc }}" value="photo-{{ $index }}">
+          {{ partial "resizedImage.html" (dict "path" .pic "width" "300" "alt" .desc) }}
+        </label>
+        <figure class="full-size">
+          <img alt="{{ .desc }}" src="{{ .pic }}">
+          <figcaption>{{ .caption }} <a href="{{ .pic }}" download>(stáhnout obrázek)</a></figcaption>
+        </figure>
+      </li>
+    {{ end }}
+  </ul>
+</div>
