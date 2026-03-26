@@ -1,7 +1,7 @@
 ---
 title: Pro média
 downloads:
-  - title: Sada log Dětského ombudsmana
+  - title: Sada log dětského ombudsmana
     link: /media/sada-log-detskeho-ombudsmana.zip
     file: /media/sada-log-detskeho-ombudsmana.zip
 gallery:
