@@ -36,6 +36,15 @@
       {{ .Content }}
     </div>
 
+    {{ with .Params.downloads }}
+      <h2>Ke stažení</h2>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .link }}">{{ .title }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
     {{ with .Params.gallery }}
         <h2>Fotografie ke stažení</h2>
         {{ partial "gallery.html" (dict "items" .) }}

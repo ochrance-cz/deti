@@ -1,6 +1,8 @@
 ---
 title: Pro média
-mediakit: /media/sada-log-detskeho-ombudsmana.zip
+downloads:
+  - title: Sada log Dětského ombudsmana
+    link: /media/sada-log-detskeho-ombudsmana.zip
 gallery:
   - pic: /media/img-1.jpg
     desc: Dětský ombudsman Martin Beneš se opírá o zabradlí.

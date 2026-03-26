@@ -286,10 +286,19 @@ collections:
             name: body
             required: false
             widget: markdown
-          - label: Mediakit
-            name: mediakit
+          - label: Ke stažení
+            name: downloads
             required: false
-            widget: file
+            label_singular: materiál
+            widget: list
+            fields:
+              - label: Název
+                name: title
+                widget: string
+              - label: Soubor
+                name: file
+                required: false
+                widget: file
           - label: Galerie
             name: gallery
             required: false

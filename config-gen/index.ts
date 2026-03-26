@@ -172,7 +172,10 @@ const pages = files('Stránky', 'pages', [
     [
       title('Titulek'),
       markdown('Obsah', 'body'),
-      file('Mediakit', 'mediakit'),
+      list('Ke stažení', 'materiál', 'downloads', [
+        string('Název', 'title'),
+        file('Soubor', 'file'),
+      ]),
       gallery(),
     ],
   ),
