@@ -7,11 +7,12 @@
     flex-wrap: nowrap;
     gap: 1rem;
 
+    overflow-y: hidden;
     overflow-x: auto;
     max-width: 100%;
     padding: 0;
 
-    height: $galleryPreviewHeight;
+    height: $galleryPreviewHeight + 1rem;
 
     li {
       /* overrides */
@@ -31,7 +32,7 @@
     label.thumb {
       display: block;
       width: auto;
-      height: $galleryPreviewHeight;
+      height: $galleryPreviewHeight - 1rem;
       cursor: pointer;
 
       input {
@@ -41,7 +42,9 @@
       picture,
       img {
         width: auto;
-        height: $galleryPreviewHeight;
+        height: $galleryPreviewHeight - 1rem;
+        border-radius: var(--radius-tiny);
+        overflow: hidden;
       }
     }
   }
@@ -141,14 +144,16 @@
         }
 
         label.thumb {
-          border-color: $primary;
+          border: 2px solid $primary;
+          border-radius: var(--radius-tiny);
         }
       }
 
       label.thumb {
         width: 10vh;
         height: 10vh;
-        border: 1px solid #999;
+        border: 2px solid #999;
+        border-radius: var(--radius-tiny);
 
         picture,
         img {
