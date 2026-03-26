@@ -23,8 +23,8 @@
           {{ partial "resizedImage.html" (dict "path" .pic "width" "300" "alt" .desc) }}
         </label>
         <figure class="full-size">
-          <img alt="{{ .desc }}" src="{{ .pic }}">
-          <figcaption>{{ .caption }} <a href="{{ .pic }}" download>(stáhnout obrázek)</a></figcaption>
+          {{ partial "resizedImage.html" (dict "path" .pic "width" "1000" "alt" .desc) }}
+          <figcaption>{{ .caption }} <a href="{{ .pic }}" download>(stáhnout v plném rozlišení)</a></figcaption>
         </figure>
       </li>
     {{ end }}
