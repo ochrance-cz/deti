@@ -19,7 +19,7 @@ gallery:
     desc: Dětský ombudsman Martin Beneš dřepí, přidržuje svého huskyho a v popředí
       jsou dvě malé děti, které stojí čelem k němu.
 ---
-## Kontaktní informace pro média
+## Kontakt pro média
 
 * Michaela Vaisová
 * [medialni@ochrance.cz](mailto:medialni@ochrance.cz)
