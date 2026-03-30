@@ -187,7 +187,7 @@ cases:
       Žádost se stejně jako u rodičovského příspěvku podává na [předepsaném formuláři](https://www.mpsv.cz/web/cz/-/zadost-o-porodne) na úřadu práce.
 
 
-      **Nebudeš-li si s něčím vědět rady, neváhej se zeptat pracovníků či pracovnic na úřadu práce. Poradí ti. V případě problémů napiš klidně i [nám](https://deti.ochrance.cz/o-nas/jak/).**
+      **Nebudeš-li si s něčím vědět rady, neváhej se zeptat pracovníků či pracovnic na úřadu práce. Poradí ti. V případě problémů napiš klidně i [nám](https://deti.ochrance.cz/pomoc/).**
     perex: Napsala nám sedmnáctiletá Petra, která očekává za měsíc narození syna.
       Ptala se, zda má nárok na rodičovský příspěvek, případně porodné.
     title: Kdy můžu jako nezletilá matka dostat rodičovský příspěvek či porodné?
