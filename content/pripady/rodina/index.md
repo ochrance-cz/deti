@@ -36,7 +36,7 @@ cases:
       s dívkou úřad zahájil řízení o zrušení původního rozhodnutí.
 
 
-      Sociální pracovníci mohou rodičům doporučit, aby zajistili svému dítěte odbornou poradenskou pomoc, například pomoc psychologa. Jestliže to rodiče neudělají, může úřad rodičům ve správním řízení uložit povinnost využít odborné pomoci pro dítě. V případě, že se o této povinnosti vede na úřadě správní řízení, měli by o tom sociální pracovníci dítě informovat a zjistit jeho názor. Jestliže dítě dosáhlo věku 12 let, zákon předpokládá, že je schopno informaci přijmout, vytvořit si vlastní názor a tento sdělit. Týká se to i vás? Jestli ano, [napište](jak-se-na-ochrance-obratit/).
+      Sociální pracovníci mohou rodičům doporučit, aby zajistili svému dítěte odbornou poradenskou pomoc, například pomoc psychologa. Jestliže to rodiče neudělají, může úřad rodičům ve správním řízení uložit povinnost využít odborné pomoci pro dítě. V případě, že se o této povinnosti vede na úřadě správní řízení, měli by o tom sociální pracovníci dítě informovat a zjistit jeho názor. Jestliže dítě dosáhlo věku 12 let, zákon předpokládá, že je schopno informaci přijmout, vytvořit si vlastní názor a tento sdělit. Týká se to i vás? Jestli ano, [napište](https://deti.ochrance.cz/pomoc/).
   - title: Rodiče se rozvádí a se mnou nikdo nemluví. Prý jsem ještě malý!
     perex: Mají sociální pracovníci a pracovnice OSPOD povinnost mluvit i s malými
       dětmi, které chodí teprve do školky? Mají povinnost zkusit se domluvit s
