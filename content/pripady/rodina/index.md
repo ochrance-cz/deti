@@ -95,7 +95,7 @@ cases:
     body: >-
       Ochránce poslal Antonína na [Úřad práce](https://portal.mpsv.cz/upcr),
       protože ten rozhoduje o sociálních dávkách a mohl by mu v jeho vlastní
-      situaci pomoci. Zároveň mu poradil, kde může hledat nové bydlení - [jaké
+      situaci pomoci. Zároveň mu poradil, kde může hledat nové bydlení – [jaké
       jsou možnosti obecního, azylového a nájemního
       bydlení](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Bydleni.pdf).
 
