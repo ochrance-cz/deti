@@ -15,11 +15,15 @@ Mrkni na celý [Zpravodaj ](https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsma
 > **S péčí o děti pomůže více lidí, vedení zvažuje změnu nevyhovujícího prostředí. Dětský domov vyšel vstříc našim upozorněním** 
 >
 > Při návštěvě dětského domova jsme zjistili nevyhovující podmínky – nevhodnou budovu, nedostatečné zázemí i omezený přístup k teplé vodě. Zřizovatel přislíbil přesun domova do vhodnějších prostor. Upozornili jsme také na nedostatečné noční zajištění péče, a domov proto posílí noční směny o další pracovníky.
->
+
+
+
 > **Hlídáme vzdělávání dětí i ve vazbě**
 >
 > Dítě ve vazbě má právo na vzdělávání a stát mu ho musí zajistit. Prověřili jsme případ patnáctiletého chlapce a zjistili, že výuka probíhala formou samostudia pod dohledem pedagoga, takže k porušení práva nedošlo. Věznici jsme ale upozornili, že má v podobných situacích jednat rychleji a pružněji.
->
+
+
+
 > **Pomohli jsme změnit pravidla pro omezování používání mobilů dětmi ve výchovném ústavu**
 >
 > Omezení mobilního telefonu u dítěte s psychickými obtížemi je možné nejprve na základě dohody, jinak výjimečně formou dočasné úschovy s řádným zdůvodněním a dokumentací. V případě nezletilého chlapce ve výchovném ústavu nadměrné používání telefonu negativně ovlivňovalo jeho zdraví, školní výsledky a chování, přestože personál tvrdil, že existovala dohoda. Ústav neměl písemné záznamy, proto jsme doporučili zavést jasná pravidla pro omezování technologií, která ředitel následně nastavil.
