@@ -36,6 +36,8 @@ Vedle češtiny hovoří i anglicky.
 
 **Jaké jsou jeho první dojmy po složení slibu?** 
 
-„Na novou práci se těším. I když to nebude snadná mise. Držte mi prosím palce.“
+„Na novou práci se těším. I když to nebude snadná mise. Držte mi prosím palce. Ne kvůli mně – kvůli úkolům, které jsou před námi."
+
+
 
 ![Martin Beneš](img-42.jpg)
