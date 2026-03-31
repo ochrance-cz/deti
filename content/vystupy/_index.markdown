@@ -6,7 +6,7 @@ links:
       - title: Vzdělávací akce a nabídka pro školní kolektivy
         link: /vystupy/akce-a-skoly/
       - title: Spolupráce s dětmi a poradní orgán
-        link: https://www.ochrance.cz/vystupy/poradni-organ-crpd/
+        link: /vystupy/spoluprace-s-detmi/
       - title: Výzkumy a doporučení
         link: /vystupy/vyzkumy-a-doporuceni/
       - title: Publikace a výroční zprávy

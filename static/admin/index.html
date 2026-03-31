@@ -125,6 +125,43 @@
       `;
         },
       });
+
+      CMS.registerEditorComponent({
+        id: 'collapsible-note',
+        label: 'Collapsible Note',
+        fields: [
+          {
+            name: 'summary',
+            label: 'Summary',
+            widget: 'string',
+          },
+          {
+            name: 'contents',
+            label: 'Contents',
+            widget: 'markdown',
+          },
+        ],
+        pattern: /^<details><summary>(.*?)<\/summary>(.*?)<\/details>$/ms,
+        fromBlock: function (match) {
+          return {
+            summary: match[1],
+            contents: match[2],
+          };
+        },
+        toBlock: function (data) {
+          return `<details><summary>${data.summary}</summary>${data.contents}</details>`;
+        },
+        toPreview: function (data) {
+          return `
+    <details>
+      <summary>${data.summary}</summary>
+
+      ${data.contents}
+
+    </details>
+    `;
+        },
+      });
     </script>
   </body>
 </html>

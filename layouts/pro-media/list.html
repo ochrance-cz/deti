@@ -5,34 +5,6 @@
   	<h1>{{ .Title }}</h1>
 
     <div class="text-content">
-
-
-      <h2>Fotografie představitelů</h2>
-
-      <ul>
-        {{ with .GetPage "/o-nas/ombudsman" }}
-          {{ $res := .Resources }}
-          {{ $name := .Title }}
-          {{ with .Params.pic }}
-            {{ $pic := $res.GetMatch . }}
-            {{ with $pic }}
-              <li><a href="{{ $pic.Permalink }}">{{ $name }}</a></li>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-
-        {{ with .GetPage "/o-nas/zastupce" }}
-          {{ $res := .Resources }}
-          {{ $name := .Title }}
-          {{ with .Params.pic }}
-            {{ $pic := $res.GetMatch . }}
-            {{ with $pic }}
-              <li><a href="{{ $pic.Permalink }}">{{ $name }}</a></li>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </ul>
-
       {{ .Content }}
     </div>
 
@@ -50,6 +22,7 @@
         {{ partial "gallery.html" (dict "items" .) }}
     {{ end }}
   </article>
+
 
 
   <div class="_home">

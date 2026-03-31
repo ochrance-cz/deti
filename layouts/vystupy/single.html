@@ -4,6 +4,8 @@
     <h1>{{ .Title }}</h1>
 
     <div class="text-content">
+      {{ .Content }}
+
       {{ range .Params.links }}
         <h2>{{ .title }}</h2>
 
