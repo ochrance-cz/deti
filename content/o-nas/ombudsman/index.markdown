@@ -1,7 +1,7 @@
 ---
 title: Martin Beneš
 role: ochránce práv dětí (dětský ombudsman)
-pic: img-2_orez.jpg
+pic: img-2_orez-vetsi.jpg
 ---
 Vystudoval práva na Západočeské univerzitě v Plzni. 
 
