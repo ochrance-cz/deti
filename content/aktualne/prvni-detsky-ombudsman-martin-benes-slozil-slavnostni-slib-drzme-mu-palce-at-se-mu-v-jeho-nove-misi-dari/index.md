@@ -23,7 +23,7 @@ O tom, jak na řešení rodičovských sporů, radil i jako konzultant a lektor.
 
 Byl na několika stážích, například na půlroční stáži u Evropského soudu pro lidská práva ve Štrasburku. 
 
-**Co dělá ve volném čase?**
+**Co podniká ve volném čase?**
 
 Užívá si, když ho může trávit se svou ženou, synem a dcerou. Hlavu si nejlépe vyčistí při zdolávání alpských vrcholů, kam se vydává v zimě i v létě. Někdy ale nechá turistické boty doma a vyrazí se projet na své
 motorce. Rád si zajde taky do kina nebo do divadla. Často ho můžete potkat v doprovodu jeho huskyho, který se jmenuje Bowie. 
