@@ -17,7 +17,7 @@ Vystudoval práva na Západočeské univerzitě v Plzni.
 Téměř dvacet let pracoval jako soudce u Okresního soudu v Mostě. Posledních deset let z toho byl tzv. opatrovnický soudce. To znamená, že například řešil situaci dětí, o které se rodiče špatně starali, nebo jim dokonce
 ubližovali. Hodně se také zabýval spory rodičů během rozvodů. Snažil se jim přitom pomoci najít způsob, jak spolu i po rozchodu vycházet a společně se starat o děti. 
 
-Jestli tě tohle zajímá víc, můžeš si pustit [jeho starší rozhovor ](https://www.youtube.com/watch?v=_vPoLD2SJvQ).
+Jestli tě tohle zajímá víc, můžeš si pustit [tento starší rozhovor ](https://www.youtube.com/watch?v=_vPoLD2SJvQ).
 
 O tom, jak na řešení rodičovských sporů, radil i jako konzultant a lektor. Taky o tom psal do oborných knížek.
 
