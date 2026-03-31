@@ -37,3 +37,5 @@ Vedle češtiny hovoří i anglicky.
 **Jaké jsou jeho první dojmy po složení slibu?** 
 
 „Na novou práci se těším. I když to nebude snadná mise. Držte mi prosím palce.“
+
+![](img-42.jpg)
