@@ -22,7 +22,7 @@ facts: >-
   * Musí mu/jí být minimálně 35 let
 links:
   - link: https://www.ochrance.cz/o-nas/#:~:text=Provoz%20Kanceláře,-veřejného%20ochránce%20práv
-    title: O kanceláři veřejného ochránce práv
+    title: O Kanceláři veřejného ochránce práv a ochránce práv dětí
   - link: /media/verze_1.png
     title: Informační leták o působnosti ombudsmana
   - link: https://deti.ochrance.cz/o-nas/cim-se-zabyva/
@@ -30,9 +30,10 @@ links:
   - link: https://deti.ochrance.cz/o-nas/desatero/
     title: Desatero komunikace
   - link: https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/
-    title: 'Elevator: nápadem to začíná (soutěž pro střední školy)'
+    title: "Elevator: nápadem to začíná (soutěž pro střední školy)"
   - link: https://deti.ochrance.cz/o-nas/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/
-    title: Jak ombudsmana vidí děti? (digitální galerie soutěže Jak pomáhá ombudsman dětem)
+    title: Jak ombudsmana vidí děti? (digitální galerie soutěže Jak pomáhá ombudsman
+      dětem)
   - link: https://deti.ochrance.cz/o-nas/nabidka_pro_skolni_kolektivy/
     title: Nabídka pro školní kolektivy
   - link: https://deti.ochrance.cz/o-nas/ochrana_tvych_osobnich_udaju/
