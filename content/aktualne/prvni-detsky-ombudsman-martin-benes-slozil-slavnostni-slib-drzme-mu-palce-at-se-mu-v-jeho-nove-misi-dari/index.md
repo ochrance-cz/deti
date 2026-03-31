@@ -38,4 +38,4 @@ Vedle češtiny hovoří i anglicky.
 
 „Na novou práci se těším. I když to nebude snadná mise. Držte mi prosím palce.“
 
-![](img-42.jpg)
+![Martin Beneš](img-42.jpg)
