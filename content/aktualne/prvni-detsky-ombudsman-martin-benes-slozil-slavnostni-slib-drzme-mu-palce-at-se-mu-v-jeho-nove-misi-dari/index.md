@@ -10,7 +10,7 @@ perex: >-
 
   představit.
 ---
-**Co dělal Martin Beneš předtím, než sestal dětským ombudsmanem?**
+**Co dělal Martin Beneš předtím, než se stal dětským ombudsmanem?**
 
 Vystudoval práva na Západočeské univerzitě v Plzni. 
 
