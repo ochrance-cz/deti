@@ -2,6 +2,7 @@
 title: Ombudsman dětem a náctiletým
 videos:
   - video: https://youtu.be/RrXC-KMc6t4?si=QkB1PKeEAwfEtV5p
+  - video: https://www.youtube.com/shorts/jFIym3EpkWM
 accessibility: >
   <span class="mobile-p">Jsme přístupní</span> <a
   href="https://www.ochrance.cz/pristupnost/"
