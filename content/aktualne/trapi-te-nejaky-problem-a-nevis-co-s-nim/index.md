@@ -5,31 +5,20 @@ perex: Ozvi se nám. Opravdu. Jsme tu pro tebe.
 ---
 Možná si říkáš, jestli jsme to správné místo. Když zjistíme, že ti neumíme pomoct přímo, nasměrujeme tě někam, kde ti poradí. Nenecháme tě v tom.
 
-
-
 > #### **Co tě možná ještě zajímá:**
 >
+> **Potřebuji někoho dospělého, když se vám chci ozvat?**    
 >
+> Nepotřebuješ. Klidně rovnou napiš, zavolej nebo přijď. 
 >
-> *  **Potřebuji někoho dospělého, když se vám chci ozvat?**  
+> **Můj problém není tak velký, jako mají někteří jiní lidé.**  
 >
->   Nepotřebuješ. Klidně rovnou napiš, zavolej nebo přijď. 
+> Každý problém je důležitý, když tě trápí.
 >
+> **Je to zdarma?**
 >
+> Ano, naše pomoc je zdarma.
 >
-> * **Můj problém není tak velký, jako mají někteří jiní lidé.**  
+> **Jak rychle mi odpovíte?**
 >
->   Každý problém je důležitý, když tě trápí.
->
->
->
-> * **Je to zdarma?**
->
->   Ano, naše pomoc je zdarma.
->
->
->
-> * **Jak rychle mi odpovíte?**
->
->   Snažíme se reagovat co nejdřív, ale někdy to může trvat pár dní. V každém případě bereme vážně všechny zprávy, které dostaneme.
->
+> Snažíme se reagovat co nejdřív, ale někdy to může trvat pár dní. V každém případě bereme vážně všechny zprávy, které dostaneme.
