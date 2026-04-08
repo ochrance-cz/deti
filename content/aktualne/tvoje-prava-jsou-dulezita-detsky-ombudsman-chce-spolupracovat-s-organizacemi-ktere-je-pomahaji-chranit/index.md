@@ -12,13 +12,12 @@ Martin Beneš všem vysvětlí, jaké úkoly ho čekají a které z nich jsou p
 
 Už teď jsme zvědaví, jaké dobré nápady z toho vzejdou!
 
+> **Znáš někoho, kdo by se měl na tuhle akci určitě přihlásit? Můžeš mu poslat tyhle informace:**
 >
-> Znáš někoho, kdo by se měl na tuhle akci určitě přihlásit? Můžeš mu poslat tyhle informace:
+> **O co jde?**          Setkání dětského ombudsmana se zástupci neziskových organizací
 >
-> O co jde?          Setkání dětského ombudsmana se zástupci neziskových organizací
+> **Kdy to bude?**     24. 4. 2026, 10:00–14:15
 >
-> Kdy to bude?     24. 4. 2026, 10:00–14:15
->
-> Kde to bude?   Kancelář veřejného ochránce práv a ochránce práv dětí, Brno
+> **Kde to bude?**   Kancelář veřejného ochránce práv a ochránce práv dětí, Brno
 >
 > [Registrace a další podrobnosti](https://akce.ochrance.cz/Events/Show)
