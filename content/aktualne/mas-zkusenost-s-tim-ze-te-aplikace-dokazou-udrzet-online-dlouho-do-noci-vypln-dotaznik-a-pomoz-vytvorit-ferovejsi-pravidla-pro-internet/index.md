@@ -8,7 +8,7 @@ perex: Pohybuješ se online denně na sítích, webech, používáš aplikace a 
   zákony pro ochranu dospívajících na internetu. Zapoj se do 26. dubna a pomoz
   lepší digitální budoucnosti!
 attachments:
-  - link: "https://horizons.confirmit.eu/wix/p667061079113.aspx "
+  - link: https://eu-for-children.europa.eu/activities-news/latest/have-your-say-on-digital-fairness-act_en?etrans=cs
     title: Odpovídej zde!
 ---
-Máš zkušenost s tím, že tě aplikace nebo hry nutí souhlasit s něčím, co je matoucí, nebo příliš snadno utrácet peníze? Pokud je ti mezi 12 a 17 lety, věnuj 15 minut [dotazníku](https://horizons.confirmit.eu/wix/p667061079113.aspx) (v češtině). Díky tvým odpovědím bude EU moci nastavit nová pravidla pro bezpečnější internet pro dospívající.
+Máš zkušenost s tím, že tě aplikace nebo hry nutí souhlasit s něčím, co je matoucí, nebo příliš snadno utrácet peníze? Pokud je ti mezi 12 a 17 lety, věnuj 15 minut [dotazníku](https://eu-for-children.europa.eu/activities-news/latest/have-your-say-on-digital-fairness-act_en?etrans=cs) (v češtině). Díky tvým odpovědím bude EU moci nastavit nová pravidla pro bezpečnější internet pro dospívající.
