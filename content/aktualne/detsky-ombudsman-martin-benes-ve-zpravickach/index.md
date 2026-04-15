@@ -10,4 +10,4 @@ Kromě dětského ombudsmana reportáž představila i jeho věrného společní
 
 > Celý pořad si můžeš pustit na [stránkách České televize](https://www.ceskatelevize.cz/porady/10265744641-zpravicky/226411000160410/?fbclid=IwY2xjawRMC2JleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEetKlSOPN-2D16qPsPQus5d-o68t3XIXdXpPPg2xDDJ7f5JUF7QXHAVulkkoI_aem_-600e7-m_U-MqHjdiTD4ww).
 
-![Dětský ombudsman Martin Beneš v pořadu české televize Zprávičky.](screenshot_2.jpg)
+![Dětský ombudsman Martin Beneš v pořadu České televize Zprávičky.](screenshot_2.jpg)
