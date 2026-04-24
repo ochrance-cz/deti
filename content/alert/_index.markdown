@@ -1,6 +1,6 @@
 ---
 title: Sledujte online dnešní setkání dětského ombudsmana se zástupci neziskovek
-draft: false
+draft: true
 attachments: []
 ---
 Stream poběží od 10:00 na YouTube <https://youtube.com/live/Oop8PdcH6q0?feature=share>
