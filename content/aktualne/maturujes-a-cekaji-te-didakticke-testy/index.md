@@ -20,6 +20,10 @@ perex: Pokud tě letos čekají didaktické maturitní testy, přejeme ti, ať v
 
 Nešlo všechno, jak mělo? Ozvi se ještě ve třídě zadávajícímu. Zapsal námitku jinak, než žádáš? Řekni to školnímu maturitnímu komisaři. A klidně i řediteli školy. Hodnocení tím v tu chvíli sice neovlivníš, ale zápis v protokolu a případná svědectví dalších studentů jsou plus pro  další postup. 
 
+>
+> Námitku nemůžeš podat, pokud ukončíš zkoušku před oficiálním koncem. Tvůjbrzký odchod znamená, že se námitky vzdáváš.
+>
+
 **2. Napiš Ministerstvu školství.**
 
 Ať už námitku během testu podáš, nebo ne, můžeš požádat o přezkoumání zkoušky Ministerstvo školství, mládeže a tělovýchovy. 
