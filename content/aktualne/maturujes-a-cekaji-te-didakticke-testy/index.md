@@ -33,8 +33,7 @@ Pokud se ti nezdá postup Ministerstva školství, ombudsman ho může prošetř
 Kromě toho můžeš podat i žalobu k soudu.
 
 
-**Podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?](<>)**
-
+**Podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit](https://www.ochrance.cz/letaky/skolstvi/skolstvi.pdf)?**
 
 
 > **Důležité termíny** pro podání žádosti o přezkoumání výsledku didaktické zkoušky:
