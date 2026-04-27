@@ -34,7 +34,7 @@ Kromě toho můžeš podat i žalobu k soudu.
 
 > **Důležité termíny** pro podání žádosti o přezkoumání výsledku didaktické zkoušky:
 >
-> * v jarním zkušebním období  **do 4. června,** ,
+> * v jarním zkušebním období  **do 4. června**,
 > * v podzimním zkušebním období  **do 30. září.** 
 >
 >
