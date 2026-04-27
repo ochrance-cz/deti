@@ -6,7 +6,7 @@ perex: Pokud tě letos čekají didaktické maturitní testy, přejeme ti, ať v
   proběhne v klidu a přesně tak, jak má. No, a kdyby se přece jen něco zvrtlo,
   máme tu pro tebe „tahák“, co dělat.
 ---
-### **Co když třeba...**
+#### **Co když třeba...**
 
 ...dostaneš míň času, než jsi měl,
 
@@ -14,13 +14,9 @@ perex: Pokud tě letos čekají didaktické maturitní testy, přejeme ti, ať v
 
 ...ti tvoje hodnocení nepřijde fér...
 
+Klesá soustředění a roste stres . 
 
-
-**Klesá soustředění a roste stres .** 
-
-
-
-## **Jak se bránit?**
+#### **Jak se bránit?**
 
 **1. Nešlo všechno, jak mělo?** 
 
@@ -40,7 +36,6 @@ Pokud se ti nezdá postup Ministerstva školství, ombudsman ho může prošetř
 
 Kromě toho můžeš podat i žalobu k soudu.
 
->
 > **Důležité termíny** pro podání žádosti o přezkoumání výsledku didaktické zkoušky:
 >
 > * \- v jarním zkušebním období  
@@ -48,12 +43,11 @@ Kromě toho můžeš podat i žalobu k soudu.
 >   **do 4. června**
 >
 >   ,
->   - v podzimním zkušebním období  
+>
+>   * v podzimním zkušebním období  
 >
 >   **do 30. září**
 >
 >   .
 >
 > Další podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?](https://www.ochrance.cz/letaky/skolstvi/skolstvi.pdf)
->
->
