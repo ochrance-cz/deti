@@ -16,11 +16,9 @@ perex: Pokud tě letos čekají didaktické maturitní testy, přejeme ti, ať v
 
 #### **Jak se bránit?**
 
-**1. Nešlo všechno, jak mělo?** 
+**1. Podej námitku hned v učebně.** 
 
-Ozvi se ještě ve třídě zadávajícímu. 
-
-Zapsal námitku jinak, než žádáš? Řekni to školnímu maturitnímu komisaři. A klidně i řediteli školy. Hodnocení tím v tu chvíli sice neovlivníš, ale zápis v protokolu a případná svědectví dalších studentů jsou plus pro  další postup. 
+Nešlo všechno, jak mělo? Ozvi se ještě ve třídě zadávajícímu. Zapsal námitku jinak, než žádáš? Řekni to školnímu maturitnímu komisaři. A klidně i řediteli školy. Hodnocení tím v tu chvíli sice neovlivníš, ale zápis v protokolu a případná svědectví dalších studentů jsou plus pro  další postup. 
 
 **2. Napiš Ministerstvu školství.**
 
@@ -32,13 +30,9 @@ Pokud se ti nezdá postup Ministerstva školství, ombudsman ho může prošetř
 
 Kromě toho můžeš podat i žalobu k soudu.
 
-
 **Podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit](https://www.ochrance.cz/letaky/skolstvi/skolstvi.pdf)?**
-
 
 > **Důležité termíny** pro podání žádosti o přezkoumání výsledku didaktické zkoušky:
 >
 > * v jarním zkušebním období  **do 4. června**,
-> * v podzimním zkušebním období  **do 30. září.** 
->
->
+> * v podzimním zkušebním období  **do 30. září.**
