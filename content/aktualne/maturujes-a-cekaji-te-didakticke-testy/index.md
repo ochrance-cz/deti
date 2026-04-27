@@ -22,7 +22,7 @@ Ozvi se ještě ve třídě zadávajícímu.
 
 Zapsal námitku jinak, než žádáš? Řekni to školnímu maturitnímu komisaři. A klidně i řediteli školy.
 
-Hodnocení tím v tu chvíli sice neovlivníš, ale zápis v protokolu a případná svědectví dalších studentů jsou pro  další postup. 
+Hodnocení tím v tu chvíli sice neovlivníš, ale zápis v protokolu a případná svědectví dalších studentů jsou plus pro  další postup. 
 
 **2. Napiš Ministerstvu školství.**
 
