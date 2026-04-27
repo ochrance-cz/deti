@@ -32,11 +32,14 @@ Pokud se ti nezdá postup Ministerstva školství, ombudsman ho může prošetř
 
 Kromě toho můžeš podat i žalobu k soudu.
 
+
+**Podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?](<>)**
+
+
+
 > **Důležité termíny** pro podání žádosti o přezkoumání výsledku didaktické zkoušky:
 >
 > * v jarním zkušebním období  **do 4. června**,
 > * v podzimním zkušebním období  **do 30. září.** 
 >
 >
->
-> Další podrobnosti k postupu najdete  v [ letáku ombudsmana Školství – část Neudělal/a jsem maturitu. Mohu se nějak bránit?](https://www.ochrance.cz/letaky/skolstvi/skolstvi.pdf)
