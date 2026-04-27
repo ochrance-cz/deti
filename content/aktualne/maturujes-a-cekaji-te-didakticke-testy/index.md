@@ -14,8 +14,6 @@ perex: Pokud tě letos čekají didaktické maturitní testy, přejeme ti, ať v
 
 ...ti tvoje hodnocení nepřijde fér...
 
-Klesá soustředění a roste stres . 
-
 #### **Jak se bránit?**
 
 **1. Nešlo všechno, jak mělo?** 
