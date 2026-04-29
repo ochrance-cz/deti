@@ -7,7 +7,7 @@ perex: Ze schůzky máme opravdu skvělý pocit. Dorazilo na ni hodně lidí, kt
   nás potěšilo, kolik z nich s námi chce spolupracovat.
 attachments: []
 ---
-Přišli, či se připojili online lidé z více než stovky různých organizací věnujících se ochraně dětských práv. 
+Přišli, či se online připojili lidé z více než stovky různých organizací věnujících se ochraně dětských práv. 
 
 Každá z nich se věnuje trochu jiným tématům – někdo pomáhá dětem v rodinách, jiná se víc zaměřuje na školu nebo třeba na duševní zdraví. Všechny nás ale spojuje stejný cíl: aby se dětem žilo lépe a bezpečněji.
 
