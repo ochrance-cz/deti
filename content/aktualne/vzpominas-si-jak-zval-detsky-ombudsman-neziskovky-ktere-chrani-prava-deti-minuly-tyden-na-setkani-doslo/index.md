@@ -18,8 +18,8 @@ snadno dostupná pomoc pro děti.
 
 A co dalšího naše hosty zaujalo? Že dětský ombudsman už brzy sestaví svůj dětský poradní tým. Ten by měla tvořit skupina dětí a teenagerů z různých prostředí. Myslíme i na to, aby v něm své zastoupení měly také děti se zkušenostmi v náročných situacích.  Všichni dohromady pak budou dětskému ombudsmanovi říkat své názory a pomáhat mu zjistit, která témata jsou pro děti ta vůbec nejzásadnější. 
 
-> Sleduj náš web či sítě – už brzy se o dětském poradním orgánu dozvíš víc.
+> Sleduj náš web či sítě – už brzy se o dětském poradním týmu dozvíš víc.
 
-Zajímá tě setkání s neziskovkami víc? [Pusť si jeho záznam.](https://youtube.com/live/Oop8PdcH6q0?feature=share&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZm5wbjRQeEhoODY2M1NpTXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR79r6P9Iav9fVsIQhAXCS0IsHelQ_igPVL07vwl0TEHIINGcHCtT7gojXzwbg_aem_Glhutqnxn5oyPNrpFvgyNw)
+Zajímá tě setkání s neziskovkami detailněji? [Pusť si jeho záznam.](https://youtube.com/live/Oop8PdcH6q0?feature=share&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZm5wbjRQeEhoODY2M1NpTXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR79r6P9Iav9fVsIQhAXCS0IsHelQ_igPVL07vwl0TEHIINGcHCtT7gojXzwbg_aem_Glhutqnxn5oyPNrpFvgyNw)
 
 ![Setkání dětského ombudsmana se zástupci neziskovek, záběr na přednášející.](dsc_7094-2.jpg)
