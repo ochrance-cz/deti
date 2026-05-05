@@ -9,15 +9,15 @@ perex: Poprvé 22. června se má setkat vůbec první poradní tým dětského
 attachments:
   - file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx
     title: Přihláška do poradního týmu dětského ombudsmana
-  - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
-    file: https://www.youtube.com/watch?v=AAGOxZjWt_o
   - file: infoletak-pro-deti.pdf
     title: 'Infoleták "Přidej se k prvnímu poiradnímu týmu dětského ombudsmana" '
-  - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana" v ČZJ
-    file: https://www.youtube.com/watch?v=W3nM7Li8K7A
+  - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
+    file: https://www.youtube.com/watch?v=AAGOxZjWt_o
   - file: infoletak-pro-rodice-a-ucitele.pdf
     title: 'Infoleták "Výzva pro děti k zapojení do poradního týmu dětského
       ombudsmana: Informace pro rodiče, učitele a podpůrné organizace"'
+  - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana" v ČZJ
+    file: https://www.youtube.com/watch?v=W3nM7Li8K7A
 ---
 Celkem čtyřikrát ročně se v Brně sejde poradní tým dětského ombudsmana po dobu jeho působení. Jak by měl vypadat? *„Usilujeme o rozmanitou skupinu dětí z různých prostředí. Přihlásit se mohou všechny děti bez ohledu na původ, jazyk, zdravotní stav či životní zkušenosti. Významně vítáme účast dětí, které bývají méně slyšet,“* říká dětský ombudsman Martin Beneš, který vítá zejména děti, které mohou být v nějaké situaci znevýhodněné nebo zranitelné. Chce, aby zapojení dětí odpovídalo jejich věku a specifickým potřebám.
 
