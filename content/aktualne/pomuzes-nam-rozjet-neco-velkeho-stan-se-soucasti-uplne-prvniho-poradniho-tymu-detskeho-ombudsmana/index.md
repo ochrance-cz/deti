@@ -7,12 +7,12 @@ perex: Je ti mezi 12 a 18 lety a chceš měnit věci k lepšímu? Tak přesně t
   Nemusíš být jedničkář z velkého města, stačí, když máš nápady a zájem stát se
   parťákem dětského ombudsmana.
 attachments:
-  - file: prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx
-    title: Přihláška do poradního týmu dětského ombudsmana
   - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
     file: https://www.youtube.com/watch?v=AAGOxZjWt_o
-  - file: infoletak-draft_verze-deti.docx
-    title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana!"
+  - title: Přihláška do poradního týmu
+    file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx
+  - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana"
+    file: infoletak-pro-deti.pdf
   - title: Infoleták pro děti "Přidej se k prvnímu poradnímu týmu dětského
       ombudsmana" v ČZJ
     file: https://www.youtube.com/watch?v=W3nM7Li8K7A
