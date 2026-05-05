@@ -14,7 +14,7 @@ attachments:
   - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
     file: https://www.youtube.com/watch?v=AAGOxZjWt_o
   - file: infoletak-pro-deti.pdf
-    title: 'Infoleták "Přidej se k prvnímu poiradnímu týmu dětského ombudsmana" '
+    title: 'Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana" '
   - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana" v ČZJ
     file: https://www.youtube.com/watch?v=W3nM7Li8K7A
   - file: infoletak-pro-rodice-a-ucitele.pdf
