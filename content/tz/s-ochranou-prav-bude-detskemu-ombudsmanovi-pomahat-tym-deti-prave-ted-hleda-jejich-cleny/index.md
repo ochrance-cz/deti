@@ -7,15 +7,15 @@ perex: Poprvé 22. června se má setkat vůbec první poradní tým dětského
   rozhodování o tématech, která se jich týkají. Děti se budou setkávat s dětským
   ombudsmanem a sdílet své zkušenosti a názory.
 attachments:
-  - file: prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx
+  - file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx
     title: Přihláška do poradního týmu dětského ombudsmana
   - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
     file: https://www.youtube.com/watch?v=AAGOxZjWt_o
-  - file: infoletak-draft_verze-deti.docx
+  - file: infoletak-pro-deti.pdf
     title: 'Infoleták "Přidej se k prvnímu poiradnímu týmu dětského ombudsmana" '
   - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana" v ČZJ
     file: https://www.youtube.com/watch?v=W3nM7Li8K7A
-  - file: infoletak-draft_verze-rodice-ucitele.docx
+  - file: infoletak-pro-rodice-a-ucitele.pdf
     title: 'Infoleták "Výzva pro děti k zapojení do poradního týmu dětského
       ombudsmana: Informace pro rodiče, učitele a podpůrné organizace"'
 ---
