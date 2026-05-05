@@ -19,9 +19,9 @@ attachments:
     title: 'Infoleták "Výzva pro děti k zapojení do poradního týmu dětského
       ombudsmana: Informace pro rodiče, učitele a podpůrné organizace"'
 ---
-Celkem čtyřikrát ročně se v Brně sejde poradní tým dětského ombudsmana po dobu jeho působení. Jak by měl vypadat? „Usilujeme o rozmanitou skupinu dětí z různých prostředí. Přihlásit se mohou všechny děti bez ohledu na původ, jazyk, zdravotní stav či životní zkušenosti. Významně vítáme účast dětí, které bývají méně slyšet,“ říká dětský ombudsman Martin Beneš, který vítá zejména děti, které mohou být v nějaké situaci znevýhodněné nebo zranitelné. Chce, aby zapojení dětí odpovídalo jejich věku a specifickým potřebám.
+Celkem čtyřikrát ročně se v Brně sejde poradní tým dětského ombudsmana po dobu jeho působení. Jak by měl vypadat? *„Usilujeme o rozmanitou skupinu dětí z různých prostředí. Přihlásit se mohou všechny děti bez ohledu na původ, jazyk, zdravotní stav či životní zkušenosti. Významně vítáme účast dětí, které bývají méně slyšet,“* říká dětský ombudsman Martin Beneš, který vítá zejména děti, které mohou být v nějaké situaci znevýhodněné nebo zranitelné. Chce, aby zapojení dětí odpovídalo jejich věku a specifickým potřebám.
 
-„Děti se mohou hlásit do 18. května prostřednictvím přihlášky. Nabízíme dětem pomoc s jejím vyplněním, jazykovou podporu, pomůžeme i v případě technických obtíží nebo při individuálních potřebách. Přihlášku mohou podat i v českém znakovém jazyce,“ upřesňuje Beneš.
+*„Děti se mohou hlásit do 18. května prostřednictvím přihlášky. Nabízíme dětem pomoc s jejím vyplněním, jazykovou podporu, pomůžeme i v případě technických obtíží nebo při individuálních potřebách. Přihlášku mohou podat i v českém znakovém jazyce,“* upřesňuje Beneš.
 
 > **Kdo se může zapojit?** 
 >
@@ -33,6 +33,6 @@ Celkem čtyřikrát ročně se v Brně sejde poradní tým dětského ombudsmana
 >
 > **Jak se zapojit?**
 >
-> Stačí odpovědět na několik otázek v přihlášce. Tu pak poslat na e-mail: deti.poradnitym@ochrance.cz. Přihlášku je také možné poslat poštou, nebo donést osobně do kanceláře na adresu Údolní 39, 602 00 Brno. Přihlášku je možné poslat i v českém znakovém jazyce – můžeš využít WhatsApp 725 988 016.
+> Stačí odpovědět na několik otázek v [přihlášce](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx). Tu pak poslat na e-mail: deti.poradnitym@ochrance.cz. Přihlášku je také možné poslat poštou, nebo donést osobně do kanceláře na adresu Údolní 39, 602 00 Brno. Přihlášku je možné poslat i v českém znakovém jazyce prostřednictvím aplikace WhatsApp 725 988 016. Více odkazů níže.
 >
 > **Termín pro odeslání přihlášek je 18. května 2026. Poprvé se poradní tým má sejít 22. června 2026 v Brně.**
