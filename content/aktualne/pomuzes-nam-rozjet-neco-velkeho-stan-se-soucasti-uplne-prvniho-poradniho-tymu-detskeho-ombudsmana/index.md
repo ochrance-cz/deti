@@ -32,6 +32,6 @@ Dětský ombudsman má za úkol chránit práva lidí mladších 18 let. Sleduje
 >
 > **Jdeš do toho? Přihlas se do 18. května!** 
 >
-> [](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx)Přihlášku [](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx)pošli e-mailem na deti.poradnitym@ochrance.cz, poštou na adresu dětského ombudsmana Údolní 39, 602 00 Brno nebo dones osobně na stejnou adresu. 
+> [](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx)Přihlášku si můžeš stáhnout níže. Vyplněnou ji [](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx)pošli e-mailem na deti.poradnitym@ochrance.cz, poštou na adresu dětského ombudsmana Údolní 39, 602 00 Brno, nebo ji dones osobně na stejnou adresu. 
 >
 > Přihlášku můžeš poslat i v českém znakovém jazyce – můžeš využít WhatsApp 725 988 016.
