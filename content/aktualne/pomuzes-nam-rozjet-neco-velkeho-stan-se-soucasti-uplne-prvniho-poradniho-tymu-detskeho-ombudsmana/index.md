@@ -7,8 +7,10 @@ perex: Je ti mezi 12 a 18 lety a chceš měnit věci k lepšímu? Tak přesně t
   Nemusíš být jedničkář z velkého města, stačí, když máš nápady a zájem stát se
   parťákem dětského ombudsmana.
 attachments:
-  - title: Přihláška do poradního týmu
+  - title: Přihláška do poradního týmu dětského ombudsmana
     file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx
+  - file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-tisk.pdf
+    title: "Přihláška do poradního týmu dětského ombudsmana "
   - title: Přihláška do poradního týmu dětského ombudsmana v ČZJ
     file: https://www.youtube.com/watch?v=AAGOxZjWt_o
   - title: Infoleták "Přidej se k prvnímu poradnímu týmu dětského ombudsmana"
@@ -32,6 +34,6 @@ Dětský ombudsman má za úkol chránit práva lidí mladších 18 let. Sleduje
 >
 > **Jdeš do toho? Přihlas se do 18. května!** 
 >
-> [Přihlášku](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradni-skupiny-detskeho-ombudsmana.docx) si můžeš stáhnout níže. Vyplněnou ji pošli e-mailem na deti.poradnitym@ochrance.cz, poštou na adresu dětského ombudsmana Údolní 39, 602 00 Brno, nebo ji dones osobně na stejnou adresu. 
+> [Přihlášku](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx) si můžeš stáhnout níže. Vyplněnou ji pošli e-mailem na deti.poradnitym@ochrance.cz, poštou na adresu dětského ombudsmana Údolní 39, 602 00 Brno, nebo ji dones osobně na stejnou adresu. 
 >
 > Přihlášku můžeš poslat i v českém znakovém jazyce – můžeš využít WhatsApp 725 988 016.
