@@ -1,0 +1,2 @@
+{{ $color := default "" (.Get 0) }}
+<div class="_ramecek{{ with $color }} _ramecek--{{ . }}{{ end }}">{{ .Inner | $.Page.RenderString | safeHTML }}</div>
