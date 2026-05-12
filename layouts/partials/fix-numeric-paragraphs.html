@@ -1,0 +1,27 @@
+{{- /*
+  Goldmark detects "8. dubna ..." (or any "N. " at line start) as the start of
+  an ordered list. When the editor only intended a paragraph, we get an
+  <ol start="N"> with one or more <li>s that should have been <p>s.
+
+  Heuristic: any <ol start="N"> with an explicit start attribute (N != 1 since
+  Goldmark omits start="1") is almost certainly a misclassification. Convert
+  each <li> back into a <p> prefixed with its sequential number, mirroring what
+  the editor wrote in markdown.
+
+  Trade-off: a deliberately numbered list starting at non-1 also gets flattened
+  to paragraphs. Such lists are vanishingly rare in editorial content; the
+  editor can keep the list semantics by using HTML directly.
+*/ -}}
+{{- $content := .content -}}
+{{- range $match := findRESubmatch `<ol start="(\d+)">((?:.|\n)*?)</ol>` $content -1 -}}
+  {{- $whole := index $match 0 -}}
+  {{- $startN := index $match 1 | int -}}
+  {{- $inner := index $match 2 -}}
+  {{- $replacement := "" -}}
+  {{- range $i, $li := findRESubmatch `<li>((?:.|\n)*?)</li>` $inner -1 -}}
+    {{- $itemContent := index $li 1 | replaceRE `^\s*<p>` "" | replaceRE `</p>\s*$` "" -}}
+    {{- $replacement = printf "%s<p>%d. %s</p>\n" $replacement (add $startN $i) $itemContent -}}
+  {{- end -}}
+  {{- $content = replace $content $whole $replacement -}}
+{{- end -}}
+{{- $content | safeHTML -}}
