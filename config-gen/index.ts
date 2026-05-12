@@ -341,6 +341,9 @@ const jsem = folderCollection(
   ],
 );
 
+const pasteHint =
+  'Pozor na vkládání z Wordu nebo e-mailu — Cmd+V (Ctrl+V) může rozhodit formátování. Pro čistý text použijte Cmd+Shift+V (Ctrl+Shift+V). Pro modrý rámeček použijte shortcode {{< ramecek >}}…{{< /ramecek >}} — nesplývá se sousedním rámečkem.';
+
 const aktualne = folderCollection(
   'Aktuálně',
   'aktualita',
@@ -359,7 +362,7 @@ const aktualne = folderCollection(
     boolean('Uložit jako draft', 'draft'),
     datetime('Datum publikování', 'date', { use_time: true }),
     markdown('Perex', 'perex'),
-    markdown('Text', 'body'),
+    markdown('Text', 'body', { hint: pasteHint }),
     attached(),
   ],
 );
@@ -382,7 +385,7 @@ const press = folderCollection(
     boolean('Uložit jako draft', 'draft'),
     datetime('Datum publikování', 'date', { use_time: true }),
     markdown('Perex', 'perex'),
-    markdown('Text', 'body'),
+    markdown('Text', 'body', { hint: pasteHint }),
     attached(),
   ],
 );

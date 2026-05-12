@@ -631,6 +631,11 @@ collections:
         label: Text
         name: body
         required: false
+        hint: >-
+          Pozor na vkládání z Wordu nebo e-mailu — Cmd+V (Ctrl+V) může rozhodit
+          formátování. Pro čistý text použijte Cmd+Shift+V (Ctrl+Shift+V). Pro
+          modrý rámeček použijte shortcode {{< ramecek >}}…{{< /ramecek >}} —
+          nesplývá se sousedním rámečkem.
         widget: markdown
       - label: Přílohy
         name: attachments
@@ -726,6 +731,11 @@ collections:
         label: Text
         name: body
         required: false
+        hint: >-
+          Pozor na vkládání z Wordu nebo e-mailu — Cmd+V (Ctrl+V) může rozhodit
+          formátování. Pro čistý text použijte Cmd+Shift+V (Ctrl+Shift+V). Pro
+          modrý rámeček použijte shortcode {{< ramecek >}}…{{< /ramecek >}} —
+          nesplývá se sousedním rámečkem.
         widget: markdown
       - label: Přílohy
         name: attachments
