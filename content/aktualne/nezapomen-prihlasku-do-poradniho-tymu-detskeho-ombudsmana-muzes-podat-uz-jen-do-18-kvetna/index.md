@@ -4,8 +4,8 @@ title: "Nezapomeň: Přihlášku do poradního týmu dětského ombudsmana můž
 date: 2026-05-12T08:52:00
 perex: Chceš mluvit do věcí, které ovlivňují život dětí a mladých v Česku? V
   poradním týmu dětského ombudsmana se do toho můžeš pustit. Navíc potkáš partu
-  inspirativních lidí a poznáš zblízka svoje práva. Pokud je ti 12 až 18 let a
-  chceš být slyšet, hledáme právě tebe!
+  inspirativních lidí a poznáš zblízka svoje práva. Co musíš splnit, abys mohl
+  úposlat přihlášku? Jedinou podmínkou je, aby ti bylo mezi 12 a 18 lety.
 attachments:
   - title: Přihláška do poradního týmu dětského ombudsmana
     file: prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx
