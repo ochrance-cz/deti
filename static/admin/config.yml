@@ -37,6 +37,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -67,6 +68,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -122,6 +124,7 @@ collections:
                   - image
                   - fancy-list
                   - youtube
+                  - ramecek
                 buttons:
                   - bold
                   - italic
@@ -181,6 +184,7 @@ collections:
                       - image
                       - fancy-list
                       - youtube
+                      - ramecek
                     buttons:
                       - bold
                       - italic
@@ -200,6 +204,7 @@ collections:
                   - image
                   - fancy-list
                   - youtube
+                  - ramecek
                 buttons:
                   - bold
                   - italic
@@ -219,6 +224,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -245,6 +251,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -271,6 +278,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -360,6 +368,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -388,6 +397,7 @@ collections:
                   - image
                   - fancy-list
                   - youtube
+                  - ramecek
                 buttons:
                   - bold
                   - italic
@@ -431,6 +441,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -459,6 +470,7 @@ collections:
                   - image
                   - fancy-list
                   - youtube
+                  - ramecek
                 buttons:
                   - bold
                   - italic
@@ -502,6 +514,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -530,6 +543,7 @@ collections:
                   - image
                   - fancy-list
                   - youtube
+                  - ramecek
                 buttons:
                   - bold
                   - italic
@@ -598,6 +612,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -617,6 +632,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -698,6 +714,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -717,6 +734,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -774,6 +792,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -793,6 +812,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -840,6 +860,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -875,6 +896,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -902,6 +924,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -921,6 +944,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -950,6 +974,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -979,6 +1004,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -1010,6 +1036,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -1029,6 +1056,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -1063,6 +1091,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -1082,6 +1111,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -1116,6 +1146,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic
@@ -1145,6 +1176,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -1192,6 +1224,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -1211,6 +1244,7 @@ collections:
               - image
               - fancy-list
               - youtube
+              - ramecek
             buttons:
               - bold
               - italic
@@ -1257,6 +1291,7 @@ collections:
           - image
           - fancy-list
           - youtube
+          - ramecek
         buttons:
           - bold
           - italic

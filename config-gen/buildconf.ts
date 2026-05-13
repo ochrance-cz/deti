@@ -114,7 +114,7 @@ export const markdown = (
   options?: Options,
 ): MarkdownWidget => {
   const w = {
-    editor_components: ['image', 'fancy-list', 'youtube'],
+    editor_components: ['image', 'fancy-list', 'youtube', 'ramecek'],
     buttons: [
       'bold',
       'italic',

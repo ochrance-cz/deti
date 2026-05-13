@@ -127,6 +127,36 @@
       });
 
       CMS.registerEditorComponent({
+        id: 'ramecek',
+        label: 'Rámeček',
+        fields: [
+          {
+            name: 'contents',
+            label: 'Obsah',
+            widget: 'markdown',
+          },
+        ],
+        pattern: /^\{\{< ramecek >\}\}(.*?)\{\{< \/ramecek >\}\}$/ms,
+        fromBlock: function (match) {
+          return {
+            contents: match[1].trim(),
+          };
+        },
+        toBlock: function (data) {
+          return `{{< ramecek >}}\n\n${data.contents}\n\n{{< /ramecek >}}`;
+        },
+        toPreview: function (data) {
+          return `
+      <div class="_ramecek">
+
+        ${data.contents}
+
+      </div>
+      `;
+        },
+      });
+
+      CMS.registerEditorComponent({
         id: 'collapsible-note',
         label: 'Collapsible Note',
         fields: [
