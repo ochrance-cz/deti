@@ -32,7 +32,7 @@ Dětský ombudsman má za úkol chránit práva lidí mladších 18 let. Sleduje
 >
 > Jízdenky i jiné potřeby ti proplatíme. Stačí chtít mluvit o věcech, které jsou pro tebe důležité a spolupracovat v týmu s ostatními. S dětským ombudsmanem a ostatními se setkáš čtyřikrát ročně. Budeš sdílet své názory a navrhovat společná řešení. Úplně první setkání poradního týmu bude 22. června 2026 v Brně.
 >
-> **Jdeš do toho? Přihlas se do 18. května!** 
+> **Jdeš do toho? Přihlas se do 18. května (včetně)!** 
 >
 > [Přihlášku](https://deti.ochrance.cz/tz/s-ochranou-prav-bude-detskemu-ombudsmanovi-pomahat-tym-deti-prave-ted-hleda-jejich-cleny/prihlaska-do-poradniho-tymu-detskeho-ombudsmana-verze-pro-e-mail.docx) si můžeš stáhnout níže. Vyplněnou ji pošli e-mailem na deti.poradnitym@ochrance.cz, poštou na adresu dětského ombudsmana Údolní 39, 602 00 Brno, nebo ji dones osobně na stejnou adresu. 
 >
