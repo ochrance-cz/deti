@@ -8,14 +8,11 @@ perex: Zajímá tě, jak být na internetu víc v bezpečí? Přijď si o tom po
 ---
 V diskuzi se podíváme na to, co se na internetu děje docela často, ale už méně se o tom mluví nahlas – prvním tématem bude hatespeech a kyberšikana. Pak se posuneme k tomu, jak do toho všeho vstupuje umělá inteligence a média. Probereme, jak se informace tvoří, šíří a proč někdy není úplně snadné poznat, co je pravda a co fakenews. A skončíme u digitálního detoxu... To je samozřejmě volitelné :). Ale povídat si budeme o závislostech na mobilech, protože mobily nám občas srostou s rukou víc, než bychom chtěli. Podíváme se na to, jak s tím zacházet.
 
-
 Kdo bude diskutovat? Třeba youtuber Lukefry, influencerka na novinářka Anna Marie Veselá, odborníci z programu eBezpečí a organizace Fakescape nebo student a redaktor školního časopisu. 
-
-
 
 > **Kdy?**
 >
-> * 1. června 2026
+> * prvního června 2026
 > * diskuze bude od 11:30-13:00
 > * když přijdeš na 11. hodinu, stihneš u nás i svačinu
 >
@@ -28,6 +25,5 @@ Kdo bude diskutovat? Třeba youtuber Lukefry, influencerka na novinářka Anna M
 >
 > * stačí, když napíšeš, že se chceš zúčastnit na e-mail medialni@ochrance.cz nebo na Instagram [@detskyombudsman](<>) 
 > * ozvi se do 24. května 2026
->
 
 Budeme se těšit!
