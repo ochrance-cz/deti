@@ -5,5 +5,5 @@
 {{- $raw = replaceRE "(;[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}
 
 {{ $optBlock := dict "display" "block" }}
-{{ $raw | .context.Page.RenderString $optBlock }}
-
+{{ $rendered := $raw | .context.Page.RenderString $optBlock }}
+{{ partial "fix-numeric-paragraphs.html" (dict "content" $rendered) }}
