@@ -1,2 +1,3 @@
 
-{{ .Inner | $.Page.RenderString | replaceRE "<ul>" (print "<ul class=\"_fancy-list " (.Get "format")  "\">") | safeHTML }}
+{{ $content := .Inner | $.Page.RenderString | replaceRE "<ul>" (print "<ul class=\"_fancy-list " (.Get "format")  "\">") }}
+{{ partial "fix-numeric-paragraphs.html" (dict "content" $content) }}

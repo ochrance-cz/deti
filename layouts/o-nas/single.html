@@ -56,7 +56,7 @@
         </ul>
       {{ end }}
 
-    	{{ .Content }}
+    	{{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
     </div>
   </article>
 </main>

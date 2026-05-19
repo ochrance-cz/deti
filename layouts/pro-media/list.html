@@ -5,7 +5,7 @@
   	<h1>{{ .Title }}</h1>
 
     <div class="text-content">
-      {{ .Content }}
+      {{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
     </div>
 
     {{ with .Params.downloads }}

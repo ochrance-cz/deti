@@ -4,7 +4,7 @@
     <h1>Manuál</h1>
 
     <div class="text-content">
-      {{ .Content }}
+      {{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
 
       <h4>Video z Youtube</h4>
 
