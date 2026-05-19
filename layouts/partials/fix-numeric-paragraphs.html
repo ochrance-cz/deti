@@ -3,10 +3,10 @@
   an ordered list. When the editor only intended a paragraph, we get an
   <ol start="N"> with one or more <li>s that should have been <p>s.
 
-  Heuristic: any <ol start="N"> with an explicit start attribute (N != 1 since
-  Goldmark omits start="1") is almost certainly a misclassification. Convert
-  each <li> back into a <p> prefixed with its sequential number, mirroring what
-  the editor wrote in markdown.
+  Heuristic: any Goldmark-generated <ol start="N"> with an explicit start
+  attribute (N != 1 since Goldmark omits start="1") is almost certainly a
+  misclassification. Convert each <li> back into a <p> prefixed with its
+  sequential number, mirroring what the editor wrote in markdown.
 
   For "1. ...", Goldmark emits a plain <ol> without a start attribute. To avoid
   flattening real numbered lists, only single-item plain <ol>s are converted.
@@ -14,9 +14,19 @@
   Trade-off: a deliberately numbered list starting at non-1 also gets flattened
   to paragraphs, as does a deliberate single-item list starting at 1. Such lists
   are vanishingly rare in editorial content; the editor can keep the list
-  semantics by using HTML directly.
+  semantics by using HTML directly. Raw HTML <ol> blocks from the source are
+  protected before the heuristic runs.
 */ -}}
 {{- $content := .content -}}
+{{- $raw := default "" .raw -}}
+{{- $protected := dict -}}
+{{- range $i, $rawOl := findRE `<ol(?:\s[^>]*)?>((?:.|\n)*?)</ol>` $raw -1 -}}
+  {{- $token := printf "%%FIX_NUMERIC_PARAGRAPHS_RAW_OL_%d%%" $i -}}
+  {{- if in $content $rawOl -}}
+    {{- $content = replace $content $rawOl $token -}}
+    {{- $protected = merge $protected (dict $token $rawOl) -}}
+  {{- end -}}
+{{- end -}}
 {{- range $match := findRESubmatch `<ol start="(\d+)">((?:.|\n)*?)</ol>` $content -1 -}}
   {{- $whole := index $match 0 -}}
   {{- $startN := index $match 1 | int -}}
@@ -37,5 +47,8 @@
     {{- $replacement := printf "<p>1. %s</p>\n" $itemContent -}}
     {{- $content = replace $content $whole $replacement -}}
   {{- end -}}
+{{- end -}}
+{{- range $token, $rawOl := $protected -}}
+  {{- $content = replace $content $token $rawOl -}}
 {{- end -}}
 {{- $content | safeHTML -}}

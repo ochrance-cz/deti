@@ -5,7 +5,7 @@
   <div class="home-grid">
     <div class="intro-text-wrapper">
       <div class="intro-text">
-      	{{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
+      	{{ partial "fix-numeric-paragraphs.html" (dict "content" .Content "raw" .RawContent) }}
       </div>
     </div>
     <div class="video-carousel">

@@ -16,7 +16,7 @@
 
 
 
-    	{{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
+    	{{ partial "fix-numeric-paragraphs.html" (dict "content" .Content "raw" .RawContent) }}
 
       {{ with .Params.attachments }}
         {{ partial "link-list.html" (dict "list" . "context" $) }}

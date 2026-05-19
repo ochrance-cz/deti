@@ -22,7 +22,7 @@
         </p>
       {{ end }}
 
-      {{ partial "fix-numeric-paragraphs.html" (dict "content" .Content) }}
+      {{ partial "fix-numeric-paragraphs.html" (dict "content" .Content "raw" .RawContent) }}
     </div>
   </article>
 

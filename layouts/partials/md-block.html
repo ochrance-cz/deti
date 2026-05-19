@@ -6,4 +6,4 @@
 
 {{ $optBlock := dict "display" "block" }}
 {{ $rendered := $raw | .context.Page.RenderString $optBlock }}
-{{ partial "fix-numeric-paragraphs.html" (dict "content" $rendered) }}
+{{ partial "fix-numeric-paragraphs.html" (dict "content" $rendered "raw" $raw) }}
