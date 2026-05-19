@@ -8,9 +8,13 @@
   each <li> back into a <p> prefixed with its sequential number, mirroring what
   the editor wrote in markdown.
 
+  For "1. ...", Goldmark emits a plain <ol> without a start attribute. To avoid
+  flattening real numbered lists, only single-item plain <ol>s are converted.
+
   Trade-off: a deliberately numbered list starting at non-1 also gets flattened
-  to paragraphs. Such lists are vanishingly rare in editorial content; the
-  editor can keep the list semantics by using HTML directly.
+  to paragraphs, as does a deliberate single-item list starting at 1. Such lists
+  are vanishingly rare in editorial content; the editor can keep the list
+  semantics by using HTML directly.
 */ -}}
 {{- $content := .content -}}
 {{- range $match := findRESubmatch `<ol start="(\d+)">((?:.|\n)*?)</ol>` $content -1 -}}
@@ -23,5 +27,15 @@
     {{- $replacement = printf "%s<p>%d. %s</p>\n" $replacement (add $startN $i) $itemContent -}}
   {{- end -}}
   {{- $content = replace $content $whole $replacement -}}
+{{- end -}}
+{{- range $match := findRESubmatch `<ol>((?:.|\n)*?)</ol>` $content -1 -}}
+  {{- $whole := index $match 0 -}}
+  {{- $inner := index $match 1 -}}
+  {{- $items := findRESubmatch `<li>((?:.|\n)*?)</li>` $inner -1 -}}
+  {{- if eq (len $items) 1 -}}
+    {{- $itemContent := index (index $items 0) 1 | replaceRE `^\s*<p>` "" | replaceRE `</p>\s*$` "" -}}
+    {{- $replacement := printf "<p>1. %s</p>\n" $itemContent -}}
+    {{- $content = replace $content $whole $replacement -}}
+  {{- end -}}
 {{- end -}}
 {{- $content | safeHTML -}}
