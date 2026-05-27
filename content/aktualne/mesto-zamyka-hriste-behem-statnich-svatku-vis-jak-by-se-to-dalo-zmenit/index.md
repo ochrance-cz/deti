@@ -3,7 +3,7 @@ title: Město zamyká hřiště během státních svátků. Víš, jak by se to 
 date: 2026-05-27T08:55:00
 perex: Zavřeno. Jeden kluk nám napsal, že ceduli s tímhle nápisem vidí pokaždé,
   když o státním svátku přijde na městské sportovní hřiště poblíž svého domova.
-  A nejspíš to tak bude i 6. a 7. července, kdy nás čekají nejbližší dny volna.
+  A nejspíš to tak bude i 5. a 6. července, kdy nás čekají nejbližší dny volna.
   Myslíš si, že je to správně? A napadá tě, jak by šlo zařídit, aby bylo hřiště
   přístupné častěji?
 ---
