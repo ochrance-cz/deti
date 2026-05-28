@@ -16,8 +16,6 @@ attachments:
 >
 > Navštívili jsme také dětský domov, kde si děti stěžovaly na špatnou atmosféru a chování některých dospělých. Zjistili jsme, že situace není tak vážná, jak se původně zdálo, ale doporučili jsme změny, které mají dětem zajistit bezpečnější a otevřenější prostředí.
 >
-> Usilujeme o přesun dětí z nevhodného prostředí Dětského domova Velké Heraltice
+> **Usilujeme o přesun dětí z nevhodného prostředí Dětského domova Velké Heraltice**
 >
 > Při návštěvě dětského domova ve Velkých Heralticích jsme upozornili, že prostředí barokního zámku neumožňuje vytvořit menší domácnosti, které děti potřebují pro běžný život. Navrhli jsme proto přesun zařízení do vhodnějších prostor a zahájení transformace dětských domovů. Moravskoslezský kraj po společném jednání přislíbil, že transformační plán začne připravovat.
->
->
