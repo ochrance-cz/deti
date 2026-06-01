@@ -17,7 +17,7 @@ perex: Bez mála rok funguje dětský ombudsman. Na jeho prvního představitele
 
 Od 1. července poslaly děti svému ombudsmanovi 176 podnětů. Často se týkaly například rodičovských sporů, postupů škol nebo poměrů v dětských zařízeních. Na základě jednoho z podnětů dětský ombudsman poprvé využil svou pravomoc a vstoupil do soudního řízení, aby podpořil práva dospívajícího chlapce a jeho mladšího bratra. 
 
-Dalších 1381 podnětů přišlo do rukou dětského ombudsmana od dospělých. Jeden takový nedávno zaujal i veřejnost. Šlo o případ Cermatu a jeho pravidla o tom, že opuštění učebny v průběhu přijímací zkoušky znamená její konec. 
+Dalších 1381 podnětů přišlo do rukou dětského ombudsmana od dospělých. Jeden takový nedávno zaujal i veřejnost. Šlo o [případ Cermatu a jeho pravidla o tom, že opuštění učebny v průběhu přijímací zkoušky znamená její konec](https://deti.ochrance.cz/tz/opusteni-ucebny-znamena-konec-prijimaci-zkousky-detsky-ombudsman-proveruje-puvod-pravidla-z-webu-cermatu/). 
 
 > I když zákon dětského ombudsmana v Česku ustanovil od 1. července 2025, jeho prvního představitele Martina Beneše zvolili poslanci až 6. března 2026. Ve své funkci začal působit 1. dubna. Do té doby jeho činnost vykonával zástupce ombudsmana a dětského ombudsmana Vít Alexander Schorm. 
 >
@@ -25,11 +25,11 @@ Dalších 1381 podnětů přišlo do rukou dětského ombudsmana od dospělých.
 
 **Systémové otázky**
 
-Kromě jednotlivých případů se dětský ombudsman v uplynulém roce zabýval i řadou systémových témat jako je například dostupnost škol pro děti s postižením nebo třeba zákaz mobilů ve školách. 
+Kromě jednotlivých případů se dětský ombudsman v uplynulém roce zabýval i řadou systémových témat jako je například [dostupnost škol pro děti s postižením](https://www.ochrance.cz/aktualne/stat_musi_zastavit_nedobrovolny_odliv_deti_s_postizenim_do_domaciho_vzdelavani_zada_poradni_organ_ombudsmana/) nebo třeba [zákaz mobilů ve školách](https://deti.ochrance.cz/tz/zakaz-mobilu-ve-skolach-podle-zastupce-detskeho-ombudsmana-neni-navrh-na-zmenu-zakona-dost-promysleny/). 
 
-Vyjadřoval se k některým návrhům zákonů a žádal, aby zohledňovaly zájmy dětí. V poslední době takto například upozornil na to, že veřejnoprávní média musí nadále sloužit i dětem, či podpořil návrh, podle kterého by lidé od 16 let mohli volit zastupitele obcí. 
+Vyjadřoval se k některým návrhům zákonů a žádal, aby zohledňovaly zájmy dětí. V poslední době takto například u[pozornil na to, že veřejnoprávní média musí nadále sloužit i dětem](https://deti.ochrance.cz/tz/verejnopravni-media-musi-nadale-slouzit-take-detem-k-tomu-ale-potrebuji-jistotu-financovani-rika-detsky-ombudsman/), či [podpořil návrh, podle kterého by lidé od 16 let mohli volit zastupitele obcí](https://deti.ochrance.cz/tz/detsky-ombudsman-podporil-navrh-podle-ktereho-by-lide-od-16-let-mohli-volit-zastupitele-obci/). 
 
-Připravil také vyjádření pro Ústavní soud, který rozhodoval o zrušení zvláštních zápisů pro ukrajinské prvňáčky. 
+Připravil také vyjádření pro Ústavní soud, který rozhodoval o [zrušení zvláštních zápisů pro ukrajinské prvňáčky. ](https://www.ochrance.cz/aktualne/zastavi_ustavni_soud_oddelene_zapisy_prvnacku_z_ukrajiny_zruseni_je_namiste_shoduji_se_ombudsman_i_zastupce_detskeho_ombudsmana/)
 
 **Návštěvy dětských domovů**
 
