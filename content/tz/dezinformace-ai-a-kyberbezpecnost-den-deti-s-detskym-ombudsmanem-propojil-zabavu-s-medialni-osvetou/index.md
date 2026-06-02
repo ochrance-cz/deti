@@ -22,7 +22,7 @@ Druhá skupina mladých „investigativců“ se pod křídly spolku Fakescape ,
 
 Program pokračoval panelovou diskuzí s názvem „Tvoje virtuální já“. Jejím obsahem byla kyberšikana, umělá inteligence, média i digitální detox. O své zkušenosti z online světa se podělil Tadeáš Novák, student jednoho z brněnských gymnázií i influneceři Anna Marie Veselá a Lukáš Fritscher alias Lukefry. Odborný pohled zazněl z úst Terezy Kráčmarové, zakladatelky spolku [Fakescape ](https://fakescape.cz/)a Pavla Schweinera, lektora projektu [E-bezpečí](https://www.e-bezpeci.cz/index.php/o-projektu/oprojektu).  Ti debatu obohatili o praktické tipy, jak se v mediálním prostoru lépe orientovat a jak se vyrovnávat s jeho negativními stránkami.
 
-Martin Beneš návštěvu dětí využil také k tomu, aby si vyslechl jejich názory a odpověděl na jejich dotazy: *„Potkávat se s dětmi tváří v tvář je pro mě nejpřirozenější cesta, jak si s nimi opravdu porozumět. Podobná setkání, jako bylo to dnešní, mi dávají příležitost zjistit, jak přemýšlejí. Co je pro ně důležité. A co od nás dospělých nejvíc potřebují.“*
+Martin Beneš návštěvu dětí využil také k tomu, aby si vyslechl jejich názory a odpověděl na jejich dotazy: *„Potkávat se s dětmi tváří v tvář je pro mě nejpřirozenější cesta, jak si s nimi opravdu porozumět. Podobná setkání, jako bylo to včerejší, mi dávají příležitost zjistit, jak přemýšlejí. Co je pro ně důležité. A co od nás dospělých nejvíc potřebují.“*
 
 ![](img-172.jpg "Panelová diskuze „Tvoje virtuální já“")
 
