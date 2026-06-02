@@ -3,7 +3,7 @@ title: "Dezinformace, AI a kyberbezpečnost: Den dětí s dětským ombudsmanem
   propojil zábavu s mediální osvětou"
 date: 2026-06-02T11:13:00
 perex: Asi sto šedesát dětí přišlo oslavit Mezinárodní den dětí s dětským
-  ombudsmanem Martinem Benešem. Místo školních lavic dnes usedly do
+  ombudsmanem Martinem Benešem. Místo školních lavic včera usedly do
   improvizovaných redakcí a vyzkoušely si na vlastní kůži práci novinářů.
   Interaktivní workshopy jim také přiblížily úskalí mediálního prostoru.
   Vyvrcholením celého dne byla panelová diskuze o různých stránkách online
