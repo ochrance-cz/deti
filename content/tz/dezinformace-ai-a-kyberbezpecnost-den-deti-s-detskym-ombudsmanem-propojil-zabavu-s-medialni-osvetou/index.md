@@ -1,5 +1,5 @@
 ---
-title: "Dezinformace, AI a kyberbezpečnost: Den dětí s dětským ombudsmanem
+title: "Dezinformace, AI a kyberbezpečnost: Den dětí s dětským ombudsmanem
   propojil zábavu s mediální osvětou"
 date: 2026-06-02T11:13:00
 perex: Asi sto šedesát dětí přišlo oslavit Mezinárodní den dětí s dětským
