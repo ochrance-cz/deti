@@ -1,8 +1,8 @@
 ---
 title: Dětský ombudsman brzy oslaví své první narozeniny
 date: 2026-06-01T10:26:00
-perex: Co všechno dětský ombudsman řešil  od 1. července loňského roku, kdy v
-  Česku vznikl?
+perex: Co všechno dětský ombudsman řešil od 1. července loňského roku, kdy v
+  Česku začal fungovat?
 ---
 
 Děti mu poslaly dětskému ombudsmanovi už 176 podnětů. Často se týkaly například rodičovských sporů, postupů škol nebo dětských domovů a dalších zařízení. Dalších 1381 podnětů přišlo do rukou dětského ombudsmana od dospělých.
