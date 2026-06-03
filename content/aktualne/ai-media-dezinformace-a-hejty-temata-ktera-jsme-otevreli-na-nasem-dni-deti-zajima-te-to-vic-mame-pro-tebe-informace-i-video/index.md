@@ -13,4 +13,4 @@ Nechyběl ani odpadkový koš na hejty, vyrábění placek, fotokoutek… A spou
 
 Koukni na video!
 
-{{< youtube "wEvOCU3eOsk&t=2s" >}}
+{{< youtube "wEvOCU3eOsk" >}}
