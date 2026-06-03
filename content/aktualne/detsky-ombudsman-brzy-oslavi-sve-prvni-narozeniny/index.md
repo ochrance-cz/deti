@@ -2,10 +2,9 @@
 title: Dětský ombudsman brzy oslaví své první narozeniny
 date: 2026-06-01T10:26:00
 perex: Co všechno dětský ombudsman řešil  od 1. července, kdy v Česku vznikl?
-  Děti mu poslaly už 176 podnětů. Často se týkaly například rodičovských sporů,
-  postupů škol nebo dětských domovů a dalších zařízení. Dalších 1381 podnětů
-  přišlo do rukou dětského ombudsmana od dospělých.
 ---
+
+Děti mu poslaly dětskému ombudsmanovi už 176 podnětů. Často se týkaly například rodičovských sporů, postupů škol nebo dětských domovů a dalších zařízení. Dalších 1381 podnětů přišlo do rukou dětského ombudsmana od dospělých.
 
 Kromě toho, že dětský ombudsman pomáhal konkrétním dětem s jejich starostmi, věnoval se také tématům, která ovlivňují hodně dětí najednou. Zabýval se třeba tím, jestli jsou [dostupné školy pro děti s postižením](https://www.ochrance.cz/aktualne/stat_musi_zastavit_nedobrovolny_odliv_deti_s_postizenim_do_domaciho_vzdelavani_zada_poradni_organ_ombudsmana/) nebo jestli je dobrý nápad [zakázat mobily ve školách](https://deti.ochrance.cz/aktualne/maji-se-ve-skolach-zakazat-mobily/). 
 
