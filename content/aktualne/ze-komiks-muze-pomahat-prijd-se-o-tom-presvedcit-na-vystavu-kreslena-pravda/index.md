@@ -15,12 +15,8 @@ Do soutěže se přihlásilo 60 mladých umělců a umělkyň ve věku 16 až 25
 
 Byla by obrovská škoda nepředstavit veřejnosti i ostatní mimořádné komiksy a plakáty, které v soutěži vznikly. Proto jsme výstavu Kreslená pravda přivezli do naší Kanceláře. Tak se stav na Údolní 39, do konce srpna si komiksy můžeš prohlédnout každý den od 8 do 16 h.
 
-![Na snímku je dětský pěvecký sbor, na pozadí jsou vystavené komiksy](dsc00625.jpg "Dětský pěvecký sbor na vernisáži výstavy")
 
-> ![Na snímku je žena, která dává na zeď jeden z komiksů.](dsc00581.jpg "Z příprav výstavy")
->
-> ![Na snímku jsou katalogy výstavy](dsc00599.jpg "Katalogy výstavy")
->
+
 > **Víš, že…**
 >
 > Pracovat můžeš po 15. narozeninách, pokud máš za sebou povinnou školní docházku. Denně nesmíš pracovat déle než 8 hodin a po 4 a půl hodinách máš mít přestávku 30 minut. Přesčasy jsou mladistvým zakázané.
@@ -30,3 +26,11 @@ Byla by obrovská škoda nepředstavit veřejnosti i ostatní mimořádné komik
 > Od minulého roku platí, že můžeš o letních prázdninách na brigádu už od 14 let i bez ukončení školní docházky. V tom případě ale potřebuješ souhlas rodičů a můžeš dělat jen lehké práce (jako pomoc v obchodě, roznos letáků apod) a pracovat můžeš maximálně 7 hodin denně – ne v noci. Před zahájením práce by tě měl zaměstnavatel poslat na pracovní prohlídku.
 >
 >
+
+
+
+![Dětský sbor zpívá na vernisáži](dsc00625.jpg "Dětský ukrajinský sbor přišel k vernisáži zazpívat")
+
+![Na snímku je kopice soutěžních katalogů](dsc00599.jpg "Katalogy z výstavy obsahují všechny soutěžní návrhy")
+
+![na snímku je postava, která věší jeden z výstavních návrhů](dsc00581.jpg "Z příprav výstavy")
