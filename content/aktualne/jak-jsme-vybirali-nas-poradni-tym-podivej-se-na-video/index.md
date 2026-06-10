@@ -13,4 +13,4 @@ perex: Poradní tým dětského ombudsmana je kompletní. Zajímá tě, jak jsme
 ---
 Uvidíme se v poradním týmu? Pusť si vzkaz od dětského ombudsmana
 
-{{< youtube "https://www.youtube.com/watch?v=lBtV3sYdVls&t=1s" >}}
+{{< youtube "lBtV3sYdVls&t=1s" >}}
