@@ -23,10 +23,8 @@ Ten s jejich názorem souhlasí. *„Zapojení dětí pro nás znamená dát jim
 
  *„Každý je tu jiný a to se mi líbí. Je tu skvělý kolektiv, který byl dobře vylosovaný,“* shodli se členové týmu. Poradní tým se znovu sejde po letních prázdninách. Jeho členové se tentokrát zaměří na tvoření pravidel toho, jakým způsobem spolu budou pracovat.
 
-
-
 > **Poradní tým dětského ombudsmana:**
 >
 > * Cílem poradního týmu je přinášet pohled a názory co nejrůznějších dětí. Společně s dětským ombudsmanem budou navrhovat řešení problémů a témat ochránce práv dětí.
-> * Členové poradního týmu se budou pravidelně setkávat s dětským ombudsmanem v Brně čtyřikrát do roka.
-> * Tým se kkládá ze 30 dětí ve věku od 12 a 18 let. Ty byly vybrány losem s ohledem na různost jejich zkušeností, životních situací, regionální, genderovou i věkovou rozmanitost.
+> * Členové poradního týmu se budou pravidelně setkávat s dětským ombudsmanem čtyřikrát do roka.
+> * Tým se skládá ze 30 dětí ve věku od 12 a 18 let. Ty byly vybrány losem s ohledem na různost jejich zkušeností, životních situací, regionální, genderovou i věkovou rozmanitost.
