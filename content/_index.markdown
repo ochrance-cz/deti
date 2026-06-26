@@ -1,6 +1,7 @@
 ---
 title: Ombudsman dětem a náctiletým
 videos:
+  - video: https://youtube.com/shorts/Kma_BYAo5aw
   - video: https://youtube.com/shorts/lBtV3sYdVls?si=ou2TXcmNpQfWAS6m
   - video: https://youtube.com/shorts/wEvOCU3eOsk?feature=share
   - video: https://youtube.com/shorts/OLFvl1TCOX0?feature=share
