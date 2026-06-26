@@ -8,4 +8,4 @@ perex: Prázdniny jsou tady. Teď vypni školu a přepni na léto. Ať už dneš
 ---
 A co chystá Lukefry o prázdninách?
 
-{{< youtube "https://youtube.com/shorts/Kma_BYAo5aw?si=TZ_OfZgFheABFjqi" >}}
+{{< youtube "https://youtu.be/Kma_BYAo5aw?si=0VayZImQ0TUnA1CP" >}}
