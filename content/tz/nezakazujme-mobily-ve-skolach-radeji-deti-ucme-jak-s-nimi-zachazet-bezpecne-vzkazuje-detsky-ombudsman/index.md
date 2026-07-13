@@ -22,7 +22,7 @@ Kromě samotného plošného zákazu mobilů vadí Martinu Benešovi i způsob, 
 
 Z návrhu novely není jasné ani to, zda a jak autoři návrhu konzultovali novinku v zákoně s dětmi. I ty by totiž měly vyjádřit svůj názor na záležitosti, které se jich týkají. Plyne to z našich mezinárodních závazků i z [Národní strategie ochrany práv dětí 2021–2029](https://mpsv.gov.cz/cms/documents/ee6ce3d4-77db-af53-9dcc-c034ee15779a/NARODNI+STRATEGIE+OCHRANY+PRAV+DETI+2021_2029_FINAL.pdf).  
 
-> Zákaz používání mobilů by se podle poslaneckého návrhu měl dotknout všech dětí a žáků v předškolním, základním a zájmovém vzdělávání. <https://odok.gov.cz/portal/veklep/material/pripominky/ALBSDVB9VVIG/>
+> Zákaz používání mobilů by se podle poslaneckého návrhu měl dotknout všech dětí a žáků v předškolním, základním a zájmovém vzdělávání. [](https://odok.gov.cz/portal/veklep/material/pripominky/ALBSDVB9VVIG/)
 
 Připomínky dětského ombudsmana Martina Beneše k návrhu školského zákona již minulý týden obdržel ministr
 spravedlnosti a předseda Legislativní rady vlády Jeroným Tejc. 
