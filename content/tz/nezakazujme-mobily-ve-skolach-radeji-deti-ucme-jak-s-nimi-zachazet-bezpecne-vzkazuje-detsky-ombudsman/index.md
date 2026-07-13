@@ -10,9 +10,8 @@ perex: Proti plošnému zákazu mobilů se vymezil dětský ombudsman Martin Ben
   zákona vznikal bez širší debaty s pedagogy, psychology a zřejmě i bez
   samotných dětí, kterých se týká.
 attachments:
-  - link: https://odok.gov.cz/portal/veklep/material/pripominky/ALBSDVB9VVIG/
-    file: ""
-    title: Připomínky dětského ombudsmana v plném znění
+  - title: Připomínky dětského ombudsmana v plném znění
+    link: https://odok.gov.cz/portal/veklep/material/pripominky/ALBSDVB9VVIG/
 ---
 *„Digitální technologie jsou neoddělitelnou součástí našich životů. Plošný zákaz mobilů ve školách jde zcela proti této realitě. Pokud chceme, aby si děti osvojily schopnost využívat technologie bezpečně a vyváženě, zákazy tomu nepomohou. Namísto nich raději podpořme školy, ať rozvíjí digitální gramotnost žáků i jejich kritické myšlení,“* shrnuje dětský ombudsman Martin Beneš svou hlavní výtku vůči poslanecké novele školského zákona. 
 
