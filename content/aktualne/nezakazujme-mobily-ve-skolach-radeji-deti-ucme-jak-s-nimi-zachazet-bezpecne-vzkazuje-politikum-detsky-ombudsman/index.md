@@ -6,9 +6,9 @@ perex: Možná se už se k tobě doneslo, že se připravuje zákon, který by m
   zakázat používání mobilů ve školách. Co si o tom myslí dětský ombudsman Martin
   Beneš?
 ---
-Mobil má dnes skoro každý z nás. Je součástí našeho každodenního života. Proto je důležité naučit se technologie používat bezpečně a s rozumem. Zákazy to ale nikoho nenaučí.
+Mobil má dnes skoro každý z nás. Je součástí našeho každodenního života. Proto je důležité používat technologie bezpečně a s rozumem. Zákazy to ale nikoho nenaučí. Jsou to školy, kdo by podle dětského ombudsmana měl dětem ukázat, jak se v online světě pohybovat. 
 
-Místo hromadného zákazu, by si podle dětského ombudsmana každá škola měla nastavit vlastní pravidla pro používání mobilů. Ostatně většina škol už je stejně má.
+A taky by si podle něj každá škola měla mít možnost nastavit vlastní pravidla pro používání mobilů. Ostatně většina škol už je stejně má.
 
 Dětskému ombudsmanovi navíc vadí třeba to, že se při přípravě návrhu zákona nikdo nezeptal dětí na jejich názor. 
 Přitom právě děti by měly mít možnost mluvit do rozhodnutí, která se jich přímo týkají. 
