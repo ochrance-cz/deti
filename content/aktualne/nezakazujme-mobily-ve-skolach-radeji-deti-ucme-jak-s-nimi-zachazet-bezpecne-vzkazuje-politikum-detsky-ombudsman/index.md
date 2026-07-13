@@ -2,9 +2,9 @@
 title: Nezakazujme mobily ve školách. Raději děti učme, jak s nimi zacházet
   bezpečně, vzkazuje politikům dětský ombudsman
 date: 2026-07-13T13:11:00
-perex: "> Možná se už se k tobě doneslo, že se připravuje zákon, který by mohl
+perex: Možná se už se k tobě doneslo, že se připravuje zákon, který by mohl
   zakázat používání mobilů ve školách. Co si o tom myslí dětský ombudsman Martin
-  Beneš?"
+  Beneš?
 ---
 Mobil má dnes skoro každý z nás. Je součástí našeho každodenního života. Proto je důležité naučit se technologie používat bezpečně a s rozumem. Zákazy to ale nikoho nenaučí.
 
