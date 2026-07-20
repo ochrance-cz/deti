@@ -21,10 +21,6 @@ gallery:
 ---
 ## Kontakt pro média
 
-***9.–17. července** se prosím s veškerými mediálními dotazy a žádostmi obracejte na e-mail **medialni@ochrance.cz**. Na Vaši zprávu zareaguje některý z pracovníků PR týmu.*
-
-
-
 * Michaela Vaisová 
 * [vaisova@ochrance.cz](mailto:vaisova@ochrance.cz) / [medialni@ochrance.cz](mailto:medialni@ochrance.cz)
 * 607 275 704
