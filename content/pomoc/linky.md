@@ -32,7 +32,7 @@ title: Seznam linek důvěry
 
 (od pondělí do pátku, vždy od 14:00 do 18:30 nebo v sobotu mezi 9:00 až 13:30)
 
-Chat Centra LOCIKA [](https://www.detstvibeznasili.cz/chat-detstvi-bez-nasili)
+[Chat Centra LOCIKA ](https://www.detstvibeznasili.cz/chat-detstvi-bez-nasili)
 
 ## Poradna při finanční tísni
 
