@@ -25,8 +25,14 @@ title: Seznam linek důvěry
 
 ## Linka Anabell – řešení problémů souvisejících s poruchou příjmu potravy
 
-774 467 293 (pondělí 8-16 hod., úterý 10-18 hod., středa až pátek 8-16 hod., zpoplatněno dle tvého aktuálního tarifu)\
+774 467 293 (pondělí 8-16 hod, úterý 10-18 hod, středa až pátek 8-16 hod., zpoplatněno dle tvého aktuálního tarifu)\
 [anabell.cz](http://www.anabell.cz/cz/sluzby/linka-anabell)
+
+## Chat Centra LOCIKA
+
+(od pondělí do pátku, vždy od 14:00 do 18:30 nebo v sobotu mezi 9:00 až 13:30)
+
+Chat Centra LOCIKA [](https://www.detstvibeznasili.cz/chat-detstvi-bez-nasili)
 
 ## Poradna při finanční tísni
 
