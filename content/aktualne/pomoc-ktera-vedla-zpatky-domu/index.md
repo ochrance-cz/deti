@@ -1,5 +1,5 @@
 ---
-title: "Když pomoc úřadů dá rodině šanci na lepší život "
+title: "Když pomoc úřadů dá rodině šanci vybudovat nový život "
 date: 2026-07-30T08:12:00
 perex: Někdy se stane, že rodiče přestanou péči o děti zvládat. Pak potřebují
   pomoc. Dětský ombudsman se podíval na případ dvou sester, které nějakou dobu
