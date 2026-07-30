@@ -1,5 +1,5 @@
 ---
-title: Žili ve stanu, teď budují nový život. Dětský ombudsman prověřil postup úřadů
+title: Žily ve stanu, teď budují nový život. Dětský ombudsman prověřil postup úřadů
 date: 2026-07-30T08:03:00
 perex: Dvě sestry musely dočasně opustit svou matku. Dětský ombudsman prověřil
   postup tří orgánu sociálně-právní ochrany dětí (OSPOD) a zjistil, že po
