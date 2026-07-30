@@ -6,8 +6,8 @@ perex: Dětský ombudsman Martin Beneš vylosoval členy svého poradního týmu
   Skládá se z dětí a dospívajících od 12 do 18 let, kteří zareagovali na jeho
   výzvu. Jejich cílem bude přinášet svůj pohled, nápady a navrhovat řešení
   problémů, které bude řešit dětský ombudsman. Svůj tým si dětský ombudsman
-  vybral tak, aby rovnoměrně obsahoval děti z nejrůznějšími životními
-  zkušenostmi
+  vybral tak, aby rovnoměrně obsahoval děti s nejrůznějšími životními
+  zkušenostmi.
 ---
 *„Hledali jsme jak děti aktivní, tak ty, které jsou běžně méně slyšet. Třeba ty, které vyrůstají mimo rodinu, děti z vyloučených lokalit, z etnických a národnostních menšin, děti se zdravotním znevýhodněním, zranitelností ve škole, ale i děti mimořádně talentované,“* popisuje dětský ombudsman Martin Beneš s tím, že takový tým se mu nakonec podařilo vylosovat na základě rozdělení do různých skupin. Při výběru členů týmu navíc řešil věk, gender i regionální zastoupení.
 
