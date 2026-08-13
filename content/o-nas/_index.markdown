@@ -29,11 +29,6 @@ links:
     title: Čím se zabýváme
   - link: https://deti.ochrance.cz/o-nas/desatero/
     title: Desatero komunikace
-  - link: https://deti.ochrance.cz/o-nas/elevator_napadem_to_zacina/
-    title: "Elevator: nápadem to začíná (soutěž pro střední školy)"
-  - link: https://deti.ochrance.cz/o-nas/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/
-    title: Jak ombudsmana vidí děti? (digitální galerie soutěže Jak pomáhá ombudsman
-      dětem)
   - link: https://deti.ochrance.cz/o-nas/nabidka_pro_skolni_kolektivy/
     title: Nabídka pro školní kolektivy
   - link: https://deti.ochrance.cz/o-nas/ochrana_tvych_osobnich_udaju/
