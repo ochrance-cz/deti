@@ -23,8 +23,8 @@ facts: >-
 links:
   - link: https://www.ochrance.cz/o-nas/#:~:text=Provoz%20Kanceláře,-veřejného%20ochránce%20práv
     title: O Kanceláři veřejného ochránce práv a ochránce práv dětí
-  - link: /media/verze_1.png
-    title: Informační leták o působnosti ombudsmana
+  - link: https://www.ochrance.cz/letaky/jak_ti_pomuze_detsky_ombudsman_letak_pro_deti/detsky-ombudsman-letak-pro-deti.pdf
+    title: "Informační leták: Jak ti ombudsman pomůže?  "
   - link: https://deti.ochrance.cz/o-nas/cim-se-zabyva/
     title: Čím se zabýváme
   - link: https://deti.ochrance.cz/o-nas/desatero/
