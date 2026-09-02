@@ -17,6 +17,6 @@ Co my na to?
 
 Zjistili jsme, že má pravdu. Dětský domov nesmí od dětí chtít peníze za rovnátka ani za jiné zdravotní služby. Jejich zaplacení je povinnost dětského domova (pokud si je nevyžádali rodiče dítěte).
 
-A jak to dopadlo? 
+A jak to celé dopadlo? 
 
 Domov nakonec svůj postoj změnil a Bára za rovnátka platit nemusela.
