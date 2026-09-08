@@ -1,6 +1,6 @@
 ---
 title: "Dětský ombudsman na pondělním jednání vlády: Komisi pro přezkum náhlého
-  úmrtí by měl zakotvit zákon"
+  úmrtí dětí by měl zakotvit zákon"
 date: 2026-09-08T16:11:00
 perex: Komise pro přezkum náhlého úmrtí dětí vznikla letos na jaře. Podle
   dětského ombudsmana Martina Beneše se však její aktuální podoba ukazuje jako
@@ -17,7 +17,9 @@ attachments:
 „*Každé úmrtí dítěte je tragédie. Pokud máme být schopni dobře chránit děti, musíme se poučit z případů, kdy jejich
 ochrana selhala. Proto je nutné, aby v České republice, tak jako v mnoha jiných zemích, systematicky fungovala nezávislá, nestranná a odborná komise,“* [shrnul už dříve](https://deti.ochrance.cz/tz/prvni-legislativni-doporuceni-detskeho-ombudsmana-komise-pro-prezkum-nahleho-umrti-deti-musi-byt-v-zakone/) hlavní argumenty, proč vládě doporučil legislativní zakotvení Komise pro přezkum náhlých úmrtí dětí, dětský ombudsman Martin Beneš. Ten dále navrhuje například to, aby Komise jednou za rok předkládala své závěry vládě, která by měla povinnost je projednat a reagovat potřebnými opatřeními.
 
-O Komisi hovořil Martin Beneš také v pořadu [Dvacet minut R](https://radiozurnal.rozhlas.cz/ochrana-ohrozenych-deti-musime-se-snazit-o-co-nejvetsi-sanci-tragediim-zabranit-9641550)[adiožurnálu](https://radiozurnal.rozhlas.cz/ochrana-ohrozenych-deti-musime-se-snazit-o-co-nejvetsi-sanci-tragediim-zabranit-9641550): *„Těžko si představit, že komise při ministerstvu práce a sociálních věcí bude na systémových změnách zaúkolovávat jiné resorty. Právě proto si myslím, že taková komise by měla, aby mohla fungovat dobře, být nadresortní.“*
+O Komisi hovořil Martin Beneš také v pořadu [Dvacet minut R](https://radiozurnal.rozhlas.cz/ochrana-ohrozenych-deti-musime-se-snazit-o-co-nejvetsi-sanci-tragediim-zabranit-9641550)[adiožurnálu](<>): *„Těžko si představit, že komise při ministerstvu práce a sociálních věcí bude na systémových změnách zaúkolovávat jiné resorty. Právě proto si myslím, že taková komise by měla, aby mohla fungovat dobře, být nadresortní.“*
+
+
 
 {{< youtube "https://youtu.be/yejQdyEFSMI?si=2w-6rImibXgWqRjs" >}}
 
