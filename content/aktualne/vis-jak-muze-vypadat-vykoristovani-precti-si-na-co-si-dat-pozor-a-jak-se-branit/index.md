@@ -26,4 +26,4 @@ perex: Dětský ombudsman se právě zabývá mimořádně závažným případe
 >
 > * Policii
 > * Inspektorát práce
-> * [Neziskovkou organizaci La Strada](https://www.strada.cz/sos-linka)
+> * [Neziskovou organizaci La Strada](https://www.strada.cz/sos-linka)
