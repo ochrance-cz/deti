@@ -14,6 +14,8 @@ perex: Dětský ombudsman se právě zabývá mimořádně závažným případe
 * Kontrolují tě, kam chodíš a s kým se stýkáš.
 * Tlačí tě do intimního kontaktu.
 
+
+
 **Víš na co si dát pozor, abys nespadl do pasti vykořisťování? Dodržuj tyto bezpečnostní kroky:**
 
 * Ověř si, kdo ti nabízí práci nebo bydlení. Pozor na neoficiální nabídky a neověřené agentury.
