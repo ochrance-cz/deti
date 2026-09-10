@@ -49,7 +49,7 @@ Podle Martina Beneše jde o jeden z případů, který ukazuje, proč by měly z
 >
 > Dávejte si pozor na neoficiální zprostředkovatele a neověřené agentury, které nabízí „pomoc“ s obstaráním práce nebo bydlení.
 >
-> Poskytovatel ubytování, placeného i neplaceného, po nesmí požadovat žádné „protislužby“ (např. ve formě neoficiální práce nebo sexuálních služeb).
+> Poskytovatel ubytování, placeného i neplaceného, nesmí požadovat žádné „protislužby“ (např. ve formě neoficiální práce nebo sexuálních služeb).
 >
 > Nepodepisujte nic, čemu nerozumíte. Nedávejte nikomu své doklady.
 >
