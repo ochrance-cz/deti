@@ -14,6 +14,9 @@ attachments:
   - title: "Informace Ministerstva práce a sociálních věcí k tématu prevence
       nelegálního zaměstnávání a pracovního vykořisťování "
     file: https://mpsv.gov.cz/nelegalni-zamestnavani-1
+  - title: Zpráva o šetření postupu inspektorátu práce v souvislosti s pracovním
+      úrazem s následkem smrti nezletilého
+    file: https://www.ochrance.cz/uploads-import/ESO/Vlastn%C3%AD%20iniciativa-748_2026_DO_P%C5%A0T-Z%C5%A0_%C2%A7_18_1-final%20(2).pdf
 ---
 Nezletilý ukrajinský chlapec pracoval v loňském roce ve výrobním objektu, kde nelegálně vykonával pomocné práce. Šlo o prostředí neúměrně rizikové jeho věku. Zejména proto, že na pracovišti byly umístěny nebezpečné stroje, které byly nepřetržitě v provozu. Právě jeden z nich způsobil chlapci těžké zranění, jehož následkům přes snahy záchranářů podlehl.
 
