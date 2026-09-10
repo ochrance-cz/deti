@@ -9,9 +9,6 @@ perex: Do případu tragické smrti chlapce, který zahynul na následky pracovn
   dětského ombudsmana ukazují na jeho možné vykořisťování. Vzhledem k tomuto
   závažnému podezření se rozhodl podat trestní oznámení.
 attachments:
-  - title: Zpráva dětského ombudsmana o šetření postupu oblastního inspektorátu
-      práce v souvislosti s pracovním úrazem s následkem smrti nezletilého
-    file: https://eso.ochrance.cz/Nalezene/Edit/15036
   - title: Leták ombudsmana „Vykořisťování“
     file: https://www.ochrance.cz/letaky/vykoristovani/vykoristovani.pdf
   - title: "Informace Ministerstva práce a sociálních věcí k tématu prevence
