@@ -13,7 +13,7 @@ attachments:
       práce v souvislosti s pracovním úrazem s následkem smrti nezletilého
     file: https://eso.ochrance.cz/Nalezene/Edit/15036
   - title: Leták ombudsmana „Vykořisťování“
-    file: "https://www.ochrance.cz/letaky/vykoristovani/vykoristovani.pdf "
+    file: https://www.ochrance.cz/letaky/vykoristovani/vykoristovani.pdf
   - title: "Informace Ministerstva práce a sociálních věcí k tématu prevence
       nelegálního zaměstnávání a pracovního vykořisťování "
     file: https://mpsv.gov.cz/nelegalni-zamestnavani-1
