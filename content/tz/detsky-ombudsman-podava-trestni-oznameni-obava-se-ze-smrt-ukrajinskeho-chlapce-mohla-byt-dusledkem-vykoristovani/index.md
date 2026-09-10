@@ -22,7 +22,7 @@ Nezletilý ukrajinský chlapec pracoval v loňském roce ve výrobním objektu, 
 
 *„Je mi nesmírně líto zbytečně zmařeného mladého života. Hluboce soucítím s rodinou, která přišla o své dítě,“* vyjádřil smutek nad tragickým úmrtím chlapce dětský ombudsman Martin Beneš. Ten se o případu dozvěděl z médií a vzhledem k míře jeho závažnosti se jím rozhodl zabývat. Nyní na základě svých zjištění považuje za nezbytné reagovat.
 
-*„Kvůli nebezpečným pracovním podmínkám zahynulo dítě, cizinec, kterému nelegální práci zprostředkovala agentura působící bez povolení. Tyto okolnosti ve mně vzbuzují silné podezření, že chlapec mohl být obětí vykořisťování, navíc s naprosto fatálním následkem. Je potřeba vyslat jasný signál, že podobné zacházení s dětmi je v naší zemi neakceptovatelné, proto v této věci podávám trestní oznámení,“* uvedl Martin Beneš a dále doplňuje, *„i když žádný z kroků, které uděláme, už chlapci život nevrátí, jsou nutné kvůli dalším ohroženým dětem, jejichž počty můžeme jen odhadovat“.*
+*„Kvůli nebezpečným pracovním podmínkám zahynulo dítě, cizinec, kterému nelegální práci zprostředkovala agentura působící bez povolení. Tyto okolnosti ve mně vzbuzují silné podezření, že chlapec mohl být obětí vykořisťování, navíc s naprosto fatálním následkem. Je potřeba vyslat jasný signál, že podobné zacházení s dětmi je v naší zemi neakceptovatelné, proto v této věci podávám trestní oznámení,“* uvádí Martin Beneš a dále doplňuje, *„i když žádný z kroků, které uděláme, už chlapci život nevrátí, jsou nutné kvůli dalším ohroženým dětem, jejichž počty můžeme jen odhadovat.“*
 
 Z kontrolní činnosti inspektorátu práce, kterou Martin Beneš v rámci tohoto případu prošetřoval, vyplývá, že na pracovišti a při zaměstnání chlapce došlo k řadě pochybení. K tomu Beneš dodává: *„Pracovní úraz zavinil smrt, navíc smrt dítěte. Věřím proto, že inspektorát důsledně využije své kompetence a stanoví sankce, které odpovídají závažnosti provinění.“*
 
@@ -30,19 +30,18 @@ Podle Martina Beneše jde o jeden z případů, který ukazuje, proč by měly z
 
 [Za trestný čin vykořisťování, kterým pachatel způsobí smrt, hrozí odnětí svobody na deset až osmnáct let nebo propadnutí majetku.](https://e-sbirka.gov.cz/sb/2009/40/2026-01-01?zalozka=text)
 
->
->
 > **Kdy může jít o vykořisťování?** 
 >
 > **Pokud někdo člověka** 
-> - nutí do práce, se kterou nesouhlasí nebo která je nebezpečná či nedůstojná;
-> - obírá o doklady;
-> - podvádí;
-> - neplatí za práci;
-> - omezuje na svobodě;
-> - kontroluje v tom, kam chodí a s kým se stýká;
-> - tlačí do intimního či sexuálního kontaktu;
-> - zastrašuje nebo mu vyhrožuje, či mu ubližuje.
+>
+> * nutí do práce, se kterou nesouhlasí nebo která je nebezpečná či nedůstojná;
+> * obírá o doklady;
+> * podvádí;
+> * neplatí za práci;
+> * omezuje na svobodě;
+> * kontroluje v tom, kam chodí a s kým se stýká;
+> * tlačí do intimního či sexuálního kontaktu;
+> * zastrašuje nebo mu vyhrožuje, či mu ubližuje.
 >
 > **Preventivní kroky**
 >
@@ -57,40 +56,3 @@ Podle Martina Beneše jde o jeden z případů, který ukazuje, proč by měly z
 > **Kde hledat pomoc?** 
 >
 > Můžete vyhledat pomoc neziskových organizací – například [La Strada](https://www.strada.cz/), policie, či inspektorátu práce.
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
