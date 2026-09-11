@@ -12,4 +12,4 @@ Chtějí být užiteční, potkávat inspirativní lidi jako jsou někteří inf
 
 Poradní tým se znovu sejde po letních prázdninách. Jeho členové se tentokrát zaměří na tvoření pravidel toho, jakým způsobem spolu budou pracovat.
 
-![Na fotce jsou děti, které jsou součástí poradního týmu. Stojí před vchodem do budovy ombudsmana a mávají rukama, které jsou obarvené na modrou a růžovou.](poradni-tym-do.png "Poradní tým dětského ombudsmana se poprvé sešel")
+![Na fotce jsou děti, které jsou součástí poradního týmu. Stojí před vchodem do budovy ombudsmana a mávají rukama, které jsou obarvené na modrou a růžovou.](oprava_spol_potka.png "Poradní tým dětského ombudsmana se poprvé sešel")
