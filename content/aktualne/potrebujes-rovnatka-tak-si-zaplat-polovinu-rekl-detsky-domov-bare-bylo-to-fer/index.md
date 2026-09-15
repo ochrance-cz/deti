@@ -2,9 +2,8 @@
 title: Potřebuješ rovnátka? Tak si zaplať polovinu, řekl dětský domov Báře. Bylo
   to fér?
 date: 2026-09-02T09:35:00
-perex: >-
-  
-  Možná nosíš ovnátka i ty. A tak víš, že nejsou zrovna levná. Kdo je platí dětem, které vyrůstají v dětském domově?
+perex: Možná nosíš rovnátka i ty. A tak víš, že nejsou zrovna levná. Kdo je
+  platí dětem, které vyrůstají v dětském domově?
 attachments:
   - title: "Zajímá tě tento příběh víc? "
     file: https://deti.ochrance.cz/tz/potrebujes-rovnatka-tak-si-doplat-polovinu-rekl-detsky-domov-sve-sverenkyni-ta-se-obratila-na-detskeho-ombudsmana/
