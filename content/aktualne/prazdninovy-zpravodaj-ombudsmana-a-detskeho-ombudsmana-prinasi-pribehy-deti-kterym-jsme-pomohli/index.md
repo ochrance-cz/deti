@@ -13,8 +13,7 @@ attachments:
   - title: Zpravodaj za červenec a srpen
     file: https://www.ochrance.cz/zpravodaj/zpravodaj_ombudsmana_a_detskeho_ombudsmana_za_cervenec_a_srpen_2026/
 ---
-### 
-**Když jde o bezpečí dítěte, je potřeba jednat**
+### Když jde o bezpečí dítěte, je potřeba jednat
 
 Matka pečovala o syna v nevyhovujících podmínkách a po jeho úrazu vzniklo podezření na týrání. OSPOD proto navrhl jeho dočasné umístění k pěstounům, aby zajistil jeho bezpečí, a zároveň pomáhal matce udržet se synem kontakt. Prověřili jsme postup OSPOD a zjistili, že úřad jednal v zájmu ochrany dítěte.
 
@@ -22,8 +21,7 @@ Matka pečovala o syna v nevyhovujících podmínkách a po jeho úrazu vzniklo 
 
 Když Úřad práce udělá chybu… Kdo ji zaplatí? Babička se starala o tři vnuky a dostávala pro ně peníze na jejich potřeby. Kluci pak začali dostávat i sirotčí důchody. Babička to Úřadu práce nejdřív neoznámila – a to byla chyba! Jenže pak přišel zvrat. Babička v dubnu 2024 uvedla sirotčí důchody v žádosti o jiné dávky. Úřad práce tedy už o nich věděl. Přesto dál posílal peníze ve stejné výši. A vzpomněl si na to až o rok později. Výsledek? Úřad práce chtěl po babičce vrátit všechny peníze. My jsme ale řekli: Pozor, takhle ne! Babička musí vrátit peníze pouze za dobu, kdy kluci důchody už dostávali a babička to úřadu neřekla. Za pozdější období už ne. Úřad totiž informace měl a měl s nimi pracovat. I úřad může udělat chybu. Není ale fér, aby její následky nesl někdo, kdo ji nezavinil. Úřad práce svou chybu uznal a rozhodnutí se změnilo. Babička tak nemusí vracet peníze, které dostala navíc kvůli chybě úřadu.
 
-### 
-**I při náročném odebírání dětí musí být na prvním místě jejich bezpečí** 
+### I při náročném odebírání dětí musí být na prvním místě jejich bezpečí 
 
 Soud rozhodl o odebrání šesti dětí, které žily v extrémně zanedbaném domě. Zásah však proběhl velmi dramaticky  a děti byly vyděšené. Zjistili jsme, že OSPOD nebyl na takto vyhrocenou situaci dostatečně připravený a dětem po zásahu nezajistil podporu. OSPOD proto upraví postupy pro podobné případy, aby už další děti měly potřebnou podporu.
 
