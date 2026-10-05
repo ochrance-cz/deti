@@ -1,0 +1,97 @@
+{
+  "bucket": "prod-runtime",
+  "project": "ochrance-deti-ot3wkf",
+  "assets": [
+    {
+      "localPath": "public/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/poradni-tym-do.png",
+      "originalPath": "/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/poradni-tym-do.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/poradni-tym-do.png",
+      "sha256": "ed2ea1a258e67d99b00ce5a312db70c031107811b8f01c327c14b5d541880d93",
+      "bytes": 4139960
+    },
+    {
+      "localPath": "public/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/oprava_spol_potka.png",
+      "originalPath": "/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/oprava_spol_potka.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/maji-do-toho-co-mluvit-detsky-ombudsman-se-poprve-sesel-se-svym-poradnim-tymem/oprava_spol_potka.png",
+      "sha256": "5b29852e80e5989c74be254bb8c814e68b7593aa5be96673a77ba3de48a343fb",
+      "bytes": 1268834
+    },
+    {
+      "localPath": "public/aktualne/mas-pravo-na-duveryhodne-informace-a-porady-o-tematech-ktera-se-te-tykaji-proto-jsme-si-oblekli-cernou/fb_prispevek.png",
+      "originalPath": "/aktualne/mas-pravo-na-duveryhodne-informace-a-porady-o-tematech-ktera-se-te-tykaji-proto-jsme-si-oblekli-cernou/fb_prispevek.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/mas-pravo-na-duveryhodne-informace-a-porady-o-tematech-ktera-se-te-tykaji-proto-jsme-si-oblekli-cernou/fb_prispevek.png",
+      "sha256": "2823ee4d12d9f188d9e9aa71be1695df7740298863b9b28496b025db6cf3f4a9",
+      "bytes": 1005810
+    },
+    {
+      "localPath": "public/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03676.jpg",
+      "originalPath": "/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03676.jpg",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03676.jpg",
+      "sha256": "54a75e89d159830cc2546d791a5cb76faad43946934f5fdd9318e20d2acfb193",
+      "bytes": 8487645
+    },
+    {
+      "localPath": "public/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03649.jpg",
+      "originalPath": "/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03649.jpg",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03649.jpg",
+      "sha256": "c5eb0a7c4174bcb8c8f3e4b18460880a64a3e39a15443acae28d50d8c41ad644",
+      "bytes": 7212327
+    },
+    {
+      "localPath": "public/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03617.jpg",
+      "originalPath": "/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03617.jpg",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/dsc03617.jpg",
+      "sha256": "9930c8597a32f5d3d90d569e217ebd17b07be2b5d6f21c4a847100326dc22a13",
+      "bytes": 8790071
+    },
+    {
+      "localPath": "public/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/2.jpg",
+      "originalPath": "/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/2.jpg",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/sport-kamaradi-a-nezapomenutelne-zazitky-navstivili-jsme-olympiadu-deti-a-mladeze/2.jpg",
+      "sha256": "8dfc4b5024ee3c66789bbc743308845a0ce5462e63fd73e525c73b0952762b20",
+      "bytes": 5409976
+    },
+    {
+      "localPath": "public/aktualne/taky-te-stvou-zle-komentare-na-sitich-mame-pro-ne-jedno-specialni-misto-odpadkac-na-hejty/1.png",
+      "originalPath": "/aktualne/taky-te-stvou-zle-komentare-na-sitich-mame-pro-ne-jedno-specialni-misto-odpadkac-na-hejty/1.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/aktualne/taky-te-stvou-zle-komentare-na-sitich-mame-pro-ne-jedno-specialni-misto-odpadkac-na-hejty/1.png",
+      "sha256": "bb516b6f56f4cda5600b82307c1321fc179fd85d068c93cce114429d29853a7c",
+      "bytes": 1697186
+    },
+    {
+      "localPath": "public/images/domov/nemocnice.png",
+      "originalPath": "/images/domov/nemocnice.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/images/domov/nemocnice.png",
+      "sha256": "e60980eb5cb2b288e31c98db42b8222a4a964838aebde8928929944ce48ef85b",
+      "bytes": 236146
+    },
+    {
+      "localPath": "public/images/domov/nesouhlas.png",
+      "originalPath": "/images/domov/nesouhlas.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/images/domov/nesouhlas.png",
+      "sha256": "96610389d084a302c4a1457224fe147e9b509ccd08f3ad1e16d10df877b751bd",
+      "bytes": 201353
+    },
+    {
+      "localPath": "public/images/domov/lecba.png",
+      "originalPath": "/images/domov/lecba.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/images/domov/lecba.png",
+      "sha256": "e2f9c7feea36e8ac38aaeef502b6eb52f58d45a9198a966ee4471c5f77686bc1",
+      "bytes": 178295
+    },
+    {
+      "localPath": "public/images/domov/soud.png",
+      "originalPath": "/images/domov/soud.png",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/images/domov/soud.png",
+      "sha256": "bf3d65bfad4995149b8c22c34716e06c4481aa091373b0f26b3810998fc9fd1c",
+      "bytes": 259887
+    },
+    {
+      "localPath": "public/tz/prvni-legislativni-doporuceni-detskeho-ombudsmana-komise-pro-prezkum-nahleho-umrti-deti-musi-byt-v-zakone/legislativni-doporuceni.pdf",
+      "originalPath": "/tz/prvni-legislativni-doporuceni-detskeho-ombudsmana-komise-pro-prezkum-nahleho-umrti-deti-musi-byt-v-zakone/legislativni-doporuceni.pdf",
+      "url": "https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/tz/prvni-legislativni-doporuceni-detskeho-ombudsmana-komise-pro-prezkum-nahleho-umrti-deti-musi-byt-v-zakone/legislativni-doporuceni.pdf",
+      "sha256": "596a1b7140622022d5de1af82e60afe2bac6051fbd1ef4cd36481ad20a91b1a4",
+      "bytes": 168107
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "flowbite/plugin";
+
+@source "../../src/**/*.{astro,html,js,jsx,md,mdx,ts,tsx}";
+@source "../../src/content/**/*.{md,mdx}";
+
+.text-content h1, .text-content h2, article h1, article h2, ._site-footer h1, ._site-footer h2, ._news h3 {
+	font-weight: bold;
+}

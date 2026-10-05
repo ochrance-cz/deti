@@ -1,0 +1,49 @@
+diff --git a/src/content-config-ast.ts b/src/content-config-ast.ts
+--- a/src/content-config-ast.ts
++++ b/src/content-config-ast.ts
+@@ -944,6 +944,12 @@
+ 
+ 	// (z|n).array(<inner>)  →  array; inspect the element type
+ 	if ((ns === 'z' || ns === 'n') && fn === 'array') {
++		// n.array(element, { label, help, ... }) carries layout hints on the array itself.
++		const layoutArg = node.arguments[1]
++		if (ns === 'n' && layoutArg?.type === 'ObjectExpression') {
++			const layout = parseFieldLayoutFromObject(layoutArg)
++			if (layout) field.layout = layout
++		}
+ 		const innerRaw = node.arguments[0]
+ 		if (!innerRaw) return
+ 		const inner = resolveExpression(innerRaw, bindings)
+diff --git a/src/collection-scanner.ts b/src/collection-scanner.ts
+index 4c56c29e5df2e66bd7f0500f9a2335046f35581d..f0db2a5a08f23778689db17efdc4104849c9637e 100644
+--- a/src/collection-scanner.ts
++++ b/src/collection-scanner.ts
+@@ -648,8 +648,11 @@ function applyParsedConfig(
+ 		const fieldsByName = new Map(def.fields.map(f => [f.name, f]))
+ 		for (const pf of parsedColl.fields) {
+ 			const field = fieldsByName.get(pf.name)
+-			if (!field) continue
+-			applyParsedFieldOverrides(field, pf)
++			if (field) {
++				applyParsedFieldOverrides(field, pf)
++			} else {
++				def.fields.push(parsedFieldToFieldDefinition(pf))
++			}
+ 		}
+ 
+ 		// Declarative form layout from `defineCmsCollection({ cms })`.
+@@ -1175,6 +1178,14 @@ export async function scanCollections(
+ 	detectDerivedHrefFields(collections)
+ 	assignSemanticRoles(collections)
+ 	applyCollectionOrderBy(collections, parsed)
++	// Share project collection names with sidecar consumers outside the Astro integration.
++	try {
++		const labels = JSON.parse(await fs.readFile('src/lib/collection-labels.json')) as Record<string, { label?: string }>
++		for (const [name, definition] of Object.entries(collections)) {
++			const label = labels[name]?.label
++			if (typeof label === 'string' && label.trim()) definition.label = label
++		}
++	} catch { /* optional project vocabulary */ }
+ 	warnOnPathnameCollisions(collections)
+ 
+ 	return collections

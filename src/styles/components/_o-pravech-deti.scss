@@ -1,0 +1,68 @@
+body.o-pravech-deti {
+  background-color: $white;
+  background-image: url(/images/faces.png);
+  background-repeat: repeat;
+  background-size: 500px 500px;
+  background-attachment: fixed;
+  background-position: center top;
+}
+
+// O právech dětí section - similar to homepage rozcestnik
+.o-pravech-deti-section {
+  background: transparent;
+  padding: 4.5rem 1rem;
+  text-align: center;
+  margin: 0;
+
+  @include small-only {
+    padding: 2.5rem 1rem;
+  }
+
+  .list-wrapper {
+    max-width: $max-content-width;
+    margin: 0 auto;
+  }
+
+  .content-block {
+    background: #ffffff;
+    border-radius: var(--radius-outer);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.08);
+    padding: 2.5rem 0 0;
+    max-width: var(--narrow-layout);
+    margin: 0 auto;
+
+    @include medium {
+      padding: 3rem 0 0;
+    }
+  }
+
+  h1 {
+    margin: 0 auto 0.75rem;
+    padding: 0 1.5rem;
+    color: $primary;
+    @include font-size(26px, 34px);
+    letter-spacing: -0.02em;
+    font-weight: 700;
+    text-align: center;
+    max-width: var(--narrow-layout);
+
+    @include medium {
+      padding: 0 2.5rem;
+    }
+  }
+
+  .lead {
+    @include font-size-l;
+    color: #333;
+    margin: 0 auto 2.5rem;
+    padding: 0 1.5rem;
+    text-wrap: balance;
+    max-width: var(--narrow-layout);
+    line-height: 1.5;
+    text-align: center;
+
+    @include medium {
+      padding: 0 2.5rem;
+    }
+  }
+}

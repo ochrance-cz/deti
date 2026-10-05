@@ -1,0 +1,20 @@
+---
+interface Props {
+  link: string;
+  text: string;
+  title?: string;
+  lang?: string;
+  currentPath: string;
+}
+const { link, text, title, lang, currentPath } = Astro.props;
+const selected = currentPath.startsWith(link) && link !== '/';
+---
+<li>
+  <a
+    {...lang ? { 'dataset-lang': lang } : {}}
+    class:list={[{ selected }]}
+    title={title}
+    href={link}>
+    {text}
+  </a>
+</li>

@@ -1,0 +1,43 @@
+---
+import { Image } from '@nuasite/components';
+import DateLabel from './DateLabel.astro';
+import { renderMarkdownSync } from '../lib/markdown';
+
+interface Props {
+  href: string;
+  title: string;
+  date?: Date | string;
+  perex?: string;
+  pic?: string;
+  icon?: string;
+  h?: number;
+  filePath?: string;
+}
+
+const { href, title, date, perex, pic, icon = 'arrow', h = 3, filePath } = Astro.props;
+const HTag = `h${h}` as const;
+const perexHtml = perex ? renderMarkdownSync(perex, filePath) : '';
+---
+<li class="_news-preview">
+  {pic && (
+    <div class="img-wrapper">
+      <Image src={pic} alt="" aria-hidden="true" widths={[320, 640, 960]} sizes="(min-width: 640px) 320px, 100vw" />
+    </div>
+  )}
+
+  <div class="content-wrapper">
+    <HTag>
+      <a href={href}>
+        <span class={`icon-${icon}`} aria-hidden="true"></span>{title}
+      </a>
+    </HTag>
+
+    {date && (
+      <p class="details">
+        <DateLabel date={date} />
+      </p>
+    )}
+
+    {perexHtml && <div set:html={perexHtml}></div>}
+  </div>
+</li>

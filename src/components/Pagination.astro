@@ -1,0 +1,57 @@
+---
+interface Props {
+  currentPage: number;
+  lastPage: number;
+  url: { prev?: string; next?: string };
+  baseUrl: string;
+}
+const { currentPage, lastPage, url, baseUrl } = Astro.props;
+
+const pageUrl = (n: number) =>
+  n === 1 ? baseUrl : `${baseUrl}${n}/`;
+
+const pages: (number | 'ellipsis')[] = [];
+let lastRendered = 0;
+for (let n = 1; n <= lastPage; n++) {
+  const right = lastPage - n;
+  const showNumber =
+    n <= 3 ||
+    right === 0 ||
+    (n > currentPage - 2 && n < currentPage + 2);
+  if (showNumber) {
+    pages.push(n);
+    lastRendered = n;
+  } else if (pages[pages.length - 1] !== 'ellipsis') {
+    pages.push('ellipsis');
+  }
+}
+---
+{lastPage > 1 && (
+  <section class="_pagination">
+    <nav aria-label="Stránkování">
+      <ul>
+        <li class:list={['previous', { disabled: !url.prev }]}>
+          <a href={url.prev} class="page-link" aria-label="Předchozí stránka">
+            <span class="visuallyhidden">Předchozí</span>
+          </a>
+        </li>
+        {pages.map((p) =>
+          p === 'ellipsis' ? (
+            <li class="disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+          ) : (
+            <li class:list={[{ active: p === currentPage }]}>
+              <a class="page-link" href={pageUrl(p)}>
+                <span class="visuallyhidden">Stránka </span>{p}
+              </a>
+            </li>
+          )
+        )}
+        <li class:list={['next', { disabled: !url.next }]}>
+          <a href={url.next} class="page-link" aria-label="Následující stránka">
+            <span class="visuallyhidden">Další</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </section>
+)}

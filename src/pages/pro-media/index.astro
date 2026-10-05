@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import Gallery from '../../components/Gallery.astro';
+import { Image } from '@nuasite/components';
+import { galleryPreview } from '../../lib/gallery';
+import { getCollection } from 'astro:content';
+const img1 = 'https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c9ad9e25d304-img-1.jpg';
+
+const title = 'Pro média';
+const description = 'Kontakty, tiskové zprávy, fotografie a podklady pro média.';
+
+const downloads: Array<{ title: string; file: string }> = [
+  {
+    title: 'Sada log dětského ombudsmana',
+    file: 'https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/3fd35cc0694e-sada-log-detskeho-ombudsmana.zip',
+  },
+];
+
+
+
+const tz = await getCollection('press-releases', (e) => !e.data.draft);
+tz.sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0));
+const latest3 = tz.slice(0, 3);
+
+const aktualne = await getCollection('aktualne', (e) => !e.data.draft);
+aktualne.sort(
+  (a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0),
+);
+const latest3Aktualne = aktualne.slice(0, 3);
+---
+<BaseLayout title={title} description={description} image={img1}>
+  <main>
+    <article class="_media">
+      <h1>{title}</h1>
+      <div class="text-content">
+        <h2>Kontakt pro média</h2>
+        <ul>
+          <li>Michaela Vaisová</li>
+          <li>vaisova@ochrance.cz / medialni@ochrance.cz</li>
+          <li>607 275 704</li>
+        </ul>
+      </div>
+
+      <h2>Ke stažení</h2>
+      <ul>
+        {downloads.map((d) => (
+          <li><a href={d.file}>{d.title}</a></li>
+        ))}
+      </ul>
+
+      <h2>Fotografie ke stažení</h2>
+      <Gallery layout="media" label="Fotografie Martina Beneše">
+        <li><figure>
+          <button type="button" class="gallery-open" aria-haspopup="dialog" data-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c9ad9e25d304-img-1.jpg')} data-download="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c9ad9e25d304-img-1.jpg">
+            <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c9ad9e25d304-img-1.jpg" alt="Dětský ombudsman Martin Beneš se opírá o zabradlí." widths={[320, 640]} sizes="300px" />
+          </button>
+        </figure></li>
+        <li><figure>
+          <button type="button" class="gallery-open" aria-haspopup="dialog" data-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/273148e19950-img-30.jpg')} data-download="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/273148e19950-img-30.jpg">
+            <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/273148e19950-img-30.jpg" alt="Dětský ombudsman Martin Beneš stojí před vchodem do Kanceláře. Za ním je vidět nápis u vstupních dveří Kancelář veřejného ochránce práv a ochránce práv dětí." widths={[320, 640]} sizes="300px" />
+          </button>
+        </figure></li>
+        <li><figure>
+          <button type="button" class="gallery-open" aria-haspopup="dialog" data-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/45bd1fa299eb-img-22.jpg')} data-download="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/45bd1fa299eb-img-22.jpg">
+            <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/45bd1fa299eb-img-22.jpg" alt="Dětský ombudsman Martin Beneš sedí za stolem. Před sebou má spis a notebook." widths={[320, 640]} sizes="300px" />
+          </button>
+        </figure></li>
+        <li><figure>
+          <button type="button" class="gallery-open" aria-haspopup="dialog" data-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/73baec8c9385-img-27.jpg')} data-download="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/73baec8c9385-img-27.jpg">
+            <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/73baec8c9385-img-27.jpg" alt="Dětský ombudsman Martin Beneš dřepí, přidržuje svého huskyho a v popředí jsou dvě malé děti, které stojí čelem k němu." widths={[320, 640]} sizes="300px" />
+          </button>
+        </figure></li>
+      </Gallery>
+    </article>
+
+    <div class="_home">
+      <section class="news tz">
+        <h2>Tiskové zprávy</h2>
+        <ul class="_news">
+          {latest3.map((e) => (
+            <NewsPreview
+              href={`/tz/${e.id}/`}
+              title={e.data.title}
+              date={e.data.date}
+              perex={e.data.perex}
+              filePath={e.filePath}
+            />
+          ))}
+        </ul>
+        <p class="text-center"><a class="more-link" href="/tz/">Další tiskové zprávy</a></p>
+      </section>
+
+      <section class="news">
+        <h2 class="text-center">Aktuality pro děti</h2>
+        <ul class="_news">
+          {latest3Aktualne.map((e) => (
+            <NewsPreview
+              href={`/aktualne/${e.id}/`}
+              title={e.data.title}
+              date={e.data.date}
+              perex={e.data.perex}
+              pic={e.data.pic}
+              icon={e.data.icon}
+            />
+          ))}
+        </ul>
+        <p class="text-center"><a class="more-link" href="/aktualne/">Další aktuality</a></p>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

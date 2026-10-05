@@ -1,0 +1,63 @@
+---
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string | ImageMetadata;
+  type?: string;
+  url?: string;
+}
+
+const siteName = 'Ombudsman dětem a náctiletým';
+const defaultTitle = siteName;
+const defaultDescription =
+  'Dětský ombudsman pomáhá dětem a náctiletým řešit právní těžkosti s úřady, školou, rodinou, zdravotnictvím nebo diskriminací.';
+// Placeholder until a dedicated og-image.png is added to public assets.
+const defaultImage = '/images/favicon.png';
+const site = Astro.site ?? new URL('https://deti.ochrance.cz/');
+
+const text = (value?: string) =>
+  (value ?? '')
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/[#*_`>~]+/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+const absoluteUrl = (value: string) => new URL(value, site).href;
+
+const imageSrc = (value?: string | ImageMetadata) => {
+  if (!value) {
+    return undefined;
+  }
+
+  return typeof value === 'string' ? value : value.src;
+};
+
+const {
+  title,
+  description,
+  image,
+  type = 'website',
+  url,
+} = Astro.props;
+
+const metaTitle = text(title) || defaultTitle;
+const metaDescription = text(description) || defaultDescription;
+const metaImage = absoluteUrl(imageSrc(image) ?? defaultImage);
+const metaUrl = absoluteUrl(url ?? Astro.url.pathname);
+---
+<link rel="canonical" href={metaUrl}>
+<meta name="description" content={metaDescription}>
+<meta property="og:title" content={metaTitle}>
+<meta property="og:description" content={metaDescription}>
+<meta property="og:image" content={metaImage}>
+<meta property="og:type" content={type}>
+<meta property="og:url" content={metaUrl}>
+<meta property="og:site_name" content={siteName}>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content={metaTitle}>
+<meta name="twitter:description" content={metaDescription}>
+<meta name="twitter:image" content={metaImage}>

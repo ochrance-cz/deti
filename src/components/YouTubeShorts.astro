@@ -1,0 +1,167 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  shorts: CollectionEntry<'videos'>[];
+}
+
+const { shorts } = Astro.props;
+---
+
+<section class="youtube-shorts">
+  <div class="shorts-container">
+    {shorts.map((short) => (
+      <div class="short-item">
+        <div
+          class="short-wrapper yt-lite"
+          data-video-id={short.data.videoId}
+          role="button"
+          tabindex="0"
+          aria-label={`Přehrát video: ${short.data.title}`}
+        >
+          <img
+            src={`https://i.ytimg.com/vi/${short.data.videoId}/maxresdefault.jpg`}
+            alt={short.data.title}
+            loading="lazy"
+            width="1280"
+            height="720"
+            class="short-thumb"
+            onerror={`this.onerror=null;this.src='https://i.ytimg.com/vi/${short.data.videoId}/hqdefault.jpg'`}
+          />
+          <div class="yt-play-btn" aria-hidden="true">
+            <svg viewBox="0 0 68 48" xmlns="http://www.w3.org/2000/svg">
+              <path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="#f00"/>
+              <path d="M45 24 27 14v20" fill="#fff"/>
+            </svg>
+          </div>
+        </div>
+        <a
+          href={`https://www.youtube.com/watch?v=${short.data.videoId}`}
+          class="short-title"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {short.data.title}
+        </a>
+      </div>
+    ))}
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.yt-lite').forEach((el) => {
+    const activate = () => {
+      const videoId = el.dataset.videoId;
+      if (!videoId) return;
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+      iframe.title = el.getAttribute('aria-label') ?? 'YouTube video';
+      iframe.setAttribute('frameborder', '0');
+      iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+      iframe.setAttribute('allowfullscreen', '');
+      iframe.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;border:none;';
+      el.innerHTML = '';
+      el.appendChild(iframe);
+      el.classList.add('activated');
+    };
+    el.addEventListener('click', activate);
+    el.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); activate(); }
+    });
+  });
+</script>
+
+<style lang="scss">
+  .youtube-shorts {
+    background: hsla(206, 98%, 85%, 1);
+    text-align: center;
+  }
+
+  .shorts-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+    max-width: 60rem;
+    margin: 0 auto;
+    justify-content: center;
+
+    @media (min-width: 768px) {
+      gap: 3rem;
+    }
+
+    @media (max-width: 767px) {
+      gap: 1.5rem;
+    }
+  }
+
+  .short-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .short-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 177.78%; /* 9:16 aspect ratio for vertical video (shorts) */
+    background: #000;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 3px solid hsla(206, 98%, 42%, 1);
+      outline-offset: 2px;
+    }
+  }
+
+  .short-thumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: none;
+    display: block;
+  }
+
+  .yt-play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 56px;
+    pointer-events: none;
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.5));
+    transition: transform 0.15s ease;
+
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .short-wrapper:hover .yt-play-btn,
+  .short-wrapper:focus-visible .yt-play-btn {
+    transform: translate(-50%, -50%) scale(1.12);
+  }
+
+  .short-title {
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    margin: 0;
+    color: hsla(206, 98%, 42%, 1);
+    line-height: 1.55;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: hsla(329, 85%, 43%, 1);
+    }
+  }
+</style>

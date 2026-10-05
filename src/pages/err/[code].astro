@@ -1,0 +1,25 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import entries from '../../site-data/error-pages.json';
+
+export const getStaticPaths = (async () => {
+  return entries.map((entry) => ({
+    params: { code: entry.id },
+    props: { entry },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const title = entry.data.title ?? `Chyba ${entry.id}`;
+---
+<BaseLayout title={title} noIndex={entry.data.noIndex}>
+  <main>
+    <article>
+      <h1>{title}</h1>
+      <div class="text-content">
+        <p><a href="/">Zpět na úvodní stranu</a></p>
+      </div>
+    </article>
+  </main>
+</BaseLayout>

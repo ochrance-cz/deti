@@ -1,0 +1,63 @@
+._news {
+  padding-left: 0;
+}
+
+// Styling for "Jsem v zařízení nebo v nemocnici" section
+// to match the reference site's _link-list appearance
+main article .text-content ul {
+  li {
+    // Target list items with links containing "/jsem/" in href
+    &:has(> p > strong > a[href*="/jsem/"]) {
+      --size: 2rem;
+      @include font-size-l;
+
+      &::before {
+        background-image: url(/images/arrow-right-blue.svg);
+      }
+
+      > p {
+        margin: 0 0 0.25rem;
+
+        strong a {
+          font-weight: bold;
+          color: $primary;
+        }
+      }
+
+      > p + p {
+        @include font-size-m;
+        margin: 0.25rem 0 0;
+      }
+    }
+  }
+}
+
+.blue-block,
+._contact-page .contact-details > blockquote {
+  background: $primary;
+  padding: var(--art-padding);
+  margin: 2rem calc(-1 * var(--art-padding));
+
+  ul li:before {
+    background-image: url(/images/dot-white.svg);
+    background-color: transparent;
+    border-radius: 0;
+  }
+
+  h2,
+  p,
+  li,
+  a {
+    margin: 0.5rem 0;
+    color: $white;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  ul,
+  ul li:last-child {
+    margin-bottom: 0;
+  }
+}

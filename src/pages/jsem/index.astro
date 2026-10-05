@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import { getCollection } from 'astro:content';
+
+const title = 'Jsem v zařízení nebo nemocnici';
+const description =
+  'Informace pro děti a náctileté, kteří jsou v dětském domově, výchovném ústavu, nemocnici nebo jiném zařízení.';
+
+const entries = await getCollection('jsem');
+---
+<BaseLayout title={title} description={description}>
+  <main>
+    <article>
+      <h1>{title}</h1>
+      <div class="text-content">
+        {entries.map((e) => (
+          <NewsPreview
+            href={`/jsem/${e.id}/`}
+            title={e.data.title}
+            perex={e.data.perex}
+            h={2}
+            filePath={e.filePath}
+          />
+        ))}
+      </div>
+    </article>
+  </main>
+</BaseLayout>

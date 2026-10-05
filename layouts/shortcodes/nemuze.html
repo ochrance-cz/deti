@@ -1,2 +1,0 @@
-{{ $content := .Inner | $.Page.RenderString | replaceRE "<ul>" "<ul class=\"_we-cannot\">" }}
-{{ partial "fix-numeric-paragraphs.html" (dict "content" $content "raw" .Inner) }}

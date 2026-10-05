@@ -1,0 +1,433 @@
+._home {
+  margin: 0;
+  padding: 0;
+  background: transparent; // Changed from $white to allow faces.png to show
+
+  & + ._backdrop.footer {
+    margin-top: 0;
+  }
+
+  h1 {
+    display: block;
+  }
+
+  // Reset the global section margins — the homepage uses full-bleed bands instead.
+  > section,
+  > aside {
+    margin: 0;
+    padding: 4rem 1rem;
+    background: transparent;
+
+    @include small-only {
+      padding: 2.5rem 1rem;
+    }
+  }
+
+  // A shared wrapper-like behaviour: constrain inner content.
+  > section > *,
+  > aside > * {
+    max-width: $max-content-width;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  // ─── FEATURED VIDEO ──────────────────────────────────────────────
+  .featured-video {
+    background: #D7ECFF;
+
+    .featured-video-inner {
+      max-width: 52rem;
+      margin: 0 auto;
+    }
+
+    .featured-video-wrapper {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; // 16:9 aspect ratio
+      background: #000;
+      border-radius: 0.5rem;
+      overflow: hidden;
+
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+    }
+  }
+
+  // ─── YOUTUBE SHORTS ──────────────────────────────────────────────
+  .youtube-shorts {
+    background: #D7ECFF !important; // Light blue background
+  }
+
+  // ─── WHATS NEW ───────────────────────────────────────────────────
+  .whats-new {
+    background: #D7ECFF !important; // Light blue background (matches videos section)
+  }
+
+  // ─── HERO ────────────────────────────────────────────────────────
+  .hero {
+    background-color: transparent; // Transparent to show faces.png
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    position: relative;
+
+    @include small-only {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    .hero-inner {
+      max-width: 52rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-text {
+      h1 {
+        color: $primary;
+        @include font-size(34px, 56px);
+        line-height: 1.08;
+        letter-spacing: -0.025em;
+        margin: 0 auto 1.5rem;
+        text-wrap: balance;
+        font-weight: 700;
+      }
+
+      .lead {
+        color: #333;
+        @include font-size-l;
+        line-height: 1.5;
+        margin: 0 auto 2rem;
+        text-wrap: balance;
+        max-width: 36rem;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: $primary;
+        color: $white;
+        text-decoration: none;
+        padding: 0.95rem 1.75rem;
+        border-radius: var(--radius-tiny);
+        font-weight: 700;
+        @include font-size-l;
+        border: 2px solid $primary;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.08);
+        transition: background-color 0.12s ease-out, border-color 0.12s ease-out;
+
+        &:hover,
+        &:focus-visible {
+          background: darken($primary, 8%);
+          border-color: darken($primary, 8%);
+          color: $white;
+        }
+      }
+    }
+  }
+
+  // ─── ROZCESTNÍK ──────────────────────────────────────────────────
+  .rozcestnik {
+    background: transparent; // Transparent to show faces.png
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+    text-align: center;
+
+    @include small-only {
+      padding-top: 2.5rem;
+      padding-bottom: 2.5rem;
+    }
+
+    .content-block {
+      background: #ffffff;
+      border-radius: var(--radius-outer);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.08);
+      padding: 2.5rem 0 0;
+      max-width: var(--narrow-layout);
+      margin: 0 auto;
+
+      @include medium {
+        padding: 3rem 0 0;
+      }
+    }
+
+    h2 {
+      margin: 0 auto 0.75rem;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+      color: $primary;
+      @include font-size(26px, 34px);
+      letter-spacing: -0.02em;
+      font-weight: 700;
+
+      @include medium {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+      }
+    }
+
+    .lead {
+      @include font-size-l;
+      color: #333;
+      margin: 0 auto 2.5rem;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+      text-wrap: balance;
+      line-height: 1.5;
+
+      @include medium {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+      }
+    }
+
+    ul.tiles {
+      text-align: left;
+      list-style: none;
+      padding: 0;
+      margin: 0 auto;
+      display: grid;
+      gap: 0;
+      grid-template-columns: 1fr;
+      border-radius: 0 0 var(--radius-outer) var(--radius-outer);
+      overflow: hidden;
+
+      @include medium {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      > li {
+        position: relative;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        background: #ffffff;
+        padding: 1.5rem 1.5rem 1.75rem;
+        transition: background-color 0.12s ease-out;
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
+
+        &::before {
+          display: none;
+        }
+
+        // Add horizontal border above the top row
+        &:nth-child(-n+3) {
+          border-top: 1px solid rgba(0, 0, 0, 0.08);
+
+          @include small-only {
+            &:first-child {
+              border-top: 1px solid rgba(0, 0, 0, 0.08);
+            }
+            &:not(:first-child) {
+              border-top: none;
+            }
+          }
+        }
+
+        &:hover,
+        &:focus-within {
+          background: #D7ECFF;
+
+          h3 a {
+            text-decoration: none;
+            color: $primary;
+          }
+
+          .arrow {
+            transform: translateX(4px);
+            color: $primary;
+          }
+        }
+
+        h3 {
+          margin: 0 0 0.4rem;
+          @include font-size(18px, 20px);
+          font-weight: 700;
+          line-height: 1.3;
+          letter-spacing: -0.01em;
+
+          a {
+            color: $primary;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+            text-decoration-thickness: 1px;
+            transition: color 0.12s ease-out;
+
+            // Stretched link — celá dlaždice klikatelná
+            &::after {
+              content: '';
+              position: absolute;
+              inset: 0;
+            }
+          }
+        }
+
+        p {
+          // Vyzdvihnuto nad <a>::after stretched-link overlay, aby šlo
+          // text vybrat/editovat (např. v Nua CMS editoru). Klik na text
+          // pak nenaviguje, ale jakákoli prázdná plocha dlaždice ano.
+          position: relative;
+          z-index: 1;
+          color: #444;
+          margin: 0;
+          @include font-size-m;
+          line-height: 1.45;
+          flex: 1;
+          pointer-events: auto;
+        }
+
+        .arrow {
+          position: relative;
+          z-index: 1;
+          display: inline-block;
+          margin-top: 1rem;
+          color: $primary;
+          font-weight: 700;
+          @include font-size-l;
+          transition: transform 0.12s ease-out, color 0.12s ease-out;
+          pointer-events: none;
+        }
+      }
+    }
+
+    .not-sure {
+      margin: 2.5rem auto 0;
+      @include font-size-m;
+      color: #444;
+
+      a {
+        color: $secondary;
+        font-weight: 600;
+      }
+    }
+  }
+
+  // ─── NEWS ────────────────────────────────────────────────────────
+  .news {
+    background: rgba(255, 255, 255, 0.85); // Semi-transparent to show faces.png
+    text-align: left;
+
+    h2 {
+      margin: 0 auto 2rem;
+      color: $primary;
+      @include font-size(24px, 30px);
+      letter-spacing: -0.02em;
+      font-weight: 700;
+      text-align: center;
+    }
+
+    .more-link {
+      display: inline-block;
+      margin-top: 1.5rem;
+      margin-bottom: 0;
+      background: transparent;
+      color: $primary;
+      border: 2px solid $primary;
+      padding: 0.7rem 1.4rem;
+      border-radius: var(--radius-tiny);
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: none;
+
+      &:hover,
+      &:focus-visible {
+        background: $primary;
+        color: $white;
+      }
+    }
+
+    p.text-center {
+      text-align: center;
+    }
+  }
+
+  // ─── ACUTE HELP ──────────────────────────────────────────────────
+  .acute-help {
+    background: transparent; // Transparent to show faces.png through the section
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
+    
+    @include small-only {
+      padding-top: 2.5rem !important;
+      padding-bottom: 2.5rem !important;
+    }
+
+    // Create wrapper container for shadow
+    &::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      max-width: var(--narrow-layout);
+      width: calc(100% - 2rem);
+      height: calc(100% - 8rem);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.08);
+      border-radius: var(--radius-inner);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    h2,
+    p {
+      max-width: var(--narrow-layout);
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      background: #FBE9F1;
+      padding-left: 2rem;
+      padding-right: 2rem;
+      box-sizing: border-box;
+      position: relative;
+      z-index: 1;
+    }
+
+    h2 {
+      color: $secondary;
+      margin: 0;
+      padding-top: 2rem;
+      padding-bottom: 0.75rem;
+      @include font-size(22px, 26px);
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      border-radius: var(--radius-inner) var(--radius-inner) 0 0;
+    }
+
+    p {
+      margin: 0;
+      padding-top: 0;
+      padding-bottom: 0.6rem;
+      line-height: 1.55;
+      color: $black;
+    }
+
+    p.small {
+      @include font-size-s;
+      color: #555;
+      padding-bottom: 2rem;
+      border-radius: 0 0 var(--radius-inner) var(--radius-inner);
+    }
+
+    a {
+      color: $secondary;
+      text-decoration: underline;
+      font-weight: 700;
+
+      &:hover {
+        color: darken($secondary, 10%);
+      }
+    }
+  }
+}

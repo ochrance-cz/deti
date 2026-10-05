@@ -1,0 +1,32 @@
+{
+  "aktualne": {
+    "label": "Aktuality"
+  },
+  "press-releases": {
+    "label": "Tiskové zprávy"
+  },
+  "pripady": {
+    "label": "Nevím si rady s…"
+  },
+  "pripady-pripady": {
+    "label": "Případy"
+  },
+  "jsem": {
+    "label": "Jsem – kategorie"
+  },
+  "jsem-otazky": {
+    "label": "Otázky"
+  },
+  "videos": {
+    "label": "Videa"
+  },
+  "hledam-pomoc": {
+    "label": "Jak vás kontaktovat"
+  },
+  "o-pravech-deti": {
+    "label": "O právech dětí"
+  },
+  "o-ombudsmanovi": {
+    "label": "O ombudsmanovi"
+  }
+}

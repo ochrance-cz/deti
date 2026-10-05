@@ -1,8 +1,0 @@
-{{- $person := .page -}}
-{{- $size := .size -}}
-{{- $pic := "" -}}
-{{- with .res -}}
-	{{- $res := $person.Resources.GetMatch . -}}
-	{{- $pic = ($res.Resize $size).RelPermalink -}}
-{{- end -}}
-{{- $pic -}}

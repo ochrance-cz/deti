@@ -1,0 +1,67 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Collapsible from '../../../components/Collapsible.astro';
+import Youtube from '../../../components/mdx/Youtube.astro';
+import Icon from '../../../components/mdx/Icon.astro';
+import { getCollection, render } from 'astro:content';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export const getStaticPaths = (async () => {
+  const entries = await getCollection('jsem');
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content: ParentContent } = await render(entry);
+const perexHtml = await renderMarkdown(entry.data.perex, entry.filePath);
+const allQuestions = await getCollection('jsem-otazky');
+const questions = await Promise.all(
+  allQuestions
+    .filter((item) => item.id.startsWith(`${entry.id}/otazky/`))
+    .sort((a, b) => a.data.order - b.data.order)
+    .map(async (item) => {
+      const { Content: QuestionContent } = await render(item);
+
+      return {
+        item,
+        QuestionContent,
+      };
+    }),
+);
+const legacyQuestions = questions.length > 0
+  ? []
+  : await Promise.all(
+    (entry.data.questions ?? []).map(async (question) => ({
+      ...question,
+      descHtml: await renderMarkdown(question.desc, entry.filePath),
+    })),
+  );
+---
+<BaseLayout title={entry.data.title} description={entry.data.perex} noIndex={entry.data.noIndex}>
+  <main>
+    <article>
+      <h1>{entry.data.title}</h1>
+      <div class="text-content">
+        {perexHtml && <div class="perex" set:html={perexHtml}></div>}
+
+        {questions.map(({ item, QuestionContent }) => (
+          <Collapsible id={item.data.title} title={item.data.title} icon={item.data.icon}>
+            <QuestionContent components={{ Youtube, Icon }} />
+          </Collapsible>
+        ))}
+
+        {legacyQuestions.map((question) => (
+          <Collapsible id={question.title} title={question.title} icon={question.icon}>
+            <Fragment set:html={question.descHtml} />
+          </Collapsible>
+        ))}
+
+        <ParentContent components={{ Youtube, Icon }} />
+      </div>
+    </article>
+  </main>
+</BaseLayout>

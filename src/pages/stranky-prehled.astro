@@ -1,0 +1,223 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import pages from '../lib/page-copy.json';
+const strankyWithPaths = pages.map(page => ({...page, pathname: page.routes[0], location: '', url: page.routes[0]}));
+
+---
+
+<BaseLayout title="Přehled stránek">
+  <div class="container">
+    <h1>Přehled stránek</h1>
+    
+    <p class="intro">Přehled informačních stránek dětského ombudsmana.</p>
+
+    <div class="stranky-overview">
+      <div class="stranky-list">
+        <table>
+          <thead>
+            <tr>
+              <th>Název stránky</th>
+              <th>Slug/ID</th>
+              <th>Umístění</th>
+              <th>URL cesta</th>
+              <th class="actions">Akce</th>
+            </tr>
+          </thead>
+          <tbody>
+            {strankyWithPaths.map((page, index) => (
+              <tr class={index % 2 === 0 ? 'even' : 'odd'}>
+                <td class="title">
+                  <strong>{page.title}</strong>
+                </td>
+                <td class="slug">
+                  {page.id}
+                </td>
+                <td class="location">
+                  {page.location}
+                </td>
+                <td class="pathname">
+                  <code>{page.pathname}</code>
+                </td>
+                <td class="actions">
+                  <a href={page.url} class="open-btn">
+                    Otevřít
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+  }
+
+  .intro {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+    color: #666;
+  }
+
+  .stranky-overview {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: #f5f5f5;
+    border-radius: 8px;
+  }
+
+  .stranky-list {
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+    overflow-x: auto;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+
+  thead {
+    background: #e0e0e0;
+  }
+
+  th {
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid #ccc;
+    white-space: nowrap;
+  }
+
+  th.actions {
+    text-align: center;
+  }
+
+  td {
+    padding: 12px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  tr.even {
+    background: white;
+  }
+
+  tr.odd {
+    background: #f9f9f9;
+  }
+
+  tr:hover {
+    background: #f0f7ff;
+  }
+
+  td.title strong {
+    color: #1a1a1a;
+  }
+
+  td.slug {
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+    color: #666;
+    max-width: 300px;
+    word-break: break-word;
+  }
+
+  td.location {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  td.pathname code {
+    background: #f0f0f0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-family: 'Courier New', monospace;
+    white-space: nowrap;
+  }
+
+  td.actions {
+    text-align: center;
+  }
+
+  .open-btn {
+    display: inline-block;
+    padding: 6px 16px;
+    background: #3056e4;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: background 0.2s;
+  }
+
+  .open-btn:hover {
+    background: #2044c8;
+  }
+
+  .tip {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #fff3cd;
+    border-left: 4px solid #ffc107;
+    border-radius: 4px;
+  }
+
+  .tip p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #856404;
+  }
+
+  .tip code {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.95em;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+    }
+
+    .stranky-overview {
+      padding: 1rem;
+    }
+
+    table {
+      font-size: 0.85rem;
+      min-width: 800px;
+    }
+
+    th, td {
+      padding: 8px;
+    }
+
+    .open-btn {
+      padding: 4px 12px;
+      font-size: 0.85em;
+    }
+  }
+</style>

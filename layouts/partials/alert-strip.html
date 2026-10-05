@@ -1,9 +1,0 @@
-{{ with .Site.GetPage "/alert" }}
-  {{- if not .Draft }}
-    <div class="_alert-strip">
-      <p>
-        AKTUÁLNĚ: <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </p>
-    </div>
-  {{ end -}}
-{{ end }}

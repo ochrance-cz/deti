@@ -1,0 +1,65 @@
+._about {
+  .person {
+    margin: 0 auto;
+
+    .img-wrapper {
+      float: left;
+      width: 45%;
+      max-width: 400px;
+      margin-right: 2rem;
+      margin-bottom: 1.5rem;
+      aspect-ratio: 1/1;
+      border-radius: var(--radius-inner);
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center top;
+      }
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    .ombudsman-bio {
+      // Text flows around the floated image
+    }
+
+    // Clear float after person section
+    &::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  }
+
+  .facts {
+    background: $primary;
+    padding: var(--art-padding);
+    margin: 2rem calc(-1 * var(--art-padding));
+
+    h2 {
+      margin-top: 0;
+    }
+
+    ul,
+    li:last-child {
+      margin-bottom: 0;
+    }
+
+    ul li::before {
+      background-image: url(/images/dot-white.svg);
+    }
+
+    h2,
+    ul,
+    ul a {
+      color: white;
+    }
+
+    // UL
+  }
+}

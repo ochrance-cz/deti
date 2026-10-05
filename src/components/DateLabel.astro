@@ -1,0 +1,18 @@
+---
+import { czechMonthGenitive } from '../lib/months';
+
+interface Props {
+  date: Date | string;
+  hideMonth?: boolean;
+  hideYear?: boolean;
+  class?: string;
+}
+
+const { date, hideMonth = false, hideYear = false, class: className = '' } = Astro.props;
+const d = typeof date === 'string' ? new Date(date) : date;
+const day = d.getDate();
+const month = czechMonthGenitive[d.getMonth() + 1];
+const year = d.getFullYear();
+const iso = d.toISOString();
+---
+<time class={`post-date ${className}`} datetime={iso}>{day}.{!hideMonth && <Fragment>&nbsp;{month}</Fragment>}{!hideYear && ` ${year}`}</time>

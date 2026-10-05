@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsPreview from '../components/NewsPreview.astro';
+import YouTubeShorts from '../components/YouTubeShorts.astro';
+import { getCollection } from 'astro:content';
+
+const aktualne = await getCollection('aktualne', (e) => !e.data.draft);
+aktualne.sort(
+  (a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0),
+);
+const latest3 = aktualne.slice(0, 3);
+
+const shorts = await getCollection('videos', (e) => !e.data.draft);
+shorts.sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+const displayShorts = shorts.slice(0, 3);
+
+const description =
+  'Pomůžeme ti vyřešit právní těžkosti ohledně dávek, diskriminace, dluhů, rodiny, soudů nebo školy.';
+---
+<BaseLayout title="Ombudsman dětem a náctiletým" description={description} bodyClass="_home-page">
+  <main class="_home">
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-text">
+          <h1>Pomáháme dětem tam, kde už na to samy nestačí<br></h1>
+          <p class="lead">Pomůžeme ti vyřešit právní těžkosti ohledně&nbsp;dávek, diskriminace, dluhů, rodiny, soudů nebo&nbsp;školy.</p>
+          <a class="cta" href="#rozcestnik">Chci pomoc</a>
+        </div>
+      </div>
+    </section>
+
+    {displayShorts.length > 0 && <YouTubeShorts shorts={displayShorts} />}
+
+    <section class="rozcestnik" id="rozcestnik">
+      <div class="content-block">
+        <h2>S čím mi můžete pomoct?</h2>
+        <p class="lead">Vyber situaci, která se tě týká. Najdeš tam příklady toho, co jsme už pomohli&nbsp;vyřešit.</p>
+
+        <ul class="tiles">
+        <li>
+          <h3><a href="/pripady/skola/">Škola mi nepomáhá</a></h3>
+          <p>Šikana, přijímačky, maturita, známky, zákaz mobilů, speciální potřeby</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        <li>
+          <h3><a href="/pripady/rodina/">Zažívám problémy v rodině</a></h3>
+          <p>Rozvod rodičů, nemoc sourozence, průtahy</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        <li>
+          <h3><a href="/pripady/ustavni-a-ochranna-vychova/">Žiju v dětském domově nebo ústavu</a></h3>
+          <p>Pravidla, návštěvy, nesouhlas s rozhodnutím, odchod v 18</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        <li>
+          <h3><a href="/pripady/davky/">Peníze a dávky nám nepřišly</a></h3>
+          <p>Sirotčí důchod, pěstounská péče, zaopatřovací příspěvek</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        <li>
+          <h3><a href="/pripady/zdravotnictvi/">Potřebuji pomoc s lékaři</a></h3>
+          <p>Nemocnice, stížnosti, dětská psychiatrie, vlastní rozhodnutí</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        <li>
+          <h3><a href="/pripady/">Jiná situace s úřadem nebo institucí</a></h3>
+          <p>Rodič ve věznici, cizinci, doklady, dluhy, soudy, ostatní</p>
+          <span class="arrow" aria-hidden="true">→</span>
+        </li>
+        </ul>
+      </div>
+    </section>
+
+    <aside class="acute-help">
+      <h2>Potřebuješ pomoc hned?</h2>
+      <p>
+        Pokud ti někdo ubližuje, jsi v&nbsp;ohrožení nebo máš pocit, že&nbsp;nevíš kudy kam, zavolej na <strong><a href="tel:116111">Linku&nbsp;bezpečí 116&nbsp;111</a></strong> — je zdarma a&nbsp;funguje 24&nbsp;hodin denně.
+      </p>
+      <p class="small font-normal">Dětský ombudsman řeší věci v&nbsp;řádech dnů až týdnů — pro akutní situace jsou tu jiné&nbsp;služby.</p>
+    </aside>
+
+    <section class="news">
+      <h2 class="text-center">Co je nového?</h2>
+      <ul class="_news">
+        {latest3.map((e) => (
+          <NewsPreview
+            href={`/aktualne/${e.id}/`}
+            title={e.data.title}
+            date={e.data.date}
+            perex={e.data.perex}
+            pic={e.data.pic}
+            icon={e.data.icon}
+          />
+        ))}
+      </ul>
+      <p class="text-center"><a class="more-link" href="/aktualne/">Další aktuality</a></p>
+    </section>
+
+  </main>
+</BaseLayout>

@@ -1,0 +1,106 @@
+// S čím mi pomůžete page styling with faces background pattern
+
+body:has(main > article.text-content) {
+  background-color: $white;
+  background-image: url(/images/faces.png);
+  background-repeat: repeat;
+  background-size: 500px 500px;
+  background-attachment: fixed;
+  background-position: center top;
+}
+
+// Ensure the article content card sits on top of the background
+main > article.text-content {
+  position: relative;
+  z-index: 1;
+}
+
+// Style PDF links in the detail sections - pink color, normal font-weight
+._link-list .detail a[href$='.pdf'] {
+  color: $secondary;
+  font-weight: normal;
+}
+
+// ─── ACUTE HELP BANNER ───────────────────────────────────────────────────────
+// Mirrors the ._home .acute-help block but scoped to this page's main
+main > .acute-help {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding: 1.5rem 1rem 4rem;
+
+  @include small-only {
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+  }
+
+  // Shadow wrapper
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: var(--narrow-layout);
+    width: calc(100% - 2rem);
+    height: calc(100% - 8rem);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.08);
+    border-radius: var(--radius-inner);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  h2,
+  p {
+    max-width: var(--narrow-layout);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #FBE9F1;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+  }
+
+  h2 {
+    color: $secondary;
+    margin: 0;
+    padding-top: 2rem;
+    padding-bottom: 0.75rem;
+    @include font-size(22px, 26px);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    border-radius: var(--radius-inner) var(--radius-inner) 0 0;
+  }
+
+  p {
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0.6rem;
+    line-height: 1.55;
+    color: $black;
+  }
+
+  p.small {
+    @include font-size-s;
+    color: #555;
+    padding-bottom: 2rem;
+    border-radius: 0 0 var(--radius-inner) var(--radius-inner);
+  }
+
+  a {
+    color: $secondary;
+    text-decoration: underline;
+    font-weight: 700;
+
+    &:hover {
+      color: darken($secondary, 10%);
+    }
+  }
+}
+
+

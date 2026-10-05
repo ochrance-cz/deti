@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { getCollection } from 'astro:content';
+
+const [page] = await getCollection('hledam-pomoc');
+
+if (!page) {
+  throw new Error('Missing hledam-pomoc entry');
+}
+
+const contact = page.data.contact ?? [];
+
+const [reqsHtml, contactDescs, jsem] = await Promise.all([
+  renderMarkdown(page.body),
+  Promise.all(
+    contact.map(async (c) => ({
+      title: c.title,
+      html: await renderMarkdown(c.desc),
+    })),
+  ),
+  getCollection('jsem'),
+]);
+---
+
+<BaseLayout title={page.data.title}>
+  <div class="requirements" set:html={reqsHtml} />
+
+  <h2>Jak nás můžeš kontaktovat?</h2>
+  {
+    contactDescs.map((c) => (
+      <div>
+        <h3>{c.title}</h3>
+        <div set:html={c.html} />
+      </div>
+    ))
+  }
+
+  <h2>Jsem...</h2>
+  <ul>
+    {jsem.map((j) => <li><a href={`/jsem/${j.id}`}>{j.data.title}</a></li>)}
+  </ul>
+</BaseLayout>

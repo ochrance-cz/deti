@@ -1,0 +1,123 @@
+[
+  {
+    "id": "spoluprace-s-detmi",
+    "title": "Spolupráce s dětmi",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/o-pravech-deti/spoluprace-s-detmi/",
+      "/vystupy/spoluprace-s-detmi/"
+    ],
+    "source": "src/components/page-copy/spoluprace-s-detmi.astro"
+  },
+  {
+    "id": "ochrana_tvych_osobnich_udaju",
+    "title": "Ochrana tvých osobních údajů",
+    "description": "Co děláme s tvými osobními údaji (jako je jméno, příjmení, telefonní číslo, adresa, e-mail či datum narození)?",
+    "noIndex": false,
+    "routes": [
+      "/ochrana_tvych_osobnich_udaju/",
+      "/o-ombudsmanovi/ochrana_tvych_osobnich_udaju/"
+    ],
+    "source": "src/components/page-copy/ochrana_tvych_osobnich_udaju.astro"
+  },
+  {
+    "id": "publikace-a-vz",
+    "title": "Publikace a výroční zprávy",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/o-pravech-deti/publikace-a-vz/",
+      "/vystupy/publikace-a-vz/"
+    ],
+    "source": "src/components/page-copy/publikace-a-vz.astro"
+  },
+  {
+    "id": "akce-a-skoly",
+    "title": "Vzdělávací akce a nabídka pro školní kolektivy",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/o-pravech-deti/akce-a-skoly/",
+      "/vystupy/akce-a-skoly/"
+    ],
+    "source": "src/components/page-copy/akce-a-skoly.astro"
+  },
+  {
+    "id": "detskyombudsman",
+    "title": "Proč děti potřebují dětského ombudsmana?",
+    "description": "Děti jsou velkou a významně zranitelnou skupinou naší populace. Proto si zaslouží vyšší ochranu. Dětský ombudsman tu bude právě pro ně. Bude se starat o prosazování jejich práva v individuálních případech i na systémové úrovni.",
+    "noIndex": false,
+    "routes": [
+      "/detskyombudsman/",
+      "/o-ombudsmanovi/detskyombudsman/"
+    ],
+    "source": "src/components/page-copy/detskyombudsman.astro"
+  },
+  {
+    "id": "vyzkumy-a-doporuceni",
+    "title": "Výzkumy a doporučení",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/o-pravech-deti/vyzkumy-a-doporuceni/",
+      "/vystupy/vyzkumy-a-doporuceni/"
+    ],
+    "source": "src/components/page-copy/vyzkumy-a-doporuceni.astro"
+  },
+  {
+    "id": "odkazy",
+    "title": "Mohlo by tě ještě zajímat",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/odkazy/",
+      "/ostatni-stranky/odkazy/"
+    ],
+    "source": "src/components/page-copy/odkazy.astro"
+  },
+  {
+    "id": "desatero",
+    "title": "Desatero komunikace",
+    "description": "Při komunikaci s dětmi a mladými lidmi dodržujeme následující desatero.",
+    "noIndex": false,
+    "routes": [
+      "/desatero/",
+      "/o-ombudsmanovi/desatero/"
+    ],
+    "source": "src/components/page-copy/desatero.astro"
+  },
+  {
+    "id": "linky",
+    "title": "Seznam linek důvěry",
+    "description": "",
+    "noIndex": false,
+    "routes": [
+      "/linky/",
+      "/ostatni-stranky/linky/"
+    ],
+    "source": "src/components/page-copy/linky.astro"
+  },
+  {
+    "id": "jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem",
+    "title": "Jak ombudsmana vidí děti? (digitální galerie soutěže Jak pomáhá ombudsman dětem)",
+    "description": "V dubnu 2022 jsme vyhlásili soutěž na téma *Jak pomáhá ombudsman dětem*. Aktivně se do ní zapojilo téměř 400 dětí z 33 základních škol a víceletých gymnázií z celé České republiky. Soutěžní díla jsou od června 2022 k vidění ve vestibulu a předsálí konferenčních sálů naší kanceláře v Brně. V digitální podobě si všechny příspěvky můžete prohlédnout zde.",
+    "noIndex": false,
+    "routes": [
+      "/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/",
+      "/o-ombudsmanovi/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem/"
+    ],
+    "source": "src/components/page-copy/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem.astro"
+  },
+  {
+    "id": "elevator_napadem_to_zacina",
+    "title": "Elevator: nápadem to začíná (soutěž pro střední školy)",
+    "description": "Vadí Ti něco ve Tvém okolí? Máš kolem sebe partu přátel, se kterými jste schopni to změnit? Navrhněte projekt a pojďte do toho!",
+    "noIndex": false,
+    "routes": [
+      "/elevator_napadem_to_zacina/",
+      "/o-ombudsmanovi/elevator_napadem_to_zacina/"
+    ],
+    "source": "src/components/page-copy/elevator_napadem_to_zacina.astro"
+  }
+]

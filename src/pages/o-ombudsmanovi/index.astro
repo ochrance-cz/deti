@@ -1,0 +1,77 @@
+---
+import ombudsman from '../../site-data/ombudsman.json';
+import OmbudsmanContent from '../../components/page-copy/OmbudsmanBiography.astro';
+import { Image } from '@nuasite/components';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { renderMarkdown } from '../../lib/markdown';
+
+const [about] = await getCollection('o-ombudsmanovi');
+
+const ombudsmanPic = ombudsman?.data.pic;
+
+if (!about) {
+  throw new Error('Missing o-ombudsmanovi entry');
+}
+
+const title = about.data.title;
+const aboutPerex = about.data.perex ?? '';
+const [perexHtml, factsHtml] = await Promise.all([
+  renderMarkdown(aboutPerex, about.filePath),
+  renderMarkdown(about.data.facts, about.filePath),
+]);
+
+const { Content: AboutContent } = await render(about);
+
+
+---
+<BaseLayout title={title} description={aboutPerex} image={ombudsmanPic} bodyClass="_ombudsman-page">
+  <style>
+    ._provoz-link a {
+      text-decoration: underline;
+    }
+    ._provoz-link a:hover {
+      color: hsla(329, 85%, 43%, 1);
+    }
+  </style>
+  <main>
+    <article class="_about">
+      <h1>{title}</h1>
+
+      <div class="text-content">
+        <div class="perex" set:html={perexHtml}></div>
+        <div class="details" data-cms-markdown>
+          <AboutContent />
+        </div>
+
+        <blockquote>
+          <p>{about.data.body}</p>
+        </blockquote>
+
+        {ombudsman && (
+          <div class="person">
+            <div class="img-wrapper">
+              <Image src={ombudsmanPic} alt="" aria-hidden="true" widths={[320, 640]} sizes="320px" />
+            </div>
+            <h2>Martin Beneš</h2>
+            {OmbudsmanContent && (
+              <div class="ombudsman-bio">
+                <OmbudsmanContent />
+              </div>
+            )}
+          </div>
+        )}
+
+        <div class="facts" set:html={factsHtml}></div>
+
+        <ul class="_link-list _provoz-link">
+          {about.data.links?.map((l) => (
+            <li>
+              <p><a href={l.link}>{l.title}</a></p>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </article>
+  </main>
+</BaseLayout>

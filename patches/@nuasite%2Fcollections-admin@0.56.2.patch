@@ -1,0 +1,49 @@
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-3b8a2fcabafc90f7 b/.bun-tag-3b8a2fcabafc90f7
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-b087f0584378cc6d b/.bun-tag-b087f0584378cc6d
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-f3ac78cd30099e2a b/.bun-tag-f3ac78cd30099e2a
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/entry-create.tsx b/src/entry-create.tsx
+index 517b4cedded32c7c8c34bf72cb6f92ae910be569..73e9953fb524e5622eecc63aa1802f5281609725 100644
+--- a/src/entry-create.tsx
++++ b/src/entry-create.tsx
+@@ -141,12 +141,12 @@ export function EntryCreate({ client, definition, collection, onCreated, onCance
+ 							<span>Body</span>
+ 							<span className="nua-cadmin-field-type">markdown</span>
+ 						</div>
+-						<textarea
+-							className="nua-cadmin-body-editor"
+-							value={draft.body}
+-							rows={10}
+-							onChange={e => setDraft(prev => ({ ...prev, body: e.target.value }))}
+-						/>
++                        <FieldEditor
++                            field={{ name: 'body', type: 'markdown', required: false }}
++                            value={draft.body}
++                            onChange={body => setDraft(prev => ({ ...prev, body: String(body ?? '') }))}
++                            ctx={ctx}
++                        />
+ 					</div>
+ 				)
+ 				: null}
+diff --git a/src/entry-editor.tsx b/src/entry-editor.tsx
+index ea69b2b7527b3293e58a3c72d0c67c43151197dc..2a69acbd7dab64b0c9d1b3e717c94ebecd6ac67d 100644
+--- a/src/entry-editor.tsx
++++ b/src/entry-editor.tsx
+@@ -425,10 +425,11 @@ export function EntryEditor({ client, definition, collection, slug, onDeleted, o
+ 									<span>Body</span>
+ 									<span className="nua-cadmin-field-type">{isMdx ? 'mdx' : 'markdown'}</span>
+ 								</div>
+-								{isMdx
++								{(isMdx || definition?.fileExtension === 'md')
+ 									? (
+ 										<MdxBodyEditor
+ 											value={draft.body}
++											allowComponents={isMdx}
+ 											onChange={onBody}
+ 											components={components}
+ 											listStyles={listStyles}

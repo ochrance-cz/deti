@@ -1,0 +1,49 @@
+---
+interface Item {
+  title?: string;
+  text?: string;
+  link?: string;
+  file?: string;
+}
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props;
+
+// Known downloadable file extensions → label shown in parentheses next to the link.
+// URLs without one of these (e.g. links to pages) get no annotation.
+const FILE_TYPE_LABELS: Record<string, string> = {
+  pdf: 'PDF',
+  doc: 'DOC',
+  docx: 'DOCX',
+  xls: 'XLS',
+  xlsx: 'XLSX',
+  ppt: 'PPT',
+  pptx: 'PPTX',
+  odt: 'ODT',
+  ods: 'ODS',
+  odp: 'ODP',
+  rtf: 'RTF',
+  txt: 'TXT',
+  csv: 'CSV',
+  zip: 'ZIP',
+  rar: 'RAR',
+};
+
+function fileTypeLabel(href: string): string | null {
+  const path = href.split(/[?#]/)[0] ?? '';
+  const match = path.match(/\.([a-z0-9]{2,5})$/i);
+  if (!match) return null;
+  return FILE_TYPE_LABELS[match[1].toLowerCase()] ?? null;
+}
+---
+<ul class="_link-list">
+  {items.map((it) => {
+    const href = it.file ?? it.link ?? '#';
+    const label = (it.text ?? it.title ?? href).trim();
+    const type = fileTypeLabel(href);
+    return (
+      <li><a href={href}>{label}{type ? ` (${type})` : ''}</a></li>
+    );
+  })}
+</ul>

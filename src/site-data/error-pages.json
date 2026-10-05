@@ -1,0 +1,20 @@
+[
+  {
+    "id": "400",
+    "data": {
+      "title": "Špatný požadavek (chyba 400)"
+    }
+  },
+  {
+    "id": "404",
+    "data": {
+      "title": "Stránka nenalezena (chyba 404)"
+    }
+  },
+  {
+    "id": "500",
+    "data": {
+      "title": "Chyba serveru (chyba 500)"
+    }
+  }
+]

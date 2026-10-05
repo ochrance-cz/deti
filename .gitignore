@@ -1,5 +1,14 @@
-public/*
-node_modules/*
-podklady/*
-dump/*
+dist/
+node_modules/
+.astro/
+AGENTS.md
+podklady/
+dump/
 .hugo_build.lock
+resources/_gen/
+.DS_Store
+.env
+.a2r/
+
+# Wrangler local state
+.wrangler/

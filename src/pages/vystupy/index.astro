@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const title = 'Výstupy';
+const description =
+  'Výzkumy, doporučení, publikace, výroční zprávy a další výstupy dětského ombudsmana.';
+const linkGroups: Array<{
+  title?: string;
+  items: Array<{ title: string; link: string }>;
+}> = [
+  {
+    items: [
+      { title: 'Spolupráce s dětmi a poradní orgán', link: '/vystupy/spoluprace-s-detmi/' },
+      { title: 'Výzkumy a doporučení', link: '/vystupy/vyzkumy-a-doporuceni/' },
+      { title: 'Publikace a výroční zprávy', link: '/vystupy/publikace-a-vz/' },
+      { title: 'Evidence stanovisek ombudsmana', link: 'https://eso.ochrance.cz' },
+      { title: 'Pro média', link: '/pro-media/' },
+    ],
+  },
+];
+---
+<BaseLayout title={title} description={description}>
+  <main>
+    <article class="_vystupy">
+      <h1>{title}</h1>
+      <div class="text-content">
+        <div class="lists">
+          {linkGroups.map((g) => (
+            <div class="list-wrapper">
+              {g.title && <h2>{g.title}</h2>}
+              <ul class="_vystupy">
+                {g.items.map((it) => (
+                  <li><a href={it.link}>{it.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </article>
+  </main>
+</BaseLayout>

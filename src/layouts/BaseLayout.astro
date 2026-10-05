@@ -1,0 +1,61 @@
+---
+import '../styles/tailwind.css';
+import '../styles/style.scss';
+import Header from '../components/Header.astro';
+import NavButtons from '../components/NavButtons.astro';
+import Footer from '../components/Footer.astro';
+import Seo from '../components/Seo.astro';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string | ImageMetadata;
+  ogType?: string;
+  bodyClass?: string;
+  noIndex?: boolean;
+}
+const {
+  title,
+  description,
+  image,
+  ogType,
+  bodyClass,
+  noIndex = false,
+} = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="cs-CZ">
+  <head>
+    <title>{title}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Seo title={title} description={description} image={image} type={ogType} />
+    {noIndex && <meta name="robots" content="noindex">}
+
+    <link rel="stylesheet" href="https://use.typekit.net/tly6rvv.css">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+  </head>
+
+  <body class={bodyClass}>
+    <Header />
+    <NavButtons currentPath={Astro.url.pathname} />
+
+    <slot />
+
+    <Footer />
+
+    <script>
+      import '../scripts/index.js';
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-2D5HYZE3WP"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-2D5HYZE3WP');
+    </script>
+  </body>
+</html>

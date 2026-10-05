@@ -1,0 +1,20 @@
+---
+import MenuItem from './MenuItem.astro';
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = Astro.url?.pathname || '/' } = Astro.props;
+---
+<nav class="_nav-buttons" aria-label="Hlavní navigace">
+  <div class="_nav-buttons-inner">
+    <ul class="buttons">
+      <MenuItem link="/s-cim-mi-pomuzete/" text="S čím mi pomůžete?" currentPath={currentPath} />
+      <MenuItem link="/jak-vas-kontaktovat/" text="Jak vás kontaktovat?" currentPath={currentPath} />
+      <MenuItem link="/pripady/" text="Nevím si rady s…" currentPath={currentPath} />
+      <MenuItem link="/o-pravech-deti/" text="O právech dětí" currentPath={currentPath} />
+      <MenuItem link="/o-ombudsmanovi/" text="O ombudsmanovi" currentPath={currentPath} />
+    </ul>
+  </div>
+</nav>

@@ -1,9 +1,0 @@
-<li>
-  <a
-    {{ with .lang }}dataset-lang="{{ . }}"{{end}}
-    {{ if hasPrefix .permalink .link }}class="selected"{{ end }}
-    {{ with .title }}title="{{ . }}"{{ end }}
-    href="{{ .link | absURL }}">
-    {{ .text }}
-  </a>
-</li>

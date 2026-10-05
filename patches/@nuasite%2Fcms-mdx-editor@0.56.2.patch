@@ -1,0 +1,218 @@
+diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-2a57484148ee6f35 b/.bun-tag-2a57484148ee6f35
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-4be64a2c77a729cf b/.bun-tag-4be64a2c77a729cf
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-6e248a929ff97426 b/.bun-tag-6e248a929ff97426
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
+index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330aa67e6a8 100644
+--- a/src/format-toolbar.tsx
++++ b/src/format-toolbar.tsx
+@@ -6,6 +6,7 @@
+  * original mini-editor's formatting-only toolbar.
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { NodeSelection } from '@milkdown/prose/state'
+ import {
+ 	liftListItemCommand,
+ 	toggleEmphasisCommand,
+@@ -160,7 +161,35 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 	const [linkOpen, setLinkOpen] = useState(false)
+ 	const [mediaOpen, setMediaOpen] = useState(false)
+ 	const [youtubeOpen, setYoutubeOpen] = useState(false)
+-	const [pendingImage, setPendingImage] = useState<{ url: string; alt: string } | null>(null)
++	const [pendingImage, setPendingImage] = useState<{ url: string; alt: string; caption?: string; position?: number; node?: object } | null>(null)
++	const [selectedImage, setSelectedImage] = useState<{ url: string; alt: string; caption: string; position: number; node: object } | null>(null)
++	useEffect(() => {
++		if (!editor) { setSelectedImage(null); return }
++		const view = editor.ctx.get(editorViewCtx)
++		const update = () => {
++			const selection = view.state.selection
++			setSelectedImage(selection instanceof NodeSelection && selection.node.type.name === 'image'
++				? { url: selection.node.attrs.src, alt: selection.node.attrs.alt ?? '', caption: selection.node.attrs.title ?? '', position: selection.from, node: selection.node }
++				: null)
++		}
++		const originalDispatch = view.dispatch
++		const dispatch: typeof view.dispatch = transaction => { originalDispatch.call(view, transaction); update() }
++		view.dispatch = dispatch
++		const selectImage = (event: MouseEvent) => {
++			const image = event.target
++			if (!(image instanceof HTMLImageElement) || !image.hasAttribute('src')) return
++			const position = view.posAtDOM(image, 0)
++			if (view.state.doc.nodeAt(position)?.type.name !== 'image') return
++			view.dispatch(view.state.tr.setSelection(NodeSelection.create(view.state.doc, position)))
++			view.focus()
++		}
++		view.dom.addEventListener('click', selectImage)
++		update()
++		return () => {
++			view.dom.removeEventListener('click', selectImage)
++			if (view.dispatch === dispatch) view.dispatch = originalDispatch
++		}
++	}, [editor])
+ 	const disabled = editor === null
+ 	const hasListStyles = (listStyles?.length ?? 0) > 0
+ 	const inList = formats.bulletList || formats.orderedList
+@@ -236,6 +265,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
+ 				<span style={sep} />
+ 				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
++				{selectedImage ? <Btn title="Upravit alternativní text vybrané fotografie" onClick={() => setPendingImage(selectedImage)}>Alt text</Btn> : null}
+ 				{media ? <Btn title="Insert image" onClick={() => !disabled && setMediaOpen(true)}>🖼 Image</Btn> : null}
+ 				{onInsertComponent
+ 					? (
+@@ -281,11 +311,21 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 				? (
+ 					<div style={{ padding: '0 6px' }}>
+ 						<ImagePopover
++							key={`${pendingImage.position ?? "new"}:${pendingImage.url}`}
++							imageUrl={pendingImage.url}
++							initialCaption={pendingImage.caption}
++							isEdit={pendingImage.position !== undefined}
+ 							initialAlt={pendingImage.alt}
+ 							onApply={(alt, caption) => {
+-								const { url } = pendingImage
++								const { url, position } = pendingImage
+ 								setPendingImage(null)
+-								if (editor) insertImage(editor, url, alt, caption)
++								if (!editor) return
++								if (position === undefined) { insertImage(editor, url, alt, caption); return }
++								const view = editor.ctx.get(editorViewCtx)
++								const node = view.state.doc.nodeAt(position)
++								if (node !== pendingImage.node || node?.type.name !== 'image' || node.attrs.src !== url) return
++								view.dispatch(view.state.tr.setNodeMarkup(position, undefined, { ...node.attrs, alt, title: caption }))
++								view.focus()
+ 							}}
+ 							onClose={() => setPendingImage(null)}
+ 						/>
+diff --git a/src/image-popover.tsx b/src/image-popover.tsx
+index aaa53138f9fa55e052f8a3143b99e414e8f9ddda..ee269a09bb22d0ef79fdfab5062e09e914616287 100644
+--- a/src/image-popover.tsx
++++ b/src/image-popover.tsx
+@@ -8,6 +8,9 @@ import { popoverBtn, popoverInput, popoverWrap } from './link-popover'
+ 
+ export interface ImagePopoverProps {
+ 	initialAlt: string
++	initialCaption?: string
++	imageUrl?: string
++	isEdit?: boolean
+ 	onApply: (alt: string, caption: string) => void
+ 	onClose: () => void
+ }
+@@ -15,9 +18,9 @@ export interface ImagePopoverProps {
+ const wrap: React.CSSProperties = { ...popoverWrap, flexWrap: 'wrap' }
+ const label: React.CSSProperties = { fontSize: 11, color: '#71717a', whiteSpace: 'nowrap' }
+ 
+-export function ImagePopover({ initialAlt, onApply, onClose }: ImagePopoverProps) {
++export function ImagePopover({ initialAlt, initialCaption = '', imageUrl, isEdit = false, onApply, onClose }: ImagePopoverProps) {
+ 	const [alt, setAlt] = useState(initialAlt)
+-	const [caption, setCaption] = useState('')
++	const [caption, setCaption] = useState(initialCaption)
+ 
+ 	const apply = () => onApply(alt.trim(), caption.trim())
+ 
+@@ -31,19 +34,22 @@ export function ImagePopover({ initialAlt, onApply, onClose }: ImagePopoverProps
+ 
+ 	return (
+ 		<div style={wrap} data-mdx-action="image" onMouseDown={e => e.stopPropagation()}>
+-			<span style={label}>Alt</span>
++			<div style={{ flexBasis: '100%' }}>{imageUrl && <img src={imageUrl} alt={initialAlt} style={{ display: 'block', maxWidth: 160, maxHeight: 100, objectFit: 'contain' }} />}</div>
++			<span style={label}>Alternativní text</span>
+ 			<input
+ 				style={popoverInput}
+ 				autoFocus
+-				placeholder="Alt text for screen readers"
++				aria-label="Alternativní text"
++				placeholder="Popište tuto konkrétní fotografii"
+ 				value={alt}
+ 				onChange={e => setAlt(e.currentTarget.value)}
+ 				onKeyDown={onKeyDown}
+ 			/>
+-			<span style={label}>Caption</span>
++			<span style={label}>Popisek / zdroj</span>
+ 			<input
+ 				style={popoverInput}
+-				placeholder="Caption / source (optional)"
++				aria-label="Popisek / zdroj"
++				placeholder="Volitelný popisek / zdroj"
+ 				value={caption}
+ 				onChange={e => setCaption(e.currentTarget.value)}
+ 				onKeyDown={onKeyDown}
+@@ -54,9 +60,9 @@ export function ImagePopover({ initialAlt, onApply, onClose }: ImagePopoverProps
+ 				onMouseDown={e => e.preventDefault()}
+ 				onClick={apply}
+ 			>
+-				Insert
++				{isEdit ? 'Použít' : 'Vložit'}
+ 			</button>
+-			<button type="button" style={popoverBtn} onMouseDown={e => e.preventDefault()} onClick={onClose}>Cancel</button>
++			<button type="button" style={popoverBtn} onMouseDown={e => e.preventDefault()} onClick={onClose}>Zrušit</button>
+ 		</div>
+ 	)
+ }
+diff --git a/node_modules/@nuasite/cms-mdx-editor/src/image-schema.ts b/src/image-schema.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a08ba09459c44b970b6838ab43bbed3007ba158f
+--- /dev/null
++++ b/src/image-schema.ts
+@@ -0,0 +1,17 @@
++import { imageSchema } from '@milkdown/preset-commonmark'
++
++// Remark represents an omitted image title as null. Milkdown 7.20 validates
++// image titles as strings but forwards that null, then silently drops the image
++// when ProseMirror rejects it. Normalize optional metadata before adding nodes.
++export const safeImageSchema = imageSchema.extendSchema(previous => ctx => {
++	const schema = previous(ctx)
++	return {
++		...schema,
++		parseMarkdown: {
++			...schema.parseMarkdown,
++			runner: (state, node, type) => schema.parseMarkdown.runner(state, {
++				...node, alt: node.alt ?? '', title: node.title ?? '',
++			}, type),
++		},
++	}
++})
+diff --git a/src/mdx-body-editor.tsx b/src/mdx-body-editor.tsx
+index d9d890794512db0332576e0e4a1aa8ae0426c9db..e408b3f7b9b6693863d18073232bb2532fde1338 100644
+--- a/src/mdx-body-editor.tsx
++++ b/src/mdx-body-editor.tsx
+@@ -17,6 +17,7 @@ import type { CmsListStyle, ComponentDefinition } from '@nuasite/cms-types'
+ import { useEffect, useRef, useState } from 'react'
+ import { ComponentPicker } from './component-picker'
+ import { FormatToolbar } from './format-toolbar'
++import { safeImageSchema } from './image-schema'
+ import { insertMdxComponentCommand, mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from './mdx-plugin'
+ import { type ComponentResolver, createMdxComponentView } from './mdx-view'
+ import type { MediaContext, MediaSource } from './media-source'
+@@ -169,6 +170,7 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(styledListPlugin)
+ 				.use(gfm)
+ 				.use(listener)
+diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
+index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..51b08282681760db87cf261835166d9ca2511129 100644
+--- a/src/slot-editor.tsx
++++ b/src/slot-editor.tsx
+@@ -15,6 +15,7 @@ import { gfm } from '@milkdown/preset-gfm'
+ import { replaceAll } from '@milkdown/utils'
+ import { useEffect, useRef, useState } from 'react'
+ import { FormatToolbar } from './format-toolbar'
++import { safeImageSchema } from './image-schema'
+ 
+ const wrapper: React.CSSProperties = { border: '1px solid #e4e4e7', borderRadius: 6, background: '#fff' }
+ const host: React.CSSProperties = { padding: '6px 10px', minHeight: 60, fontSize: 13, lineHeight: 1.5, outline: 'none' }
+@@ -43,6 +44,7 @@ export function SlotEditor({ value, onChange }: { value: string; onChange: (mark
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(gfm)
+ 				.use(listener)
+ 				.create()

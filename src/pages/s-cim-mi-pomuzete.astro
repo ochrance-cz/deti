@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { renderMarkdown } from '../lib/markdown';
+import ListWeCan from '../components/ListWeCan.astro';
+import ListWeCannot from '../components/ListWeCannot.astro';
+
+const title = 'S čím mi pomůžete?';
+const description =
+  'Zjisti, s čím se můžeš obrátit na dětského ombudsmana a kdy ti může pomoci.';
+
+const jsem = await getCollection('jsem');
+const jsemPerex = await Promise.all(
+  jsem.map(async (e) => ({
+    id: e.id,
+    title: e.data.title,
+    perexHtml: await renderMarkdown(e.data.perex, e.filePath),
+  })),
+);
+---
+
+<BaseLayout title={title} description={description}>
+  <main>
+    <article class="text-content">
+      <h1>{title}</h1>
+
+      <ListWeCan />
+      <ListWeCannot />
+
+      <blockquote>
+        <p><a href="/pripady/" style="color: hsla(329, 85%, 43%, 1); text-decoration: underline;">Podívej se, co vše už ombudsman vyřešil.</a> Možná tam najdeš něco podobného, co řešíš právě teď ohledně dávek, diskriminace, dluhů, rodiny, soudů nebo třeba školy.</p>
+      </blockquote>
+
+      <h2>Dětský ombudsman také řeší</h2>
+      <ul class="checkmarks">
+        <li>Dětský ombudsman také preventivně navštěvuje a kontroluje zařízení, jako jsou dětské domovy nebo výchovné ústavy, psychiatrické léčebny, vězení pro mladistvé, policejní oddělení s policejními celami, zařízení pro děti vyžadující okamžitou pomoc, apod.</li>
+        <li>Přispívá i k ochraně osob před diskriminací. Znamená to, že může pomoci v případě, kdy někdo zachází s jiným člověkem hůř jen kvůli jeho věku, barvě pleti, národnosti, náboženství nebo pohlaví.</li>
+        <li>Dětský ombudsman také systematicky monitoruje práva osob se zdravotním postižením a nucené návraty lidí, kteří pobývali neoprávněně na území České republiky.</li>
+      </ul>
+
+      <h2>Jsem v zařízení nebo v nemocnici</h2>
+      <ul class="_link-list">
+        {jsemPerex.map((j) => (
+          <li>
+            <p><a href={`/jsem/${j.id}/`}>{j.title}</a></p>
+            {j.perexHtml && <div class="detail" set:html={j.perexHtml}></div>}
+          </li>
+        ))}
+      </ul>
+
+
+    </article>
+
+    <aside class="acute-help">
+      <h2>Potřebuješ pomoc hned?</h2>
+      <p>
+        Pokud ti někdo ubližuje, jsi v&nbsp;ohrožení nebo máš pocit, že&nbsp;nevíš kudy kam, zavolej na <strong><a href="tel:116111">Linku&nbsp;bezpečí 116&nbsp;111</a></strong> — je zdarma a&nbsp;funguje 24&nbsp;hodin denně.
+      </p>
+      <p class="small font-normal">Dětský ombudsman řeší věci v&nbsp;řádech dnů až týdnů — pro akutní situace jsou tu jiné&nbsp;služby.</p>
+    </aside>
+  </main>
+</BaseLayout>

@@ -1,3 +1,0 @@
----
-title: Nevím si rady s…
----

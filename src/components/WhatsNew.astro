@@ -1,0 +1,123 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import NewsPreview from './NewsPreview.astro';
+
+interface Props {
+  video: CollectionEntry<'videos'>;
+  newsItems: CollectionEntry<'aktualne'>[];
+}
+
+const { video, newsItems } = Astro.props;
+---
+
+<section class="whats-new">
+  <h2 class="text-center">Co je nového?</h2>
+  <div class="whats-new-grid">
+    <!-- First two columns: News items -->
+    {newsItems.map((item) => (
+      <NewsPreview
+        href={`/aktualne/${item.id}/`}
+        title={item.data.title}
+        date={item.data.date}
+        perex={item.data.perex}
+        pic={item.data.pic}
+        icon={item.data.icon}
+      />
+    ))}
+
+    <!-- Third column: Video -->
+    <div class="video-item">
+      <div class="video-wrapper">
+        <iframe
+          src={`https://www.youtube.com/embed/${video.data.videoId}`}
+          title={video.data.title}
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <a 
+        href={`https://www.youtube.com/watch?v=${video.data.videoId}`}
+        class="video-title"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {video.data.title}
+      </a>
+    </div>
+  </div>
+</section>
+
+<style lang="scss">
+  .whats-new {
+    // Background controlled by _home.scss to layer over faces.png pattern
+    text-align: left;
+
+    h2 {
+      margin: 0 auto 2rem;
+      color: hsla(206, 98%, 42%, 1); // $primary
+      font-size: clamp(24px, 2.5vw, 30px);
+      letter-spacing: -0.02em;
+      font-weight: 700;
+    }
+
+    .whats-new-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 1rem;
+
+      @media (min-width: 768px) {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+      }
+    }
+
+    .video-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      padding-bottom: 177.78%; // 9:16 aspect ratio for vertical video (shorts)
+      background: #000;
+      border-radius: 0.5rem;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+    }
+
+    .video-title {
+      display: block;
+      text-align: center;
+      font-weight: 400;
+      margin: 0;
+      color: hsla(206, 98%, 42%, 1); // $primary blue color
+      line-height: 1.55;
+      text-decoration: underline;
+      transition: color 0.2s ease;
+
+      &:hover {
+        color: hsla(329, 85%, 43%, 1); // $secondary pink color on hover
+      }
+    }
+
+    // Align news items text to the left
+    :global(._news-preview) {
+      text-align: left;
+    }
+  }
+</style>

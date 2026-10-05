@@ -1,0 +1,19 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "ochrance-deti",
+  "compatibility_date": "2025-09-01",
+  // The account that holds the domekpolopate.cz zone comes from CLOUDFLARE_ACCOUNT_ID.
+  // Static site only: _redirects and _headers from dist/ cover everything the
+  // old Apache did; the files uploaded over FTP live under www.ochrance.cz.
+  "assets": {
+    "directory": "../dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  // workers.dev stays on so the build can be checked before the DNS cutover.
+  "workers_dev": true,
+  "routes": [
+    // deti.ochrance.cz is a custom hostname (Cloudflare for SaaS) of this zone.
+    { "pattern": "deti.ochrance.cz/*", "zone_name": "domekpolopate.cz" }
+  ]
+}

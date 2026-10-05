@@ -1,0 +1,32 @@
+---
+import type { GetStaticPaths } from 'astro';
+import SingleLayout from '../../../layouts/SingleLayout.astro';
+import { getCollection, render } from 'astro:content';
+import Youtube from '../../../components/mdx/Youtube.astro';
+import Icon from '../../../components/mdx/Icon.astro';
+import Gallery from '../../../components/Gallery.astro';
+import { resolveAttachments } from '../../../lib/attachment-files';
+
+export const getStaticPaths = (async () => {
+  const entries = await getCollection('aktualne', (e) => !e.data.draft);
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const attachments = resolveAttachments(entry.data.attachments);
+---
+<SingleLayout
+  title={entry.data.title}
+  date={entry.data.date}
+  perex={entry.data.perex}
+  image={entry.data.pic}
+  attachments={attachments}
+  noIndex={entry.data.noIndex}
+>
+  <Content components={{ Youtube, Icon }} />
+  <Gallery items={entry.data.gallery} layout="media" />
+</SingleLayout>

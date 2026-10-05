@@ -1,0 +1,45 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import DateLabel from '../components/DateLabel.astro';
+import LinkList from '../components/LinkList.astro';
+import { renderMarkdown } from '../lib/markdown';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  title: string;
+  date?: Date | string;
+  perex?: string;
+  image?: string | ImageMetadata;
+  attachments?: Array<{
+    title?: string;
+    text?: string;
+    link?: string;
+    file?: string;
+  }>;
+  noIndex?: boolean;
+}
+
+const { title, date, perex, image, attachments, noIndex = false } = Astro.props;
+const perexHtml = perex ? await renderMarkdown(perex) : '';
+---
+<BaseLayout title={title} description={perex} image={image} noIndex={noIndex}>
+  <main>
+    <article>
+      {date && (
+        <p class="details">
+          <DateLabel date={date} />
+        </p>
+      )}
+      <h1>{title}</h1>
+      <div class="text-content">
+        {perexHtml && <div class="perex" set:html={perexHtml}></div>}
+
+        <slot />
+
+        {attachments && attachments.length > 0 && (
+          <LinkList items={attachments} />
+        )}
+      </div>
+    </article>
+  </main>
+</BaseLayout>

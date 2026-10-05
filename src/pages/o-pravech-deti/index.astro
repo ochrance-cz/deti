@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const [page] = await getCollection('o-pravech-deti');
+
+if (!page) {
+  throw new Error('Missing o-pravech-deti entry');
+}
+
+const title = page.data.title;
+const description = page.data.perex;
+const leadLines = (page.data.lead ?? '').split('\n');
+const links = page.data.links ?? [];
+---
+<BaseLayout title={title} description={description} bodyClass="o-pravech-deti">
+  <main>
+    <section class="o-pravech-deti-section">
+      {links.map((g) => (
+        <div class="list-wrapper">
+          <div class="content-block">
+            <h1>{title}</h1>
+            <p class="lead">
+              {leadLines.map((line, index) => (
+                <Fragment>
+                  {index > 0 && <br />}
+                  {line}
+                </Fragment>
+              ))}
+            </p>
+            
+            {g.title && <h2>{g.title}</h2>}
+            <ul class="_vystupy">
+              {g.links?.map((it) => (
+                <li>
+                  <h3><a href={it.link}>{it.title}</a></h3>
+                  <p>{it.description}</p>
+                  <span class="arrow" aria-hidden="true">→</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

@@ -1,0 +1,177 @@
+._gallery {
+  $galleryPreviewHeight: 12rem;
+
+  ul {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: nowrap;
+    gap: 1rem;
+
+    overflow-y: hidden;
+    overflow-x: auto;
+    max-width: 100%;
+    padding: 0;
+
+    height: $galleryPreviewHeight + 1rem;
+
+    li {
+      /* overrides */
+      position: static;
+      padding-left: 0;
+
+      &::before {
+        display: none;
+      }
+      /* /overrides */
+
+      flex-shrink: 0;
+      margin: 0;
+      list-style-type: none;
+    }
+
+    label.thumb {
+      display: block;
+      width: auto;
+      height: $galleryPreviewHeight - 1rem;
+      cursor: pointer;
+
+      input {
+        display: none;
+      }
+
+      picture,
+      img {
+        width: auto;
+        height: $galleryPreviewHeight - 1rem;
+        border-radius: var(--radius-tiny);
+        overflow: hidden;
+      }
+    }
+  }
+
+  &:has(input[value='hidden']:checked) {
+    .next,
+    .prev,
+    .close {
+      display: none;
+    }
+
+    li figure {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      clip-path: inset(50%);
+      pointer-events: none;
+    }
+  }
+
+  &:has(input[value='hidden']:not(:checked)) {
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(2px);
+
+    .close {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      padding: 1rem;
+      color: white;
+      cursor: pointer;
+      font-size: 2rem;
+
+      input {
+        display: none;
+      }
+    }
+
+    .prev,
+    .next {
+      display: none;
+      position: absolute;
+      top: 35vh;
+      left: 2rem;
+
+      width: 3rem;
+      height: 3rem;
+
+      cursor: pointer;
+
+      img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        object-position: 50% 50%;
+      }
+    }
+
+    .next {
+      left: auto;
+      right: 2rem;
+    }
+
+    ul {
+      max-width: 100vw;
+      margin: 0 auto;
+      margin-top: 80vh;
+      width: fit-content;
+
+      figure {
+        display: none;
+        position: absolute;
+        top: 5rem;
+        left: 5rem;
+        right: 5rem;
+        bottom: 30vh;
+
+        picture,
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+          object-position: 50% 50%;
+        }
+
+        figcaption,
+        figcaption a {
+          color: white;
+        }
+      }
+
+      li:has(input:checked) {
+        .prev,
+        .next,
+        figure {
+          display: block;
+        }
+
+        label.thumb {
+          border: 2px solid $primary;
+          border-radius: var(--radius-tiny);
+        }
+      }
+
+      label.thumb {
+        width: 10vh;
+        height: 10vh;
+        border: 2px solid #999;
+        border-radius: var(--radius-tiny);
+
+        picture,
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          object-position: 50% 50%;
+        }
+      }
+    }
+  }
+}

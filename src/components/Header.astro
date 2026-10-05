@@ -1,0 +1,195 @@
+---
+import MenuItem from './MenuItem.astro';
+
+const currentPath = Astro.url?.pathname ?? '';
+---
+<header class="main _site-header">
+  <div class="_backdrop header">
+    <ul class="stripe">
+      <li class="root-link">
+        <a href="/">
+          <img class="logo" src="/images/logo.svg" width="200" alt="Úvodní strana" aria-label="Úvodní strana">
+        </a>
+      </li>
+
+      <MenuItem link="/hledat/" text="Vyhledat" currentPath={currentPath} />
+      <MenuItem link="/pro-skoly/" text="Pro školy" currentPath={currentPath} />
+      <MenuItem link="/pro-media/" text="Pro média" currentPath={currentPath} />
+
+      <li class="znakovy-jazyk-item">
+        <button
+          class="znakovy-jazyk-btn"
+          aria-label="Informace v českém znakovém jazyce (otevře video)"
+          id="znakovy-jazyk-open"
+          type="button"
+        >
+          <img
+            src="/images/piktogram-znakovy-jazyk.png"
+            alt="Informace v českém znakovém jazyce"
+            class="znakovy-jazyk-piktogram"
+          />
+        </button>
+      </li>
+    </ul>
+  </div>
+</header>
+
+<!-- Modal overlay -->
+<div id="znakovy-jazyk-modal" class="zj-modal" role="dialog" aria-modal="true" aria-label="Informace v českém znakovém jazyce" hidden>
+  <div class="zj-modal-backdrop" id="znakovy-jazyk-backdrop"></div>
+  <div class="zj-modal-box">
+    <button class="zj-modal-close" id="znakovy-jazyk-close" type="button" aria-label="Zavřít">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="zj-modal-video">
+      <iframe
+        id="znakovy-jazyk-iframe"
+        src=""
+        data-src="https://www.youtube-nocookie.com/embed/fUEnHbXzQs0?autoplay=1"
+        title="Informace v českém znakovém jazyce"
+        allow="autoplay; encrypted-media; picture-in-picture"
+        allowfullscreen
+        frameborder="0"
+      ></iframe>
+    </div>
+  </div>
+</div>
+
+<style>
+  .znakovy-jazyk-item {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .znakovy-jazyk-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+  }
+
+  .znakovy-jazyk-btn:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  .znakovy-jazyk-piktogram {
+    /* Match the nav text line-height: font is ~1rem, line-height ~1.5, so ~1.5rem */
+    height: 1.5em;
+    width: auto;
+    display: block;
+    vertical-align: middle;
+    filter: brightness(0) invert(1);
+  }
+
+  /* Modal */
+  .zj-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .zj-modal[hidden] {
+    display: none;
+  }
+
+  .zj-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+  }
+
+  .zj-modal-box {
+    position: relative;
+    z-index: 1;
+    background: #000;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+    width: min(90vw, 800px);
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .zj-modal-close {
+    position: absolute;
+    top: -2rem;
+    right: 0;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 0.25rem;
+    opacity: 0.85;
+  }
+
+  .zj-modal-close:hover,
+  .zj-modal-close:focus-visible {
+    opacity: 1;
+    outline: 1px solid white;
+  }
+
+  .zj-modal-video {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+    overflow: hidden;
+    border-radius: 4px;
+  }
+
+  .zj-modal-video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+<script>
+  const openBtn = document.getElementById('znakovy-jazyk-open');
+  const modal = document.getElementById('znakovy-jazyk-modal') as HTMLElement | null;
+  const closeBtn = document.getElementById('znakovy-jazyk-close');
+  const backdrop = document.getElementById('znakovy-jazyk-backdrop');
+  const iframe = document.getElementById('znakovy-jazyk-iframe') as HTMLIFrameElement | null;
+
+  function openModal() {
+    if (!modal || !iframe) return;
+    iframe.src = iframe.dataset.src ?? '';
+    modal.hidden = false;
+    document.body.style.overflow = 'hidden';
+    closeBtn?.focus();
+  }
+
+  function closeModal() {
+    if (!modal || !iframe) return;
+    modal.hidden = true;
+    iframe.src = '';
+    document.body.style.overflow = '';
+    openBtn?.focus();
+  }
+
+  openBtn?.addEventListener('click', openModal);
+  closeBtn?.addEventListener('click', closeModal);
+  backdrop?.addEventListener('click', closeModal);
+
+  document.addEventListener('keydown', (e: KeyboardEvent) => {
+    if (e.key === 'Escape' && modal && !modal.hidden) {
+      closeModal();
+    }
+  });
+</script>

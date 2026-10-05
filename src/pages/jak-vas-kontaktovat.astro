@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+const [page] = await getCollection('hledam-pomoc');
+
+if (!page) {
+  throw new Error('Missing hledam-pomoc entry');
+}
+
+const contact = page.data.contact ?? [];
+
+const { Content } = await render(page);
+---
+<BaseLayout title={page.data.title} bodyClass="_contact-page">
+  <main data-cms-live-edit>
+    <article>
+      <h1>{page.data.title}</h1>
+      <p>{page.data.perex}</p>
+
+      <div class="text-content">
+        <blockquote>
+          <div class="linked-contact-text"><p>{page.data.privacyNote}</p> <a href={page.data.privacyLink}>{page.data.privacyLinkText}</a> <p>{page.data.privacyAfterLink}</p></div>
+        </blockquote>
+        <h2>{page.data.howtoTitle}</h2>
+        <p>{page.data.howtoPerex}</p>
+        <ul class="_contact">
+          {contact.map((c) => (
+            <li>
+              <img class="contact-icon" src={`/images/domov/${c.icon}`} alt="" aria-hidden="true">
+              <p><strong>{c.title}</strong></p>
+              {c.link ? (
+                <div class="linked-contact-text"><p>{c.desc}</p> <a href={c.link}>{c.linkText}</a></div>
+              ) : (
+                <div class="contact-description">{c.desc}</div>
+              )}
+              {c.note && <p>{c.note}</p>}
+            </li>
+          ))}
+        </ul>
+        <div class="contact-details"><Content /></div>
+      </div>
+
+    </article>
+  </main>
+</BaseLayout>
+
+<style>
+  .contact-description {
+    white-space: pre-line;
+  }
+
+  .linked-contact-text > p {
+    display: inline;
+    margin: 0;
+  }
+</style>

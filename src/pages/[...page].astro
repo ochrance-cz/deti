@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import pages from '../lib/page-copy.json';
+
+import Copy0, { title as title0 } from '../components/page-copy/spoluprace-s-detmi.astro';
+import Copy2, { title as title2 } from '../components/page-copy/ochrana_tvych_osobnich_udaju.astro';
+import Copy3, { title as title3 } from '../components/page-copy/publikace-a-vz.astro';
+import Copy4, { title as title4 } from '../components/page-copy/akce-a-skoly.astro';
+import Copy5, { title as title5 } from '../components/page-copy/detskyombudsman.astro';
+import Copy6, { title as title6 } from '../components/page-copy/vyzkumy-a-doporuceni.astro';
+import Copy7, { title as title7 } from '../components/page-copy/odkazy.astro';
+import Copy8, { title as title8 } from '../components/page-copy/desatero.astro';
+import Copy9, { title as title9 } from '../components/page-copy/linky.astro';
+import Copy10, { title as title10 } from '../components/page-copy/jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem.astro';
+import Copy11, { title as title11 } from '../components/page-copy/elevator_napadem_to_zacina.astro';
+
+const copies = {
+  "spoluprace-s-detmi": Copy0,
+  "ochrana_tvych_osobnich_udaju": Copy2,
+  "publikace-a-vz": Copy3,
+  "akce-a-skoly": Copy4,
+  "detskyombudsman": Copy5,
+  "vyzkumy-a-doporuceni": Copy6,
+  "odkazy": Copy7,
+  "desatero": Copy8,
+  "linky": Copy9,
+  "jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem": Copy10,
+  "elevator_napadem_to_zacina": Copy11,
+};
+const titles = {
+  "jak_ombudsmana_vidi_deti_digitalni_galerie_souteze_jak_pomaha_ombudsman_detem": title10,
+  "detskyombudsman": title5,
+  "spoluprace-s-detmi": title0,
+  "ochrana_tvych_osobnich_udaju": title2,
+  "publikace-a-vz": title3,
+  "akce-a-skoly": title4,
+  "vyzkumy-a-doporuceni": title6,
+  "odkazy": title7,
+  "desatero": title8,
+  "linky": title9,
+  "elevator_napadem_to_zacina": title11,
+};
+
+export function getStaticPaths() {
+  return pages.flatMap(page => page.routes.map(route => ({
+    params: { page: route.replace(/^\/|\/$/g, '') }, props: { page },
+  })));
+}
+const { page } = Astro.props;
+const PageContent = copies[page.id];
+---
+<BaseLayout title={titles[page.id] ?? page.title} description={page.description} noIndex={page.noIndex}>
+  <PageContent />
+</BaseLayout>

@@ -1,0 +1,403 @@
+---
+import { Image } from '@nuasite/components';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { galleryPreview } from '../../lib/gallery';
+
+const title = 'Vzdělávací akce a nabídka pro školní kolektivy';
+---
+<BaseLayout title={title} bodyClass="_pro-skoly-page">
+  <style>
+    .event-link {
+      margin: 0.5rem 0 1rem;
+      font-size: 1.125rem;
+    }
+    
+    .event-link a {
+      color: hsla(206, 98%, 42%, 1); /* $primary blue */
+      text-decoration: underline;
+      font-weight: 600;
+      padding-left: 2.5rem;
+      position: relative;
+      display: inline-block;
+    }
+    
+    .event-link a::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 2rem;
+      height: 2rem;
+      background-image: url(/images/arrow-right-blue.svg);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    
+    .event-link a:hover {
+      color: hsla(329, 85%, 43%, 1); /* $secondary pink */
+    }
+
+    /* Extra spacing for "Co nabízíme?" and "Pro koho?" headings */
+    .list-wrapper h3 {
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    /* Photo Gallery Styles */
+    .photo-gallery {
+      margin: 2rem 0;
+    }
+
+    .hero-photo {
+      margin-bottom: 1.5rem;
+    }
+
+    .photo-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+
+    .photo-clickable {
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      width: 100%;
+      display: block;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    .photo-clickable:hover {
+      opacity: 0.9;
+      transform: scale(1.02);
+    }
+
+    .photo-clickable img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 0.5rem;
+    }
+
+    .hero-photo .photo-clickable img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+
+    .photo-grid .photo-clickable img {
+      aspect-ratio: 4/3;
+      object-fit: cover;
+    }
+
+    /* Lightbox Styles */
+    .lightbox {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 9999;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      max-width: none;
+      max-height: none;
+      box-sizing: border-box;
+      margin: 0;
+      border: 0;
+      padding: 4rem 1rem;
+      background: transparent;
+    }
+
+    .lightbox[open] {
+      display: flex;
+    }
+
+    .lightbox::backdrop {
+      background: transparent;
+    }
+
+    :global(html:has(#lightbox[open])),
+    :global(body:has(#lightbox[open])) {
+      overflow: hidden;
+    }
+
+    .lightbox-backdrop {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.9);
+      cursor: pointer;
+    }
+
+    .lightbox-content {
+      position: relative;
+      max-width: 90vw;
+      max-height: calc(100dvh - 8rem);
+      z-index: 10000;
+    }
+
+    .lightbox-content img {
+      max-width: 100%;
+      max-height: calc(100dvh - 8rem);
+      width: auto;
+      height: auto;
+      display: block;
+      border-radius: 0.5rem;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: -3rem;
+      right: 0;
+      background: rgba(255, 255, 255, 0.2);
+      border: none;
+      color: white;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s ease;
+    }
+
+    .lightbox-close:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+
+    /* Navigation Buttons */
+    .lightbox-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255, 255, 255, 0.2);
+      border: none;
+      color: white;
+      width: 3rem;
+      height: 3rem;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s ease;
+      z-index: 10001;
+    }
+
+    .lightbox-nav:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+
+    .lightbox-nav:focus {
+      outline: 2px solid white;
+      outline-offset: 2px;
+    }
+
+    .lightbox-nav-prev {
+      left: 1rem;
+    }
+
+    .lightbox-nav-next {
+      right: 1rem;
+    }
+
+    @media (max-width: 768px) {
+      .photo-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .lightbox-close {
+        top: 1rem;
+        right: 1rem;
+      }
+
+      .lightbox-nav {
+        width: 2.5rem;
+        height: 2.5rem;
+      }
+
+      .lightbox-nav-prev {
+        left: 0.5rem;
+      }
+
+      .lightbox-nav-next {
+        right: 0.5rem;
+      }
+    }
+  </style>
+  <main>
+    <article class="_vystupy">
+      <h1>{title}</h1>
+      <div class="text-content">
+        <div class="lists">
+          <div class="list-wrapper">
+            <h2>Vzdělávací akce</h2>
+            <p class="event-link">
+              <a href="https://akce.ochrance.cz/Events/Show">Aktuální termíny vzdělávacích akcí</a>
+            </p>
+          </div>
+
+          <div class="list-wrapper">
+            <h2>Nabídka pro školní kolektivy</h2>
+            <p>Chceš vědět, jak to vypadá u nás v kanceláři a dozvědět se víc o tom, co a jak děláme? Chceš položit otázku přímo dětskému ombudsmanovi?</p>
+
+            <p>Domluv se se svým učitelem nebo svou učitelkou a napište nám na <a href="mailto:deti@ochrance.cz">deti@ochrance.cz</a>. Ideálně rovnou uveďte:</p>
+            <ul>
+              <li>termíny (dny a čas), které by se vám hodily (budeme se snažit vám vyjít vstříc, ne vždy je to ale možné),</li>
+              <li>kolik by vás přijelo (rozdělíme si vás do skupin maximálně po třiceti; v jeden čas zvládneme pracovat maximálně se dvěma skupinami zároveň),</li>
+              <li>kdo by přijel (z jaké jste školy, který ročník, obor studia nebo že jste například studentský parlament),</li>
+              <li>má-li někdo z vás jakékoliv speciální potřeby (např. se pohybuje na vozíku, špatně vidí, nemluví perfektně česky,...),</li>
+              <li>e-mail a telefon na někoho, s kým se můžeme domluvit.</li>
+            </ul>
+
+            <h3>Co nabízíme?</h3>
+            <p>Zhruba dvouhodinový program, během kterého:</p>
+            <ul>
+              <li>vás na příkladech seznámíme s tím, co děláme,</li>
+              <li>ukážeme vám zákoutí naší budovy (kde pracujeme, kde se vzděláváme, kde relaxujeme, kde chováme včely i kde řádí „naše děti“) a</li>
+              <li>budete se moci zeptat dětského ombudsmana na cokoliv, co vás zajímá.</li>
+            </ul>
+
+            <h3>Pro koho?</h3>
+            <ul>
+              <li>školní kolektivy či jiné zájmové skupiny dětí,</li>
+              <li>šesťáky a starší.</li>
+            </ul>
+
+            <blockquote>
+              <p>Sídlo máme v Brně, takže i exkurze probíhají pouze <a href="https://www.ochrance.cz/kontakt/">v Brně na adrese Údolní 39</a>.</p>
+            </blockquote>
+
+            <div class="photo-gallery">
+              <div class="hero-photo">
+                <button type="button" class="photo-clickable" data-photo="photo-0" data-full-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/2ed71d91c930-341070637-744534580473974-3888828716914193211-n.jpg')}>
+                  <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/2ed71d91c930-341070637-744534580473974-3888828716914193211-n.jpg" alt="Studenti sedí kolem stolu s barevnými papíry a při skupinové aktivitě diskutují s lektorkou." title="Těšit se můžete na různorodé aktivity, práci ve skupinách i prohlídku našich budov." />
+                </button>
+              </div>
+              <div class="photo-grid">
+                <button type="button" class="photo-clickable" data-photo="photo-1" data-full-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c17bec74bfdb-dsc-1287.jpg')}>
+                  <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/c17bec74bfdb-dsc-1287.jpg" alt="Děti diskutují s ombudsmanem v jeho kanceláři." title="Děti na exkurzi diskutují s ombudsmanem v jeho kanceláři." />
+                </button>
+                <button type="button" class="photo-clickable" data-photo="photo-2" data-full-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/9170e3508ec5-dsc-0509.jpg')}>
+                  <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/9170e3508ec5-dsc-0509.jpg" alt="Děti a jejich učitelka stojí v kanceláři ombudsmana." title="Skupinová fotografie s ombudsmanem v jeho kanceláři" />
+                </button>
+                <button type="button" class="photo-clickable" data-photo="photo-3" data-full-src={galleryPreview('https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/347ae90d7635-340698713-1620445675125534-801826962798539212-n.png')}>
+                  <Image src="https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/347ae90d7635-340698713-1620445675125534-801826962798539212-n.png" alt="Na obrázku je maskot deti.ochrance.cz (chlapec s zeleným čírem na skateboardu) a bubliny, v nichž je obsažena zpětná vazba od studentů." title="Zpětná vazba od středoškoláků, kteří nás navštívili." />
+                </button>
+              </div>
+            </div>
+
+            <!-- Lightbox Modal -->
+            <dialog id="lightbox" class="lightbox" aria-label="Fotogalerie pro školy">
+              <div class="lightbox-backdrop"></div>
+              <div class="lightbox-content">
+                <button type="button" class="lightbox-close" aria-label="Zavřít">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                  </svg>
+                </button>
+                <button type="button" class="lightbox-nav lightbox-nav-prev" aria-label="Předchozí fotografie">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                  </svg>
+                </button>
+                <button type="button" class="lightbox-nav lightbox-nav-next" aria-label="Další fotografie">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                  </svg>
+                </button>
+                <img id="lightbox-img" src="" alt="" />
+              </div>
+            </dialog>
+          </div>
+        </div>
+      </div>
+    </article>
+  </main>
+
+  <script is:inline>
+    // Delegate events so live editor replacements keep working.
+    if (!window.__ochranceSchoolGalleryEvents) {
+      window.__ochranceSchoolGalleryEvents = true;
+      const states = new WeakMap();
+      const photos = () => Array.from(document.querySelectorAll('.photo-gallery .photo-clickable'));
+
+      function showPhoto(dialog, index) {
+        const buttons = photos();
+        if (!buttons.length) return;
+        const state = states.get(dialog);
+        state.index = (index + buttons.length) % buttons.length;
+        const button = buttons[state.index];
+        const image = button.querySelector('img');
+        const preview = dialog.querySelector('#lightbox-img');
+        if (image && preview) {
+          preview.src = button.getAttribute('data-full-src') || image.currentSrc || image.src;
+          preview.alt = image.alt;
+        }
+      }
+
+      document.addEventListener('click', (event) => {
+        if (!(event.target instanceof Element)) return;
+        const button = event.target.closest('.photo-gallery .photo-clickable');
+        if (button) {
+          const dialog = document.querySelector('dialog#lightbox');
+          if (!dialog) return;
+          states.set(dialog, { index: 0, opener: button });
+          showPhoto(dialog, photos().indexOf(button));
+          if (!dialog.open) dialog.showModal();
+          return;
+        }
+
+        const dialog = event.target.closest('dialog#lightbox[open]');
+        if (!dialog) return;
+        if (event.target.closest('.lightbox-close, .lightbox-backdrop')) {
+          dialog.close();
+        } else if (event.target.closest('.lightbox-nav-prev')) {
+          showPhoto(dialog, states.get(dialog).index - 1);
+        } else if (event.target.closest('.lightbox-nav-next')) {
+          showPhoto(dialog, states.get(dialog).index + 1);
+        }
+      });
+
+      document.addEventListener('keydown', (event) => {
+        const dialog = document.querySelector('dialog#lightbox[open]');
+        if (!dialog) return;
+        if (event.key === 'Tab') {
+          const controls = Array.from(dialog.querySelectorAll('button:not([disabled])'));
+          const first = controls[0];
+          const last = controls[controls.length - 1];
+          if (event.shiftKey && document.activeElement === first) {
+            event.preventDefault();
+            last.focus();
+          } else if (!event.shiftKey && document.activeElement === last) {
+            event.preventDefault();
+            first.focus();
+          }
+          return;
+        }
+        if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+        event.preventDefault();
+        showPhoto(dialog, states.get(dialog).index + (event.key === 'ArrowLeft' ? -1 : 1));
+      });
+
+      document.addEventListener('close', (event) => {
+        const dialog = event.target;
+        if (!(dialog instanceof HTMLDialogElement) || dialog.id !== 'lightbox') return;
+        dialog.querySelector('#lightbox-img')?.removeAttribute('src');
+        const opener = states.get(dialog)?.opener;
+        if (opener?.isConnected) opener.focus({ preventScroll: true });
+      }, true);
+    }
+  </script>
+</BaseLayout>

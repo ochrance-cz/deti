@@ -1,28 +1,65 @@
 {
   "name": "deti.ochrance",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build:app": "hugo && npm run build:index",
-    "build:index": "npx pagefind --site \"public\"",
+    "dev": "bun node_modules/astro/bin/astro.mjs dev",
+    "start": "bun run dev",
+    "build": "nua build && pagefind --site dist",
+    "preview": "nua preview",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:admin": "deno run --no-check --allow-write ./config-gen/index.ts"
+    "verify:pages": "bun scripts/verify-page-copy.ts",
+    "verify:photos": "bun scripts/verify-photo-galleries.ts",
+    "verify:contact-editor": "bun scripts/verify-contact-editor.ts",
+    "verify:image-alt": "bun scripts/verify-image-alt.ts",
+    "verify:editor-content": "bun scripts/verify-editor-content.ts",
+    "verify:launch": "bun scripts/verify-launch.ts",
+    "verify:r2": "bun scripts/verify-r2-assets.ts",
+    "generate:cms-styles": "bun scripts/cms-editor-styles.ts",
+    "verify:cms-styles": "bun scripts/cms-editor-styles.ts --check"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ochrance/deti.git"
+    "url": "git+https://github.com/ochrance-cz/deti.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ochrance/deti/issues"
+    "url": "https://github.com/ochrance-cz/deti/issues"
   },
-  "homepage": "https://github.com/ochrance/deti#readme",
+  "homepage": "https://github.com/ochrance-cz/deti#readme",
   "dependencies": {
-    "decap-cms": "^3.10.1",
-    "js-yaml": "^4.1.0",
+    "@astrojs/rss": "^4.0.7",
+    "@nuasite/components": "0.56.2",
     "pagefind": "^1.4.0",
-    "slug": "^8.2.3"
+    "rehype-raw": "^7.0.0",
+    "rehype-stringify": "^10.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
+    "sass": "^1.83.0",
+    "unified": "^11.0.5",
+    "unist-util-visit": "^5.0.0",
+    "vfile": "^6.0.3"
+  },
+  "devDependencies": {
+    "@nuasite/cms-sidecar": "0.56.2",
+    "@nuasite/collections-admin": "0.56.2",
+    "@nuasite/nua": "0.56.2",
+    "@preact/signals": "2.9.0",
+    "@tailwindcss/node": "4.2.2",
+    "@tailwindcss/oxide": "4.2.2",
+    "clsx": "2.1.1",
+    "preact": "10.29.1",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "tailwind-merge": "3.5.0"
+  },
+  "patchedDependencies": {
+    "@nuasite/cms-core@0.56.2": "patches/@nuasite%2Fcms-core@0.56.2.patch",
+    "@nuasite/cms-mdx-editor@0.56.2": "patches/@nuasite%2Fcms-mdx-editor@0.56.2.patch",
+    "@nuasite/cms@0.56.2": "patches/@nuasite%2Fcms@0.56.2.patch",
+    "@nuasite/collections-admin@0.56.2": "patches/@nuasite%2Fcollections-admin@0.56.2.patch"
   }
 }

@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsPreview from '../../components/NewsPreview.astro';
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('pripady', (e) => !e.data.draft);
+entries.sort((a, b) => a.data.title.localeCompare(b.data.title, 'cs'));
+
+const indexTitle = 'Nevím si rady s…';
+const description =
+  'Podívej se, s jakými situacemi dětský ombudsman pomáhá dětem a náctiletým.';
+---
+<BaseLayout title={indexTitle} description={description} bodyClass="_pripady-page">
+  <main>
+    <article>
+      <h1>{indexTitle}</h1>
+      <div class="text-content">
+        <ul class="arrows-blue">
+          {entries.map((e) => (
+            <NewsPreview
+              href={`/pripady/${e.id}/`}
+              title={e.data.title}
+              perex={e.data.perex}
+              h={2}
+              filePath={e.filePath}
+            />
+          ))}
+        </ul>
+      </div>
+    </article>
+  </main>
+</BaseLayout>

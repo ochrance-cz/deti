@@ -1,0 +1,83 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import DateLabel from '../../../components/DateLabel.astro';
+import Collapsible from '../../../components/Collapsible.astro';
+import Youtube from '../../../components/mdx/Youtube.astro';
+import Icon from '../../../components/mdx/Icon.astro';
+import { getCollection, render } from 'astro:content';
+import { renderMarkdown } from '../../../lib/markdown';
+
+export const getStaticPaths = (async () => {
+  const entries = await getCollection('pripady', (e) => !e.data.draft);
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content: ParentContent } = await render(entry);
+const perexHtml = entry.data.perex
+  ? await renderMarkdown(entry.data.perex, entry.filePath)
+  : '';
+const allCases = await getCollection('pripady-pripady');
+const cases = await Promise.all(
+  allCases
+    .filter((item) => item.id.startsWith(`${entry.id}/pripady/`))
+    .sort((a, b) => a.data.order - b.data.order)
+    .map(async (item) => {
+      const { Content: CaseContent } = await render(item);
+      const perexHtml = item.data.perex
+        ? await renderMarkdown(item.data.perex, item.filePath)
+        : '';
+
+      return {
+        item,
+        CaseContent,
+        perexHtml,
+      };
+    }),
+);
+const legacyCases = cases.length > 0
+  ? []
+  : await Promise.all(
+    (entry.data.cases ?? []).map(async (caseItem) => ({
+      ...caseItem,
+      perexHtml: await renderMarkdown(caseItem.perex, entry.filePath),
+      bodyHtml: await renderMarkdown(caseItem.body, entry.filePath),
+    })),
+  );
+---
+<BaseLayout title={entry.data.title} description={entry.data.perex} noIndex={entry.data.noIndex}>
+  <main>
+    <article>
+      <h1>{entry.data.title}</h1>
+      <div class="text-content">
+        {perexHtml && <div class="perex" set:html={perexHtml}></div>}
+
+        {entry.data.date && (
+          <p class="details">
+            <DateLabel date={entry.data.date} />
+          </p>
+        )}
+
+        {cases.map(({ item, CaseContent, perexHtml }) => (
+          <Collapsible id={item.data.title} title={item.data.title}>
+            {perexHtml && <div class="perex" set:html={perexHtml}></div>}
+            <CaseContent components={{ Youtube, Icon }} />
+          </Collapsible>
+        ))}
+
+        {legacyCases.map((caseItem) => (
+          <Collapsible id={caseItem.title} title={caseItem.title}>
+            {caseItem.perexHtml && <div class="perex" set:html={caseItem.perexHtml}></div>}
+            <Fragment set:html={caseItem.bodyHtml} />
+          </Collapsible>
+        ))}
+
+        <ParentContent components={{ Youtube, Icon }} />
+      </div>
+    </article>
+  </main>
+</BaseLayout>

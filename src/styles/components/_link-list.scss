@@ -1,0 +1,46 @@
+._link-list {
+  --size: 2rem;
+
+  li {
+    list-style-type: none;
+
+    @include font-size-l;
+
+    &::before {
+      background-image: url(/images/arrow-right-blue.svg);
+    }
+
+    p {
+      margin: 0 0 0.25rem;
+    }
+
+    .detail p {
+      @include font-size-m;
+      color: $black;
+    }
+  }
+
+  a {
+    font-weight: bold;
+    color: $primary;
+
+    &:hover,
+    &:focus-visible {
+      color: $secondary;
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 0.2em;
+    }
+  }
+
+  &.two-col {
+    @include medium {
+      column-count: 2;
+      column-gap: 2rem;
+    }
+
+    li {
+      margin: 1.2rem 0;
+    }
+  }
+}
