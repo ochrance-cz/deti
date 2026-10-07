@@ -34,6 +34,6 @@ Situace dětí, které propadly systémem, vyšla najevo až v souvislosti se z�
 >
 > •	Pokud nepřihlášení dítěte nasvědčuje zanedbání péče, do řešení se může zapojit také OSPOD.
 >
-> **Co se stane, když bude dítě plnit školní docházku mimo spádovou školu?  **
+> **Co se stane, když bude dítě plnit školní docházku mimo spádovou školu?**
 >
 > Pokud je dítě přijato na jinou než spádovou školu, tamní ředitel to oznámí řediteli spádové školy. Tak stát získá informace o tom, kdy a kam dítě nastupuje k povinné školní docházce.
