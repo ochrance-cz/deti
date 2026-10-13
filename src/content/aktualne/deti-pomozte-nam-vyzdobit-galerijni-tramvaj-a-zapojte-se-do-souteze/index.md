@@ -28,7 +28,7 @@ Nakresli nám podle svého výběru:
 
 
 
-**Svůj výtvor pošli buď ve formátu A4 na výšku nebo A3 na šířku do 4. 2. 2022 na adresu Kancelář veřejného ochránce práv, Údolní 39, 602 00 Brno a na obálku napište heslo &quot;tramvaj&quot;. Můžeš poslat také scan obrázku e-mailem na adresu** [salina@ochrance.cz**](mailto:salina@ochrance.cz).
+**Svůj výtvor pošli buď ve formátu A4 na výšku nebo A3 na šířku do 4. 2. 2022 na adresu Kancelář veřejného ochránce práv, Údolní 39, 602 00 Brno a na obálku napište heslo &quot;tramvaj&quot;. Můžeš poslat také scan obrázku e-mailem na adresu [salina@ochrance.cz](mailto:salina@ochrance.cz).**
 
 
 

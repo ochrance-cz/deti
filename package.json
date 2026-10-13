@@ -14,6 +14,7 @@
     "verify:contact-editor": "bun scripts/verify-contact-editor.ts",
     "verify:image-alt": "bun scripts/verify-image-alt.ts",
     "verify:editor-content": "bun scripts/verify-editor-content.ts",
+    "verify:emphasis": "bun scripts/verify-emphasis-markers.ts",
     "verify:launch": "bun scripts/verify-launch.ts",
     "verify:r2": "bun scripts/verify-r2-assets.ts",
     "generate:cms-styles": "bun scripts/cms-editor-styles.ts",

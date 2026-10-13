@@ -43,6 +43,9 @@ index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2
 diff --git a/node_modules/@nuasite/cms/.bun-tag-fad8c28c55bb30d2 b/.bun-tag-fad8c28c55bb30d2
 new file mode 100644
 index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+diff --git a/node_modules/@nuasite/cms/.bun-tag-ff9d870ed03746aa b/.bun-tag-ff9d870ed03746aa
+new file mode 100644
+index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/editor/components/frontmatter-fields.tsx b/src/editor/components/frontmatter-fields.tsx
 index cf75d5ce50d1e6b664c9344810f0745c34b98cd0..55dff86a4e09fcbc04c7a92afe07e536fdb9e6e2 100644
 --- a/src/editor/components/frontmatter-fields.tsx
@@ -253,10 +256,10 @@ index 94f8f9905f31b97257676c10d7ea67415d57ad3f..537d349e70e5346f5ad4b44a6a2e0a33
  	)
  }
 diff --git a/src/editor/components/markdown-inline-editor.tsx b/src/editor/components/markdown-inline-editor.tsx
-index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b9fb63a8f 100644
+index 860872fc2e1a07dba41470ec88080cb4b5252327..5c334306b0885945c0b479920bb72ac3a177f3b3 100644
 --- a/src/editor/components/markdown-inline-editor.tsx
 +++ b/src/editor/components/markdown-inline-editor.tsx
-@@ -10,10 +10,13 @@ import {
+@@ -10,10 +10,14 @@ import {
  	wrapInOrderedListCommand,
  } from '@milkdown/preset-commonmark'
  import { gfm, toggleStrikethroughCommand } from '@milkdown/preset-gfm'
@@ -268,10 +271,11 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
 +import type { Node as ProseMirrorNode } from '@milkdown/prose/model'
  import { useLinkPopover } from '../hooks/useLinkPopover'
 +import { safeImageSchema } from '../image-schema'
++import { keepMarkWhitespaceOutside } from '../mark-whitespace'
  import { cn } from '../lib/cn'
  import { uploadMedia } from '../markdown-api'
  import { insertMdxComponentCommand, mdxComponentPlugin } from '../milkdown-mdx-plugin'
-@@ -46,6 +49,9 @@ export function MarkdownInlineEditor({
+@@ -46,6 +50,9 @@ export function MarkdownInlineEditor({
  	const editorRef = useRef<HTMLDivElement>(null)
  	const editorInstanceRef = useRef<Editor | null>(null)
  	const [content, setContent] = useState(initialContent)
@@ -281,7 +285,14 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  	const [isReady, setIsReady] = useState(false)
  	const [isDragging, setIsDragging] = useState(false)
  	const [uploadProgress, setUploadProgress] = useState<number | null>(null)
-@@ -93,6 +99,7 @@ export function MarkdownInlineEditor({
+@@ -87,12 +94,14 @@ export function MarkdownInlineEditor({
+ 					.config((ctx) => {
+ 						ctx.set(rootCtx, editorRef.current)
+ 						ctx.set(defaultValueCtx, initialContentRef.current)
++						keepMarkWhitespaceOutside(ctx)
+ 						ctx.get(listenerCtx).markdownUpdated((_, markdown) => {
+ 							setContent(markdown)
+ 							updateMarkdownContent(markdown)
  						})
  					})
  					.use(commonmark)
@@ -289,7 +300,7 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  
  				// Styled bullet lists are opt-in: only load the full plugin (and its `-` bullet
  				// normalization) when the site configures list styles, so sites that don't use
-@@ -154,6 +161,64 @@ export function MarkdownInlineEditor({
+@@ -154,6 +163,64 @@ export function MarkdownInlineEditor({
  		initialContentRef.current = initialContent
  	}, [initialContent, isReady])
  
@@ -354,7 +365,7 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  	const handleSave = useCallback(() => {
  		onSave(content)
  		resetMarkdownEditorState()
-@@ -166,21 +231,21 @@ export function MarkdownInlineEditor({
+@@ -166,21 +233,21 @@ export function MarkdownInlineEditor({
  
  	const handleInsertImage = useCallback(() => {
  		openMediaLibraryWithCallback((url, alt) => {
@@ -390,7 +401,7 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  	}, [])
  
  	// Formatting commands
-@@ -636,6 +701,7 @@ export function MarkdownInlineEditor({
+@@ -636,6 +703,7 @@ export function MarkdownInlineEditor({
  							/>
  						</svg>
  					</ToolbarButton>
@@ -398,7 +409,7 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  					<ToolbarButton onClick={handleInsertImage} title="Insert Image">
  						<svg
  							class="w-4 h-4"
-@@ -663,6 +729,27 @@ export function MarkdownInlineEditor({
+@@ -663,6 +731,27 @@ export function MarkdownInlineEditor({
  				</div>
  			</div>
  
@@ -427,18 +438,26 @@ index 860872fc2e1a07dba41470ec88080cb4b5252327..1dfb704c696290d7c18f74e79aeb685b
  			<div
  				class={`flex-1 min-h-0 overflow-auto relative transition-colors ${isDragging ? 'bg-cms-primary/10' : ''}`}
 diff --git a/src/editor/components/mdx-block-view.tsx b/src/editor/components/mdx-block-view.tsx
-index 389acd04190b6a12309e33e3369e7a129e8d583a..07545ff6d6d2be686978bd031dc6f2d227e87ba5 100644
+index 389acd04190b6a12309e33e3369e7a129e8d583a..2e319662c907de36be7053615e94fa575db4c168 100644
 --- a/src/editor/components/mdx-block-view.tsx
 +++ b/src/editor/components/mdx-block-view.tsx
-@@ -14,6 +14,7 @@ import { callCommand, replaceAll } from '@milkdown/utils'
+@@ -14,7 +14,9 @@ import { callCommand, replaceAll } from '@milkdown/utils'
  import type { ComponentChildren } from 'preact'
  import { useCallback, useEffect, useMemo, useRef, useState } from 'preact/hooks'
  import { useLinkPopover } from '../hooks/useLinkPopover'
 +import { safeImageSchema } from '../image-schema'
  import { getComponentDefinition } from '../manifest'
++import { keepMarkWhitespaceOutside } from '../mark-whitespace'
  import { MDX_EXPR_PREFIX } from '../milkdown-mdx-plugin'
  import { type ActiveFormats, defaultActiveFormats, isInListType, setupFormatTracking, toggleHeading } from '../milkdown-utils'
-@@ -98,6 +99,7 @@ function MiniMilkdownEditor({ value, onChange }: { value: string; onChange: (v:
+ import { manifest, openMediaLibraryWithCallback } from '../signals'
+@@ -93,11 +95,13 @@ function MiniMilkdownEditor({ value, onChange }: { value: string; onChange: (v:
+ 				.config((ctx) => {
+ 					ctx.set(rootCtx, el)
+ 					ctx.set(defaultValueCtx, value)
++					keepMarkWhitespaceOutside(ctx)
+ 					ctx.get(listenerCtx).markdownUpdated((_, md) => {
+ 						latestMarkdown.current = md
  					})
  				})
  				.use(commonmark)
@@ -686,6 +705,78 @@ index 9acc5f6ef8a50b1f3670ce30243be416049c13a2..d93abc0346b679dd4f7d801a53eef4b0
  			await openMarkdownEditorForCurrentPage()
  		} else {
  			signals.isSelectMode.value = false
+diff --git a/node_modules/@nuasite/cms/src/editor/mark-whitespace.ts b/src/editor/mark-whitespace.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f15ffc8bfc2a11be82e8a90b02e8279cc5ba77ea
+--- /dev/null
++++ b/src/editor/mark-whitespace.ts
+@@ -0,0 +1,66 @@
++import { remarkStringifyOptionsCtx } from '@milkdown/core'
++import type { Ctx } from '@milkdown/ctx'
++
++// Bold/italic must not start or end with whitespace in Markdown: `**Otázka?  **`
++// is not bold, and the site shows the asterisks literally. Milkdown moves plain
++// spaces out of a mark on save, but not a non-breaking space or a tab (typical of
++// text pasted from Word), so move any such edge whitespace outside the markers.
++// Line breaks stay inside: emitted outside, they could start a new block.
++
++type Handler = (node: any, parent: any, state: any, info: any) => string
++
++const MARKS = new Set(['strong', 'emphasis', 'delete'])
++const LEADING = /^[^\S\r\n]+/
++const TRAILING = /[^\S\r\n]+$/
++
++function edgeText(node: any, edge: 'first' | 'last'): any {
++	const children = node.children
++	if (!Array.isArray(children) || children.length === 0) return undefined
++	const child = edge === 'first' ? children[0] : children[children.length - 1]
++	if (child.type === 'text') return child
++	return MARKS.has(child.type) ? edgeText(child, edge) : undefined
++}
++
++function isEmpty(node: any): boolean {
++	if (node.type === 'text') return node.value === ''
++	return MARKS.has(node.type) && (node.children ?? []).every(isEmpty)
++}
++
++function prune(node: any): void {
++	if (!MARKS.has(node.type) || !Array.isArray(node.children)) return
++	node.children = node.children.filter((child: any) => !isEmpty(child))
++	node.children.forEach(prune)
++}
++
++function keepWhitespaceOutside(handler: Handler): Handler {
++	const wrapped: Handler = (node, parent, state, info) => {
++		const copy = structuredClone(node)
++		const first = edgeText(copy, 'first')
++		const leading = first?.value.match(LEADING)?.[0] ?? ''
++		if (leading) first.value = first.value.slice(leading.length)
++		const last = edgeText(copy, 'last')
++		const trailing = last?.value.match(TRAILING)?.[0] ?? ''
++		if (trailing) last.value = last.value.slice(0, -trailing.length)
++		if (!leading && !trailing) return handler(node, parent, state, info)
++
++		prune(copy)
++		if (isEmpty(copy)) return leading + trailing
++		return leading + handler(copy, parent, state, {
++			...info,
++			before: leading ? leading.slice(-1) : info.before,
++			after: trailing ? trailing[0] : info.after,
++		}) + trailing
++	}
++	return Object.assign(wrapped, { peek: (handler as any).peek })
++}
++
++/** Call from `Editor.make().config(...)`, before the serializer is created. */
++export function keepMarkWhitespaceOutside(ctx: Ctx): void {
++	ctx.update(remarkStringifyOptionsCtx, (options) => {
++		const handlers: Record<string, Handler> = { ...(options.handlers as Record<string, Handler>) }
++		for (const type of ['strong', 'emphasis']) {
++			if (handlers[type]) handlers[type] = keepWhitespaceOutside(handlers[type])
++		}
++		return { ...options, handlers }
++	})
++}
 diff --git a/src/editor/signals.ts b/src/editor/signals.ts
 index f6715434d03cb6c21234e97a28d0c6138002f1e2..c1dbcee964de27ef00290d15ca19e4dbeaf587a2 100644
 --- a/src/editor/signals.ts

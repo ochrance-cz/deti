@@ -11,6 +11,10 @@ perex: Přinášíme souhrn odpovědí na nejčastější otázky související 
 * Kvůli pracovní smlouvě **půjdeš** na vstupní lékařskou prohlídku. Při brigádě na základě dohody (o provedení práce nebo o pracovní činnosti) lékařskou prohlídku **nepotřebuješ**.
 * Když u zaměstnavatele podepíšeš **tzv. růžový papír** (prohlášení poplatníka), při výpočtu daně z příjmů hned uplatní tvou základní slevu na dani až 2 070 Kč měsíčně a dalších 335 Kč měsíčně, pokud studuješ. Z běžné výplaty z letní brigády tedy daň nejspíš platit nebudeš, a i kdyby ano, odvedl by ji za tebe zaměstnavatel.
 
-**Další užitečné informace k daním najdeš v naší příručce [Daň z příjmů](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Dan-z-prijmu.pdf).\*\***Koukni taky na [případy, kterými jsme se už zabývali](https://deti.ochrance.cz/pripady/prace-brigady/). Podrobněji se zde dozvíš, co a jak.***\*Hodit by se ti mohly také informace z [příručky Prázdniny bezpečně s ombudsmanem](http://bit.ly/prazdninybezpecne).**
+**Další užitečné informace k daním najdeš v naší příručce [Daň z příjmů](https://www.ochrance.cz/fileadmin/user_upload/Letaky/Dan-z-prijmu.pdf).**
+
+**Koukni taky na [případy, kterými jsme se už zabývali](https://deti.ochrance.cz/pripady/prace-brigady/). Podrobněji se zde dozvíš, co a jak.**
+
+**Hodit by se ti mohly také informace z [příručky Prázdniny bezpečně s ombudsmanem](http://bit.ly/prazdninybezpecne).**
 
 ![](https://cdn.nuasite.com/assets/ochrance-deti-ot3wkf/cfd279a5649e-prvni-brigada-02-png.png)
