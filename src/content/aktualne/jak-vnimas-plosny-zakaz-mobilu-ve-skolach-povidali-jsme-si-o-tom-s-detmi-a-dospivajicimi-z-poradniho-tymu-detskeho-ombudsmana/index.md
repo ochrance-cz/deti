@@ -15,7 +15,7 @@ gallery: []
 
 <br />
 
-### Koukni, jak to vidí členové poradního týmu?
+### Koukni, jak to vidí členové poradního týmu:
 
 <br />
 
