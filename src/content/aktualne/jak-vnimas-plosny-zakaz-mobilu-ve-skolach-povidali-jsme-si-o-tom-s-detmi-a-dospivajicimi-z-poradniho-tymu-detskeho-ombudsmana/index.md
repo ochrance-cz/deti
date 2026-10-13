@@ -2,7 +2,7 @@
 title: Jak vnímáš plošný zákaz mobilů ve školách? Povídali jsme si o tom s dětmi
   a dospívajícími z poradního týmu dětského ombudsmana
 date: '2026-10-13'
-perex: Na druhém setkání s poradním týmem jsme si probírali zákazu mobilů ve
+perex: Na druhém setkání s poradním týmem jsme probírali zákaz mobilů ve
   školách. Děti s námi sdílely zkušenosti. Některé souhlasily s tím, jak je to u
   nich ve škole nastavené. Jiné upozorňovaly na nevýhody příliš přísných zákazů.
   S plošným zákazem však nesouhlasilo žádné z nich. Děti často vytýkaly, že jim
