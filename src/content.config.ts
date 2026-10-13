@@ -1,4 +1,3 @@
-import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { defineCmsCollection, n } from '@nuasite/cms';
@@ -52,7 +51,7 @@ export const collections = {
       pic: n.image({ label: 'Obrázek článku', help: 'Používá se v přehledu aktualit a při sdílení. Fotografie uvnitř článku přidejte do Fotogalerie nebo přímo do textu.' }).optional(),
       gallery: n.array(galleryImage, { label: 'Fotogalerie', help: 'Přidejte fotografie přes +. U každé vyplňte její alternativní text a případný popisek. První fotografie bude velká, další budou pod ní po třech. Fotografie přidávejte v požadovaném pořadí.' }).optional().default([]),
     }),
-    cms: { sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
+    cms: { label: 'Aktuality', order: 1, sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
   }),
 
   'press-releases': defineCmsCollection({
@@ -72,10 +71,10 @@ export const collections = {
       pic: n.image({ label: 'Obrázek tiskové zprávy', help: 'Používá se v přehledu a při sdílení. Fotografie uvnitř zprávy přidejte do Fotogalerie nebo přímo do textu.' }).optional(),
       gallery: n.array(galleryImage, { label: 'Fotogalerie', help: 'Přidejte fotografie přes +. U každé vyplňte její alternativní text a případný popisek. První fotografie bude velká, další budou pod ní po třech. Fotografie přidávejte v požadovaném pořadí.' }).optional().default([]),
     }),
-    cms: { sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
+    cms: { label: 'Tiskové zprávy', order: 2, sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
   }),
 
-  pripady: defineCollection({
+  pripady: defineCmsCollection({
     loader: glob({
       pattern: '*/index.{md,mdx}',
       base: './src/content/pripady',
@@ -89,9 +88,10 @@ export const collections = {
       perex: n.textarea().optional(),
       cases: z.array(caseItem).optional().default([]),
     }),
+    cms: { label: 'Nevím si rady s…', order: 4 },
   }),
 
-  'pripady-pripady': defineCollection({
+  'pripady-pripady': defineCmsCollection({
     loader: glob({
       pattern: '*/pripady/*.{md,mdx}',
       base: './src/content/pripady',
@@ -102,9 +102,10 @@ export const collections = {
       perex: n.textarea().optional(),
       order: z.number(),
     }),
+    cms: { label: 'Případy' },
   }),
 
-  jsem: defineCollection({
+  jsem: defineCmsCollection({
     loader: glob({
       pattern: '*/index.{md,mdx}',
       base: './src/content/jsem',
@@ -116,9 +117,10 @@ export const collections = {
       perex: n.textarea().optional(),
       questions: z.array(question).optional().default([]),
     }),
+    cms: { label: 'Jsem v zařízení nebo nemocnici', order: 5 },
   }),
 
-  'jsem-otazky': defineCollection({
+  'jsem-otazky': defineCmsCollection({
     loader: glob({
       pattern: '*/otazky/*.{md,mdx}',
       base: './src/content/jsem',
@@ -129,6 +131,7 @@ export const collections = {
       icon: n.text().optional(),
       order: z.number(),
     }),
+    cms: { label: 'Otázky' },
   }),
 
   // Singleton "datová" stránka pro kontaktní stránku /jak-vas-kontaktovat
@@ -155,13 +158,15 @@ export const collections = {
       body: n.markdown({ label: 'Další informace', help: 'Celý obsah pod kontakty včetně postupu vyřízení případu.' }).optional(),
     }),
     cms: {
+      label: 'Jak vás kontaktovat',
+      order: 3,
       pathname: [{ literal: '/jak-vas-kontaktovat/' }],
       sections: [{ title: 'Způsoby kontaktu', fields: ['contact'], collapsed: false }],
     },
   }),
 
   // Singleton rozcestník /o-pravech-deti (lead text + odkazové skupiny)
-  'o-pravech-deti': defineCollection({
+  'o-pravech-deti': defineCmsCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-pravech-deti' }),
     schema: n.object({
       title: n.text(),
@@ -185,10 +190,11 @@ export const collections = {
         )
         .optional(),
     }),
+    cms: { label: 'O právech dětí', order: 6 },
   }),
 
   // Singleton "datová" stránka /o-ombudsmanovi
-  'o-ombudsmanovi': defineCollection({
+  'o-ombudsmanovi': defineCmsCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-ombudsmanovi' }),
     schema: n.object({
       title: n.text(),
@@ -199,9 +205,10 @@ export const collections = {
         .array(z.object({ title: z.string().optional(), link: z.string().optional() }))
         .optional(),
     }),
+    cms: { label: 'O ombudsmanovi', order: 7 },
   }),
 
-  videos: defineCollection({
+  videos: defineCmsCollection({
     loader: glob({ pattern: '*.{md,mdx}', base: './src/content/videos' }),
     schema: n.object({
       title: n.text(),
@@ -210,5 +217,6 @@ export const collections = {
       draft: n.boolean().optional().default(false),
       noIndex: n.boolean().optional().default(false),
     }),
+    cms: { label: 'Videa', order: 8 },
   }),
 };
