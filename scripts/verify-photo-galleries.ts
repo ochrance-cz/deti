@@ -73,21 +73,13 @@ const photo = nativePhotos[0];
 for (const name of ['aktualne', 'press-releases']) {
   const definition = definitions[name];
   assert.ok(!definition.fields.some(field => field.name === 'body'), 'article body is not duplicated as a metadata field');
-  const field = definition.fields.find(field => field.name === 'gallery');
-  assert.equal(field?.type, 'array');
-  assert.equal(field?.itemType, 'object');
-  assert.equal(field?.fields?.find(field => field.name === 'pic')?.type, 'image');
-  assert.equal(field?.fields?.find(field => field.name === 'alt')?.type, 'textarea');
-  const original = (await core.getEntry(name, definition.entries![0].slug))!;
-  const gallery = Array.from({ length: 5 }, (_, index) => ({ pic: photo.pic, alt: `Popis fotografie ${index + 1}`, caption: `Popisek ${index + 1}` }));
-  const data = { ...original.frontmatter, gallery };
-  assert.equal((await core.updateEntry({ collection: name, slug: definition.entries![0].slug, frontmatter: data, body: original.content })).success, true);
-  const reread = (await core.getEntry(name, definition.entries![0].slug))!;
-  assert.deepEqual(reread.frontmatter.gallery, gallery, 'five photos retain individual alt texts, captions and order');
-  assert.equal(reread.content, original.content, 'gallery save preserves article body');
+  assert.ok(!definition.fields.some(field => field.name === 'gallery'), 'galleries come from photos in the body, not from a separate field');
 }
 assert.ok(galleryPreview(String(photo.pic)).includes('/cdn-cgi/image/width=1600,'), 'dialog uses resized CDN image, never the 25 MB original');
 if (process.argv.includes('--built')) {
+  const article = readFileSync('dist/aktualne/ombudsman-detem-z-ukrajiny/index.html', 'utf8');
+  assert.equal(article.match(/class="editorial-gallery"/g)?.length, 3, 'each paragraph of photos in the body renders as a gallery');
+  assert.equal(article.match(/class="gallery-dialog"/g)?.length, 3, 'each body gallery has its photo viewer');
   for (const photo of nativePhotos) {
     const html = readFileSync(`dist/${photo.page}/index.html`, 'utf8');
     assert.ok(html.includes(`alt="${photo.alt}"`), `${photo.page}: correct alt reaches its page`);
@@ -95,4 +87,4 @@ if (process.argv.includes('--built')) {
     if (photo.page === 'pro-media') assert.ok(html.includes(`data-download="${photo.pic}"`), 'original download is available when opening the media photo');
   }
 }
-console.log('Verified hidden internal photo collections, 8 native page photos with directly editable alternatives, four original downloads, 5-item article/press galleries with body preservation, resized dialogs' + (process.argv.includes('--built') ? ', built-page alternatives and four original downloads.' : '.'));
+console.log('Verified hidden internal photo collections, 8 native page photos with directly editable alternatives, four original downloads, no separate article/press gallery field, resized dialogs' + (process.argv.includes('--built') ? ', body galleries, built-page alternatives and four original downloads.' : '.'));

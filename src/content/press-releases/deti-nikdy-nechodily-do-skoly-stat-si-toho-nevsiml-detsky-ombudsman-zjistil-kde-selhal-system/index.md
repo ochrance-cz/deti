@@ -1,5 +1,4 @@
 ---
-gallery: []
 title: "Děti nikdy nechodily do školy, stát si toho nevšiml. Dětský ombudsman
   zjistil, kde selhal systém "
 date: '2026-10-07'

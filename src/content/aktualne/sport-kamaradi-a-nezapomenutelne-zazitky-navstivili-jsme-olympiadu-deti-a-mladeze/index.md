@@ -1,5 +1,4 @@
 ---
-gallery: []
 title: "Sport, kamarádi a nezapomenutelné zážitky: Navštívili jsme Olympiádu
   dětí a mládeže"
 date: 2026-06-25T17:04:00

@@ -2,12 +2,6 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { defineCmsCollection, n } from '@nuasite/cms';
 
-const galleryImage = z.object({
-  pic: n.image({ label: 'Fotografie' }),
-  alt: n.textarea({ label: 'Alternativní text', help: 'Popište obsah této konkrétní fotografie. Text přečte čtečka obrazovky.' }),
-  caption: n.text({ label: 'Popisek pod fotografií' }).optional(),
-});
-
 const attachment = z.object({
   title: z.string().optional(),
   text: z.string().optional(),
@@ -48,10 +42,9 @@ export const collections = {
       perex: n.textarea().optional(),
       attachments: z.array(attachment).optional().default([]),
       icon: n.text().optional(),
-      pic: n.image({ label: 'Obrázek článku', help: 'Používá se v přehledu aktualit a při sdílení. Fotografie uvnitř článku přidejte do Fotogalerie nebo přímo do textu.' }).optional(),
-      gallery: n.array(galleryImage, { label: 'Fotogalerie', help: 'Přidejte fotografie přes +. U každé vyplňte její alternativní text a případný popisek. První fotografie bude velká, další budou pod ní po třech. Fotografie přidávejte v požadovaném pořadí.' }).optional().default([]),
+      pic: n.image({ label: 'Obrázek článku', help: 'Používá se v přehledu aktualit a při sdílení. Fotografie vkládejte přímo do textu článku. Dvě a více fotografií vložených za sebou se zobrazí jako galerie.' }).optional(),
     }),
-    cms: { label: 'Aktuality', order: 1, sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
+    cms: { label: 'Aktuality', order: 1 },
   }),
 
   'press-releases': defineCmsCollection({
@@ -68,10 +61,9 @@ export const collections = {
       perex: n.textarea().optional(),
       attachments: z.array(attachment).optional().default([]),
       icon: n.text().optional(),
-      pic: n.image({ label: 'Obrázek tiskové zprávy', help: 'Používá se v přehledu a při sdílení. Fotografie uvnitř zprávy přidejte do Fotogalerie nebo přímo do textu.' }).optional(),
-      gallery: n.array(galleryImage, { label: 'Fotogalerie', help: 'Přidejte fotografie přes +. U každé vyplňte její alternativní text a případný popisek. První fotografie bude velká, další budou pod ní po třech. Fotografie přidávejte v požadovaném pořadí.' }).optional().default([]),
+      pic: n.image({ label: 'Obrázek tiskové zprávy', help: 'Používá se v přehledu a při sdílení. Fotografie vkládejte přímo do textu zprávy. Dvě a více fotografií vložených za sebou se zobrazí jako galerie.' }).optional(),
     }),
-    cms: { label: 'Tiskové zprávy', order: 2, sections: [{ title: 'Fotogalerie', fields: ['gallery'], collapsed: false }] },
+    cms: { label: 'Tiskové zprávy', order: 2 },
   }),
 
   pripady: defineCmsCollection({

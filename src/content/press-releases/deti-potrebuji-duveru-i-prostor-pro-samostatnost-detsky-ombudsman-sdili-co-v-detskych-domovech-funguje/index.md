@@ -1,5 +1,4 @@
 ---
-gallery: []
 title: Děti potřebují důvěru i prostor pro samostatnost. Dětský ombudsman sdílí,
   co v dětských domovech funguje
 date: 2026-05-15T08:33:00

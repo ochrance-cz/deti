@@ -7,7 +7,6 @@ perex: Dvě děti žily se svou maminkou v nevyhovujících podmínkách. Když 
   povinnou školní docházkou. A žádný úřad si toho nevšiml.
 attachments: []
 draft: false
-gallery: []
 ---
 Zjistili jsme, že selhala kontrola na straně obce. Po našem šetření ale chybu napravila.
 

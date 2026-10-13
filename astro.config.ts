@@ -2,6 +2,7 @@ import { defineConfig } from '@nuasite/nua/config';
 import collectionLabels from './src/lib/collection-labels.json';
 import rehypeRaw from 'rehype-raw';
 import type { Plugin } from 'vite';
+import { bodyGalleries } from './src/rehype/body-galleries';
 import { cdnImages } from './src/rehype/cdn-images';
 import { imageCaptions } from './src/rehype/image-captions';
 import { remarkCzechTypography } from './src/remark/czech-typography';
@@ -56,7 +57,7 @@ export default defineConfig({
     mdx: {
       extendMarkdownConfig: false,
       remarkPlugins: [remarkCzechTypography, listStyle, youtube],
-      rehypePlugins: [cdnImages, imageCaptions],
+      rehypePlugins: [bodyGalleries, cdnImages, imageCaptions],
     },
     cms: {
       // Load the project-patched editor rather than the independently updated CDN UI.
@@ -76,7 +77,7 @@ export default defineConfig({
   },
   markdown: {
     remarkPlugins: [remarkCzechTypography, listStyle, youtube],
-    rehypePlugins: [rehypeRaw, cdnImages, imageCaptions],
+    rehypePlugins: [rehypeRaw, bodyGalleries, cdnImages, imageCaptions],
     remarkRehype: {
       allowDangerousHtml: true,
     },
