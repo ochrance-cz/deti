@@ -72,7 +72,7 @@ Pohledy dětí jsou různé, kritika plošného zákazu ale rezonovala celým se
 >
 > <br />
 >
-> **Mobily ve školách jako výzva**
+> #### **Mobily ve školách jako výzva**
 >
 > *  „*Technologie můžou i pomáhat. Například překládat spolužákům z Ukrajiny*.“
 > * „*Naopak zapojovat mobily do hodin. Pomohlo by to digitální vzdělanosti*.“
