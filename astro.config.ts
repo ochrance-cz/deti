@@ -4,6 +4,7 @@ import rehypeRaw from 'rehype-raw';
 import type { Plugin } from 'vite';
 import { cdnImages } from './src/rehype/cdn-images';
 import { imageCaptions } from './src/rehype/image-captions';
+import { contactList } from './src/remark/contact-list';
 import { remarkCzechTypography } from './src/remark/czech-typography';
 import { listStyle } from './src/remark/list-style';
 import { replaceYoutubeDirectives, youtube } from './src/remark/youtube';
@@ -75,7 +76,7 @@ export default defineConfig({
     },
   },
   markdown: {
-    remarkPlugins: [remarkCzechTypography, listStyle, youtube],
+    remarkPlugins: [remarkCzechTypography, listStyle, youtube, contactList],
     rehypePlugins: [rehypeRaw, cdnImages, imageCaptions],
     remarkRehype: {
       allowDangerousHtml: true,
