@@ -1,13 +1,5 @@
 ---
 title: Hledám pomoc
-noIndex: true
-perex: Rádi s tebou budeme komunikovat v tvém rodném jazyce nebo pomocí Braillova písma. Dej nám vědět, co preferuješ.
-privacyNote: Pokud máš problém, který nepočká ani minutu,
-privacyLink: /linky/
-privacyLinkText: využij některou z linek důvěry
-privacyAfterLink: v tomto seznamu. Všechny jsou zdarma a většina z nich funguje přes den i v noci.
-howtoTitle: Jak se obrátit na ombudsmana?
-howtoPerex: ''
 contact:
   - title: E-mail
     icon: wifi.svg
@@ -36,6 +28,12 @@ contact:
     desc: Zavolej nám na 542 542 888
     note: (každý všední den mezi 8:00 a 16:00 hod.)
 ---
+Rádi s tebou budeme komunikovat v tvém rodném jazyce nebo pomocí Braillova písma. Dej nám vědět, co preferuješ.
+
+> Pokud máš problém, který nepočká ani minutu, [využij některou z linek důvěry](/linky/) v tomto seznamu. Všechny jsou zdarma a většina z nich funguje přes den i v noci.
+
+## Jak se obrátit na ombudsmana?
+
 > ## Co by měla tvá stížnost obsahovat?
 >
 > - tvé jméno, věk a jakýkoliv kontakt, přes který se s tebou můžeme spojit (může to být e-mail, poštovní adresa nebo telefon)

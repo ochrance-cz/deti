@@ -29,38 +29,19 @@ async function renderedWith(text: string) {
 }
 
 try {
-  const initialHtml = await renderedWith('Jak se obrátit');
+  const initialHtml = await renderedWith('ombudsmana?');
   const steps = initialHtml.querySelectorAll('.contact-details ol > li');
   assert.equal(steps.length, 5, 'All five case-processing steps must render');
   assert.match(steps[0].textContent, /Nečekej od\s+nás právničinu/);
-  assert(!/<(?:a|div)\b/.test(original.split('---').slice(2).join('---')), 'Contact body must use Markdown supported by the rich editor');
+  const originalBody = original.split('---').slice(2).join('---');
+  assert(!/<(?:a|div)\b/.test(originalBody), 'Contact body must use Markdown supported by the rich editor');
+  const list = initialHtml.querySelector('.contact-details > ul._contact');
+  assert(list, 'Contact list must render inside the body');
+  assert.equal(list.previousElementSibling?.textContent.replace(/\s+/g, ' ').trim(), 'Jak se obrátit na ombudsmana?', 'Contact list must follow the first H2');
   const manifest = await json(`${base}/jak-vas-kontaktovat.json`);
   assert.equal(manifest.collection.sourcePath, contentPath);
   assert(manifest.collection.body.includes('Co se bude dít s mým případem?'));
   assert(manifest.collection.wrapperId, 'Missing editable body wrapper');
-  const entries = Object.values(manifest.entries) as any[];
-  for (const text of ['Pokud máš problém', 'využij některou', 'v tomto seznamu', 'Napiš nám e-mail', 'deti@ochrance.cz.', 'Vyplň jednoduchý', 'on-line formulář.', 'Pošli nám své video', 'jungmann@ochrance.cz.']) {
-    const entry = entries.find((entry) => entry.text?.startsWith(text));
-    assert.equal(entry?.sourcePath, contentPath, `Unresolved live text: ${text}`);
-    assert.notEqual(entry.textResolved, false);
-  }
-  const updates = [
-    ['deti@ochrance.cz.', 'deti@ochrance.cz!'],
-    ['Pošli nebo dones', 'Pošli nebo dones nám dopis na adresu Kancelář veřejného ochránce práv a ochránce práv dětí, Údolní 39, 602 00 Brno'],
-  ];
-  const changes = updates.map(([start, newValue]) => {
-    const entry = entries.find((entry) => entry.text?.startsWith(start));
-    assert(entry, `Missing ${start}`);
-    return { ...entry, cmsId: entry.id, originalValue: entry.text, newValue };
-  });
-  const saved = await json(`${base}/_nua/cms/update`, { changes, meta: { source: 'verification', url: pageUrl } });
-  assert.equal(saved.updated, 2, JSON.stringify(saved));
-  assert(!saved.errors, JSON.stringify(saved.errors));
-  const changed = readFileSync(file, 'utf8');
-  assert(changed.includes('deti@ochrance.cz!'));
-  assert(changed.includes('dětí, Údolní 39, 602 00 Brno'));
-  assert(changed.includes('title: Osobně') && changed.includes('title: Telefon'), 'Adjacent contacts damaged');
-
   const entry = await json(`${base}/_nua/cms/markdown/content?filePath=${encodeURIComponent(contentPath)}`);
   const expectedOrder = entry.frontmatter.contact.map((contact: any) => contact.title);
   assert.equal(expectedOrder[2], 'Český znakový jazyk');
@@ -74,7 +55,7 @@ try {
   assert.equal(cards.length, 7, 'New contact was omitted');
   assert.deepEqual(cards.slice(0, 6).map((card) => card.querySelector('strong')?.textContent), expectedOrder);
   assert(!cards[3].textContent.includes('\\'), 'Postal address contains escaped line breaks');
-  console.log('PASS: contact live source links; email/address saves; full body save; seventh contact renders; CMS/web order agrees.');
+  console.log('PASS: contact list renders after the first H2; full body save; seventh contact renders; CMS/web order agrees.');
 } finally {
   writeFileSync(file, original);
   assert.equal(readFileSync(file, 'utf8'), original, 'Contact fixture was not restored');

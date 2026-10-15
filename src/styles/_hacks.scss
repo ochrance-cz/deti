@@ -33,7 +33,7 @@ main article .text-content ul {
 }
 
 .blue-block,
-._contact-page .contact-details > blockquote {
+._contact-page .contact-details > blockquote:has(h2) {
   background: $primary;
   padding: var(--art-padding);
   margin: 2rem calc(-1 * var(--art-padding));

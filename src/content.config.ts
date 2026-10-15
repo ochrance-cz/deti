@@ -139,14 +139,7 @@ export const collections = {
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/hledam-pomoc' }),
     schema: n.object({
       title: n.text({ label: 'Nadpis stránky' }),
-      noIndex: n.boolean().optional().default(false),
-      perex: n.textarea({ label: 'Úvodní text' }).optional(),
-      privacyNote: n.textarea({ label: 'Naléhavá pomoc – text před odkazem' }).optional(),
-      privacyLink: n.url({ label: 'Naléhavá pomoc – cíl odkazu' }).optional(),
-      privacyLinkText: n.text({ label: 'Naléhavá pomoc – text odkazu' }).optional(),
-      privacyAfterLink: n.textarea({ label: 'Naléhavá pomoc – text za odkazem' }).optional(),
-      howtoTitle: n.text({ label: 'Nadpis kontaktů' }).optional(),
-      howtoPerex: n.textarea({ label: 'Úvod ke kontaktům' }).optional(),
+      // Text stránky je body. Způsoby kontaktu se v něm zobrazí hned za prvním nadpisem H2.
       contact: n.array(n.object({
         title: n.text({ label: 'Způsob kontaktu' }),
         icon: n.text({ label: 'Ikona' }),
@@ -155,7 +148,6 @@ export const collections = {
         link: n.url({ label: 'Cíl odkazu', help: 'Volitelný odkaz za textem kontaktu.' }).optional(),
         linkText: n.text({ label: 'Text odkazu' }).optional(),
       }), { label: 'Způsoby kontaktu', help: 'Zobrazují se na webu ve stejném pořadí jako zde.' }).optional(),
-      body: n.markdown({ label: 'Další informace', help: 'Celý obsah pod kontakty včetně postupu vyřízení případu.' }).optional(),
     }),
     cms: {
       label: 'Jak vás kontaktovat',

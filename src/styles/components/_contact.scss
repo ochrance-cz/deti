@@ -30,4 +30,13 @@
   p {
     margin: 0 0 0.5rem;
   }
+
+  .contact-description {
+    white-space: pre-line;
+  }
+
+  .linked-contact-text > p {
+    display: inline;
+    margin: 0;
+  }
 }
