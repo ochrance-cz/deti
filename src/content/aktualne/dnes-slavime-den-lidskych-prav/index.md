@@ -32,7 +32,7 @@ V letošním roce si připomínáme také 70 let [evropské Úmluvy o ochraně l
 
 
 
-*ESLP uznal, že je stížnost paní Çam důvodná. Turecko se dopustilo diskriminace v přístupu ke vzdělávání z důvodu postižení. Ta je zakázána čl. 14 Úmluvy ve spojení s čl. 2 Dodatkového protokolu č. 1, který zaručuje právo na vzdělání. ESLP vytknul, že konzervatoř nezkoumala, jaké opatření by mohla přijmout, aby se mohla paní Çam vzdělávat i přes její zrakové postižení. Za porušení práva muselo Turecko zaplatit náhradu nemajetkové újmy ve výši 10 000 eur. *
+*ESLP uznal, že je stížnost paní Çam důvodná. Turecko se dopustilo diskriminace v přístupu ke vzdělávání z důvodu postižení. Ta je zakázána čl. 14 Úmluvy ve spojení s čl. 2 Dodatkového protokolu č. 1, který zaručuje právo na vzdělání. ESLP vytknul, že konzervatoř nezkoumala, jaké opatření by mohla přijmout, aby se mohla paní Çam vzdělávat i přes její zrakové postižení. Za porušení práva muselo Turecko zaplatit náhradu nemajetkové újmy ve výši 10 000 eur.*
 
 
 

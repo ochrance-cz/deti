@@ -15,7 +15,7 @@ attachments:
 ---
 Když dítěti lékař navrhne rovnátka, pro rodiče to většinou znamená finanční výdaj v řádu tisíců korun. Pojišťovna je totiž v plné výši obvykle nehradí. A jak je to s rovnátky u dětí, které vyrůstají v dětských domovech? Zákon hovoří jasně. Pokud požadavek na ortodontickou péči nevzejde od rodičů, povinnost platby padá na dětský domov. Podobně jako třeba v situaci, kdy dítě potřebuje léky nehrazené zdravotní pojišťovnou. 
 
-Bára* žije v dětském domově. Rovnátka jí doporučil lékař ze zdravotních důvodů. Dívka začala docházet na vyšetření a konzultace. Tam ji vždy doprovázel někdo ze zaměstnanců domova, kteří tak měli průběžný přehled o tom, co Báře lékaři doporučují a také, kolik to bude stát. 
+Bára\* žije v dětském domově. Rovnátka jí doporučil lékař ze zdravotních důvodů. Dívka začala docházet na vyšetření a konzultace. Tam ji vždy doprovázel někdo ze zaměstnanců domova, kteří tak měli průběžný přehled o tom, co Báře lékaři doporučují a také, kolik to bude stát. 
 
 Když přišlo na otázku pokrytí nákladů, čekalo dívku nemilé překvapení. Částka za rovnátka se vyšplhala na sumu blížící se 50 000 Kč. Polovinu uhradil dětský domov, druhou však měla doplatit podle vnitřního řádu dětského domova Bára sama. Přestože měla z brigády našetřené menší úspory, nezdálo se jí to spravedlivé. Obrátila se proto na dětského ombudsmana Martina Beneše. 
 

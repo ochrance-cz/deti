@@ -20,7 +20,7 @@ vzdělání, ale také k dalším životním potřebám, jako je zdravotní pé�
 
 > **Martin Beneš**
 >
-> působil většinu svého profesního života u Okresního soudu v Mostě. Nejprve jako soudce v rámci obchodního úseku, později jako předseda soudu. V roce 2016 se stal opatrovnickým soudcem, kterým byl až doposud. Na této pozici v duchu tzv. „problem solving justice“* pracoval v mezioborovém týmu na odstranění jádra problému, který přivádí rodiny k soudu. 
+> působil většinu svého profesního života u Okresního soudu v Mostě. Nejprve jako soudce v rámci obchodního úseku, později jako předseda soudu. V roce 2016 se stal opatrovnickým soudcem, kterým byl až doposud. Na této pozici v duchu tzv. „problem solving justice“\* pracoval v mezioborovém týmu na odstranění jádra problému, který přivádí rodiny k soudu. 
 >
 > Vedle soudní praxe se věnoval i konzultacím a lektorování, přičemž se zaměřoval na oblasti opatrovnictví,
 > sdílené rodičovství a řešení rodičovských sporů. Spolupracoval například s Ministerstvem spravedlnosti, Justiční akademií, společností pro zdravé rodičovství Aperio, Českou advokátní komorou, Výzkumným ústavem práce a

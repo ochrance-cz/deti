@@ -9,7 +9,7 @@ perex: >-
 
 
 
-Těšit se můžeš na komixy v čele s hlavní představitelkou Bárou Bezhlavou, interaktivní úkoly i doplňující informace. Vše je zdarma, on-line a bez stahování. Kurz můžeš spustit na počítači, notebooku i většině tabletů. Jen pro mobily není optimalizovaný. **Neváhej začít – kurz najdeš **[zde](http://www.digistopa.cz/)**.
+Těšit se můžeš na komixy v čele s hlavní představitelkou Bárou Bezhlavou, interaktivní úkoly i doplňující informace. Vše je zdarma, on-line a bez stahování. Kurz můžeš spustit na počítači, notebooku i většině tabletů. Jen pro mobily není optimalizovaný. **Neváhej začít – kurz najdeš [zde](http://www.digistopa.cz/).**
 
 
 

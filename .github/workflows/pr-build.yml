@@ -21,3 +21,4 @@ jobs:
       - run: bun run verify:r2
       - run: bun run verify:pages
       - run: bun run verify:photos
+      - run: bun run verify:emphasis
