@@ -1,5 +1,5 @@
 diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
-index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437fd87362b 100644
+index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..8ccd712ba29b0a6c01bb6d71290c20ee7093d712 100644
 --- a/src/format-toolbar.tsx
 +++ b/src/format-toolbar.tsx
 @@ -6,6 +6,7 @@
@@ -10,15 +10,31 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437
  import {
  	liftListItemCommand,
  	toggleEmphasisCommand,
-@@ -25,6 +26,7 @@ import { LinkPopover } from './link-popover'
+@@ -24,7 +25,8 @@ import { ImagePopover } from './image-popover'
+ import { LinkPopover } from './link-popover'
  import { MediaLibrary } from './media-library'
  import type { MediaContext, MediaSource } from './media-source'
- import { type ActiveFormats, defaultActiveFormats, isInListType, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
+-import { type ActiveFormats, defaultActiveFormats, isInListType, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
++import { type ActiveFormats, defaultActiveFormats, isInListType, liftOutOfBlockquote, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
 +import { redo, undo } from './history-plugin'
  import { setListStyleCommand } from './styled-list-plugin'
  import { insertYoutubeCommand } from './youtube-plugin'
  import { YoutubePopover } from './youtube-popover'
-@@ -160,7 +162,35 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -155,12 +157,49 @@ function Btn({ active, title, onClick, style, children }: {
+ 	)
+ }
+ 
++/** Quote button: unwrap one level when already inside a blockquote, otherwise wrap. */
++function toggleBlockquote(editor: Editor, active: boolean) {
++	if (active) {
++		liftOutOfBlockquote(editor.ctx.get(editorViewCtx))
++		return
++	}
++	editor.action(callCommand(wrapInBlockquoteCommand.key))
++}
++
+ export function FormatToolbar({ editor, listStyles, media, mediaContext, field, onInsertComponent }: FormatToolbarProps) {
+ 	const formats = useFormatTracking(editor)
  	const [linkOpen, setLinkOpen] = useState(false)
  	const [mediaOpen, setMediaOpen] = useState(false)
  	const [youtubeOpen, setYoutubeOpen] = useState(false)
@@ -55,7 +71,7 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437
  	const disabled = editor === null
  	const hasListStyles = (listStyles?.length ?? 0) > 0
  	const inList = formats.bulletList || formats.orderedList
-@@ -182,9 +212,19 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -182,9 +221,19 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  		removeLinkMark(view)
  	}
  
@@ -75,7 +91,13 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437
  				<Btn active={formats.bold} title="Bold" onClick={() => editor?.action(callCommand(toggleStrongCommand.key))} style={{ fontWeight: 700 }}>B</Btn>
  				<Btn
  					active={formats.italic}
-@@ -236,6 +276,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -231,11 +280,12 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 						</select>
+ 					)
+ 					: null}
+-				<Btn active={formats.blockquote} title="Quote" onClick={() => editor?.action(callCommand(wrapInBlockquoteCommand.key))}>❝</Btn>
++				<Btn active={formats.blockquote} title="Quote" onClick={() => editor && toggleBlockquote(editor, formats.blockquote)}>❝</Btn>
+ 				<Btn title="Insert table" onClick={() => editor?.action(callCommand(insertTableCommand.key, { row: 3, col: 3 }))}>▦ Table</Btn>
  				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
  				<span style={sep} />
  				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
@@ -83,7 +105,7 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437
  				{media ? <Btn title="Insert image" onClick={() => !disabled && setMediaOpen(true)}>🖼 Image</Btn> : null}
  				{onInsertComponent
  					? (
-@@ -281,11 +322,21 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -281,11 +331,21 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  				? (
  					<div style={{ padding: '0 6px' }}>
  						<ImagePopover
@@ -331,6 +353,41 @@ index d9d890794512db0332576e0e4a1aa8ae0426c9db..d1885e77588a115adb795f5e4867f6a1
  				.use(remarkMdxPlugin)
  				.use(mdxEsmNode)
  				.use(mdxComponentNode)
+diff --git a/src/milkdown-utils.ts b/src/milkdown-utils.ts
+index af1d703061fb16b2bc65d1077194b1fdc45cf4f0..bd5954a453f8cc8e2b79ee886b8be4e4d5aae4ea 100644
+--- a/src/milkdown-utils.ts
++++ b/src/milkdown-utils.ts
+@@ -5,6 +5,7 @@
+  * (it never depended on preact — it operates on the raw view).
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { liftTarget } from '@milkdown/prose/transform'
+ import type { EditorView } from '@milkdown/prose/view'
+ 
+ export interface ActiveFormats {
+@@ -123,6 +124,22 @@ export function toggleHeading(view: EditorView, level: number): void {
+ 	view.focus()
+ }
+ 
++/**
++ * Lift the selected blocks out of the innermost blockquote around them — one
++ * level per call, so nested quotes can be unwrapped step by step. Returns false
++ * when the selection is not inside a blockquote.
++ */
++export function liftOutOfBlockquote(view: EditorView): boolean {
++	const { state } = view
++	const { $from, $to } = state.selection
++	const range = $from.blockRange($to, node => node.type.name === 'blockquote')
++	const target = range ? liftTarget(range) : null
++	if (!range || target == null) return false
++	view.dispatch(state.tr.lift(range, target).scrollIntoView())
++	view.focus()
++	return true
++}
++
+ /** Remove the link mark around the current cursor/selection. */
+ export function removeLinkMark(view: EditorView): void {
+ 	const { state } = view
 diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
 index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..86b4624c1a0ffbfad0b1d0cc7758cecd68d9ee7a 100644
 --- a/src/slot-editor.tsx
