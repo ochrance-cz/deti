@@ -14,12 +14,10 @@ const byName = new Map(collections.map(collection => [collection.name, collectio
 for (const [name, { label }] of Object.entries(collectionLabels)) {
   assert.equal(byName.get(name)?.label, label, `${name}: shared Czech label reaches the sidecar`);
 }
-const gallery = (byName.get('aktualne') as { fields: Array<{ name: string; label?: string; help?: string }> }).fields.find(field => field.name === 'gallery');
-assert.equal(gallery?.label, 'Fotogalerie', 'article gallery has a visible Czech field label');
-assert.ok(gallery?.help?.includes('Přidejte fotografie přes +'), 'article gallery explains how to add photos');
+assert.ok(!(byName.get('aktualne') as { fields: Array<{ name: string }> }).fields.some(field => field.name === 'gallery'), 'articles have no separate gallery field');
 const cover = (byName.get('aktualne') as { fields: Array<{ name: string; label?: string; help?: string }> }).fields.find(field => field.name === 'pic');
 assert.equal(cover?.label, 'Obrázek článku', 'article card image has a clear label');
-assert.ok(cover?.help?.includes('Fotogalerie'), 'article card image distinguishes images in the body');
+assert.ok(cover?.help?.includes('galerie'), 'article card image explains that photos in the body form a gallery');
 for (const name of ['pages', 'error-pages', 'ombudsman', 'pro-skoly-fotografie', 'pro-media-fotografie']) {
   assert.ok(!byName.has(name), `${name}: removed collection stays absent`);
 }

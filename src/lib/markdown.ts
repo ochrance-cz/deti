@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm';
 import { VFile } from 'vfile';
 import { remarkCzechTypography } from '../remark/czech-typography';
 import { listStyle } from '../remark/list-style';
+import { bodyGalleries } from '../rehype/body-galleries';
 
 const processor = unified()
   .use(remarkParse)
@@ -13,6 +14,7 @@ const processor = unified()
   .use(listStyle)
   .use(remarkCzechTypography)
   .use(remarkRehype, { allowDangerousHtml: true })
+  .use(bodyGalleries)
   .use(rehypeStringify, { allowDangerousHtml: true });
 
 export async function renderMarkdown(

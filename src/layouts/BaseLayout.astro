@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import NavButtons from '../components/NavButtons.astro';
 import Footer from '../components/Footer.astro';
 import Seo from '../components/Seo.astro';
+import GalleryViewer from '../components/GalleryViewer.astro';
 import type { ImageMetadata } from 'astro';
 
 interface Props {
@@ -44,6 +45,8 @@ const {
     <slot />
 
     <Footer />
+
+    <GalleryViewer />
 
     <script>
       import '../scripts/index.js';
