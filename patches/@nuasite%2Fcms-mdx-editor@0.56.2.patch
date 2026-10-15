@@ -1,17 +1,5 @@
-diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-2a57484148ee6f35 b/.bun-tag-2a57484148ee6f35
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-4be64a2c77a729cf b/.bun-tag-4be64a2c77a729cf
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-6e248a929ff97426 b/.bun-tag-6e248a929ff97426
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/cms-mdx-editor/.bun-tag-9a865e3c1a226952 b/.bun-tag-9a865e3c1a226952
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
-index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330aa67e6a8 100644
+index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..46e22537380a7d7ecd697465e1e1e437fd87362b 100644
 --- a/src/format-toolbar.tsx
 +++ b/src/format-toolbar.tsx
 @@ -6,6 +6,7 @@
@@ -22,7 +10,15 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330
  import {
  	liftListItemCommand,
  	toggleEmphasisCommand,
-@@ -160,7 +161,35 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -25,6 +26,7 @@ import { LinkPopover } from './link-popover'
+ import { MediaLibrary } from './media-library'
+ import type { MediaContext, MediaSource } from './media-source'
+ import { type ActiveFormats, defaultActiveFormats, isInListType, removeLinkMark, setupFormatTracking, toggleHeading } from './milkdown-utils'
++import { redo, undo } from './history-plugin'
+ import { setListStyleCommand } from './styled-list-plugin'
+ import { insertYoutubeCommand } from './youtube-plugin'
+ import { YoutubePopover } from './youtube-popover'
+@@ -160,7 +162,35 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  	const [linkOpen, setLinkOpen] = useState(false)
  	const [mediaOpen, setMediaOpen] = useState(false)
  	const [youtubeOpen, setYoutubeOpen] = useState(false)
@@ -59,7 +55,27 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330
  	const disabled = editor === null
  	const hasListStyles = (listStyles?.length ?? 0) > 0
  	const inList = formats.bulletList || formats.orderedList
-@@ -236,6 +265,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -182,9 +212,19 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 		removeLinkMark(view)
+ 	}
+ 
++	const runHistory = (command: typeof undo) => {
++		if (!editor) return
++		const view = editor.ctx.get(editorViewCtx)
++		command(view.state, view.dispatch)
++		view.focus()
++	}
++
+ 	return (
+ 		<div style={toolbarRoot}>
+ 			<div style={bar}>
++				<Btn title="Undo (Ctrl+Z)" onClick={() => runHistory(undo)}>↶</Btn>
++				<Btn title="Redo (Ctrl+Shift+Z)" onClick={() => runHistory(redo)}>↷</Btn>
++				<span style={sep} />
+ 				<Btn active={formats.bold} title="Bold" onClick={() => editor?.action(callCommand(toggleStrongCommand.key))} style={{ fontWeight: 700 }}>B</Btn>
+ 				<Btn
+ 					active={formats.italic}
+@@ -236,6 +276,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
  				<span style={sep} />
  				<Btn active={formats.link || linkOpen} title="Link" onClick={() => !disabled && setLinkOpen(v => !v)}>🔗 Link</Btn>
@@ -67,7 +83,7 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330
  				{media ? <Btn title="Insert image" onClick={() => !disabled && setMediaOpen(true)}>🖼 Image</Btn> : null}
  				{onInsertComponent
  					? (
-@@ -281,11 +311,21 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+@@ -281,11 +322,21 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
  				? (
  					<div style={{ padding: '0 6px' }}>
  						<ImagePopover
@@ -91,6 +107,32 @@ index 109d4ba6ec3f6ecec2b2de9f4a246375d18896b2..adc32acbaba78db9a46c2039c2469330
  							}}
  							onClose={() => setPendingImage(null)}
  						/>
+diff --git a/src/history-plugin.ts b/src/history-plugin.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e7f80e1d72c88942acb30fd7e6b0cec8d81dcec1
+--- /dev/null
++++ b/src/history-plugin.ts
+@@ -0,0 +1,20 @@
++/**
++ * Undo/redo for the Milkdown editors. Milkdown ships this as the separate
++ * `@milkdown/plugin-history` package; we wire ProseMirror's history directly
++ * via `@milkdown/prose` so no extra dependency is needed.
++ */
++import { history, redo, undo } from '@milkdown/prose/history'
++import { keymap } from '@milkdown/prose/keymap'
++import { $prose } from '@milkdown/utils'
++
++export const historyPlugin = $prose(() => history())
++
++export const historyKeymap = $prose(() =>
++	keymap({
++		'Mod-z': undo,
++		'Mod-Shift-z': redo,
++		'Mod-y': redo,
++	})
++)
++
++export { redo, undo }
 diff --git a/src/image-popover.tsx b/src/image-popover.tsx
 index aaa53138f9fa55e052f8a3143b99e414e8f9ddda..ee269a09bb22d0ef79fdfab5062e09e914616287 100644
 --- a/src/image-popover.tsx
@@ -156,7 +198,7 @@ index aaa53138f9fa55e052f8a3143b99e414e8f9ddda..ee269a09bb22d0ef79fdfab5062e09e9
  		</div>
  	)
  }
-diff --git a/node_modules/@nuasite/cms-mdx-editor/src/image-schema.ts b/src/image-schema.ts
+diff --git a/src/image-schema.ts b/src/image-schema.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a08ba09459c44b970b6838ab43bbed3007ba158f
 --- /dev/null
@@ -179,7 +221,7 @@ index 0000000000000000000000000000000000000000..a08ba09459c44b970b6838ab43bbed30
 +		},
 +	}
 +})
-diff --git a/node_modules/@nuasite/cms-mdx-editor/src/mark-whitespace.ts b/src/mark-whitespace.ts
+diff --git a/src/mark-whitespace.ts b/src/mark-whitespace.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f15ffc8bfc2a11be82e8a90b02e8279cc5ba77ea
 --- /dev/null
@@ -252,10 +294,15 @@ index 0000000000000000000000000000000000000000..f15ffc8bfc2a11be82e8a90b02e8279c
 +	})
 +}
 diff --git a/src/mdx-body-editor.tsx b/src/mdx-body-editor.tsx
-index d9d890794512db0332576e0e4a1aa8ae0426c9db..0eea63cc2c4e6298eb2270bb87722d3848ad3eb4 100644
+index d9d890794512db0332576e0e4a1aa8ae0426c9db..d1885e77588a115adb795f5e4867f6a15076663b 100644
 --- a/src/mdx-body-editor.tsx
 +++ b/src/mdx-body-editor.tsx
-@@ -17,6 +17,8 @@ import type { CmsListStyle, ComponentDefinition } from '@nuasite/cms-types'
+@@ -13,10 +13,13 @@ import { listener, listenerCtx } from '@milkdown/plugin-listener'
+ import { commonmark } from '@milkdown/preset-commonmark'
+ import { gfm } from '@milkdown/preset-gfm'
+ import { callCommand, replaceAll } from '@milkdown/utils'
++import { historyKeymap, historyPlugin } from './history-plugin'
+ import type { CmsListStyle, ComponentDefinition } from '@nuasite/cms-types'
  import { useEffect, useRef, useState } from 'react'
  import { ComponentPicker } from './component-picker'
  import { FormatToolbar } from './format-toolbar'
@@ -264,7 +311,7 @@ index d9d890794512db0332576e0e4a1aa8ae0426c9db..0eea63cc2c4e6298eb2270bb87722d38
  import { insertMdxComponentCommand, mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from './mdx-plugin'
  import { type ComponentResolver, createMdxComponentView } from './mdx-view'
  import type { MediaContext, MediaSource } from './media-source'
-@@ -163,12 +165,14 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+@@ -163,15 +166,19 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
  				.config((ctx) => {
  					ctx.set(rootCtx, el)
  					ctx.set(defaultValueCtx, latest.current)
@@ -279,12 +326,20 @@ index d9d890794512db0332576e0e4a1aa8ae0426c9db..0eea63cc2c4e6298eb2270bb87722d38
  				.use(styledListPlugin)
  				.use(gfm)
  				.use(listener)
++				.use(historyPlugin)
++				.use(historyKeymap)
+ 				.use(remarkMdxPlugin)
+ 				.use(mdxEsmNode)
+ 				.use(mdxComponentNode)
 diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
-index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..1f2722235d83e8ad4cf3c174d15379bb5a8313da 100644
+index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..86b4624c1a0ffbfad0b1d0cc7758cecd68d9ee7a 100644
 --- a/src/slot-editor.tsx
 +++ b/src/slot-editor.tsx
-@@ -15,6 +15,8 @@ import { gfm } from '@milkdown/preset-gfm'
+@@ -13,8 +13,11 @@ import { listener, listenerCtx } from '@milkdown/plugin-listener'
+ import { commonmark } from '@milkdown/preset-commonmark'
+ import { gfm } from '@milkdown/preset-gfm'
  import { replaceAll } from '@milkdown/utils'
++import { historyKeymap, historyPlugin } from './history-plugin'
  import { useEffect, useRef, useState } from 'react'
  import { FormatToolbar } from './format-toolbar'
 +import { safeImageSchema } from './image-schema'
@@ -292,7 +347,7 @@ index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..1f2722235d83e8ad4cf3c174d15379bb
  
  const wrapper: React.CSSProperties = { border: '1px solid #e4e4e7', borderRadius: 6, background: '#fff' }
  const host: React.CSSProperties = { padding: '6px 10px', minHeight: 60, fontSize: 13, lineHeight: 1.5, outline: 'none' }
-@@ -38,11 +40,13 @@ export function SlotEditor({ value, onChange }: { value: string; onChange: (mark
+@@ -38,13 +41,17 @@ export function SlotEditor({ value, onChange }: { value: string; onChange: (mark
  				.config((ctx) => {
  					ctx.set(rootCtx, el)
  					ctx.set(defaultValueCtx, latest.current)
@@ -305,4 +360,8 @@ index 932f62a6fcb34d4fc339b2ba7eff83ef30f40146..1f2722235d83e8ad4cf3c174d15379bb
 +				.use(safeImageSchema)
  				.use(gfm)
  				.use(listener)
++				.use(historyPlugin)
++				.use(historyKeymap)
  				.create()
+ 
+ 			if (destroyed) {
