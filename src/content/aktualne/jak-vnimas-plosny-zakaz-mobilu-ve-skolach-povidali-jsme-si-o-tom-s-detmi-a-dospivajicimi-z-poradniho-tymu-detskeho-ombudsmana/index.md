@@ -13,11 +13,11 @@ gallery: []
 ---
 „*Včerejší setkání poradního týmu opět potvrdilo, že děti mají co říct.  Mrzelo mě, když jsem od dětí slyšel, jak se cítí v politické diskuzi o mobilech ve školách opomíjení. Nelíbí se mi, že projednávání takto zásadní změny nepředcházela diskuze s dětmi. Děti by měly mít možnost zapojit se do přípravy všech zákonů, které se jich týkaj*í,“ vzkázal dětský ombudsman Martin Beneš. 
 
-<br />
+ 
 
 ### Koukni, jak to vidí členové poradního týmu:
 
-<br />
+ 
 
 > #### **Zákaz pro všechny?**
 >
@@ -65,7 +65,7 @@ gallery: []
 > * „*Na škole je vše online – známky, rozvrhy, ale my nemůžeme mobily používat. Přijdeme domů a rodiče se dozví známku dříve než my.“*
 > * „*Moje sestra na základce několikrát omdlela. Jak dá vědět, když u sebe nebude mít mobil?*“
 >
-> <br />
+>  
 >
 > #### **Mobily ve školách jako výzva**
 >

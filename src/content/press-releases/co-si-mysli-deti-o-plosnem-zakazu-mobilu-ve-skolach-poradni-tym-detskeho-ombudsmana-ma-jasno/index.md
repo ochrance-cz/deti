@@ -44,7 +44,7 @@ Pohledy dětí jsou různé, kritika plošného zákazu ale rezonovala celým se
 > * „*Vyvolává to v nás vztek, smutek. Vnímáme to jako nespravedlivé. O dětech si ti* ‚*in charge*‘ *myslí, že nemáme hlas, nezáleží jim na nás. Jednají kvůli vlastnímu benefitu.“*
 > * „*Věc, která se nás týká, s námi nebyla vůbec probraná*.“
 >
-> <br />
+>  
 >
 > #### **Volání po osvětě**
 >
@@ -59,7 +59,7 @@ Pohledy dětí jsou různé, kritika plošného zákazu ale rezonovala celým se
 > * „*Někdy mi přijde, že k nám do školy někdo přijde něco přednést, jen aby si to škola mohla odškrtnout.*“
 > * *„A edukace? O té si myslíme, že je nulová až strašně omezená.“*
 >
-> <br />
+>  
 >
 > #### **Kde mobily pomáhaly**
 >
@@ -70,7 +70,7 @@ Pohledy dětí jsou různé, kritika plošného zákazu ale rezonovala celým se
 > * „*Na škole je vše online – známky, rozvrhy, ale my nemůžeme mobily používat. Přijdeme domů a rodiče se dozví známku dříve než my.“*
 > * „*Moje sestra na základce několikrát omdlela. Jak dá vědět, když u sebe nebude mít mobil?*“
 >
-> <br />
+>  
 >
 > #### **Mobily ve školách jako výzva**
 >
