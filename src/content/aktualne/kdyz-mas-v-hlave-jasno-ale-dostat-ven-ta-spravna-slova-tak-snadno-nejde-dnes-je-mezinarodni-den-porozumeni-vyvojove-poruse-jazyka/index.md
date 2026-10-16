@@ -20,4 +20,4 @@ Vývojová dysfázie ovlivňuje, jak se člověk učí jazyk. Děti s vývojovou
 > * A když se mu někdo směje, nenech to jen tak a zastaň se ho.
 > :::
 
-<iframe src="https://www.instagram.com/p/DejA-FytDlO/embed" title="Instagram post" style="display:block;width:100%;max-width:340px;height:auto;aspect-ratio:640 / 1136;margin:0 auto;border:0" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
+<iframe src="https://www.instagram.com/p/DejA-FytDlO/embed" title="Instagram post" style="display:block;width:100%;max-width:340px;height:640px;margin:0 auto;border:0" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
