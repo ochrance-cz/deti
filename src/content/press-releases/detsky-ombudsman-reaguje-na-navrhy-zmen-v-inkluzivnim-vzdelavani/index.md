@@ -10,15 +10,11 @@ date: '2026-10-16'
 ---
  *„Vítám, že zástupci koaličních stran se shodli nepřistoupit na návrhy, které by otočily stávající pravidla. Není možné, aby se školství vracelo o řadu let zpátky, kdy se mezi dětmi stavěla zeď podle toho, zda jsou zdravé nebo žijí s postižením,“* uvedl dětský ombudsman Martin Beneš k aktuálním mediálním zprávám. Zaznívalo v nich, že by ředitelé běžných škol mohli odmítnout děti se speciálními vzdělávacími potřebami. Ty by pak musela přijmout některá ze speciálních škol. S tím však nesouhlasil ministr školství Robert Plaga.
 
->  **Pokud by došlo na omezení inkluzivního vzdělávání podle návrhů, na které upozorňovala média, ředitelé škol by mohli odmítnout i**
->
->  
+>  **Pokud by došlo na omezení inkluzivního vzdělávání podle návrhů, na které upozorňovala média, ředitelé škol by mohli odmítnout i** 
 >
 > dítě, které se pohybuje na vozíku a zároveň má omezenou hybnost rukou (dítě s tzv. podpůrnými opatřením 4. a 5. stupně)
 >
->  
->
-> a v případě, že by se jednalo i o děti s 1. – 3. stupněm podpůrných opatření, pak také třeba
+>  a v případě, že by se jednalo i o děti s 1. – 3. stupněm podpůrných opatření, pak také třeba
 >
 > -          dítě s dyslexií
 >
