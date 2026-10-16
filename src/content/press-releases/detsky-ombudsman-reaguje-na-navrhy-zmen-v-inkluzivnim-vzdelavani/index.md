@@ -1,14 +1,14 @@
 ---
 title: Dětský ombudsman reaguje na návrhy změn v inkluzivním vzdělávání
-perex: "Média v posledních dnech informovala o návrzích změn školského zákona,
-  které by mohly ohrozit práva dětí se speciálními vzdělávacími potřebami. I
-  když nyní byl tento záměr zřejmě opuštěn, dětský ombudsman Martin Beneš se
-  rozhodl upozornit na jeho možné dopady. Varuje před úpravami zákona, které by
-  ředitelům běžných škol umožnily odmítat děti s podpůrnými opatřeními. "
+perex: Média v posledních dnech informovala o návrzích změn školského zákona,
+  které by mohly ohrozit práva dětí se speciálními vzdělávacími potřebami.
+  Martin Beneš varuje před úpravami zákona, které by ředitelům běžných škol
+  umožnily odmítat děti s podpůrnými opatřeními a upozorňuje na možné dopady,
+  pokud by k tomu v budoucnu skutečně došlo.
 attachments: []
 date: '2026-10-16'
 ---
- *„Vítám, že zástupci koaličních stran se shodli nepřistoupit na návrhy, které by otočily stávající pravidla. Není možné, aby se školství vracelo o řadu let zpátky, kdy se mezi dětmi stavěla zeď podle toho, zda jsou zdravé nebo žijí s postižením,“* uvedl dětský ombudsman Martin Beneš k aktuálním mediálním zprávám. Zaznívalo v nich, že by ředitelé běžných škol mohli odmítnout děti se speciálními vzdělávacími potřebami. Ty by pak musela přijmout některá ze speciálních škol. S tím však nesouhlasil ministr školství Robert Plaga.
+ *„Není možné, aby se školství vracelo o řadu let zpátky, kdy se mezi dětmi stavěla zeď podle toho, zda jsou zdravé nebo žijí s postižením,“* uvedl dětský ombudsman Martin Beneš k aktuálním mediálním zprávám. Zaznívalo v nich, že by ředitelé běžných škol mohli odmítnout děti se speciálními vzdělávacími potřebami. Ty by pak musela přijmout některá ze speciálních škol. S tím však nesouhlasil ministr školství Robert Plaga.
 
 > **Pokud by došlo na omezení inkluzivního vzdělávání podle návrhů, na které upozorňovala média, ředitelé škol by mohli odmítnout i**
 >
