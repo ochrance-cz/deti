@@ -18,7 +18,7 @@ date: '2026-10-16'
 >
 >  
 >
-> a v případě, že by se jednalo i o děti s 1.-3. stupněm podpůrných opatření, pak také třeba
+> a v případě, že by se jednalo i o děti s 1.–3. stupněm podpůrných opatření, pak také třeba
 >
 > * &#x20;dítě s dyslexií
 >
