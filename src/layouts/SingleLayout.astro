@@ -17,9 +17,12 @@ interface Props {
     file?: string;
   }>;
   noIndex?: boolean;
+  /** Downloadable audio under the perex (typically a short quote for radio). */
+  audio?: string;
+  audioCaption?: string;
 }
 
-const { title, date, perex, image, attachments, noIndex = false } = Astro.props;
+const { title, date, perex, image, attachments, noIndex = false, audio, audioCaption } = Astro.props;
 const perexHtml = perex ? await renderMarkdown(perex) : '';
 ---
 <BaseLayout title={title} description={perex} image={image} noIndex={noIndex}>
@@ -33,6 +36,15 @@ const perexHtml = perex ? await renderMarkdown(perex) : '';
       <h1>{title}</h1>
       <div class="text-content">
         {perexHtml && <div class="perex" set:html={perexHtml}></div>}
+
+        {audio && (
+          <div class="_audio-download _no-print">
+            {audioCaption && <p><strong>{audioCaption}</strong></p>}
+            <p>
+              <a class="button" href={audio} download>Stáhnout audio</a>
+            </p>
+          </div>
+        )}
 
         <slot />
 
