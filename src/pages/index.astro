@@ -31,17 +31,19 @@ const description =
 
     {displayShorts.length > 0 && <YouTubeShorts shorts={displayShorts} />}
 
-    <section class="mx-auto max-w-xs px-4 py-8">
-      <div class="relative aspect-9/16 w-full overflow-hidden rounded-lg bg-black shadow-md">
-        <iframe
-          class="absolute inset-0 h-full w-full border-0"
-          src="https://www.youtube-nocookie.com/embed/s3xssT8GXpo"
-          title="YouTube video player"
-          loading="lazy"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+    <section class="video-embed">
+      <div class="mx-auto w-full max-w-xs">
+        <div class="relative aspect-9/16 w-full overflow-hidden rounded-lg bg-black shadow-md">
+          <iframe
+            class="absolute inset-0 h-full w-full border-0"
+            src="https://www.youtube-nocookie.com/embed/s3xssT8GXpo"
+            title="YouTube video player"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
       </div>
     </section>
 
