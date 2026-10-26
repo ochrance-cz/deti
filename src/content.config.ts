@@ -134,7 +134,7 @@ export const collections = {
 
   // Singleton "datová" stránka pro kontaktní stránku /jak-vas-kontaktovat
   'hledam-pomoc': defineCmsCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/hledam-pomoc' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/hledam-pomoc', }),
     schema: n.object({
       title: n.text({ label: 'Nadpis stránky' }),
       // Text stránky je body. Způsoby kontaktu se v něm zobrazí hned za prvním nadpisem H2.
@@ -157,7 +157,7 @@ export const collections = {
 
   // Singleton rozcestník /o-pravech-deti (lead text + odkazové skupiny)
   'o-pravech-deti': defineCmsCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-pravech-deti' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-pravech-deti', }),
     schema: n.object({
       title: n.text(),
       noIndex: n.boolean().optional().default(false),
@@ -185,7 +185,7 @@ export const collections = {
 
   // Singleton "datová" stránka /o-ombudsmanovi
   'o-ombudsmanovi': defineCmsCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-ombudsmanovi' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/o-ombudsmanovi', }),
     schema: n.object({
       title: n.text(),
       perex: n.textarea().optional(),
@@ -199,7 +199,7 @@ export const collections = {
   }),
 
   videos: defineCmsCollection({
-    loader: glob({ pattern: '*.{md,mdx}', base: './src/content/videos' }),
+    loader: glob({ pattern: '*.{md,mdx}', base: './src/content/videos', }),
     schema: n.object({
       title: n.text(),
       videoId: n.text(), // YouTube video ID (e.g., 'dQw4w9WgXcQ')
