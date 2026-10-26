@@ -12,6 +12,7 @@ interface Props {
   title: string;
   description?: string;
   image?: string | ImageMetadata;
+  imageAlt?: string;
   ogType?: string;
   bodyClass?: string;
   noIndex?: boolean;
@@ -20,6 +21,7 @@ const {
   title,
   description,
   image,
+  imageAlt,
   ogType,
   bodyClass,
   noIndex = false,
@@ -31,7 +33,7 @@ const {
     <title>{title}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <Seo title={title} description={description} image={image} type={ogType} />
+    <Seo title={title} description={description} image={image} imageAlt={imageAlt} type={ogType} />
     {noIndex && <meta name="robots" content="noindex">}
 
     <link rel="stylesheet" href="https://use.typekit.net/tly6rvv.css">

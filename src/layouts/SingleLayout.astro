@@ -10,6 +10,7 @@ interface Props {
   date?: Date | string;
   perex?: string;
   image?: string | ImageMetadata;
+  imageAlt?: string;
   attachments?: Array<{
     title?: string;
     text?: string;
@@ -22,10 +23,10 @@ interface Props {
   audioCaption?: string;
 }
 
-const { title, date, perex, image, attachments, noIndex = false, audio, audioCaption } = Astro.props;
+const { title, date, perex, image, imageAlt, attachments, noIndex = false, audio, audioCaption } = Astro.props;
 const perexHtml = perex ? await renderMarkdown(perex) : '';
 ---
-<BaseLayout title={title} description={perex} image={image} noIndex={noIndex}>
+<BaseLayout title={title} description={perex} image={image} imageAlt={imageAlt} noIndex={noIndex}>
   <main>
     <article>
       {date && (

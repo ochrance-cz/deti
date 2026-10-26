@@ -5,6 +5,8 @@ interface Props {
   title?: string;
   description?: string;
   image?: string | ImageMetadata;
+  /** Alternativní text obrázku pro sdílení; jen k obrázku předanému v `image`. */
+  imageAlt?: string;
   type?: string;
   url?: string;
 }
@@ -40,6 +42,7 @@ const {
   title,
   description,
   image,
+  imageAlt,
   type = 'website',
   url,
 } = Astro.props;
@@ -54,6 +57,7 @@ const metaUrl = absoluteUrl(url ?? Astro.url.pathname);
 <meta property="og:title" content={metaTitle}>
 <meta property="og:description" content={metaDescription}>
 <meta property="og:image" content={metaImage}>
+{image && imageAlt && <meta property="og:image:alt" content={imageAlt}>}
 <meta property="og:type" content={type}>
 <meta property="og:url" content={metaUrl}>
 <meta property="og:site_name" content={siteName}>
@@ -61,3 +65,4 @@ const metaUrl = absoluteUrl(url ?? Astro.url.pathname);
 <meta name="twitter:title" content={metaTitle}>
 <meta name="twitter:description" content={metaDescription}>
 <meta name="twitter:image" content={metaImage}>
+{image && imageAlt && <meta name="twitter:image:alt" content={imageAlt}>}
