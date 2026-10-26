@@ -34,7 +34,7 @@ Administrace čte konfiguraci staticky ze zdrojového kódu, ne spuštěním.
 - Verze `@nuasite/*` je v `package.json` čtyřikrát a v klíčích i názvech souborů `patchedDependencies`. Při zvednutí verze se patche v `patches/` musí převést (`bun patch`, `bun patch --commit`); `bun install --frozen-lockfile` na nesedícím patchi spadne.
 - `bunfig.toml` vyjímá balíčky `@nuasite/*` z čekací lhůty na nové verze. Přibude-li v `bun.lock` nový balíček `@nuasite`, doplň ho tam.
 - Verze editoru v `cms.src` se se zvednutím balíčků sama neposune. Před změnou ověř, že na CDN existuje (`curl -I https://cdn.nuasite.com/script/<verze>/cms-editor.js`).
-- Patch `cms-mdx-editor` obsahuje undo/redo a tlačítko ❝, které rámeček i odebere, převzaté z nuasite. Vyjdou v 0.62.1; při přechodu na ni tuhle část patche smaž. Zbývá v něm `safeImageSchema`: obrázek bez titulku by jinak lokální editor i `verify:editor-content` zahodily. Patche `cms`, `cms-core` a `collections-admin` jsou úpravy lokální administrace (popisek u `n.array`, rich editor pro `.md`, načtení sidecaru po restartu dev serveru).
+- Patch `cms-mdx-editor` obsahuje undo/redo a tlačítko ❝, které rámeček i odebere, převzaté z nuasite. Vyjdou v prvním vydání po 0.62.0; při přechodu na něj tuhle část patche smaž. Zbývá v něm `safeImageSchema`: obrázek bez titulku by jinak lokální editor i `verify:editor-content` zahodily. Patche `cms`, `cms-core` a `collections-admin` jsou úpravy lokální administrace (popisek u `n.array`, rich editor pro `.md`, načtení sidecaru po restartu dev serveru).
 - `src/_redirects` z CMS slučuje do `dist/_redirects` nua (`@nuasite/cms` při buildu).
 
 ## Před merge do `main`
