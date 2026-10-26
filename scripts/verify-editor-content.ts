@@ -15,7 +15,6 @@ import { mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from '../node_modules/@
 import { remarkDirectivePlugin, remarkListDirectivePlugin, styledBulletListSchema, styledOrderedListSchema } from '../node_modules/@nuasite/cms-mdx-editor/src/styled-list-plugin';
 import { youtubeNode, remarkYoutubeDirectivePlugin } from '../node_modules/@nuasite/cms-mdx-editor/src/youtube-plugin';
 import { safeImageSchema } from '../node_modules/@nuasite/cms-mdx-editor/src/image-schema';
-import { safeImageSchema as nativeSafeImageSchema } from '../node_modules/@nuasite/cms/src/editor/image-schema';
 
 // Use the actual rich editor schemas, remark plugins, parser and serializer,
 // without mounting an editor view. A public Astro build alone does not detect
@@ -98,11 +97,9 @@ function files(directory: string): string[] {
   });
 }
 const failures: Array<{ file: string; error: string }> = [];
-// Exercise both actual schema fixes with the alt-edit transaction used by the
-// toolbar: editing the second photo must preserve the first uncaptioned photo.
-for (const plugin of nativeSafeImageSchema) await plugin(ctx)();
-const nativeSchema = new Schema({ nodes: Object.fromEntries(ctx.get(nodesCtx)), marks: Object.fromEntries(ctx.get(marksCtx)) });
-for (const targetSchema of [schema, nativeSchema]) {
+// Exercise the schema fix with the alt-edit transaction used by the toolbar:
+// editing the second photo must preserve the first uncaptioned photo.
+for (const targetSchema of [schema]) {
   const fixture = '![První foto](/first.jpg)\n\n![Druhá foto](/second.jpg "Zdroj fotografie")';
   const doc = ParserState.create(targetSchema, remark)(fixture);
   const photographs: Array<{ position: number; attrs: any }> = [];

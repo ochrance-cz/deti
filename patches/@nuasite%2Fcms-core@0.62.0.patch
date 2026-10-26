@@ -1,0 +1,17 @@
+diff --git a/src/content-config-ast.ts b/src/content-config-ast.ts
+index 6bc337835f3ce2612ddd1694569a950d246c5f98..0b60c1a6eaa0d912e37bf23b42ab8b1e88ba1c1d 100644
+--- a/src/content-config-ast.ts
++++ b/src/content-config-ast.ts
+@@ -1548,6 +1548,12 @@ function analyzeBaseCall(node: t.CallExpression, field: ParsedField, bindings: B
+ 
+ 	// (z|n).array(<inner>)  →  array; inspect the element type
+ 	if ((ns === 'z' || ns === 'n') && fn === 'array') {
++		// n.array(element, { label, help, ... }) carries layout hints on the array itself.
++		const layoutArg = node.arguments[1]
++		if (ns === 'n' && layoutArg?.type === 'ObjectExpression') {
++			const layout = parseFieldLayoutFromObject(layoutArg)
++			if (layout) field.layout = layout
++		}
+ 		const innerRaw = node.arguments[0]
+ 		if (!innerRaw) return
+ 		const inner = resolveExpression(innerRaw, bindings)

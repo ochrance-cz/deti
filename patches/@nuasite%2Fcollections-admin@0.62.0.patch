@@ -1,12 +1,3 @@
-diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-3b8a2fcabafc90f7 b/.bun-tag-3b8a2fcabafc90f7
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-b087f0584378cc6d b/.bun-tag-b087f0584378cc6d
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-diff --git a/node_modules/@nuasite/collections-admin/.bun-tag-f3ac78cd30099e2a b/.bun-tag-f3ac78cd30099e2a
-new file mode 100644
-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 diff --git a/src/entry-create.tsx b/src/entry-create.tsx
 index 517b4cedded32c7c8c34bf72cb6f92ae910be569..73e9953fb524e5622eecc63aa1802f5281609725 100644
 --- a/src/entry-create.tsx

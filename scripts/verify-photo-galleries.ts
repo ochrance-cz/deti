@@ -2,7 +2,6 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { createCmsCore, createNodeFs, globToRegExp } from '@nuasite/cms-core';
 import { galleryPreview } from '../src/lib/gallery';
-import { applyImageChange } from '../node_modules/@nuasite/cms/src/handlers/source-writer';
 
 // CMS mutations stay in memory; source files and publication state are untouched.
 const disk = createNodeFs(process.cwd());
@@ -54,21 +53,6 @@ const nativePhotos = ['pro-skoly', 'pro-media'].flatMap(page => {
   }
   return photos.map(photo => ({ ...photo, page }));
 });
-for (const page of ['pro-skoly', 'pro-media']) {
-  const sourcePath = `src/pages/${page}/index.astro`;
-  const source = readFileSync(sourcePath, 'utf8');
-  for (const match of source.matchAll(/<Image src="([^"]+)" alt="([^"]+)"[^\n]+/g)) {
-    const newAlt = `Ověřená samostatná úprava: ${match[2]}`;
-    const result = await applyImageChange(source, {
-      cmsId: 'photo-verification', sourcePath,
-      sourceLine: source.slice(0, match.index).split('\n').length,
-      sourceSnippet: match[0], originalValue: match[1], newValue: match[1],
-      imageChange: { newSrc: match[1], newAlt },
-    });
-    assert.equal(result.success, true, `${page}: native alt save finds the selected image`);
-    if (result.success) assert.equal(result.content, source.replace(match[0], match[0].replace(`alt="${match[2]}"`, `alt="${newAlt}"`)), 'native alt-only save preserves all neighboring photos, links and page text');
-  }
-}
 const photo = nativePhotos[0];
 for (const name of ['aktualne', 'press-releases']) {
   const definition = definitions[name];

@@ -61,8 +61,10 @@ export default defineConfig({
       rehypePlugins: [bodyGalleries, cdnImages, imageCaptions],
     },
     cms: {
-      // Load the project-patched editor rather than the independently updated CDN UI.
-      src: '/@nuasite/cms-editor.js',
+      // The inline editor in the preview, pinned: cdn.nuasite.com/script/latest/ lags
+      // behind the releases. It does not follow the @nuasite/* version by itself;
+      // before moving it, check that the version exists on the CDN.
+      src: 'https://cdn.nuasite.com/script/0.62.0/cms-editor.js',
       collections: collectionLabels,
       cmsConfig: {
         openMetadataByDefault: true,

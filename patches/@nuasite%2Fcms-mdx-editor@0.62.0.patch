@@ -1,0 +1,293 @@
+diff --git a/src/format-toolbar.tsx b/src/format-toolbar.tsx
+index 4fea5ab7276cec1a1ff3c59035b7a35e9edd2282..4b0528c8e5f1713fc4e8fbf29f5b4f7ccfe214f4 100644
+--- a/src/format-toolbar.tsx
++++ b/src/format-toolbar.tsx
+@@ -24,6 +24,7 @@ import { insertTableCommand, toggleStrikethroughCommand } from '@milkdown/preset
+ import { callCommand } from '@milkdown/utils'
+ import type { CmsListStyle } from '@nuasite/cms-types'
+ import { useEffect, useState } from 'react'
++import { isMac, redo, undo } from './history-plugin'
+ import { ImagePopover } from './image-popover'
+ import { LinkPopover } from './link-popover'
+ import { MediaLibrary } from './media-library'
+@@ -33,6 +34,7 @@ import {
+ 	type ActiveFormats,
+ 	defaultActiveFormats,
+ 	isInListType,
++	liftOutOfBlockquote,
+ 	removeLinkMark,
+ 	type SelectedImage,
+ 	setupFormatTracking,
+@@ -60,6 +62,23 @@ function doHeading(editor: Editor, level: number) {
+ 	toggleHeading(editor.ctx.get(editorViewCtx), level)
+ }
+ 
++/** The quote button takes one level of quote away when the selection is in one, and adds a quote otherwise. */
++function toggleBlockquote(editor: Editor) {
++	if (liftOutOfBlockquote(editor.ctx.get(editorViewCtx))) return
++	editor.action(callCommand(wrapInBlockquoteCommand.key))
++}
++
++// Focus first: a slot editor that still has the focus hands over its text when it loses it,
++// and undo then takes back that text instead of being overwritten by it right away.
++function runHistory(editor: Editor, command: typeof undo) {
++	const view = editor.ctx.get(editorViewCtx)
++	view.focus()
++	command(view.state, view.dispatch)
++}
++
++const undoTitle = isMac ? 'Undo (⌘Z)' : 'Undo (Ctrl+Z)'
++const redoTitle = isMac ? 'Redo (⌘⇧Z)' : 'Redo (Ctrl+Y)'
++
+ function toggleList(editor: Editor, type: 'bullet' | 'ordered') {
+ 	const view = editor.ctx.get(editorViewCtx)
+ 	const listType = type === 'bullet' ? 'bullet_list' : 'ordered_list'
+@@ -237,6 +256,9 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 	return (
+ 		<div style={toolbarRoot}>
+ 			<div style={bar}>
++				<Btn title={undoTitle} onClick={() => editor && runHistory(editor, undo)}>↶</Btn>
++				<Btn title={redoTitle} onClick={() => editor && runHistory(editor, redo)}>↷</Btn>
++				<span style={sep} />
+ 				<Btn active={formats.bold} title="Bold" onClick={() => editor?.action(callCommand(toggleStrongCommand.key))} style={{ fontWeight: 700 }}>B</Btn>
+ 				<Btn
+ 					active={formats.italic}
+@@ -283,7 +305,7 @@ export function FormatToolbar({ editor, listStyles, media, mediaContext, field,
+ 						</select>
+ 					)
+ 					: null}
+-				<Btn active={formats.blockquote} title="Quote" onClick={() => editor?.action(callCommand(wrapInBlockquoteCommand.key))}>❝</Btn>
++				<Btn active={formats.blockquote} title="Quote" onClick={() => editor && toggleBlockquote(editor)}>❝</Btn>
+ 				<Btn title="Insert table" onClick={() => editor?.action(callCommand(insertTableCommand.key, { row: 3, col: 3 }))}>▦ Table</Btn>
+ 				<Btn active={youtubeOpen} title="Insert YouTube" onClick={() => !disabled && setYoutubeOpen(v => !v)}>YouTube</Btn>
+ 				<span style={sep} />
+diff --git a/node_modules/@nuasite/cms-mdx-editor/src/history-plugin.ts b/src/history-plugin.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7cb3851c027fd1707a87bb075afe608d8355de3b
+--- /dev/null
++++ b/src/history-plugin.ts
+@@ -0,0 +1,49 @@
++/**
++ * Undo and redo for the body editor and the slot editor.
++ *
++ * Milkdown ships this as `@milkdown/plugin-history`; ProseMirror's history is wired here
++ * directly through `@milkdown/prose`, which Milkdown already depends on, so the editors
++ * share one copy of ProseMirror with it.
++ */
++import { history, redo, undo } from '@milkdown/prose/history'
++import { keymap } from '@milkdown/prose/keymap'
++import type { Plugin } from '@milkdown/prose/state'
++import type { EditorView } from '@milkdown/prose/view'
++import { $prose } from '@milkdown/utils'
++
++/** Cmd+Y opens the browser's history on a Mac, so redo keeps to Cmd+Shift+Z there. */
++export const isMac = typeof navigator !== 'undefined' && /Mac|iP(hone|[oa]d)/.test(navigator.platform)
++
++/** Every editor gets its own history plugin; this tells them apart from the other plugins. */
++const historyPlugins = new WeakSet<Plugin>()
++
++export const historyPlugin = $prose(() => {
++	const plugin = history()
++	historyPlugins.add(plugin)
++	return plugin
++})
++
++export const historyKeymap = $prose(() =>
++	keymap({
++		'Mod-z': undo,
++		'Mod-Shift-z': redo,
++		...(isMac ? {} : { 'Mod-y': redo }),
++	})
++)
++
++/**
++ * Starts the undo history afresh. For a value the host replaced from outside: undo must not
++ * take the editor back to text the host has thrown away, nor merge that replacement with the
++ * typing just before it.
++ *
++ * Only the history is reset. A brand-new state (`replaceAll(value, true)`) would also restart
++ * Milkdown's listener, and a change typed just before would then be reported after the new value.
++ */
++export function clearHistory(view: EditorView): void {
++	const { plugins } = view.state
++	const withoutHistory = plugins.filter(plugin => !historyPlugins.has(plugin))
++	if (withoutHistory.length === plugins.length) return
++	view.updateState(view.state.reconfigure({ plugins: withoutHistory }).reconfigure({ plugins }))
++}
++
++export { redo, undo }
+diff --git a/node_modules/@nuasite/cms-mdx-editor/src/image-schema.ts b/src/image-schema.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a08ba09459c44b970b6838ab43bbed3007ba158f
+--- /dev/null
++++ b/src/image-schema.ts
+@@ -0,0 +1,17 @@
++import { imageSchema } from '@milkdown/preset-commonmark'
++
++// Remark represents an omitted image title as null. Milkdown 7.20 validates
++// image titles as strings but forwards that null, then silently drops the image
++// when ProseMirror rejects it. Normalize optional metadata before adding nodes.
++export const safeImageSchema = imageSchema.extendSchema(previous => ctx => {
++	const schema = previous(ctx)
++	return {
++		...schema,
++		parseMarkdown: {
++			...schema.parseMarkdown,
++			runner: (state, node, type) => schema.parseMarkdown.runner(state, {
++				...node, alt: node.alt ?? '', title: node.title ?? '',
++			}, type),
++		},
++	}
++})
+diff --git a/src/mdx-body-editor.tsx b/src/mdx-body-editor.tsx
+index 5b227f4bc634fec840d7016448571e50dca54cad..b5e49f4844acf2b1c7514f55e31a722e5419071f 100644
+--- a/src/mdx-body-editor.tsx
++++ b/src/mdx-body-editor.tsx
+@@ -8,7 +8,7 @@
+  * block-card prop labels; without it blocks still render and round-trip, just
+  * without rich labels.
+  */
+-import { defaultValueCtx, Editor, rootCtx } from '@milkdown/core'
++import { defaultValueCtx, Editor, editorViewCtx, rootCtx } from '@milkdown/core'
+ import { listener, listenerCtx } from '@milkdown/plugin-listener'
+ import { commonmark } from '@milkdown/preset-commonmark'
+ import { gfm } from '@milkdown/preset-gfm'
+@@ -17,6 +17,8 @@ import type { CmsListStyle, ComponentDefinition } from '@nuasite/cms-types'
+ import { useEffect, useRef, useState } from 'react'
+ import { ComponentPicker } from './component-picker'
+ import { FormatToolbar } from './format-toolbar'
++import { clearHistory, historyKeymap, historyPlugin } from './history-plugin'
++import { safeImageSchema } from './image-schema'
+ import { markWhitespacePlugin } from './mark-whitespace'
+ import { insertMdxComponentCommand, mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from './mdx-plugin'
+ import { type ComponentResolver, createMdxComponentView } from './mdx-view'
+@@ -170,10 +172,13 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(styledListPlugin)
+ 				.use(gfm)
+ 				.use(markWhitespacePlugin)
+ 				.use(listener)
++				.use(historyPlugin)
++				.use(historyKeymap)
+ 				.use(remarkMdxPlugin)
+ 				.use(mdxEsmNode)
+ 				.use(mdxComponentNode)
+@@ -214,6 +219,8 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+ 		if (value === latest.current) return
+ 		settingExternal.current = true
+ 		editorRef.current.action(replaceAll(value))
++		// Undo must not bring back the text the host just replaced.
++		clearHistory(editorRef.current.ctx.get(editorViewCtx))
+ 		latest.current = value
+ 		queueMicrotask(() => {
+ 			settingExternal.current = false
+diff --git a/src/milkdown-utils.ts b/src/milkdown-utils.ts
+index 4698e554bb0356f711a37af28af5942cf3aa2bf7..a5f61109927c52bc3907214f99f76266295ccbb6 100644
+--- a/src/milkdown-utils.ts
++++ b/src/milkdown-utils.ts
+@@ -5,6 +5,7 @@
+  * (it never depended on preact — it operates on the raw view).
+  */
+ import { type Editor, editorViewCtx } from '@milkdown/core'
++import { liftTarget } from '@milkdown/prose/transform'
+ import type { EditorView } from '@milkdown/prose/view'
+ 
+ /** The image node the selection covers exactly — a click on an inline image selects the node itself. */
+@@ -169,6 +170,28 @@ export function toggleHeading(view: EditorView, level: number): void {
+ 	view.focus()
+ }
+ 
++/**
++ * Lift the selected blocks out of the innermost blockquote the selection starts in, the one
++ * that makes the toolbar show the quote as active. One level per call, so nested quotes come
++ * apart step by step; a selection running past the quote lifts only the part inside it. A list
++ * inside the quote stays a list. Returns false only when the selection does not start in a
++ * blockquote.
++ */
++export function liftOutOfBlockquote(view: EditorView): boolean {
++	const { state } = view
++	const { $from, $to } = state.selection
++	let depth = $from.depth
++	while (depth > 0 && $from.node(depth).type.name !== 'blockquote') depth--
++	if (depth === 0) return false
++	const $end = $to.pos > $from.end(depth) ? state.doc.resolve($from.end(depth)) : $to
++	const range = $from.blockRange($end, node => node === $from.node(depth))
++	const target = range ? liftTarget(range) : null
++	// In a quote that cannot be lifted, doing nothing beats wrapping it in yet another quote.
++	if (range && target !== null) view.dispatch(state.tr.lift(range, target).scrollIntoView())
++	view.focus()
++	return true
++}
++
+ /** Remove the link mark around the current cursor/selection. */
+ export function removeLinkMark(view: EditorView): void {
+ 	const { state } = view
+diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
+index 21d1a9e3477ddf11512ac162db166ace6a2daa67..c2ceed930d7422a3cea054accb9824755360884f 100644
+--- a/src/slot-editor.tsx
++++ b/src/slot-editor.tsx
+@@ -11,13 +11,15 @@
+  * `media` serves an image already in the slot (its preview, "Replace image"); the toolbar
+  * still offers no image insertion here.
+  */
+-import { defaultValueCtx, Editor, rootCtx } from '@milkdown/core'
++import { defaultValueCtx, Editor, editorViewCtx, rootCtx } from '@milkdown/core'
+ import { listener, listenerCtx } from '@milkdown/plugin-listener'
+ import { commonmark } from '@milkdown/preset-commonmark'
+ import { gfm } from '@milkdown/preset-gfm'
+-import { replaceAll } from '@milkdown/utils'
++import { getMarkdown, replaceAll } from '@milkdown/utils'
+ import { useEffect, useRef, useState } from 'react'
+ import { FormatToolbar } from './format-toolbar'
++import { clearHistory, historyKeymap, historyPlugin } from './history-plugin'
++import { safeImageSchema } from './image-schema'
+ import { markWhitespacePlugin } from './mark-whitespace'
+ import type { MediaContext, MediaSource } from './media-source'
+ 
+@@ -55,9 +57,12 @@ export function SlotEditor({ value, onChange, media, mediaContext }: SlotEditorP
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(gfm)
+ 				.use(markWhitespacePlugin)
+ 				.use(listener)
++				.use(historyPlugin)
++				.use(historyKeymap)
+ 				.create()
+ 
+ 			if (destroyed) {
+@@ -78,13 +83,18 @@ export function SlotEditor({ value, onChange, media, mediaContext }: SlotEditorP
+ 	}, [])
+ 
+ 	// Adopt external value changes (node re-render with different children) while
+-	// the user isn't actively typing.
++	// the user isn't actively typing. Checked on every render, not only when `value`
++	// changes: an undo in the body editor can take back the text this editor handed
++	// over on blur in the same render, and `value` then arrives unchanged while the
++	// editor still shows the text that was taken back.
+ 	useEffect(() => {
+ 		if (!editorRef.current || focused.current) return
+ 		if (value === latest.current) return
+ 		editorRef.current.action(replaceAll(value))
++		// Undo must not bring back the text the host just replaced.
++		clearHistory(editorRef.current.ctx.get(editorViewCtx))
+ 		latest.current = value
+-	}, [value])
++	})
+ 
+ 	return (
+ 		<div style={wrapper}>
+@@ -97,6 +107,9 @@ export function SlotEditor({ value, onChange, media, mediaContext }: SlotEditorP
+ 				}}
+ 				onBlurCapture={() => {
+ 					focused.current = false
++					// Read the document itself: Milkdown reports changes only after a debounce,
++					// so `latest` can still miss the last keystrokes.
++					if (editorRef.current) latest.current = editorRef.current.action(getMarkdown())
+ 					if (latest.current !== value) onChangeRef.current(latest.current)
+ 				}}
+ 			/>
