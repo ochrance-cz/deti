@@ -1,7 +1,6 @@
 dist/
 node_modules/
 .astro/
-AGENTS.md
 podklady/
 dump/
 .hugo_build.lock
