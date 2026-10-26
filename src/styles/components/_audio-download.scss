@@ -1,0 +1,24 @@
+._audio-download {
+  margin: 0 0 2rem;
+
+  p {
+    margin: 0 0 0.75rem;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+    background: $primary;
+    color: $white;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.12s ease-out;
+
+    &:hover,
+    &:focus-visible {
+      background: $secondary;
+      color: $white;
+    }
+  }
+}
