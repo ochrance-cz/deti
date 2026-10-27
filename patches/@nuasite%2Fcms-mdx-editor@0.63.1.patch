@@ -1,0 +1,63 @@
+diff --git a/src/image-schema.ts b/src/image-schema.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a08ba09459c44b970b6838ab43bbed3007ba158f
+--- /dev/null
++++ b/src/image-schema.ts
+@@ -0,0 +1,17 @@
++import { imageSchema } from '@milkdown/preset-commonmark'
++
++// Remark represents an omitted image title as null. Milkdown 7.20 validates
++// image titles as strings but forwards that null, then silently drops the image
++// when ProseMirror rejects it. Normalize optional metadata before adding nodes.
++export const safeImageSchema = imageSchema.extendSchema(previous => ctx => {
++	const schema = previous(ctx)
++	return {
++		...schema,
++		parseMarkdown: {
++			...schema.parseMarkdown,
++			runner: (state, node, type) => schema.parseMarkdown.runner(state, {
++				...node, alt: node.alt ?? '', title: node.title ?? '',
++			}, type),
++		},
++	}
++})
+diff --git a/src/mdx-body-editor.tsx b/src/mdx-body-editor.tsx
+index ca1f0c1ee76ea7a29eb12e7504ef50a2d21b0c33..b5e49f4844acf2b1c7514f55e31a722e5419071f 100644
+--- a/src/mdx-body-editor.tsx
++++ b/src/mdx-body-editor.tsx
+@@ -18,6 +18,7 @@ import { useEffect, useRef, useState } from 'react'
+ import { ComponentPicker } from './component-picker'
+ import { FormatToolbar } from './format-toolbar'
+ import { clearHistory, historyKeymap, historyPlugin } from './history-plugin'
++import { safeImageSchema } from './image-schema'
+ import { markWhitespacePlugin } from './mark-whitespace'
+ import { insertMdxComponentCommand, mdxComponentNode, mdxEsmNode, remarkMdxPlugin } from './mdx-plugin'
+ import { type ComponentResolver, createMdxComponentView } from './mdx-view'
+@@ -171,6 +172,7 @@ export function MdxBodyEditor({ value, onChange, components, listStyles, media,
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(styledListPlugin)
+ 				.use(gfm)
+ 				.use(markWhitespacePlugin)
+diff --git a/src/slot-editor.tsx b/src/slot-editor.tsx
+index 4a83594913c4d6d9a70c60a07d60733d162ac72f..c2ceed930d7422a3cea054accb9824755360884f 100644
+--- a/src/slot-editor.tsx
++++ b/src/slot-editor.tsx
+@@ -19,6 +19,7 @@ import { getMarkdown, replaceAll } from '@milkdown/utils'
+ import { useEffect, useRef, useState } from 'react'
+ import { FormatToolbar } from './format-toolbar'
+ import { clearHistory, historyKeymap, historyPlugin } from './history-plugin'
++import { safeImageSchema } from './image-schema'
+ import { markWhitespacePlugin } from './mark-whitespace'
+ import type { MediaContext, MediaSource } from './media-source'
+ 
+@@ -56,6 +57,7 @@ export function SlotEditor({ value, onChange, media, mediaContext }: SlotEditorP
+ 					})
+ 				})
+ 				.use(commonmark)
++				.use(safeImageSchema)
+ 				.use(gfm)
+ 				.use(markWhitespacePlugin)
+ 				.use(listener)
