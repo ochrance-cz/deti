@@ -14,20 +14,16 @@ noIndex: false
 ---
 Poradní tým dal dohromady pár bodů, co podle něj znamená fungovat s mobilem a sítěmi zdravě:
 
-* Dokázat žít bez toho
+* dokázat žít bez toho
 
-- Nastavit si hranice
+- nastavit si hranice
 
-* Mít offline život – koníčky, kámoše, být venku, sportovat
+* mít offline život – koníčky, kámoše, být venku, sportovat
 
- 
-
-A jak konkrétně na to jdou naši poradci?
+ A jak konkrétně na to jdou naši poradci?
 
 Třeba takhle: „Hlídám si svůj screen time na instagramu. Nechci přesáhnout určitý čas za den.“
 
-<br />
-
 Tak se inspiruj a užij si podzimní prázdniny!
 
-<video src="/assets/e056b512bbd5-mobil-a-podzimky.mp4" controls playsinline preload="metadata" class="block mx-auto w-72 max-w-full aspect-9/16 rounded-lg"></video>
+<video src="/assets/e056b512bbd5-mobil-a-podzimky.mp4" controls="true" playsinline="true" preload="metadata" class="block mx-auto w-72 max-w-full aspect-9/16 rounded-lg" />
