@@ -9,7 +9,7 @@ perex: Dětský ombudsman se obrátil na předsedy poslaneckých klubů a předs
   nelze zajistit odpovídající tvorbu pro děti a mládež. V reakci na dotazy médií
   dopis poslancům zveřejnil.
 attachments:
-  - link: ""
+  - link: /assets/62a7f52f1703-dopis-predsedum-pk-garancnimu-vyboru-novela-zakona.pdf
     title: Dopis předsedům poslaneckých klubů a garančnímu výboru
   - link: https://www.ochrance.cz/uploads-import/ESO/23910-2026_p%C5%99ipom%C3%ADnky_z%C3%A1kon_o_m%C3%A9di%C3%ADch_ve%C5%99ejn%C3%A9_slu%C5%BEby.pdf
     title: Připomínky k návrhu zákona o médiích veřejné služby
