@@ -29,3 +29,5 @@ Třeba takhle: „Hlídám si svůj screen time na instagramu. Nechci přesáhno
 <br />
 
 Tak se inspiruj a užij si podzimní prázdniny!
+
+<video src="/assets/e056b512bbd5-mobil-a-podzimky.mp4" controls playsinline preload="metadata" class="w-full rounded-lg"></video>
