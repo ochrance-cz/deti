@@ -1,5 +1,5 @@
 ---
-title: Scrolluj míň a užij si podzimní prázdniny taky offline
+title: Užij si podzimní prázdniny taky offline
 date: '2026-10-27'
 perex: >+
   Plošné zákazy mobilů podle nás nejsou řešení. Myslíme si to nejen my, ale taky
