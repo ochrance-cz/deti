@@ -1,5 +1,5 @@
 ---
-title: Jak jsme vybírali náš poradní tým
+title: Tohle jsou věci, které se vyplatí ghostovat
 videoId: GWzpwOfrllo
 order: -2
 draft: false
