@@ -1,6 +1,6 @@
 ---
 title: Jak jsme vybírali náš poradní tým
-videoId: hrHh3Tc90pA
+videoId: GWzpwOfrllo
 order: -2
 draft: false
 ---
