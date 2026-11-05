@@ -7,5 +7,6 @@ perex: Chceš někam patřit, být populární, mít uznání… Přes ubližov�
 attachments: []
 draft: false
 noIndex: false
+date: '2026-11-05'
 ---
 ::youtube{#8oV0Y1p_Wro}
