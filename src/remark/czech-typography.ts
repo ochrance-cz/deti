@@ -3,11 +3,11 @@ import type { Root } from 'mdast';
 
 const CZ_LETTER = 'AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž';
 const SHORT_WORD_RE = new RegExp(
-  `(\\s[${CZ_LETTER}][${CZ_LETTER}]?) `,
+  `(?<=^|\\s)([${CZ_LETTER}]{1,2}) `,
   'g',
 );
 const SEMI_SHORT_WORD_RE = new RegExp(
-  `(;[${CZ_LETTER}][${CZ_LETTER}]?) `,
+  `(?<=;)([${CZ_LETTER}]{1,2}) `,
   'g',
 );
 
