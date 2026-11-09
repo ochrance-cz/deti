@@ -8,6 +8,7 @@ perex: "I odborníci se potřebují učit, získávat informace a taky poznávat
 draft: false
 attachments: []
 noIndex: false
+date: '2026-11-09'
 ---
 Martin Beneš odborníkům připomněl, že nestačí jen řešit duševní potíže dětí. Důležité je taky zajistit jim dobrou péči, předcházet jejich problémům a taky víc naslouchat tomu, co děti říkají.
 
