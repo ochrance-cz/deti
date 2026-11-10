@@ -4,6 +4,7 @@ title: Potkávat se s dětmi a mladými lidmi, zajímat se o to, co vás trápí
 perex: "Dětský ombudsman Martin Beneš pozval do Brna participační skupinu
   Ministerstva práce a sociálních věcí – mladé lidi, pro které jsou důležitá
   sociální témata. "
+date: 2026-11-10T08:56:00
 draft: false
 attachments: []
 noIndex: false
