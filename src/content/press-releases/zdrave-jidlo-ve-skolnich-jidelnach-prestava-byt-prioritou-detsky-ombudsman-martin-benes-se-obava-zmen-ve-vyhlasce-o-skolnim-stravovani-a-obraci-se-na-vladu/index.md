@@ -8,8 +8,6 @@ perex: Přijdou děti o záruku kvalitního stravování ve školních jídelná
   vyhlášky o školním stravování mohla vypustit přílohy stanovující výživové
   normy (tzv. spotřební koše). Obrátil se proto se svými výhradami na vládní
   kabinet.
-attachments:
-  - {}
 draft: false
 noIndex: false
 dopis: /assets/b54c3f036a86-dopis-vlade-ke-zmenam-ve-skolnim-stravovani.pdf
