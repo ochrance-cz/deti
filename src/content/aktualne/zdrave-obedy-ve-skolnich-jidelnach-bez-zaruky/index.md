@@ -11,6 +11,7 @@ perex: >-
 draft: false
 attachments: []
 noIndex: false
+date: '2026-11-11'
 ---
 V médiích se ale objevily zprávy, že nyní vláda chystá změny. Hrozí, že přestanou platit pravidla pro zdravé stravování a že bude záležet na každé jídelně, jak zdravě se rozhodne vařit.
 
