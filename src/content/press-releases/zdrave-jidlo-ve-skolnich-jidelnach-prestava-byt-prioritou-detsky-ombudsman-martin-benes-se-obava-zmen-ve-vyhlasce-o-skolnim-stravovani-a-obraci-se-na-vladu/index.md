@@ -20,21 +20,17 @@ Podle Beneše by vláda měla říci, *z* jakých odborných podkladů nově nav
 
 Podle aktuálně platných pravidel mohou jídelny již nyní využívat přísnější výživové normy, povinně se jimi však mají řídit až od 1. září 2027. Právě přechodné období jim dává prostor upravit receptury, proškolit personál a vyřešit případné provozní problémy.
 
-**Dětský ombudsman Martin Beneš apeluje na pokračování teprve nedávno zavedených změn školní vyhlášky, zejména:**
-
-* **Zachování závazných výživových norem v přílohách č. 1 a 1a:** Dávají školním jídelnám společný rámec pro složení stravy. Jejich úplné vypuštění bez odpovídající náhrady by oslabilo jistotu, že školní oběd splňuje základní výživové požadavky.
-
-- **Omezení volných cukrů, zejména ve školních nápojích a sladkých pokrmech:** Nová pravidla směřují k tomu, aby děti ve škole běžně dostávaly zdravější nabídku a nevytvářely si návyk na zbytečně sladké nápoje.
-
-* **Větší prostor pro vegetariánská jídla a flexibilní výživové normy:** U jídelen s výběrem má být dostupný také bezmasý hlavní chod; jídelny bez výběru mají zařazovat bezmasý pokrm dvakrát týdně. To může usnadnit společné stravování dětem, které z vážných důvodů nejedí maso.
-
-- **Právo dítěte sníst si vlastní jídlo ve stejném čase a prostoru jako spolužáci a dostat při tom nezbytnou pomoc:** Toto pravidlo platí již od 1. září 2025 a má zvláštní význam pro děti s dietním omezením. Je nezbytné je zachovat a srozumitelně vyjasnit jeho praktické naplňování.
-
-<br />
+> **Dětský ombudsman Martin Beneš apeluje na pokračování teprve nedávno zavedených změn školní vyhlášky, zejména:**
+>
+> * **Zachování závazných výživových norem v přílohách č. 1 a 1a:** Dávají školním jídelnám společný rámec pro složení stravy. Jejich úplné vypuštění bez odpovídající náhrady by oslabilo jistotu, že školní oběd splňuje základní výživové požadavky.
+>
+> - **Omezení volných cukrů, zejména ve školních nápojích a sladkých pokrmech:** Nová pravidla směřují k tomu, aby děti ve škole běžně dostávaly zdravější nabídku a nevytvářely si návyk na zbytečně sladké nápoje.
+>
+> * **Větší prostor pro vegetariánská jídla a flexibilní výživové normy:** U jídelen s výběrem má být dostupný také bezmasý hlavní chod; jídelny bez výběru mají zařazovat bezmasý pokrm dvakrát týdně. To může usnadnit společné stravování dětem, které z vážných důvodů nejedí maso.
+>
+> - **Právo dítěte sníst si vlastní jídlo ve stejném čase a prostoru jako spolužáci a dostat při tom nezbytnou pomoc:** Toto pravidlo platí již od 1. září 2025 a má zvláštní význam pro děti s dietním omezením. Je nezbytné je zachovat a srozumitelně vyjasnit jeho praktické naplňování.
 
 [Dopis vládě](/assets/b54c3f036a86-dopis-vlade-ke-zmenam-ve-skolnim-stravovani.pdf)
-
-<br />
 
 [Tisková zpráva Nedotažená reforma školního stravování: Zástupce dětského ombudsmana chce lepší podmínky pro děti s dietním omezením (12. 11. 2025)](https://www.ochrance.cz/aktualne/nedotazena_reforma_skolniho_stravovani_zastupce_detskeho_ombudsmana_chce_lepsi_podminky_pro_deti_s_dietnim_omezenim/)
 
