@@ -68,6 +68,7 @@ export const collections = {
       picAlt: n.text({ label: 'Popis obrázku tiskové zprávy', help: 'Alternativní text pro nevidomé a čtečky obrazovky a pro sdílení na sociálních sítích. Popište, co je na obrázku.' }).optional(),
       audio: n.file({ label: 'Audio pod perexem', accept: 'audio/*,.mp3,.wav,.m4a,.ogg', help: 'Volitelná nahrávka (MP3, WAV, M4A), typicky krátká citace pro rozhlas. Pod perexem se zobrazí tlačítko Stáhnout audio.' }).optional(),
       audioPopis: n.text({ label: 'Popis audia', help: 'Zobrazí se nad tlačítkem, aby bylo jasné, co se stahuje. Například Citace ombudsmana Stanislava Křečka k inspekci věznice.' }).optional(),
+      dopis: n.file({ label: 'Dopis ke stažení (PDF)', accept: 'application/pdf,.pdf', help: 'Volitelný PDF dokument, na který lze odkázat z textu zprávy.' }).optional(),
     }),
     cms: { label: 'Tiskové zprávy', order: 2 },
   }),
