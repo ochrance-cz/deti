@@ -34,8 +34,6 @@ Podle aktuálně platných pravidel mohou jídelny již nyní využívat přísn
 
 [Tisková zpráva Nedotažená reforma školního stravování: Zástupce dětského ombudsmana chce lepší podmínky pro děti s dietním omezením (12. 11. 2025)](https://www.ochrance.cz/aktualne/nedotazena_reforma_skolniho_stravovani_zastupce_detskeho_ombudsmana_chce_lepsi_podminky_pro_deti_s_dietnim_omezenim/)
 
- 
-
 [Tisková zpráva Bezlepkový pokrm nebo oběd z vlastní krabičky? Ombudsman apeluje na posílení práv dětí ve školních jídelnách (24. 4. 2025)](https://www.ochrance.cz/aktualne/bezlepkovy_pokrm_nebo_obed_z_vlastni_krabicky_ombudsman_apeluje_na_posileni_prav_deti_ve_skolnich_jidelnach/)
 
  
