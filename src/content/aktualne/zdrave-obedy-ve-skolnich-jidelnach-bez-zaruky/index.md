@@ -15,4 +15,4 @@ date: '2026-11-11'
 ---
 V médiích se ale objevily zprávy, že nyní vláda chystá změny. Hrozí, že přestanou platit pravidla pro zdravé stravování a že bude záležet na každé jídelně, jak zdravě se rozhodne vařit.
 
-Proto dětský ombudsman oslovil členy vlády a popsal jim své výhrady. Chce, aby zdraví dětí zůstalo na prvním místě.
+Proto dětský ombudsman oslovil členy vlády a popsal jim své výhrady. Chce, aby zdraví dětí zůstalo na prvním místě!
