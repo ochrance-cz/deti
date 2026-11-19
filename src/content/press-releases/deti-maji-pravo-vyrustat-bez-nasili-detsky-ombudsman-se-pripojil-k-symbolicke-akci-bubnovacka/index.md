@@ -3,11 +3,11 @@ title: "Děti mají právo vyrůstat bez násilí. Dětský ombudsman se připoj
   symbolické akci „Bubnovačka“ "
 date: '2026-11-19'
 perex: Předcházet násilí v rodinách, dát hlas ohroženým dětem. To je cílem
-  dnešní akce „Bubnovačka“, kterou pořádá Centrum Locika. Zapojují se do ní lidé
+  dnešní akce „[Bubnovačka](https://www.detstvibeznasili.cz/bubnovacka)“, kterou pořádá Centrum Locika. Zapojují se do ní lidé
   po celém Česku a Slovensku. Podporuje ji i dětský ombudsman Martin Beneš. Ten
   se tématu bezpečného dětství spolu se svým týmem věnuje také při dalších
   příležitostech. Před pár dny například v rámci vzdělávací akce v organizaci
-  DROM. Program cílil na příbuzenské pěstouny a jeho smyslem bylo ukázat cesty,
+  [DROM](https://www.drom.cz/). Program cílil na příbuzenské pěstouny a jeho smyslem bylo ukázat cesty,
   jak zvládnout péči o děti a náročné výchovné situace bez fyzických trestů.
 attachments: []
 draft: false
