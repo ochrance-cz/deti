@@ -1,7 +1,7 @@
 ---
 title: Slyšíš ten rachot? Bubnujeme za to, aby bylo dětství bezpečné a bez násilí!
 date: '2026-11-19'
-perex: "Násilí do dětství nepatří. Nikdy! Právě proto se dnes u zapojujeme do
+perex: "Násilí do dětství nepatří. Nikdy! Právě proto se dnes zapojujeme do
   akce  „[Bubnovačka](https://www.detstvibeznasili.cz/bubnovacka)“ kterou pořádá
   Centrum Locika. Nejen mi, ale mnoho dalších lidí natáčí videa a pořádají další
   události, aby upozornili na děti, které zažívají domácí násilí. A hlavně
