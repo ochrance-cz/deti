@@ -20,3 +20,13 @@ Chceš vědět, jak na to? Mrkni na naše video a inspiruj se.
 > [Jsem dítě, necítím se bezpečně a potřebuji pomoc](https://www.detstvibeznasili.cz/hledam-pomoc-pro-sebe)
 >
 > [Jsem rodič a potřebuji odbornou pomoc](https://www.detstvibeznasili.cz/dopoustim-se-nasili-na-diteti)
+
+<div style="position: relative; width: 100%; max-width: 360px; aspect-ratio: 9 / 16; margin: 1.5rem auto; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/2aCCWLNVci8"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    title="Bubnovačka – video Dětský ombudsman"
+  ></iframe>
+</div>
