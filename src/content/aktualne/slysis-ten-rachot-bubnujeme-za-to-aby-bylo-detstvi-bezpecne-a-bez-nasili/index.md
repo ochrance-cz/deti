@@ -14,7 +14,7 @@ Možná dnes bubnuje i tvoje škola. A pokud ne, co takhle přijít s nápadem 
 
 Chceš vědět, jak na to? Mrkni na naše video a inspiruj se.
 
-> Necítíš se bezpečně a potřebuješ pomoc? 
+> **Necítíš se bezpečně a potřebuješ pomoc?** 
 >
 > [Můžeš kontaktovat například Centrum Locika.](https://www.detstvibeznasili.cz/hledam-pomoc-pro-sebe)
 
