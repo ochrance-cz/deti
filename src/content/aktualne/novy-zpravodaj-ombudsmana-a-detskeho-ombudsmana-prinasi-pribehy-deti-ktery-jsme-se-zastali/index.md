@@ -25,3 +25,5 @@ noIndex: false
 > ### Ověřili jsme, že OSPOD řádně prověřil oznámení školy o ohroženém chlapci
 >
 > Škola si všimla, že jeden kluk má problémy s chováním už dlouho. Moc se jim nezdálo, že se ptal paní učitelek, co by dělaly, kdyby ve škole začalo střílení. Nejprve se s tím snažili domluvit s jeho rodiči, ale měli pocit, že rodiče to neberou moc vážně. Proto řekli o tom všem lidem, co pomáhají dětem, aby se o klukovi starali. Tihle lidé pak zjistili, co se děje, a přišli i na schůzku ve škole. Ale některé věci škole nesměli říct, protože to musí zůstat tajemství. I když všechno dělali správně, škola si stěžovala, že se to táhlo moc dlouho – trvalo skoro dva měsíce, než jim řekli, co zjistili. Proto jsme řekli, aby příště vše vyřídili rychleji.
+
+[Zpravodaj ombudsmana a dětského ombudsmana za září a říjen 2026](https://www.ochrance.cz/zpravodaj/zpravodaj-ombudsmana-a-detskeho-ombudsmana-za-zari-a-rijen-2026/)
