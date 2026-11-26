@@ -4,7 +4,7 @@ title: Přetížení inspekce práce může oslabit kontrolu nelegální dětsk�
 date: '2026-11-26'
 perex: Inspektoráty práce, které hlídají pracovní podmínky pro legální
   zaměstnávání dětí a nezletilých, už dnes nestíhají. Potýkají se s nedostatkem
-  financí i personálu. Návrh zákona o platformové práci jim však přinese další
+  financí i personálu. Návrh zákona o platformové práci jim však přináší další
   rozšíření agendy. Pokud na něj nezískají dostatečné zajištění, hrozí podle
   dětského ombudsmana nárůst případů nelegálně zaměstnávaných dětí, které
   inspekce z kapacitních důvodů včas neodhalí. Někdy přitom tyto děti pracují v
